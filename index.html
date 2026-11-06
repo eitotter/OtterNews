@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OtterNews - 每日韓日音樂新聞學習</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #7d8e9e 0%, #5d6d7e 100%);
+            min-height: 100vh;
+            padding: 15px;
+            font-size: 14px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            background: #f5f5f0;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 2em;
+            font-weight: bold;
+            color: #5d6d7e;
+        }
+        
+        .otter-icon {
+            width: 50px;
+            height: 50px;
+        }
+        
+        .language-switch {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .lang-btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            transition: all 0.3s;
+            background: #d4d4ce;
+            color: #5d6d7e;
+        }
+        
+        .lang-btn.active {
+            background: #7d8e9e;
+            color: #f5f5f0;
+        }
+        
+        .date-display {
+            width: 100%;
+            margin-top: 12px;
+            font-size: 1em;
+            color: #5d6d7e;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.5em;
+            color: #5d6d7e;
+            background: #f5f5f0;
+            border-radius: 15px;
+            margin-top: 20px;
+        }
+        
+        .error {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2em;
+            color: #a87d7d;
+            background: #f5f5f0;
+            border-radius: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">
+                <svg class="otter-icon" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <ellipse cx="50" cy="52" rx="34" ry="36" fill="#8b7d6b"/>
+                    <circle cx="30" cy="26" r="7" fill="#8b7d6b"/>
+                    <circle cx="70" cy="26" r="7" fill="#8b7d6b"/>
+                    <ellipse cx="50" cy="62" rx="22" ry="18" fill="#f5efe5"/>
+                    <circle cx="40" cy="48" r="3.5" fill="#2d2d2d"/>
+                    <circle cx="60" cy="48" r="3.5" fill="#2d2d2d"/>
+                    <ellipse cx="50" cy="58" rx="3.5" ry="3" fill="#2d2d2d"/>
+                    <path d="M 50 60 Q 44 64 38 62" stroke="#2d2d2d" stroke-width="2" fill="none" stroke-linecap="round"/>
+                    <path d="M 50 60 Q 56 64 62 62" stroke="#2d2d2d" stroke-width="2" fill="none" stroke-linecap="round"/>
+                    <line x1="28" y1="54" x2="14" y2="52" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                    <line x1="28" y1="58" x2="14" y2="58" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                    <line x1="28" y1="62" x2="14" y2="64" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                    <line x1="72" y1="54" x2="86" y2="52" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                    <line x1="72" y1="58" x2="86" y2="58" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                    <line x1="72" y1="62" x2="86" y2="64" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                </svg>
+                <span>OtterNews</span>
+            </div>
+            <div class="language-switch">
+                <button class="lang-btn active" onclick="switchLanguage('korean')" id="korean-btn">🇰🇷 韓文</button>
+                <button class="lang-btn" onclick="switchLanguage('japanese')" id="japanese-btn">🇯🇵 日文</button>
+            </div>
+            <div class="date-display" id="date-display"></div>
+        </div>
+        
+        <div id="main-content" class="loading">
+            🦦 載入中...
+        </div>
+    </div>
+    
+    <script>
+        let currentLanguage = 'korean';
+        let newsData = null;
+        
+        function displayDate() {
+            const now = new Date();
+            const options = { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' };
+            document.getElementById('date-display').textContent = now.toLocaleDateString('zh-TW', options);
+        }
+        
+        function switchLanguage(lang) {
+            currentLanguage = lang;
+            document.getElementById('korean-btn').classList.toggle('active', lang === 'korean');
+            document.getElementById('japanese-btn').classList.toggle('active', lang === 'japanese');
+            if (newsData) {
+                renderContent();
+            }
+        }
+        
+        async function loadNews() {
+            try {
+                const response = await fetch('data/news.json');
+                newsData = await response.json();
+                renderContent();
+            } catch (error) {
+                console.error('載入失敗:', error);
+                document.getElementById('main-content').innerHTML = `
+                    <div class="error">
+                        ❌ 載入失敗<br>
+                        <small>請稍後再試或聯繫管理員</small>
+                    </div>
+                `;
+            }
+        }
+        
+        function renderContent() {
+            const content = newsData[currentLanguage];
+            
+            if (!content || !content.news) {
+                document.getElementById('main-content').innerHTML = `
+                    <div class="error">
+                        📭 目前沒有新聞<br>
+                        <small>請等待每日更新（台灣時間早上 9:00）</small>
+                    </div>
+                `;
+                return;
+            }
+            
+            // 這裡之後會渲染完整內容
+            document.getElementById('main-content').innerHTML = `
+                <div style="background: #f5f5f0; padding: 20px; border-radius: 15px;">
+                    <h2 style="color: #5d6d7e; margin-bottom: 15px;">📰 ${content.news.title}</h2>
+                    <p style="color: #666; line-height: 1.6;">${content.news.summary}</p>
+                    <a href="${content.news.link}" target="_blank" style="display: inline-block; margin-top: 15px; padding: 10px 20px; background: #7d8e9e; color: white; text-decoration: none; border-radius: 8px;">查看原文 →</a>
+                </div>
+            `;
+        }
+        
+        displayDate();
+        loadNews();
+    </script>
+</body>
+</html>
