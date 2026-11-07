@@ -120,9 +120,9 @@ def generate_learning_content(title, summary, language):
         content = json.loads(response.choices[0].message.content)
         # Debug: 檢查 titleTranslation
         if "fullContent" in content:
-            print(f"  fullContent keys: {list(content["fullContent"].keys())}")
+            print(f"  fullContent keys: {list(content.get('fullContent', {}).keys())}")
             if "titleTranslation" in content["fullContent"]:
-                print(f"  ✓ titleTranslation: {content["fullContent"]["titleTranslation"]}")
+                print(f"  ✓ titleTranslation: {content.get('fullContent', {}).get('titleTranslation')}")
             else:
                 print(f"  ✗ 沒有 titleTranslation")
         return content
