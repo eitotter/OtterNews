@@ -36,6 +36,18 @@
             flex-wrap: wrap;
             gap: 10px;
         }
+
+        .header-left {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            align-items: flex-start;
+        }
+        
+        .header-right {
+            display: flex;
+            align-items: center;
+        }
         
         .logo {
             display: flex;
@@ -62,7 +74,7 @@
             border: 1px solid rgba(116, 185, 255, 0.3);
             border-radius: 12px;
             padding: 15px;
-            margin: 20px 0;
+            margin: 0;
             display: flex;
             align-items: center;
             gap: 12px;
@@ -158,8 +170,8 @@
         }
         
         .date-display {
-            width: 100%;
-            margin-top: 6px;
+            margin: 0;
+            white-space: nowrap;
             font-size: 0.75em;
             color: #5d6d7e;
         }
@@ -289,19 +301,21 @@
             flex-wrap: wrap;
         }
         
-        .controls-row {
+        .level-controls {
             display: flex;
-            justify-content: space-between;
-            gap: 10px;
-            margin: 8px 0;
+            gap: 5px;
+            margin: 8px 0 5px 0;
             flex-wrap: wrap;
         }
         
-        .controls-left, .controls-right {
+        .playback-controls {
             display: flex;
             gap: 5px;
+            margin: 5px 0 15px 0;
             flex-wrap: wrap;
+            align-items: center;
         }
+
         
         .level-btn, .toggle-btn, .audio-btn {
             padding: 5px 10px;
@@ -344,9 +358,12 @@
             line-height: 1.7;
             color: #333;
             font-size: 0.95em;
-            max-height: 450px;
+            max-height: 400px;
             overflow-y: auto;
+            margin-top: 15px;
+            padding-top: 10px;
         }
+
         
         .sentence {
             margin-bottom: 6px;
@@ -993,46 +1010,47 @@
 <body>
     <div class="container">
         <div class="header">
-            <div class="logo">
-                <svg class="otter-icon" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-                    <ellipse cx="50" cy="52" rx="34" ry="36" fill="#8b7d6b"/>
-                    <circle cx="30" cy="26" r="7" fill="#8b7d6b"/>
-                    <circle cx="70" cy="26" r="7" fill="#8b7d6b"/>
-                    <ellipse cx="50" cy="62" rx="22" ry="18" fill="#f5efe5"/>
-                    <circle cx="40" cy="48" r="3.5" fill="#2d2d2d"/>
-                    <circle cx="60" cy="48" r="3.5" fill="#2d2d2d"/>
-                    <ellipse cx="50" cy="58" rx="3.5" ry="3" fill="#2d2d2d"/>
-                    <path d="M 50 60 Q 44 64 38 62" stroke="#2d2d2d" stroke-width="2" fill="none" stroke-linecap="round"/>
-                    <path d="M 50 60 Q 56 64 62 62" stroke="#2d2d2d" stroke-width="2" fill="none" stroke-linecap="round"/>
-                    <line x1="28" y1="54" x2="14" y2="52" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
-                    <line x1="28" y1="58" x2="14" y2="58" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
-                    <line x1="28" y1="62" x2="14" y2="64" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
-                    <line x1="72" y1="54" x2="86" y2="52" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
-                    <line x1="72" y1="58" x2="86" y2="58" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
-                    <line x1="72" y1="62" x2="86" y2="64" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
-                </svg>
-                <span>OtterNews</span>
-            </div>
-            <div class="language-switch">
-                <button class="lang-btn active" onclick="switchLanguage('korean')" id="korean-btn">🇰🇷 韓文</button>
-                <button class="lang-btn" onclick="switchLanguage('japanese')" id="japanese-btn">🇯🇵 日文</button>
+            <div class="header-left">
+                <div class="logo">
+                    <svg class="otter-icon" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <ellipse cx="50" cy="52" rx="34" ry="36" fill="#8b7d6b"/>
+                        <circle cx="30" cy="26" r="7" fill="#8b7d6b"/>
+                        <circle cx="70" cy="26" r="7" fill="#8b7d6b"/>
+                        <ellipse cx="50" cy="62" rx="22" ry="18" fill="#f5efe5"/>
+                        <circle cx="40" cy="48" r="3.5" fill="#2d2d2d"/>
+                        <circle cx="60" cy="48" r="3.5" fill="#2d2d2d"/>
+                        <ellipse cx="50" cy="58" rx="3.5" ry="3" fill="#2d2d2d"/>
+                        <path d="M 50 60 Q 44 64 38 62" stroke="#2d2d2d" stroke-width="2" fill="none" stroke-linecap="round"/>
+                        <path d="M 50 60 Q 56 64 62 62" stroke="#2d2d2d" stroke-width="2" fill="none" stroke-linecap="round"/>
+                        <line x1="28" y1="54" x2="14" y2="52" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                        <line x1="28" y1="58" x2="14" y2="58" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                        <line x1="28" y1="62" x2="14" y2="64" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                        <line x1="72" y1="54" x2="86" y2="52" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                        <line x1="72" y1="58" x2="86" y2="58" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                        <line x1="72" y1="62" x2="86" y2="64" stroke="#2d2d2d" stroke-width="1.5" stroke-linecap="round"/>
+                    </svg>
+                    <span>OtterNews</span>
+                </div>
+                <div class="language-switch">
+                    <button class="lang-btn active" onclick="switchLanguage('korean')" id="korean-btn">🇰🇷 韓文</button>
+                    <button class="lang-btn" onclick="switchLanguage('japanese')" id="japanese-btn">🇯🇵 日文</button>
+                </div>
+                <div class="date-display" id="date-display"></div>
             </div>
             
-            <!-- 文章導航 -->
-            <div class="article-nav" id="article-nav" style="display: none;">
-                <button class="article-nav-btn" id="prev-article" onclick="navigateArticle(-1)">←</button>
-                <div class="article-select-wrapper">
-                    <select class="article-select" id="article-select" onchange="selectArticle(this.value)">
-                    </select>
+            <div class="header-right">
+                <!-- 文章導航 -->
+                <div class="article-nav" id="article-nav" style="display: none;">
+                    <button class="article-nav-btn" id="prev-article" onclick="navigateArticle(-1)">←</button>
+                    <div class="article-select-wrapper">
+                        <select class="article-select" id="article-select" onchange="selectArticle(this.value)">
+                        </select>
+                    </div>
+                    <button class="article-nav-btn" id="next-article" onclick="navigateArticle(1)">→</button>
                 </div>
-                <button class="article-nav-btn" id="next-article" onclick="navigateArticle(1)">→</button>
             </div>
-            <div class="date-display" id="date-display"></div>
         </div>
-        
-        <div id="main-content" class="loading">
-            🦦 載入中...
-        </div>
+        <div id="main-content" class="loading">🦦 載入中...</div>
     </div>
     
     <div id="wrongListModal" class="modal">
@@ -1319,25 +1337,25 @@
                             <a href="${newsItem.link}" target="_blank" style="color: #7d8e9e;">🔗 原文</a>
                         </div>
                         
-                        <div class="controls-row">
-                            <div class="controls-left">
-                                <button class="level-btn active" data-level="beginner" onclick="switchLevel('beginner')">初級</button>
-                                <button class="level-btn" data-level="intermediate" onclick="switchLevel('intermediate')">中級</button>
-                                <button class="level-btn" data-level="advanced" onclick="switchLevel('advanced')">高級</button>
-                                <button class="toggle-btn" id="toggle-translation-btn" onclick="toggleTranslation()">顯示中文</button>
-                            </div>
-                            <div class="controls-right">
-                                <button class="audio-btn" onclick="playArticle()">▶️</button>
-                                <button class="audio-btn" onclick="stopSpeaking()">⏹️</button>
-                                <button class="audio-btn" id="loop-btn" onclick="toggleLoop()">循環：關</button>
-                                <div class="speed-control">
-                                    <span>速度:</span>
-                                    <input type="range" min="0.5" max="2.0" step="0.1" value="0.9" 
-                                           oninput="updateSpeed(this.value)" style="width: 70px;">
-                                    <span id="speed-display">0.9x</span>
-                                </div>
+                        <div class="level-controls">
+                            <button class="level-btn active" data-level="beginner" onclick="switchLevel('beginner')">初級</button>
+                            <button class="level-btn" data-level="intermediate" onclick="switchLevel('intermediate')">中級</button>
+                            <button class="level-btn" data-level="advanced" onclick="switchLevel('advanced')">高級</button>
+                            <button class="toggle-btn" id="toggle-translation-btn" onclick="toggleTranslation()">顯示中文</button>
+                        </div>
+                        
+                        <div class="playback-controls">
+                            <button class="audio-btn" onclick="playArticle()">▶️</button>
+                            <button class="audio-btn" onclick="stopSpeaking()">⏹️</button>
+                            <button class="audio-btn" id="loop-btn" onclick="toggleLoop()">循環：關</button>
+                            <div class="speed-control">
+                                <span>速度:</span>
+                                <input type="range" min="0.5" max="2.0" step="0.1" value="0.9" 
+                                       oninput="updateSpeed(this.value)" style="width: 70px;">
+                                <span id="speed-display">0.9x</span>
                             </div>
                         </div>
+
                         
                         <div id="article-content"></div>
                     </div>
