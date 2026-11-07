@@ -210,6 +210,13 @@ def get_jlpt_level(word):
         
         if data.get('data'):
             first_result = data['data'][0]
+            jlpt_tags = [tag for tag in first_result.get('jlpt', [])]
+            if jlpt_tags:
+                # 回傳最高等級，例如 "jlpt-n3" -> "N3"
+                return jlpt_tags[0].replace('jlpt-', '').upper()
+    except:
+        pass
+    return None
 def get_jlpt_level_gpt(pattern, explanation, is_grammar=False):
     """使用 GPT-4o-mini 標註日文文法 JLPT 等級"""
     try:
@@ -236,14 +243,6 @@ def get_jlpt_level_gpt(pattern, explanation, is_grammar=False):
         print(f"❌ GPT 標註 JLPT 等級失敗：{e}")
         return None
 
-
-            jlpt_tags = [tag for tag in first_result.get('jlpt', [])]
-            if jlpt_tags:
-                # 回傳最高等級，例如 "jlpt-n3" -> "N3"
-                return jlpt_tags[0].replace('jlpt-', '').upper()
-    except:
-        pass
-    return None
 def get_topik_level_gpt(word, meaning, is_grammar=False):
     """使用 GPT-4o-mini 標註韓文 TOPIK 等級"""
     try:
