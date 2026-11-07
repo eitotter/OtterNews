@@ -15,39 +15,40 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #7d8e9e 0%, #5d6d7e 100%);
             min-height: 100vh;
-            padding: 15px;
-            font-size: 14px;
+            padding: 10px;
+            font-size: 13px;
         }
         
         .container {
-            max-width: 1200px;
+            max-width: 1600px;
             margin: 0 auto;
         }
         
         .header {
             background: #f5f5f0;
-            border-radius: 15px;
-            padding: 20px;
-            margin-bottom: 15px;
-            box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+            border-radius: 10px;
+            padding: 12px 15px;
+            margin-bottom: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
             display: flex;
             justify-content: space-between;
             align-items: center;
             flex-wrap: wrap;
+            gap: 10px;
         }
         
         .logo {
             display: flex;
             align-items: center;
-            gap: 12px;
-            font-size: 2em;
+            gap: 8px;
+            font-size: 1.3em;
             font-weight: bold;
             color: #5d6d7e;
         }
         
         .otter-icon {
-            width: 50px;
-            height: 50px;
+            width: 35px;
+            height: 35px;
         }
         
         .language-switch {
@@ -56,11 +57,11 @@
         }
         
         .lang-btn {
-            padding: 10px 20px;
+            padding: 6px 14px;
             border: none;
-            border-radius: 8px;
+            border-radius: 6px;
             cursor: pointer;
-            font-size: 14px;
+            font-size: 12px;
             font-weight: bold;
             transition: all 0.3s;
             background: #d4d4ce;
@@ -74,9 +75,559 @@
         
         .date-display {
             width: 100%;
-            margin-top: 12px;
+            margin-top: 6px;
+            font-size: 0.75em;
+            color: #5d6d7e;
+        }
+        
+        .review-compact {
+            background: #fff9e6;
+            border: 2px solid #f4d03f;
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 15px;
+            font-size: 0.8em;
+        }
+        
+        .review-info {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .review-stats {
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        .review-actions {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .review-btn {
+            padding: 6px 12px;
+            border: none;
+            border-radius: 6px;
+            background: #7d8e9e;
+            color: white;
+            font-size: 0.75em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .review-btn:hover {
+            background: #6d7d8e;
+        }
+        
+        .review-btn.secondary {
+            background: #8b9d8b;
+        }
+        
+        .review-btn.secondary:hover {
+            background: #7b8d7b;
+        }
+        
+        .library-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        
+        .library-btn {
+            flex: 1;
+            padding: 10px 15px;
+            border: 2px solid #9b8b7e;
+            border-radius: 8px;
+            background: #e8dfd6;
+            color: #4a4a4a;
+            font-size: 0.75em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .library-btn:hover {
+            background: #d8cfc6;
+            border-color: #8b7b6e;
+        }
+        
+        .main-layout {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        
+        .content-card {
+            background: #f5f5f0;
+            border-radius: 10px;
+            padding: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+        
+        .full-width {
+            grid-column: 1 / -1;
+        }
+        
+        .news-title {
+            font-size: 1.1em;
+            color: #5d6d7e;
+            margin-bottom: 4px;
+            font-weight: bold;
+            line-height: 1.4;
+        }
+        
+        .news-title-translation {
+            color: #888;
+            font-size: 0.9em;
+            font-weight: normal;
+            margin-top: 4px;
+            margin-bottom: 8px;
+            display: none;
+        }
+        
+        .news-title-translation.show {
+            display: block;
+        }
+        
+        .news-meta {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 8px;
+            font-size: 0.8em;
+            color: #888;
+            flex-wrap: wrap;
+        }
+        
+        .controls-row {
+            display: flex;
+            justify-content: space-between;
+            gap: 10px;
+            margin: 8px 0;
+            flex-wrap: wrap;
+        }
+        
+        .controls-left, .controls-right {
+            display: flex;
+            gap: 5px;
+            flex-wrap: wrap;
+        }
+        
+        .level-btn, .toggle-btn, .audio-btn {
+            padding: 5px 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 11px;
+            font-weight: bold;
+            background: #d4d4ce;
+            color: #5d6d7e;
+            transition: all 0.3s;
+        }
+        
+        .level-btn.active, .toggle-btn.active {
+            background: #7d8e9e;
+            color: #f5f5f0;
+        }
+        
+        .audio-btn {
+            background: #7d8e9e;
+            color: white;
+        }
+        
+        .audio-btn:hover {
+            background: #6d7d8e;
+        }
+        
+        .audio-btn.loop-active {
+            background: #8b9d8b;
+        }
+        
+        .speed-control {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            font-size: 11px;
+        }
+        
+        .article-content {
+            line-height: 1.7;
+            color: #333;
+            font-size: 0.95em;
+            max-height: 450px;
+            overflow-y: auto;
+        }
+        
+        .sentence {
+            margin-bottom: 6px;
+        }
+        
+        .highlight-vocab {
+            font-weight: bold;
+            color: #a87d7d;
+        }
+        
+        .highlight-grammar {
+            text-decoration: underline;
+            text-decoration-color: #8b9d8b;
+            text-decoration-thickness: 2px;
+            color: #7d8e9e;
+        }
+        
+        .sentence-translation {
+            color: #888;
+            font-size: 0.75em;
+            margin-top: 2px;
+            padding-left: 10px;
+            display: none;
+        }
+        
+        .sentence-translation.show {
+            display: block;
+        }
+        
+        .section-title {
             font-size: 1em;
             color: #5d6d7e;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        
+        .vocab-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 6px;
+            max-height: 550px;
+            overflow-y: auto;
+        }
+        
+        .vocab-card {
+            background: #e8e8e0;
+            padding: 8px;
+            border-radius: 5px;
+            const titleTranslation = news.titleTranslation || "";
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .vocab-card:hover {
+            background: #deded6;
+        }
+        
+        .vocab-word {
+            font-size: 1em;
+            font-weight: bold;
+            color: #5d6d7e;
+            margin-bottom: 2px;
+        }
+        
+        .vocab-reading {
+            font-size: 0.8em;
+            color: #888;
+            margin-bottom: 4px;
+        }
+        
+        .vocab-meaning {
+            color: #d97d7d;
+            font-weight: bold;
+            font-size: 0.75em;
+            margin-bottom: 4px;
+        }
+        
+        .vocab-example {
+            font-size: 0.8em;
+            color: #555;
+            padding-top: 4px;
+            border-top: 1px solid #d4d4ce;
+        }
+        
+        .vocab-example-cn {
+            color: #888;
+            font-size: 0.75em;
+            margin-top: 2px;
+        }
+        
+        .grammar-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 8px;
+        }
+        
+        .grammar-item {
+            background: #e8e8e0;
+            padding: 8px;
+            border-radius: 5px;
+            border-left: 3px solid #8b9d8b;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .grammar-item:hover {
+            background: #deded6;
+        }
+        
+        .grammar-pattern {
+            font-size: 0.95em;
+            font-weight: bold;
+            color: #5d6d7e;
+            margin-bottom: 3px;
+        }
+        
+        .grammar-explanation {
+            color: #666;
+            font-size: 0.8em;
+            margin-bottom: 5px;
+        }
+        
+        .grammar-example {
+            background: #f5f5f0;
+            padding: 6px;
+            border-radius: 4px;
+            font-size: 0.8em;
+            color: #555;
+        }
+        
+        .grammar-example-cn {
+            color: #888;
+            font-size: 0.75em;
+            margin-top: 2px;
+        }
+        
+        .quiz-form {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .quiz-question {
+            background: #e8e8e0;
+            padding: 10px;
+            border-radius: 6px;
+        }
+        
+        .quiz-q {
+            font-weight: bold;
+            color: #5d6d7e;
+            margin-bottom: 6px;
+            font-size: 0.9em;
+        }
+        
+        .quiz-options {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        
+        .quiz-option {
+            padding: 6px;
+            background: #f5f5f0;
+            border: 2px solid #d4d4ce;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 0.75em;
+        }
+        
+        .quiz-option:hover {
+            background: #e8e8e0;
+            border-color: #7d8e9e;
+        }
+        
+        .quiz-option input[type="radio"] {
+            margin-right: 5px;
+        }
+        
+        .word-tiles {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-top: 6px;
+        }
+        
+        .word-tile {
+            padding: 5px 8px;
+            background: #7d8e9e;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.2s;
+            font-size: 0.75em;
+        }
+        
+        .word-tile:hover {
+            background: #6d7d8e;
+        }
+        
+        .word-tile.selected {
+            background: #8b9d8b;
+        }
+        
+        .sentence-builder {
+            min-height: 35px;
+            padding: 6px;
+            background: #f5f5f0;
+            border: 2px dashed #d4d4ce;
+            border-radius: 5px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-bottom: 6px;
+        }
+        
+        .submit-quiz-btn {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 6px;
+            background: #7d8e9e;
+            color: white;
+            font-size: 0.95em;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        
+        .submit-quiz-btn:hover {
+            background: #6d7d8e;
+        }
+        
+        .quiz-result {
+            margin-top: 12px;
+        }
+        
+        .result-summary {
+            text-align: center;
+            padding: 12px;
+            background: #e8e8e0;
+            border-radius: 6px;
+            margin-bottom: 12px;
+        }
+        
+        .result-item {
+            padding: 10px;
+            border-radius: 6px;
+            margin-bottom: 6px;
+            font-size: 0.75em;
+        }
+        
+        .result-correct {
+            background: #c8e6c9;
+        }
+        
+        .result-wrong {
+            background: #ffcdd2;
+        }
+        
+        .result-answer {
+            color: #d32f2f;
+            margin-top: 4px;
+            font-weight: bold;
+        }
+        
+        .result-translation {
+            color: #666;
+            font-size: 0.8em;
+            margin-top: 5px;
+            padding-top: 5px;
+            border-top: 1px solid rgba(0,0,0,0.1);
+        }
+        
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+            overflow: auto;
+        }
+        
+        .modal.show {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .modal-content {
+            background-color: #f5f5f0;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 800px;
+            width: 90%;
+            max-height: 80vh;
+            overflow-y: auto;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        }
+        
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .modal-close {
+            font-size: 28px;
+            font-weight: bold;
+            color: #888;
+            cursor: pointer;
+            background: none;
+            border: none;
+        }
+        
+        .modal-close:hover {
+            color: #333;
+        }
+        
+        .wrong-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .wrong-item {
+            background: #e8e8e0;
+            padding: 12px;
+            border-radius: 6px;
+            border-left: 4px solid #f4d03f;
+        }
+        
+        .wrong-item-question {
+            font-weight: bold;
+            color: #5d6d7e;
+            margin-bottom: 8px;
+            font-size: 0.95em;
+        }
+        
+        .wrong-item-answer {
+            background: #ffcdd2;
+            padding: 8px;
+            border-radius: 4px;
+            margin-bottom: 6px;
+            font-size: 0.75em;
+        }
+        
+        .wrong-item-correct {
+            background: #c8e6c9;
+            padding: 8px;
+            border-radius: 4px;
+            margin-bottom: 6px;
+            font-size: 0.75em;
+        }
+        
+        .wrong-item-meta {
+            font-size: 0.8em;
+            color: #888;
+            padding-top: 6px;
+            border-top: 1px solid #d4d4ce;
         }
         
         .loading {
@@ -85,7 +636,7 @@
             font-size: 1.5em;
             color: #5d6d7e;
             background: #f5f5f0;
-            border-radius: 15px;
+            border-radius: 10px;
             margin-top: 20px;
         }
         
@@ -95,8 +646,20 @@
             font-size: 1.2em;
             color: #a87d7d;
             background: #f5f5f0;
-            border-radius: 15px;
+            border-radius: 10px;
             margin-top: 20px;
+        }
+        
+        @media (max-width: 1200px) {
+            .main-layout {
+                grid-template-columns: 1fr;
+            }
+            .vocab-grid {
+                grid-template-columns: 1fr;
+            }
+            .grammar-grid {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
@@ -135,9 +698,36 @@
         </div>
     </div>
     
+    <div id="wrongListModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="section-title">📋 錯題列表</h2>
+                <button class="modal-close" onclick="closeWrongListModal()">&times;</button>
+            </div>
+            <div id="modal-wrong-list"></div>
+        </div>
+    </div>
+    
+    <div id="reviewModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="section-title">錯題複習</h2>
+                <button class="modal-close" onclick="closeReviewModal()">&times;</button>
+            </div>
+            <div id="modal-quiz-content"></div>
+        </div>
+    </div>
+    
     <script>
         let currentLanguage = 'korean';
+        let currentLevel = 'beginner';
         let newsData = null;
+        let speechRate = 0.9;
+        let isLooping = false;
+        let currentUtterance = null;
+        let showTranslation = false;
+        
+        let wrongQuestions = JSON.parse(localStorage.getItem('otterNewsWrongQuestions') || '[]');
         
         function displayDate() {
             const now = new Date();
@@ -152,6 +742,68 @@
             if (newsData) {
                 renderContent();
             }
+        }
+        
+        function switchLevel(level) {
+            currentLevel = level;
+            document.querySelectorAll('.level-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.level === level);
+            });
+            renderArticle();
+        }
+        
+        function toggleTranslation() {
+            showTranslation = !showTranslation;
+            const btn = document.getElementById('toggle-translation-btn');
+            btn.textContent = showTranslation ? '隱藏中文' : '顯示中文';
+            btn.classList.toggle('active', showTranslation);
+            
+            const titleTranslation = document.querySelector('.news-title-translation');
+            if (titleTranslation) {
+                titleTranslation.classList.toggle('show', showTranslation);
+            }
+            
+            document.querySelectorAll('.sentence-translation').forEach(el => {
+                el.classList.toggle('show', showTranslation);
+            });
+        }
+        
+        function speak(text) {
+            if (currentUtterance) {
+                speechSynthesis.cancel();
+            }
+            currentUtterance = new SpeechSynthesisUtterance(text);
+            currentUtterance.lang = currentLanguage === 'korean' ? 'ko-KR' : 'ja-JP';
+            currentUtterance.rate = speechRate;
+            currentUtterance.onend = () => {
+                if (isLooping) {
+                    speak(text);
+                }
+            };
+            speechSynthesis.speak(currentUtterance);
+        }
+        
+        function stopSpeaking() {
+            speechSynthesis.cancel();
+            currentUtterance = null;
+            isLooping = false;
+            const btn = document.getElementById('loop-btn');
+            if (btn) {
+                btn.textContent = '循環：關';
+                btn.classList.remove('loop-active');
+            }
+        }
+        
+        function toggleLoop() {
+            isLooping = !isLooping;
+            const btn = document.getElementById('loop-btn');
+            btn.textContent = isLooping ? '循環：開' : '循環：關';
+            btn.classList.toggle('loop-active', isLooping);
+        }
+        
+        function updateSpeed(value) {
+            speechRate = parseFloat(value);
+            document.getElementById('speed-display').textContent = value + 'x';
         }
         
         async function loadNews() {
@@ -171,26 +823,646 @@
         }
         
         function renderContent() {
-            const content = newsData[currentLanguage];
+            const data = newsData[currentLanguage];
             
-            if (!content || !content.news) {
+            if (!data || !data.news || !data.content) {
                 document.getElementById('main-content').innerHTML = `
                     <div class="error">
-                        📭 目前沒有新聞<br>
+                        📭 目前沒有${currentLanguage === 'korean' ? '韓文' : '日文'}新聞<br>
                         <small>請等待每日更新（台灣時間早上 9:00）</small>
                     </div>
                 `;
                 return;
             }
             
-            // 這裡之後會渲染完整內容
-            document.getElementById('main-content').innerHTML = `
-                <div style="background: #f5f5f0; padding: 20px; border-radius: 15px;">
-                    <h2 style="color: #5d6d7e; margin-bottom: 15px;">📰 ${content.news.title}</h2>
-                    <p style="color: #666; line-height: 1.6;">${content.news.summary}</p>
-                    <a href="${content.news.link}" target="_blank" style="display: inline-block; margin-top: 15px; padding: 10px 20px; background: #7d8e9e; color: white; text-decoration: none; border-radius: 8px;">查看原文 →</a>
+            const { news, content } = data;
+            const titleTranslation = news.titleTranslation || news.translation || '';
+            
+            let html = `
+                ${renderReviewCompact()}
+                ${renderLibraryButtons()}
+                
+                <div class="main-layout">
+                    <div class="content-card">
+                        <div class="section-title">📚 單字學習</div>
+                        <div class="vocab-grid">
+                            ${content.vocabulary.slice(0, 10).map(v => `
+                                <div class="vocab-card" onclick="speak('${v.word.replace(/'/g, "\\'")}')">
+                                    <div class="vocab-word">${v.word}</div>
+                                    <div class="vocab-reading">${v.reading}</div>
+                                    <div class="vocab-meaning">${v.meaning}</div>
+                                    <div class="vocab-example" onclick="event.stopPropagation(); speak('${v.example.replace(/'/g, "\\'")}')">
+                                        ${v.example}
+                                        <div class="vocab-example-cn">${v.exampleCN}</div>
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                    
+                    <div class="content-card">
+                        <div class="news-title">📰 ${news.title}</div>
+                        <div class="news-title-translation ${showTranslation ? 'show' : ''}">${titleTranslation}</div>
+                        <div class="news-meta">
+                            <span>📅 ${news.published}</span>
+                            <span>📌 ${news.source}</span>
+                            <a href="${news.link}" target="_blank" style="color: #7d8e9e;">🔗 原文</a>
+                        </div>
+                        
+                        <div class="controls-row">
+                            <div class="controls-left">
+                                <button class="level-btn active" data-level="beginner" onclick="switchLevel('beginner')">初級</button>
+                                <button class="level-btn" data-level="intermediate" onclick="switchLevel('intermediate')">中級</button>
+                                <button class="level-btn" data-level="advanced" onclick="switchLevel('advanced')">高級</button>
+                                <button class="toggle-btn" id="toggle-translation-btn" onclick="toggleTranslation()">顯示中文</button>
+                            </div>
+                            <div class="controls-right">
+                                <button class="audio-btn" onclick="playArticle()">▶️</button>
+                                <button class="audio-btn" onclick="stopSpeaking()">⏹️</button>
+                                <button class="audio-btn" id="loop-btn" onclick="toggleLoop()">循環：關</button>
+                                <div class="speed-control">
+                                    <span>速度:</span>
+                                    <input type="range" min="0.5" max="2.0" step="0.1" value="0.9" 
+                                           oninput="updateSpeed(this.value)" style="width: 70px;">
+                                    <span id="speed-display">0.9x</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div id="article-content"></div>
+                    </div>
+                </div>
+                
+                <div class="content-card full-width">
+                    <div class="section-title">📖 文法重點（點擊發音）</div>
+                    <div class="grammar-grid">
+                        ${content.grammar.map(g => `
+                            <div class="grammar-item" onclick="speak('${g.example.replace(/'/g, "\\'")}')">
+                                <div class="grammar-pattern">${g.pattern}</div>
+                                <div class="grammar-explanation">${g.explanation}</div>
+                                <div class="grammar-example">
+                                    ${g.example}
+                                    <div class="grammar-example-cn">${g.exampleCN}</div>
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+                
+                <div class="content-card full-width" id="quiz-card">
+                    <div class="section-title">✏️ 小測驗（填完後提交）</div>
+                    <form class="quiz-form" id="quiz-form" onsubmit="submitQuiz(event)">
+                        ${renderQuizQuestions(content.quiz)}
+                        <button type="submit" class="submit-quiz-btn">📝 提交答案</button>
+                    </form>
+                    <div id="quiz-result" class="quiz-result"></div>
                 </div>
             `;
+            
+            document.getElementById('main-content').innerHTML = html;
+            renderArticle();
+        }
+        
+        function renderArticle() {
+            const data = newsData[currentLanguage];
+            if (!data || !data.content) return;
+            
+            const article = data.content.fullContent[currentLevel];
+            const translations = data.content.fullContent.translations?.[currentLevel] || [];
+            const vocabulary = data.content.vocabulary.map(v => v.word);
+            const grammar = data.content.grammar.map(g => g.pattern);
+            
+            const sentences = article.split(/([。！？\.!?])/g).filter(s => s.trim());
+            
+            let articleHTML = '<div class="article-content">';
+            let sentenceIdx = 0;
+            
+            for (let i = 0; i < sentences.length; i += 2) {
+                let sentence = (sentences[i] || '') + (sentences[i + 1] || '');
+                
+                vocabulary.forEach(word => {
+                    const regex = new RegExp(word, 'g');
+                    sentence = sentence.replace(regex, `<span class="highlight-vocab">${word}</span>`);
+                });
+                
+                grammar.forEach(pattern => {
+                    const regex = new RegExp(pattern.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g');
+                    sentence = sentence.replace(regex, `<span class="highlight-grammar">${pattern}</span>`);
+                });
+                
+                if (sentence.trim()) {
+                    articleHTML += `
+                        <div class="sentence">
+                            ${sentence}
+                            <div class="sentence-translation ${showTranslation ? 'show' : ''}">${translations[sentenceIdx] || ''}</div>
+                        </div>
+                    `;
+                    sentenceIdx++;
+                }
+            }
+            articleHTML += '</div>';
+            
+            document.getElementById('article-content').innerHTML = articleHTML;
+        }
+        
+        function playArticle() {
+            const data = newsData[currentLanguage];
+            const title = data.news.title;
+            const article = data.content.fullContent[currentLevel];
+            speak(title + '。' + article);
+        }
+        
+        function renderReviewCompact() {
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const todayTime = today.getTime();
+            
+            const langQuestions = wrongQuestions.filter(wq => wq.language === currentLanguage);
+            const dueQuestions = langQuestions.filter(wq => {
+                const nextReview = new Date(wq.nextReview);
+                nextReview.setHours(0, 0, 0, 0);
+                return nextReview.getTime() <= todayTime;
+            });
+            
+            if (langQuestions.length === 0) {
+                return '';
+            }
+        
+        function renderLibraryButtons() {
+            return `
+                <div class="library-buttons">
+                    <button class="library-btn" onclick="showVocabularyLibrary()">
+                        單字庫
+                    </button>
+                    <button class="library-btn" onclick="showGrammarLibrary()">
+                        句型庫
+                    </button>
+                </div>
+            `;
+        }
+            
+            return `
+                <div class="review-compact">
+                    <div class="review-info">
+                        <strong>錯題複習</strong>
+                        <span class="review-stats">總計 ${langQuestions.length} 題 | 待複習 ${dueQuestions.length} 題</span>
+                    </div>
+                    <div class="review-actions">
+                        <button class="review-btn secondary" onclick="showWrongList()">查看錯題</button>
+                        ${dueQuestions.length >= 5 ? 
+                            `<button class="review-btn" onclick="startReview()">開始複習</button>` :
+                            `<button class="review-btn" disabled style="opacity: 0.5; cursor: not-allowed;">開始複習</button>`
+                        }
+                    </div>
+                </div>
+            `;
+        }
+        
+        function renderLibraryButtons() {
+            return `
+                <div class="library-buttons">
+                    <button class="library-btn" onclick="showVocabularyLibrary()">
+                        單字庫
+                    </button>
+                    <button class="library-btn" onclick="showGrammarLibrary()">
+                        句型庫
+                    </button>
+                </div>
+            `;
+        }
+        
+        function showWrongList() {
+            const langQuestions = wrongQuestions.filter(wq => wq.language === currentLanguage);
+            
+            let html = '<div class="wrong-list">';
+            langQuestions.forEach((wq, idx) => {
+                const q = wq.question;
+                let correctAnswer = '';
+                
+                if (q.type === 'choice') {
+                    correctAnswer = q.options[q.correct];
+                } else if (q.type === 'reorder') {
+                    correctAnswer = q.answer;
+                }
+                
+                html += `
+                    <div class="wrong-item">
+                        <div class="wrong-item-question">${idx + 1}. ${q.question}</div>
+                        <div class="wrong-item-answer">❌ 你的答案：${wq.userAnswer || '(未作答)'}</div>
+                        <div class="wrong-item-correct">✓ 正確答案：${correctAnswer}</div>
+                        <div class="wrong-item-meta">
+                            答錯次數：${wq.correctCount === 0 ? '未答對' : '已答對 ' + wq.correctCount + ' 次'} | 
+                            最後嘗試：${new Date(wq.lastAttempt).toLocaleDateString('zh-TW')}
+                        </div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            
+            document.getElementById('modal-wrong-list').innerHTML = html;
+            document.getElementById('wrongListModal').classList.add('show');
+        }
+        
+        function closeWrongListModal() {
+            document.getElementById('wrongListModal').classList.remove('show');
+        }
+        
+        function showVocabularyLibrary() {
+            // TODO: 實作單字庫彈窗
+            alert("單字庫功能開發中...");
+        }
+        
+        function showGrammarLibrary() {
+            // TODO: 實作句型庫彈窗
+            alert("句型庫功能開發中...");
+        }
+        
+        function renderQuizQuestions(quizData) {
+            const questions = quizData.filter(q => q.type === 'choice' || q.type === 'reorder').slice(0, 10);
+            
+            return questions.map((q, idx) => {
+                if (q.type === 'choice') {
+                    return `
+                        <div class="quiz-question" data-idx="${idx}">
+                            <div class="quiz-q">Q${idx + 1}. ${q.question}</div>
+                            <div class="quiz-options">
+                                ${q.options.map((opt, optIdx) => `
+                                    <label class="quiz-option">
+                                        <input type="radio" name="q${idx}" value="${optIdx}" required>
+                                        ${String.fromCharCode(65 + optIdx)}. ${opt}
+                                    </label>
+                                `).join('')}
+                            </div>
+                        </div>
+                    `;
+                } else if (q.type === 'reorder') {
+                    const shuffled = [...q.words].sort(() => Math.random() - 0.5);
+                    return `
+                        <div class="quiz-question" data-idx="${idx}">
+                            <div class="quiz-q">Q${idx + 1}. ${q.question}</div>
+                            <div class="sentence-builder" id="builder-${idx}"></div>
+                            <div class="word-tiles" id="tiles-${idx}">
+                                ${shuffled.map((word, wIdx) => `
+                                    <div class="word-tile" data-word="${word}" onclick="toggleWord(${idx}, this)">
+                                        ${word}
+                                    </div>
+                                `).join('')}
+                            </div>
+                            <input type="hidden" name="q${idx}" id="answer-${idx}">
+                        </div>
+                    `;
+                }
+            }).join('');
+        }
+        
+        function toggleWord(qIdx, tile) {
+            const builder = document.getElementById(`builder-${qIdx}`);
+            const word = tile.getAttribute('data-word');
+            
+            if (tile.classList.contains('selected')) {
+                tile.classList.remove('selected');
+                const builderTiles = Array.from(builder.children);
+                const targetTile = builderTiles.find(t => t.getAttribute('data-word') === word);
+                if (targetTile) {
+                    builder.removeChild(targetTile);
+                }
+            } else {
+                tile.classList.add('selected');
+                const newTile = document.createElement('div');
+                newTile.className = 'word-tile selected';
+                newTile.textContent = word;
+                newTile.setAttribute('data-word', word);
+                newTile.onclick = () => {
+                    tile.classList.remove('selected');
+                    builder.removeChild(newTile);
+                    updateReorderAnswer(qIdx);
+                };
+                builder.appendChild(newTile);
+            }
+            
+            updateReorderAnswer(qIdx);
+        }
+        
+        function updateReorderAnswer(qIdx) {
+            const builder = document.getElementById(`builder-${qIdx}`);
+            const words = Array.from(builder.children).map(tile => tile.textContent);
+            document.getElementById(`answer-${qIdx}`).value = words.join(' ');
+        }
+        
+        function submitQuiz(event) {
+            event.preventDefault();
+            const formData = new FormData(event.target);
+            const data = newsData[currentLanguage];
+            const questions = data.content.quiz.filter(q => q.type === 'choice' || q.type === 'reorder').slice(0, 10);
+            
+            let correct = 0;
+            let results = [];
+            
+            questions.forEach((q, idx) => {
+                const userAnswer = formData.get(`q${idx}`);
+                let isCorrect = false;
+                let correctAnswer = '';
+                let userAnswerDisplay = '';
+                
+                if (q.type === 'choice') {
+                    const userIdx = parseInt(userAnswer);
+                    isCorrect = userIdx === q.correct;
+                    correctAnswer = q.options[q.correct];
+                    userAnswerDisplay = q.options[userIdx];
+                } else if (q.type === 'reorder') {
+                    isCorrect = userAnswer === q.answer;
+                    correctAnswer = q.answer;
+                    userAnswerDisplay = userAnswer;
+                }
+                
+                if (isCorrect) {
+                    correct++;
+                } else {
+                    addToWrongQuestions(q, userAnswerDisplay);
+                }
+                
+                results.push({ 
+                    question: q, 
+                    userAnswer: userAnswerDisplay, 
+                    isCorrect, 
+                    correctAnswer 
+                });
+            });
+            
+            displayQuizResult(correct, questions.length, results);
+        }
+        
+        function addToWrongQuestions(question, userAnswer) {
+            const existing = wrongQuestions.find(wq => 
+                wq.question.question === question.question && wq.language === currentLanguage
+            );
+            
+            if (!existing) {
+                const today = new Date();
+                today.setHours(0, 0, 0, 0);
+                
+                wrongQuestions.push({
+                    language: currentLanguage,
+                    question,
+                    userAnswer,
+                    correctCount: 0,
+                    lastAttempt: new Date().toISOString(),
+                    nextReview: today.toISOString()
+                });
+                localStorage.setItem('otterNewsWrongQuestions', JSON.stringify(wrongQuestions));
+            }
+        }
+        
+        function displayQuizResult(correct, total, results) {
+            const resultDiv = document.getElementById('quiz-result');
+            const percentage = Math.round((correct / total) * 100);
+            
+            let html = `
+                <div class="result-summary">
+                    <div style="font-size: 2em; margin-bottom: 8px;">${percentage >= 70 ? '🎉' : '💪'}</div>
+                    <div style="font-size: 1.1em; font-weight: bold; color: #5d6d7e;">
+                        得分：${correct} / ${total} （${percentage}%）
+                    </div>
+                </div>
+            `;
+            
+            results.forEach((r, idx) => {
+                html += `
+                    <div class="result-item ${r.isCorrect ? 'result-correct' : 'result-wrong'}">
+                        <div style="font-weight: bold; margin-bottom: 5px;">Q${idx + 1}. ${r.question.question}</div>
+                        <div>你的答案：${r.userAnswer || '(未作答)'}</div>
+                `;
+                
+                if (!r.isCorrect) {
+                    html += `<div class="result-answer">✓ 正確答案：${r.correctAnswer}</div>`;
+                }
+                
+                if (r.question.explanation) {
+                    html += `<div class="result-translation">💡 ${r.question.explanation}</div>`;
+                }
+                
+                html += `</div>`;
+            });
+            
+            resultDiv.innerHTML = html;
+            document.getElementById('quiz-form').style.display = 'none';
+            
+            renderReviewSection();
+        }
+        
+        function renderReviewSection() {
+            const reviewSection = document.querySelector('.review-compact');
+            if (reviewSection) {
+                const newReviewHTML = renderReviewCompact();
+                if (newReviewHTML) {
+                    reviewSection.outerHTML = newReviewHTML;
+                }
+            }
+        }
+        
+        function startReview() {
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const todayTime = today.getTime();
+            
+            const langQuestions = wrongQuestions.filter(wq => wq.language === currentLanguage);
+            const dueQuestions = langQuestions.filter(wq => {
+                const nextReview = new Date(wq.nextReview);
+                nextReview.setHours(0, 0, 0, 0);
+                return nextReview.getTime() <= todayTime;
+            });
+            
+            const reviewQuestions = dueQuestions.slice(0, 5);
+            
+            let modalHTML = `
+                <form class="quiz-form" id="review-form" onsubmit="submitReview(event)">
+                    ${reviewQuestions.map((wq, idx) => {
+                        const q = wq.question;
+                        if (q.type === 'choice') {
+                            return `
+                                <div class="quiz-question">
+                                    <div class="quiz-q">Q${idx + 1}. ${q.question}</div>
+                                    <div class="quiz-options">
+                                        ${q.options.map((opt, optIdx) => `
+                                            <label class="quiz-option">
+                                                <input type="radio" name="q${idx}" value="${optIdx}" required>
+                                                ${String.fromCharCode(65 + optIdx)}. ${opt}
+                                            </label>
+                                        `).join('')}
+                                    </div>
+                                </div>
+                            `;
+                        } else if (q.type === 'reorder') {
+                            const shuffled = [...q.words].sort(() => Math.random() - 0.5);
+                            return `
+                                <div class="quiz-question">
+                                    <div class="quiz-q">Q${idx + 1}. ${q.question}</div>
+                                    <div class="sentence-builder" id="modal-builder-${idx}"></div>
+                                    <div class="word-tiles" id="modal-tiles-${idx}">
+                                        ${shuffled.map((word, wIdx) => `
+                                            <div class="word-tile" data-word="${word}" onclick="toggleModalWord(${idx}, this)">
+                                                ${word}
+                                            </div>
+                                        `).join('')}
+                                    </div>
+                                    <input type="hidden" name="q${idx}" id="modal-answer-${idx}">
+                                </div>
+                            `;
+                        }
+                    }).join('')}
+                    <button type="submit" class="submit-quiz-btn">📝 提交複習</button>
+                </form>
+                <div id="modal-review-result" class="quiz-result"></div>
+            `;
+            
+            document.getElementById('modal-quiz-content').innerHTML = modalHTML;
+            document.getElementById('reviewModal').classList.add('show');
+        }
+        
+        function toggleModalWord(qIdx, tile) {
+            const builder = document.getElementById(`modal-builder-${qIdx}`);
+            const word = tile.getAttribute('data-word');
+            
+            if (tile.classList.contains('selected')) {
+                tile.classList.remove('selected');
+                const builderTiles = Array.from(builder.children);
+                const targetTile = builderTiles.find(t => t.getAttribute('data-word') === word);
+                if (targetTile) {
+                    builder.removeChild(targetTile);
+                }
+            } else {
+                tile.classList.add('selected');
+                const newTile = document.createElement('div');
+                newTile.className = 'word-tile selected';
+                newTile.textContent = word;
+                newTile.setAttribute('data-word', word);
+                newTile.onclick = () => {
+                    tile.classList.remove('selected');
+                    builder.removeChild(newTile);
+                    updateModalReorderAnswer(qIdx);
+                };
+                builder.appendChild(newTile);
+            }
+            
+            updateModalReorderAnswer(qIdx);
+        }
+        
+        function updateModalReorderAnswer(qIdx) {
+            const builder = document.getElementById(`modal-builder-${qIdx}`);
+            const words = Array.from(builder.children).map(tile => tile.textContent);
+            document.getElementById(`modal-answer-${qIdx}`).value = words.join(' ');
+        }
+        
+        function closeReviewModal() {
+            document.getElementById('reviewModal').classList.remove('show');
+            renderReviewSection();
+        }
+        
+        function submitReview(event) {
+            event.preventDefault();
+            const formData = new FormData(event.target);
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const todayTime = today.getTime();
+            
+            const langQuestions = wrongQuestions.filter(wq => wq.language === currentLanguage);
+            const dueQuestions = langQuestions.filter(wq => {
+                const nextReview = new Date(wq.nextReview);
+                nextReview.setHours(0, 0, 0, 0);
+                return nextReview.getTime() <= todayTime;
+            });
+            const reviewQuestions = dueQuestions.slice(0, 5);
+            
+            let correct = 0;
+            let results = [];
+            
+            reviewQuestions.forEach((wq, idx) => {
+                const q = wq.question;
+                const userAnswer = formData.get(`q${idx}`);
+                let isCorrect = false;
+                let correctAnswer = '';
+                let userAnswerDisplay = '';
+                
+                if (q.type === 'choice') {
+                    const userIdx = parseInt(userAnswer);
+                    isCorrect = userIdx === q.correct;
+                    correctAnswer = q.options[q.correct];
+                    userAnswerDisplay = q.options[userIdx];
+                } else if (q.type === 'reorder') {
+                    isCorrect = userAnswer === q.answer;
+                    correctAnswer = q.answer;
+                    userAnswerDisplay = userAnswer;
+                }
+                
+                if (isCorrect) {
+                    correct++;
+                    wq.correctCount++;
+                    
+                    const reviewDate = new Date(today);
+                    if (wq.correctCount === 1) {
+                        reviewDate.setDate(reviewDate.getDate() + 3);
+                    } else if (wq.correctCount === 2) {
+                        reviewDate.setDate(reviewDate.getDate() + 7);
+                    } else if (wq.correctCount === 3) {
+                        reviewDate.setDate(reviewDate.getDate() + 30);
+                    } else if (wq.correctCount >= 4) {
+                        wrongQuestions = wrongQuestions.filter(w => w !== wq);
+                    }
+                    
+                    if (wq.correctCount < 4) {
+                        wq.nextReview = reviewDate.toISOString();
+                    }
+                } else {
+                    wq.correctCount = 0;
+                    wq.nextReview = today.toISOString();
+                }
+                
+                wq.lastAttempt = new Date().toISOString();
+                
+                results.push({ 
+                    question: q, 
+                    userAnswer: userAnswerDisplay, 
+                    isCorrect, 
+                    correctAnswer 
+                });
+            });
+            
+            localStorage.setItem('otterNewsWrongQuestions', JSON.stringify(wrongQuestions));
+            
+            const resultDiv = document.getElementById('modal-review-result');
+            const percentage = Math.round((correct / reviewQuestions.length) * 100);
+            
+            let html = `
+                <div class="result-summary">
+                    <div style="font-size: 2em; margin-bottom: 8px;">${percentage >= 80 ? '🎉' : '💪'}</div>
+                    <div style="font-size: 1.1em; font-weight: bold; color: #5d6d7e;">
+                        複習得分：${correct} / ${reviewQuestions.length} （${percentage}%）
+                    </div>
+                </div>
+            `;
+            
+            results.forEach((r, idx) => {
+                html += `
+                    <div class="result-item ${r.isCorrect ? 'result-correct' : 'result-wrong'}">
+                        <div style="font-weight: bold; margin-bottom: 5px;">Q${idx + 1}. ${r.question.question}</div>
+                        <div>你的答案：${r.userAnswer || '(未作答)'}</div>
+                `;
+                
+                if (!r.isCorrect) {
+                    html += `<div class="result-answer">✓ 正確答案：${r.correctAnswer}</div>`;
+                }
+                
+                if (r.question.explanation) {
+                    html += `<div class="result-translation">💡 ${r.question.explanation}</div>`;
+                }
+                
+                html += `</div>`;
+            });
+            
+            html += `<button class="submit-quiz-btn" onclick="closeReviewModal()" style="width: 100%; margin-top: 15px;">關閉</button>`;
+            
+            resultDiv.innerHTML = html;
+            document.getElementById('review-form').style.display = 'none';
         }
         
         displayDate();
