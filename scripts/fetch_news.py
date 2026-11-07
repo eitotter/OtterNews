@@ -1,42 +1,34 @@
 import feedparser
-import json
 from datetime import datetime, timedelta
 from urllib.parse import quote_plus
+import json
 
-def fetch_google_news(query, language='ko'):
-    base_url = "https://news.google.com/rss/search"
-    
-    # 正確編碼 URL
-    encoded_query = quote_plus(query)
-    gl = 'KR' if language == 'ko' else 'JP'
-    ceid = 'KR:ko' if language == 'ko' else 'JP:ja'
-    
-    url = f"{base_url}?q={encoded_query}&hl={language}&gl={gl}&ceid={ceid}"
-    
+def fetch_google_news(query, lang='ko', max_results=5):
+    """從 Google News RSS 抓取新聞"""
     try:
-        feed = feedparser.parse(url)
-        articles = []
-        one_week_ago = datetime.now() - timedelta(days=7)
+        encoded_query = quote_plus(query)
+        rss_url = f'https://news.google.com/rss/search?q={encoded_query}&hl={lang}&gl={"KR" if lang == "ko" else "JP"}&ceid={"KR" if lang == "ko" else "JP"}:{lang}'
         
-        for entry in feed.entries:
-            # 篩選一週內的文章
-            if hasattr(entry, "published_parsed") and entry.published_parsed:
-                pub_date = datetime(*entry.published_parsed[:6])
-                if pub_date < one_week_ago:
-                    continue
+        feed = feedparser.parse(rss_url)
+        articles = []
+        cutoff_date = datetime.now() - timedelta(days=7)
+        
+        for entry in feed.entries[:max_results]:
+            pub_date = None
+            if hasattr(entry, 'published'):
+                try:
+                    pub_date = datetime.strptime(entry.published, '%a, %d %b %Y %H:%M:%S %Z')
+                except:
+                    pass
             
-            # 限制最多 5 篇
-            if len(articles) >= 5:
-                break
-            
-            article = {
-                'title': entry.title,
-                'link': entry.link,
-                'published': entry.published if hasattr(entry, 'published') else '',
-                'summary': entry.summary if hasattr(entry, 'summary') else '',
-                'source': entry.source.title if hasattr(entry, 'source') else 'Google News'
-            }
-            articles.append(article)
+            if pub_date is None or pub_date >= cutoff_date:
+                articles.append({
+                    'title': entry.title,
+                    'link': entry.link,
+                    'published': entry.published if hasattr(entry, 'published') else '',
+                    'summary': entry.summary if hasattr(entry, 'summary') else '',
+                    'source': entry.source.title if hasattr(entry, 'source') else ''
+                })
         
         return articles
     except Exception as e:
@@ -47,7 +39,6 @@ def main():
     print("🦦 Fetching Korean music news...")
     korean_news = fetch_google_news('K-pop 콘서트 음악 공연', 'ko')
     
-    # 如果音樂新聞不足，改抓熱門新聞
     if len(korean_news) < 3:
         print("   ⚠️ 音樂新聞不足，改抓韓國熱門新聞...")
         korean_news = fetch_google_news('한국 뉴스', 'ko')
@@ -55,16 +46,15 @@ def main():
     print("🦦 Fetching Japanese music news...")
     japanese_news = fetch_google_news('音楽 コンサート ライブ', 'ja')
     
-    # 如果音樂新聞不足，改抓熱門新聞
     if len(japanese_news) < 3:
         print("   ⚠️ 音樂新聞不足，改抓日本熱門新聞...")
         japanese_news = fetch_google_news('日本 ニュース', 'ja')
     
-    # 修正：直接存第一篇新聞，不是陣列
     data = {
         'last_updated': datetime.now().isoformat(),
-        'korean': korean_news[0] if korean_news else None,
-        'japanese': japanese_news[0] if japanese_news else None
+        'date': datetime.now().strftime("%Y-%m-%d"),
+        'korean': korean_news,
+        'japanese': japanese_news
     }
     
     with open('data/news.json', 'w', encoding='utf-8') as f:
