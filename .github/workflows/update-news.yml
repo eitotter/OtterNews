@@ -2,8 +2,11 @@ name: Update Daily News
 
 on:
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '0 23 * * *'  # 台灣時間每日 07:00 (UTC 23:00)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-news:
@@ -23,17 +26,17 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-    - name: Fetch and generate news
+    - name: Fetch news
+      run: python scripts/fetch_news.py
+      
+    - name: Generate content
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      run: |
-        python scripts/fetch_news.py
-        python scripts/generate_content.py
-        
-    - name: Commit and push changes
+      run: python scripts/generate_content.py
+      
+    - name: Commit and push if changed
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add data/news.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "🦦 Update daily news - $(date +'%Y-%m-%d')"
-        git push
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🦦 Update daily news - $(date +'%Y-%m-%d')" && git push)
