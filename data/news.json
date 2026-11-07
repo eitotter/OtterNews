@@ -166,7 +166,13 @@
           ],
           "correctAnswer": 1,
           "explanation": "首爾體育館是為了K-pop演出而建造的。",
-          "translation": "首爾體育館是為了什麼而建造的呢？"
+          "translation": "首爾體育館是為了什麼而建造的呢？",
+          "optionsTranslation": [
+            "電影",
+            "K-pop 演出",
+            "體育",
+            "展覽"
+          ]
         },
         {
           "question": "K팝은 어떤 음악인가요?",
@@ -178,7 +184,13 @@
           ],
           "correctAnswer": 2,
           "explanation": "K-pop是韓國的受歡迎音樂。",
-          "translation": "K-pop是什麼樣的音樂呢？"
+          "translation": "K-pop是什麼樣的音樂呢？",
+          "optionsTranslation": [
+            "古典音樂",
+            "爵士樂",
+            "韓國的受歡迎音樂",
+            "搖滾樂"
+          ]
         },
         {
           "question": "서울아레나의 기대는 무엇인가요?",
@@ -190,7 +202,13 @@
           ],
           "correctAnswer": 0,
           "explanation": "對於首爾體育館的期待是許多演出。",
-          "translation": "對於首爾體育館的期待是什麼呢？"
+          "translation": "對於首爾體育館的期待是什麼呢？",
+          "optionsTranslation": [
+            "許多演出",
+            "小型演出",
+            "電影放映",
+            "展覽"
+          ]
         },
         {
           "question": "관광객이 많이 오는 이유는 무엇인가요?",
@@ -202,7 +220,13 @@
           ],
           "correctAnswer": 1,
           "explanation": "因為K-pop，來了很多觀光客。",
-          "translation": "觀光客為什麼會來很多呢？"
+          "translation": "觀光客為什麼會來很多呢？",
+          "optionsTranslation": [
+            "食物",
+            "K-pop",
+            "天氣",
+            "購物"
+          ]
         },
         {
           "question": "서울아레나에서 무엇을 할 수 있나요?",
@@ -214,7 +238,13 @@
           ],
           "correctAnswer": 1,
           "explanation": "可以在首爾體育館觀看演出。",
-          "translation": "在首爾體育館可以做什麼呢？"
+          "translation": "在首爾體育館可以做什麼呢？",
+          "optionsTranslation": [
+            "運動",
+            "觀看演出",
+            "購物",
+            "休息"
+          ]
         }
       ]
     },

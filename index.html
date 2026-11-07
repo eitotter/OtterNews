@@ -55,6 +55,90 @@
             display: flex;
             gap: 8px;
         }
+
+        /* 文章導航 */
+        .article-nav {
+            background: rgba(45, 52, 54, 0.6);
+            border: 1px solid rgba(116, 185, 255, 0.3);
+            border-radius: 12px;
+            padding: 15px;
+            margin: 20px 0;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .article-nav-btn {
+            background: rgba(116, 185, 255, 0.2);
+            border: 1px solid rgba(116, 185, 255, 0.4);
+            color: #74b9ff;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s;
+            flex-shrink: 0;
+        }
+        
+        .article-nav-btn:hover:not(:disabled) {
+            background: rgba(116, 185, 255, 0.3);
+            transform: scale(1.05);
+        }
+        
+        .article-nav-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+        
+        .article-select-wrapper {
+            flex: 1;
+            position: relative;
+        }
+        
+        .article-select {
+            width: 100%;
+            background: rgba(30, 39, 46, 0.8);
+            border: 1px solid rgba(116, 185, 255, 0.3);
+            color: #dfe6e9;
+            padding: 10px 35px 10px 15px;
+            border-radius: 8px;
+            font-size: 0.95em;
+            cursor: pointer;
+            appearance: none;
+        }
+        
+        .article-select-wrapper::after {
+            content: '▼';
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #74b9ff;
+            pointer-events: none;
+            font-size: 0.75em;
+        }
+        
+        @media (max-width: 768px) {
+            .article-nav {
+                padding: 12px;
+                gap: 10px;
+            }
+            
+            .article-nav-btn {
+                width: 36px;
+                height: 36px;
+                font-size: 16px;
+            }
+            
+            .article-select {
+                font-size: 0.9em;
+                padding: 9px 30px 9px 12px;
+            }
+        }
         
         .lang-btn {
             padding: 6px 14px;
@@ -176,7 +260,7 @@
         }
         
         .news-title {
-            font-size: 1.1em;
+            font-size: 0.9em;
             color: #5d6d7e;
             margin-bottom: 4px;
             font-weight: bold;
@@ -661,7 +745,250 @@
                 grid-template-columns: 1fr;
             }
         }
-    </style>
+    
+/* 測驗結果 Modal 樣式 */
+#quizResultModal .modal-content {
+    max-width: 600px;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+#quiz-result-modal-content h3 {
+    text-align: center;
+    color: var(--primary-color);
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid var(--primary-color);
+}
+
+.quiz-result-item {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-left: 4px solid var(--border-color);
+    transition: all 0.3s ease;
+}
+
+.quiz-result-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.quiz-result-item.correct {
+    border-left-color: #4CAF50;
+    background: linear-gradient(to right, rgba(76, 175, 80, 0.05), transparent);
+}
+
+.quiz-result-item.incorrect {
+    border-left-color: #f44336;
+    background: linear-gradient(to right, rgba(244, 67, 54, 0.05), transparent);
+}
+
+.quiz-q {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: var(--text-color);
+}
+
+.quiz-result-item.correct .quiz-q {
+    color: #4CAF50;
+}
+
+.quiz-result-item.incorrect .quiz-q {
+    color: #f44336;
+}
+
+.quiz-translation {
+    font-size: 0.9rem;
+    color: var(--secondary-text);
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.quiz-answer {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 8px 12px;
+    border-radius: 6px;
+    margin: 8px 0;
+    font-size: 0.95rem;
+}
+
+.quiz-correct {
+    background: rgba(76, 175, 80, 0.1);
+    padding: 8px 12px;
+    border-radius: 6px;
+    margin: 8px 0;
+    font-size: 0.95rem;
+    color: #4CAF50;
+}
+
+.quiz-explanation {
+    background: rgba(33, 150, 243, 0.1);
+    padding: 10px 12px;
+    border-radius: 6px;
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: var(--secondary-text);
+    border-left: 3px solid #2196F3;
+}
+
+        /* 收藏愛心按鈕 */
+        .favorite-btn {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            font-size: 14px;
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.3s ease;
+            z-index: 10;
+            color: #5a5a5a;
+        }
+        
+        .favorite-btn:hover {
+            transform: scale(1.2);
+        }
+        
+        .favorite-btn.active {
+            color: #C4979F;
+        }
+        
+        .vocab-card, .grammar-item {
+            position: relative;
+        }
+        
+        /* 彈出視窗 */
+        .library-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            overflow-y: auto;
+            padding: 20px;
+        }
+        
+        .library-modal.show {
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+        }
+        
+        .library-content {
+            background: #2a2a2a;
+            border-radius: 16px;
+            max-width: 900px;
+            width: 100%;
+            margin: 40px auto;
+            padding: 30px;
+            position: relative;
+        }
+        
+        .library-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #3a3a3a;
+            padding-bottom: 15px;
+        }
+        
+        .library-title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #e0e0e0;
+        }
+        
+        .library-close {
+            font-size: 32px;
+            cursor: pointer;
+            color: #7d8e9e;
+            line-height: 1;
+            transition: color 0.3s;
+        }
+        
+        .library-close:hover {
+            color: #C4979F;
+        }
+        
+        .library-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .library-tab {
+            padding: 10px 20px;
+            background: #3a3a3a;
+            border: none;
+            border-radius: 8px;
+            color: #b0b0b0;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .library-tab.active {
+            background: #4a5a6a;
+            color: #e0e0e0;
+        }
+        
+        .library-items {
+            display: grid;
+            gap: 15px;
+        }
+        
+        .library-item {
+            background: #3a3a3a;
+            border-radius: 12px;
+            padding: 15px;
+            position: relative;
+            transition: all 0.3s;
+        }
+        
+        .library-item:hover {
+            background: #4a4a4a;
+            transform: translateY(-2px);
+        }
+        
+        .library-item-delete {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 20px;
+            cursor: pointer;
+            color: #7d8e9e;
+            transition: color 0.3s;
+        }
+        
+        .library-item-delete:hover {
+            color: #C4979F;
+        }
+        
+        .library-empty {
+            text-align: center;
+            padding: 40px;
+            color: #7d8e9e;
+            font-size: 16px;
+        }
+        
+        @media (max-width: 768px) {
+            .library-content {
+                margin: 20px auto;
+                padding: 20px;
+            }
+            
+            .library-title {
+                font-size: 20px;
+            }
+        }
+        
+</style>
 </head>
 <body>
     <div class="container">
@@ -690,6 +1017,16 @@
                 <button class="lang-btn active" onclick="switchLanguage('korean')" id="korean-btn">🇰🇷 韓文</button>
                 <button class="lang-btn" onclick="switchLanguage('japanese')" id="japanese-btn">🇯🇵 日文</button>
             </div>
+            
+            <!-- 文章導航 -->
+            <div class="article-nav" id="article-nav" style="display: none;">
+                <button class="article-nav-btn" id="prev-article" onclick="navigateArticle(-1)">←</button>
+                <div class="article-select-wrapper">
+                    <select class="article-select" id="article-select" onchange="selectArticle(this.value)">
+                    </select>
+                </div>
+                <button class="article-nav-btn" id="next-article" onclick="navigateArticle(1)">→</button>
+            </div>
             <div class="date-display" id="date-display"></div>
         </div>
         
@@ -717,9 +1054,17 @@
             <div id="modal-quiz-content"></div>
         </div>
     </div>
+    <div id="quizResultModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeQuizResultModal()">&times;</span>
+            <div id="quiz-result-modal-content"></div>
+        </div>
+    </div>
+
     
     <script>
         let currentLanguage = 'korean';
+        let currentLibraryType = 'vocab';
         let currentLevel = 'beginner';
         let newsData = null;
         let speechRate = 0.9;
@@ -741,7 +1086,104 @@
             document.getElementById('japanese-btn').classList.toggle('active', lang === 'japanese');
             if (newsData) {
                 renderContent();
+                currentArticleIndex = 0;
             }
+        }
+
+        // 文章導航相關變數
+        let currentArticleIndex = 0;
+        let currentArticles = [];
+
+        // 初始化文章導航
+        function initArticleNav() {
+            const articles = newsData[currentLanguage];
+            if (!articles || articles.length === 0) {
+                document.getElementById('article-nav').style.display = 'none';
+                return;
+            }
+            
+            currentArticles = articles;
+            
+            // 只有多篇文章時才顯示導航
+            if (articles.length > 1) {
+                document.getElementById('article-nav').style.display = 'flex';
+                updateArticleSelect();
+                updateArticleNavButtons();
+            } else {
+                document.getElementById('article-nav').style.display = 'none';
+            }
+        }
+
+        // 更新下拉選單
+        function updateArticleSelect() {
+            const select = document.getElementById('article-select');
+            select.innerHTML = '';
+            
+            currentArticles.forEach((article, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                
+                // 格式化日期（使用 published）
+                let dateStr = '無日期';
+                if (article.published) {
+                    const date = new Date(article.published);
+                    if (!isNaN(date.getTime())) {
+                        dateStr = `${date.getMonth() + 1}/${date.getDate()}`;
+                    }
+                }
+                
+                // 截短標題
+                const title = article.title || article.fullContent?.original || '無標題';
+                const shortTitle = title.length > 40 ? title.substring(0, 40) + '...' : title;
+                
+                option.textContent = `📅 ${dateStr} - ${shortTitle}`;
+                select.appendChild(option);
+            });
+            
+            select.value = currentArticleIndex;
+        }
+
+        // 更新導航按鈕狀態
+        function updateArticleNavButtons() {
+            const prevBtn = document.getElementById('prev-article');
+            const nextBtn = document.getElementById('next-article');
+            
+            prevBtn.disabled = currentArticleIndex === 0;
+            nextBtn.disabled = currentArticleIndex === currentArticles.length - 1;
+        }
+
+        // 導航文章（前一篇/後一篇）
+        function navigateArticle(direction) {
+            const newIndex = currentArticleIndex + direction;
+            if (newIndex >= 0 && newIndex < currentArticles.length) {
+                currentArticleIndex = newIndex;
+                loadArticle(currentArticleIndex);
+            }
+        }
+
+        // 選擇文章
+        function selectArticle(index) {
+            currentArticleIndex = parseInt(index);
+            loadArticle(currentArticleIndex);
+        }
+
+        // 載入指定文章
+        function loadArticle(index) {
+            const article = currentArticles[index];
+            if (!article) return;
+            
+            // 更新全域變數
+            currentArticle = article;
+            
+            // 重新渲染所有內容
+            renderContent();
+            
+            // 更新導航狀態
+            updateArticleSelect();
+            updateArticleNavButtons();
+            
+            // 捲動到頂部
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         
         function switchLevel(level) {
@@ -824,8 +1266,15 @@
         
         function renderContent() {
             const data = newsData[currentLanguage];
+
+            // 初始化文章導航（只在切換語言或首次載入時重置索引）
+            if (currentArticles !== data) {
+                currentArticleIndex = 0;
+                currentArticles = data;
+                initArticleNav();
+            }
             
-            if (!data || !data.news || !data.content) {
+            if (!data || !Array.isArray(data) || data.length === 0) {
                 document.getElementById('main-content').innerHTML = `
                     <div class="error">
                         📭 目前沒有${currentLanguage === 'korean' ? '韓文' : '日文'}新聞<br>
@@ -836,8 +1285,8 @@
             }
             
             const { news, content } = data;
-            const titleTranslation = news.titleTranslation || news.translation || '';
-            
+            const newsItem = data[currentArticleIndex];
+            const titleTranslation = newsItem.fullContent?.titleTranslation || "";
             let html = `
                 ${renderReviewCompact()}
                 ${renderLibraryButtons()}
@@ -846,14 +1295,15 @@
                     <div class="content-card">
                         <div class="section-title">📚 單字學習</div>
                         <div class="vocab-grid">
-                            ${content.vocabulary.slice(0, 10).map(v => `
+                            ${newsItem.vocabulary.slice(0, 10).map(v => `
                                 <div class="vocab-card" onclick="speak('${v.word.replace(/'/g, "\\'")}')">
                                     <div class="vocab-word">${v.word}</div>
+                                    <div class="favorite-btn" onclick="event.stopPropagation(); toggleFavorite('vocab', {word: this.dataset.word, reading: this.dataset.reading, meaning: this.dataset.meaning, example: this.dataset.example, exampleTranslation: this.dataset.exampleTranslation})" data-word="${v.word}" data-reading="${v.reading}" data-meaning="${v.meaning}" data-example="${v.example}" data-example-translation="${v.exampleTranslation}">♡</div>
                                     <div class="vocab-reading">${v.reading}</div>
                                     <div class="vocab-meaning">${v.meaning}</div>
                                     <div class="vocab-example" onclick="event.stopPropagation(); speak('${v.example.replace(/'/g, "\\'")}')">
                                         ${v.example}
-                                        <div class="vocab-example-cn">${v.exampleCN}</div>
+                                        <div class="vocab-example-cn">${v.exampleTranslation}</div>
                                     </div>
                                 </div>
                             `).join('')}
@@ -861,12 +1311,12 @@
                     </div>
                     
                     <div class="content-card">
-                        <div class="news-title">📰 ${news.title}</div>
+                        <div class="news-title">📰 ${newsItem.title}</div>
                         <div class="news-title-translation ${showTranslation ? 'show' : ''}">${titleTranslation}</div>
                         <div class="news-meta">
-                            <span>📅 ${news.published}</span>
-                            <span>📌 ${news.source}</span>
-                            <a href="${news.link}" target="_blank" style="color: #7d8e9e;">🔗 原文</a>
+                            <span>📅 ${newsItem.published}</span>
+                            <span>📌 ${newsItem.source}</span>
+                            <a href="${newsItem.link}" target="_blank" style="color: #7d8e9e;">🔗 原文</a>
                         </div>
                         
                         <div class="controls-row">
@@ -896,13 +1346,14 @@
                 <div class="content-card full-width">
                     <div class="section-title">📖 文法重點（點擊發音）</div>
                     <div class="grammar-grid">
-                        ${content.grammar.map(g => `
+                        ${newsItem.grammar.map(g => `
                             <div class="grammar-item" onclick="speak('${g.example.replace(/'/g, "\\'")}')">
                                 <div class="grammar-pattern">${g.pattern}</div>
+                                <div class="favorite-btn" onclick="event.stopPropagation(); toggleFavorite('grammar', {pattern: this.dataset.pattern, meaning: this.dataset.meaning, example: this.dataset.example, explanation: this.dataset.explanation, exampleTranslation: this.dataset.exampleTranslation})" data-pattern="${g.pattern}" data-meaning="${g.meaning}" data-example="${g.example}" data-explanation="${g.explanation}" data-example-translation="${g.exampleTranslation}">♡</div>
                                 <div class="grammar-explanation">${g.explanation}</div>
                                 <div class="grammar-example">
                                     ${g.example}
-                                    <div class="grammar-example-cn">${g.exampleCN}</div>
+                                    <div class="grammar-example-cn">${g.exampleTranslation}</div>
                                 </div>
                             </div>
                         `).join('')}
@@ -912,7 +1363,7 @@
                 <div class="content-card full-width" id="quiz-card">
                     <div class="section-title">✏️ 小測驗（填完後提交）</div>
                     <form class="quiz-form" id="quiz-form" onsubmit="submitQuiz(event)">
-                        ${renderQuizQuestions(content.quiz)}
+                        ${renderQuizQuestions(newsItem.quiz)}
                         <button type="submit" class="submit-quiz-btn">📝 提交答案</button>
                     </form>
                     <div id="quiz-result" class="quiz-result"></div>
@@ -921,16 +1372,24 @@
             
             document.getElementById('main-content').innerHTML = html;
             renderArticle();
-        }
+            updateFavoriteButtons();
         
+        }
         function renderArticle() {
-            const data = newsData[currentLanguage];
-            if (!data || !data.content) return;
+            const articles = newsData[currentLanguage];
+            if (!articles || !Array.isArray(articles) || articles.length === 0) {
+                console.error('無文章資料');
+                return;
+            }
+
+            // 使用當前選擇的文章索引
+            const data = articles[currentArticleIndex];
+            currentArticle = data;
             
-            const article = data.content.fullContent[currentLevel];
-            const translations = data.content.fullContent.translations?.[currentLevel] || [];
-            const vocabulary = data.content.vocabulary.map(v => v.word);
-            const grammar = data.content.grammar.map(g => g.pattern);
+            const article = data.fullContent?.[currentLevel] || '';
+            const translations = data.fullContent?.translations?.[currentLevel] || [];
+            const vocabulary = (data.vocabulary || []).map(v => v.word);
+            const grammar = (data.grammar || []).map(g => g.pattern);
             
             const sentences = article.split(/([。！？\.!?])/g).filter(s => s.trim());
             
@@ -966,9 +1425,12 @@
         }
         
         function playArticle() {
-            const data = newsData[currentLanguage];
-            const title = data.news.title;
-            const article = data.content.fullContent[currentLevel];
+            const articles = newsData[currentLanguage];
+            if (!articles || !Array.isArray(articles) || articles.length === 0) return;
+            
+            const data = articles[0];
+            const title = data.fullContent?.original || '';
+            const article = data.fullContent?.[currentLevel] || '';
             speak(title + '。' + article);
         }
         
@@ -988,18 +1450,6 @@
                 return '';
             }
         
-        function renderLibraryButtons() {
-            return `
-                <div class="library-buttons">
-                    <button class="library-btn" onclick="showVocabularyLibrary()">
-                        單字庫
-                    </button>
-                    <button class="library-btn" onclick="showGrammarLibrary()">
-                        句型庫
-                    </button>
-                </div>
-            `;
-        }
             
             return `
                 <div class="review-compact">
@@ -1021,10 +1471,10 @@
         function renderLibraryButtons() {
             return `
                 <div class="library-buttons">
-                    <button class="library-btn" onclick="showVocabularyLibrary()">
+                    <button class="library-btn" onclick="openLibrary('vocab')">
                         單字庫
                     </button>
-                    <button class="library-btn" onclick="showGrammarLibrary()">
+                    <button class="library-btn" onclick="openLibrary('grammar')">
                         句型庫
                     </button>
                 </div>
@@ -1067,21 +1517,12 @@
             document.getElementById('wrongListModal').classList.remove('show');
         }
         
-        function showVocabularyLibrary() {
-            // TODO: 實作單字庫彈窗
-            alert("單字庫功能開發中...");
-        }
-        
-        function showGrammarLibrary() {
-            // TODO: 實作句型庫彈窗
-            alert("句型庫功能開發中...");
-        }
         
         function renderQuizQuestions(quizData) {
-            const questions = quizData.filter(q => q.type === 'choice' || q.type === 'reorder').slice(0, 10);
+            const questions = quizData.filter(q => q.options || q.words).slice(0, 10);
             
             return questions.map((q, idx) => {
-                if (q.type === 'choice') {
+                if (q.type === 'choice' || q.options) {
                     return `
                         <div class="quiz-question" data-idx="${idx}">
                             <div class="quiz-q">Q${idx + 1}. ${q.question}</div>
@@ -1095,7 +1536,7 @@
                             </div>
                         </div>
                     `;
-                } else if (q.type === 'reorder') {
+                } else if (q.type === 'reorder' || q.words) {
                     const shuffled = [...q.words].sort(() => Math.random() - 0.5);
                     return `
                         <div class="quiz-question" data-idx="${idx}">
@@ -1114,7 +1555,7 @@
                 }
             }).join('');
         }
-        
+
         function toggleWord(qIdx, tile) {
             const builder = document.getElementById(`builder-${qIdx}`);
             const word = tile.getAttribute('data-word');
@@ -1153,7 +1594,7 @@
             event.preventDefault();
             const formData = new FormData(event.target);
             const data = newsData[currentLanguage];
-            const questions = data.content.quiz.filter(q => q.type === 'choice' || q.type === 'reorder').slice(0, 10);
+            const questions = data[0].quiz.slice(0, 10);
             
             let correct = 0;
             let results = [];
@@ -1162,17 +1603,28 @@
                 const userAnswer = formData.get(`q${idx}`);
                 let isCorrect = false;
                 let correctAnswer = '';
-                let userAnswerDisplay = '';
+                let userAnswerDisplay = '未作答';
+                let userAnswerIdx = null;
                 
-                if (q.type === 'choice') {
-                    const userIdx = parseInt(userAnswer);
-                    isCorrect = userIdx === q.correct;
-                    correctAnswer = q.options[q.correct];
-                    userAnswerDisplay = q.options[userIdx];
-                } else if (q.type === 'reorder') {
-                    isCorrect = userAnswer === q.answer;
-                    correctAnswer = q.answer;
-                    userAnswerDisplay = userAnswer;
+                if (q.options) {
+                    // 選擇題
+                    if (userAnswer !== null) {
+                        userAnswerIdx = parseInt(userAnswer);
+                        isCorrect = userAnswerIdx === q.correctAnswer;
+                        correctAnswer = q.options[q.correctAnswer];
+                        userAnswerDisplay = q.options[userAnswerIdx];
+                    } else {
+                        correctAnswer = q.options[q.correctAnswer];
+                    }
+                } else if (q.words) {
+                    // 重組題
+                    if (userAnswer) {
+                        isCorrect = userAnswer === q.answer;
+                        correctAnswer = q.answer;
+                        userAnswerDisplay = userAnswer;
+                    } else {
+                        correctAnswer = q.answer;
+                    }
                 }
                 
                 if (isCorrect) {
@@ -1183,7 +1635,8 @@
                 
                 results.push({ 
                     question: q, 
-                    userAnswer: userAnswerDisplay, 
+                    userAnswer: userAnswerDisplay,
+                    userAnswerIdx: userAnswerIdx,
                     isCorrect, 
                     correctAnswer 
                 });
@@ -1191,7 +1644,7 @@
             
             displayQuizResult(correct, questions.length, results);
         }
-        
+
         function addToWrongQuestions(question, userAnswer) {
             const existing = wrongQuestions.find(wq => 
                 wq.question.question === question.question && wq.language === currentLanguage
@@ -1214,42 +1667,58 @@
         }
         
         function displayQuizResult(correct, total, results) {
-            const resultDiv = document.getElementById('quiz-result');
-            const percentage = Math.round((correct / total) * 100);
+            const modalContent = document.getElementById('quiz-result-modal-content');
+            if (!modalContent) {
+                console.error('找不到 quiz-result-modal-content');
+                return;
+            }
             
-            let html = `
-                <div class="result-summary">
-                    <div style="font-size: 2em; margin-bottom: 8px;">${percentage >= 70 ? '🎉' : '💪'}</div>
-                    <div style="font-size: 1.1em; font-weight: bold; color: #5d6d7e;">
-                        得分：${correct} / ${total} （${percentage}%）
-                    </div>
-                </div>
-            `;
+            let html = `<h3>測驗結果：${correct} / ${total}</h3>`;
             
             results.forEach((r, idx) => {
-                html += `
-                    <div class="result-item ${r.isCorrect ? 'result-correct' : 'result-wrong'}">
-                        <div style="font-weight: bold; margin-bottom: 5px;">Q${idx + 1}. ${r.question.question}</div>
-                        <div>你的答案：${r.userAnswer || '(未作答)'}</div>
-                `;
+                const resultClass = r.isCorrect ? 'correct' : 'incorrect';
+                const icon = r.isCorrect ? '✓' : '✗';
+                const q = r.question;
                 
+                // 取得選項翻譯
+                const optionsTranslation = q.optionsTranslation || [];
+                const userAnswerText = r.userAnswerIdx !== null && optionsTranslation[r.userAnswerIdx]
+                    ? `${r.userAnswer}（${optionsTranslation[r.userAnswerIdx]}）`
+                    : r.userAnswer;
+                const correctAnswerText = q.correctAnswer !== undefined && optionsTranslation[q.correctAnswer]
+                    ? `${r.correctAnswer}（${optionsTranslation[q.correctAnswer]}）`
+                    : r.correctAnswer;
+                
+                html += `<div class="quiz-result-item ${resultClass}">`;
+                html += `<div class="quiz-q">${icon} 題目 ${idx + 1}: ${q.question}</div>`;
+                if (q.translation) {
+                    html += `<div class="quiz-translation">${q.translation}</div>`;
+                }
+                html += `<div class="quiz-answer">你的答案：${userAnswerText}</div>`;
                 if (!r.isCorrect) {
-                    html += `<div class="result-answer">✓ 正確答案：${r.correctAnswer}</div>`;
+                    html += `<div class="quiz-correct">${icon} 正確答案：${correctAnswerText}</div>`;
                 }
-                
-                if (r.question.explanation) {
-                    html += `<div class="result-translation">💡 ${r.question.explanation}</div>`;
+                if (q.explanation) {
+                    html += `<div class="quiz-explanation">解釋：${q.explanation}</div>`;
                 }
-                
                 html += `</div>`;
             });
             
-            resultDiv.innerHTML = html;
-            document.getElementById('quiz-form').style.display = 'none';
+            html += `<button class="submit-quiz-btn" onclick="closeQuizResultModal()" style="width: 100%; margin-top: 15px;">關閉</button>`;
             
-            renderReviewSection();
+            modalContent.innerHTML = html;
+            document.getElementById('quizResultModal').style.display = 'block';
         }
         
+        function closeQuizResultModal() {
+            document.getElementById('quizResultModal').style.display = 'none';
+        }
+
+        function closeQuizResult() {
+            const resultDiv = document.getElementById('quiz-result');
+            if (resultDiv) resultDiv.style.display = 'none';
+        }
+
         function renderReviewSection() {
             const reviewSection = document.querySelector('.review-compact');
             if (reviewSection) {
@@ -1435,7 +1904,7 @@
             let html = `
                 <div class="result-summary">
                     <div style="font-size: 2em; margin-bottom: 8px;">${percentage >= 80 ? '🎉' : '💪'}</div>
-                    <div style="font-size: 1.1em; font-weight: bold; color: #5d6d7e;">
+                    <div style="font-size: 0.9em; font-weight: bold; color: #5d6d7e;">
                         複習得分：${correct} / ${reviewQuestions.length} （${percentage}%）
                     </div>
                 </div>
@@ -1467,6 +1936,123 @@
         
         displayDate();
         loadNews();
+
+        // === 收藏功能 ===
+        function toggleFavorite(type, item) {
+            const key = `favorites_${currentLanguage}_${type}`;
+            let favorites = JSON.parse(localStorage.getItem(key) || '[]');
+            
+            const identifier = type === 'vocab' ? item.word : item.pattern;
+            const index = favorites.findIndex(f => 
+                type === 'vocab' ? f.word === identifier : f.pattern === identifier
+            );
+            
+            if (index > -1) {
+                favorites.splice(index, 1);
+            } else {
+                favorites.push(item);
+            }
+            
+            localStorage.setItem(key, JSON.stringify(favorites));
+            updateFavoriteButtons();
+        }
+
+        function updateFavoriteButtons() {
+            const vocabKey = `favorites_${currentLanguage}_vocab`;
+            const grammarKey = `favorites_${currentLanguage}_grammar`;
+            const vocabFavorites = JSON.parse(localStorage.getItem(vocabKey) || '[]');
+            const grammarFavorites = JSON.parse(localStorage.getItem(grammarKey) || '[]');
+            
+            document.querySelectorAll('.vocab-card .favorite-btn').forEach(btn => {
+                const word = btn.getAttribute('data-word');
+                const isFavorite = vocabFavorites.some(f => f.word === word);
+                btn.classList.toggle('active', isFavorite);
+                btn.textContent = isFavorite ? '♥' : '♡';
+            });
+            
+            document.querySelectorAll('.grammar-item .favorite-btn').forEach(btn => {
+                const pattern = btn.getAttribute('data-pattern');
+                const isFavorite = grammarFavorites.some(f => f.pattern === pattern);
+                btn.classList.toggle('active', isFavorite);
+                btn.textContent = isFavorite ? '♥' : '♡';
+            });
+        }
+
+        function openLibrary(type = 'vocab') {
+            currentLibraryType = type;
+            const langName = currentLanguage === 'ko' ? '韓文' : '日文';
+            const typeName = type === 'vocab' ? '單字庫' : '句型庫';
+            document.getElementById('library-modal-title').textContent = `📚 ${langName}${typeName}`;
+            document.getElementById('library-modal').style.display = 'flex';
+            renderLibrary(type);
+        }
+
+        function closeLibrary() {
+            document.getElementById('library-modal').style.display = 'none';
+        }
+
+
+        function renderLibrary(type) {
+            const key = `favorites_${currentLanguage}_${type}`;
+            const favorites = JSON.parse(localStorage.getItem(key) || '[]');
+            const container = document.getElementById('library-items');
+            
+            if (favorites.length === 0) {
+                container.innerHTML = '<p style="text-align:center;color:#999;padding:2rem;">尚無收藏</p>';
+                return;
+            }
+            
+            if (type === 'vocab') {
+                container.innerHTML = favorites.map(v => `
+                    <div class="library-item">
+                        <div style="flex:1">
+                            <div style="font-size:1.2rem;font-weight:600;margin-bottom:0.3rem;cursor:pointer" onclick="speak('${v.word}')">${v.word}</div>
+                            <div style="color:#a8b5c8;margin-bottom:0.3rem;cursor:pointer" onclick="speak('${v.word}')">${v.reading}</div>
+                            <div style="color:#c8b5a8;margin-bottom:0.3rem">${v.meaning}</div>
+                            ${v.example ? `<div style="color:#a8b5c8;font-size:0.9rem;margin-top:0.5rem;cursor:pointer" onclick="speak('${v.example}')">📝 ${v.example}</div>` : ""}
+                            ${v.exampleTranslation ? `<div style="color:#8b9aad;font-size:0.85rem;margin-top:0.2rem">${v.exampleTranslation}</div>` : ""}
+                        </div>
+                        <button onclick="removeFavorite('vocab', '${v.word.replace(/'/g, "\\'")}')">刪除</button>
+                    </div>
+                `).join('');
+            } else {
+                container.innerHTML = favorites.map(g => `
+                    <div class="library-item">
+                        <div style="flex:1">
+                            <div style="font-size:1.2rem;font-weight:600;margin-bottom:0.3rem;cursor:pointer" onclick="speak('${g.pattern}')">${g.pattern}</div>
+                            <div style="color:#c8b5a8;margin-bottom:0.3rem">${g.explanation || g.meaning}</div>
+                            <div style="color:#a8b5c8;font-size:0.9rem;cursor:pointer;margin-top:0.5rem" onclick="speak('${g.example}')">📝 ${g.example}</div>
+                            ${g.exampleTranslation ? `<div style="color:#8b9aad;font-size:0.85rem;margin-top:0.2rem">${g.exampleTranslation}</div>` : ""}
+                        </div>
+                        <button onclick="removeFavorite('grammar', '${g.pattern.replace(/'/g, "\\'")}')">刪除</button>
+                    </div>
+                `).join('');
+            }
+        }
+
+        function removeFavorite(type, identifier) {
+            const key = `favorites_${currentLanguage}_${type}`;
+            let favorites = JSON.parse(localStorage.getItem(key) || '[]');
+            favorites = favorites.filter(f => 
+                type === 'vocab' ? f.word !== identifier : f.pattern !== identifier
+            );
+            localStorage.setItem(key, JSON.stringify(favorites));
+            renderLibrary(type);
+            updateFavoriteButtons();
+        }
+
     </script>
+
+    <!-- 單字庫／句型庫彈出視窗 -->
+    <div id="library-modal" class="library-modal">
+        <div class="library-content">
+            <div class="library-header">
+                <div class="library-title" id="library-modal-title">📚 單字庫</div>
+                <div class="library-close" onclick="closeLibrary()">×</div>
+            </div>
+            <div class="library-items" id="library-items"></div>
+        </div>
+    </div>
+
 </body>
 </html>

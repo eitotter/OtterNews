@@ -55,12 +55,25 @@ def generate_learning_content(title, summary, language):
    - example: {lang_name}例句
    - exampleTranslation: 例句的中文翻譯
 
-4. quiz: 5道測驗題，每題包含：
+4. quiz: 5道測驗題，包含選擇題和重組題，每題包含：
+   選擇題格式：
+   - type: "choice"
    - question: 題目（{lang_name}）
    - options: 4個選項陣列
    - correctAnswer: 正確答案（0-3）
+   - optionsTranslation: 4個選項的中文翻譯陣列
    - explanation: 解釋（繁體中文）
    - translation: 題目的中文翻譯
+   
+   重組題格式：
+   - type: "reorder"
+   - question: 提示文字（例如：「請重組以下句子」）
+   - words: 打亂順序的字詞陣列（{lang_name}）
+   - correctAnswer: 正確順序的完整句子（{lang_name}）
+   - explanation: 解釋（繁體中文）
+   - translation: 句子的中文翻譯
+   
+   請生成 3 道選擇題和 2 道重組題
 
 請確保：
 - 所有{lang_name}內容使用正確的語法和自然的表達
