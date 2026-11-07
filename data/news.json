@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T17:59:46.444119",
+  "last_updated": "2026-11-07T10:12:29.134307",
   "date": "2026-11-07",
   "korean": [
     {
@@ -7,58 +7,1698 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qMjFzQjl3aGVHX2pGMWw3czNFa0FLQTNnTkljcFBZY1FvOHgxNE5QdnBiVHl6dVhieWVLd3JKRC1SX3V4ODdhNzlXdkhkYWV5c3EtT3J4d3NqOVA4bGEw?oc=5",
       "published": "Mon, 02 Nov 2026 01:10:15 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qMjFzQjl3aGVHX2pGMWw3czNFa0FLQTNnTkljcFBZY1FvOHgxNE5QdnBiVHl6dVhieWVLd3JKRC1SX3V4ODdhNzlXdkhkYWV5c3EtT3J4d3NqOVA4bGEw?oc=5\" target=\"_blank\">서울아레나 향한 기대...K팝 공연장 확충 이상의 가치 [엔터그알]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MTN 머니투데이방송</font>",
-      "source": "MTN 머니투데이방송"
+      "source": "MTN 머니투데이방송",
+      "fullContent": {
+        "beginner": "서울아레나는 K팝 공연을 위한 큰 장소입니다. 많은 사람들이 이곳에서 공연을 보고 싶어 합니다. K팝은 한국의 인기 음악입니다.",
+        "intermediate": "서울아레나는 K팝 공연에 대한 기대가 커지고 있습니다. 이곳은 많은 팬들이 모이는 장소입니다. K팝 공연장은 한국의 문화와 경제에 큰 영향을 미칩니다. 많은 사람들이 공연을 통해 즐거운 시간을 보낼 수 있습니다. 앞으로 더 많은 공연이 열릴 예정입니다.",
+        "advanced": "서울아레나는 K팝 공연장으로서 단순한 공간 이상의 가치를 가지고 있습니다. 최근 K팝의 인기가 세계적으로 확산되면서, 서울아레나의 역할이 더욱 중요해지고 있습니다. 이 공연장은 한국의 음악 산업을 촉진하고, 관광객을 유치하는 데 큰 기여를 할 것입니다. 또한, 서울아레나는 다양한 문화 이벤트와 공연을 통해 지역 경제에도 긍정적인 영향을 미칠 것으로 기대됩니다. 앞으로 이곳에서 열릴 새로운 공연들은 많은 사람들에게 희망과 즐거움을 줄 것입니다.",
+        "original": "서울아레나 향한 기대...K팝 공연장 확충 이상의 가치 [엔터그알]",
+        "titleTranslation": "對於首爾體育館的期待...超越K-pop演出場地的價值 [娛樂GRA]",
+        "translations": {
+          "beginner": [
+            "首爾體育館是K-pop演出的大型場所。",
+            "很多人希望在這裡觀看演出。",
+            "K-pop是韓國的受歡迎音樂。"
+          ],
+          "intermediate": [
+            "首爾體育館對於K-pop演出期待越來越高。",
+            "這裡是很多粉絲聚集的地方。",
+            "K-pop演出場所對韓國的文化和經濟影響很大。",
+            "許多人可以通過演出享受快樂的時光。",
+            "未來將會有更多的演出在這裡舉行。"
+          ],
+          "advanced": [
+            "首爾體育館作為K-pop演出場所，擁有超越單純空間的價值。",
+            "隨著K-pop的受歡迎程度在全球擴散，首爾體育館的角色變得更加重要。",
+            "這個演出場所將促進韓國的音樂產業，並對於吸引觀光客作出巨大貢獻。",
+            "此外，首爾體育館透過各種文化活動和演出，預計會對當地經濟產生正面影響。",
+            "未來在這裡舉行的新演出將為許多人帶來希望和快樂。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "아레나",
+          "reading": "arena",
+          "meaning": "體育館",
+          "example": "서울아레나는 큰 공연장입니다.",
+          "exampleTranslation": "首爾體育館是一個大型演出場所。",
+          "level": "3"
+        },
+        {
+          "word": "K팝",
+          "reading": "K-pop",
+          "meaning": "韓國流行音樂",
+          "example": "K팝은 세계적으로 인기가 많습니다.",
+          "exampleTranslation": "K-pop在世界上非常受歡迎。",
+          "level": "1"
+        },
+        {
+          "word": "공연",
+          "reading": "gongyeon",
+          "meaning": "演出",
+          "example": "공연을 보러 갈 거예요.",
+          "exampleTranslation": "我會去看演出。",
+          "level": "3"
+        },
+        {
+          "word": "기대",
+          "reading": "gidae",
+          "meaning": "期待",
+          "example": "모두가 공연에 대한 기대가 큽니다.",
+          "exampleTranslation": "每個人對演出都充滿期待。",
+          "level": "2"
+        },
+        {
+          "word": "문화",
+          "reading": "munhwa",
+          "meaning": "文化",
+          "example": "한국의 문화는 매우 다양합니다.",
+          "exampleTranslation": "韓國的文化非常多元。",
+          "level": "3"
+        },
+        {
+          "word": "경제",
+          "reading": "gyeongje",
+          "meaning": "經濟",
+          "example": "경제에 긍정적인 영향을 미칠 것입니다.",
+          "exampleTranslation": "將對經濟產生正面影響。",
+          "level": "4"
+        },
+        {
+          "word": "관광객",
+          "reading": "gwangwanggaek",
+          "meaning": "觀光客",
+          "example": "관광객이 많이 방문할 것입니다.",
+          "exampleTranslation": "將會有很多觀光客來訪。",
+          "level": "3"
+        },
+        {
+          "word": "행복",
+          "reading": "haengbok",
+          "meaning": "幸福",
+          "example": "행복한 시간을 보낼 수 있습니다.",
+          "exampleTranslation": "可以度過幸福的時光。",
+          "level": "2"
+        },
+        {
+          "word": "이벤트",
+          "reading": "ibenteu",
+          "meaning": "活動",
+          "example": "다양한 이벤트가 열릴 것입니다.",
+          "exampleTranslation": "將會舉行各種活動。",
+          "level": "3"
+        },
+        {
+          "word": "지역",
+          "reading": "jiyeok",
+          "meaning": "地區",
+          "example": "지역 경제에도 도움이 될 것입니다.",
+          "exampleTranslation": "將會對地區經濟有幫助。",
+          "level": "3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "~을/를 위해",
+          "explanation": "表示目的或目標，意為「為了...」",
+          "example": "서울아레나는 K팝 공연을 위해 만들어졌습니다.",
+          "exampleTranslation": "首爾體育館是為了K-pop演出而建造的。",
+          "level": "3"
+        },
+        {
+          "pattern": "이/가 많다",
+          "explanation": "表示數量或程度，意為「很多」",
+          "example": "팬들이 많습니다.",
+          "exampleTranslation": "粉絲很多。",
+          "level": "2"
+        },
+        {
+          "pattern": "~고 있다",
+          "explanation": "表示正在進行的動作",
+          "example": "사람들이 공연을 보고 있습니다.",
+          "exampleTranslation": "人們正在看演出。",
+          "level": "2"
+        },
+        {
+          "pattern": "수 있다",
+          "explanation": "表示能力或可能性，意為「可以」",
+          "example": "즐거운 시간을 보낼 수 있습니다.",
+          "exampleTranslation": "可以度過快樂的時光。",
+          "level": "2"
+        },
+        {
+          "pattern": "때문에",
+          "explanation": "表示原因，意為「因為...」",
+          "example": "K팝 때문에 많은 관광객이 옵니다.",
+          "exampleTranslation": "因為K-pop來了很多觀光客。",
+          "level": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "서울아레나는 무엇을 위해 만들어졌나요?",
+          "options": [
+            "영화",
+            "K팝 공연",
+            "스포츠",
+            "전시회"
+          ],
+          "correctAnswer": 1,
+          "explanation": "首爾體育館是為了K-pop演出而建造的。",
+          "translation": "首爾體育館是為了什麼而建造的呢？"
+        },
+        {
+          "question": "K팝은 어떤 음악인가요?",
+          "options": [
+            "클래식",
+            "재즈",
+            "한국의 인기 음악",
+            "록"
+          ],
+          "correctAnswer": 2,
+          "explanation": "K-pop是韓國的受歡迎音樂。",
+          "translation": "K-pop是什麼樣的音樂呢？"
+        },
+        {
+          "question": "서울아레나의 기대는 무엇인가요?",
+          "options": [
+            "많은 공연",
+            "작은 공연",
+            "영화 상영",
+            "전시회"
+          ],
+          "correctAnswer": 0,
+          "explanation": "對於首爾體育館的期待是許多演出。",
+          "translation": "對於首爾體育館的期待是什麼呢？"
+        },
+        {
+          "question": "관광객이 많이 오는 이유는 무엇인가요?",
+          "options": [
+            "음식",
+            "K팝",
+            "날씨",
+            "쇼핑"
+          ],
+          "correctAnswer": 1,
+          "explanation": "因為K-pop，來了很多觀光客。",
+          "translation": "觀光客為什麼會來很多呢？"
+        },
+        {
+          "question": "서울아레나에서 무엇을 할 수 있나요?",
+          "options": [
+            "운동",
+            "공연 관람",
+            "쇼핑",
+            "쉬기"
+          ],
+          "correctAnswer": 1,
+          "explanation": "可以在首爾體育館觀看演出。",
+          "translation": "在首爾體育館可以做什麼呢？"
+        }
+      ]
     },
     {
       "title": "\"K팝 공연 따라 한국 간다\"…태국·홍콩 팬 5명 중 1명 한국 방문 - 이데일리",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeWkzZEpGX29ndDF6VnhfYlpDLTUwQW9fbTNnSkd0MnpRVHpXNEJCdG5OcHRnSlp4V3FwemRrLWM0UnprbmNiR0pjQ3ZBdTVWNkx2TnRBTEJEYllCUTJoeFJuSG9VWDRieEVNaHphd0wxMXhKeldZZEQ4MnNVZ1J3cA?oc=5",
       "published": "Thu, 05 Nov 2026 00:52:33 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNeWkzZEpGX29ndDF6VnhfYlpDLTUwQW9fbTNnSkd0MnpRVHpXNEJCdG5OcHRnSlp4V3FwemRrLWM0UnprbmNiR0pjQ3ZBdTVWNkx2TnRBTEJEYllCUTJoeFJuSG9VWDRieEVNaHphd0wxMXhKeldZZEQ4MnNVZ1J3cA?oc=5\" target=\"_blank\">\"K팝 공연 따라 한국 간다\"…태국·홍콩 팬 5명 중 1명 한국 방문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-      "source": "이데일리"
+      "source": "이데일리",
+      "fullContent": {
+        "beginner": "K팝 공연을 보고 싶어요. 태국과 홍콩에서 많은 팬이 한국에 옵니다. 팬들은 한국의 문화를 경험하고 싶어합니다.",
+        "intermediate": "K팝의 인기가 세계적으로 높아지고 있습니다. 태국과 홍콩의 팬들 중 5명 중 1명이 한국을 방문한다고 합니다. 이들은 K팝 공연을 보러 오고, 한국의 다양한 문화를 경험하려고 합니다. 이러한 현상은 한국 관광 산업에도 긍정적인 영향을 미치고 있습니다.",
+        "advanced": "최근 조사에 따르면, 태국과 홍콩의 K팝 팬들 중 약 20%가 한국을 방문하고 있다는 결과가 나왔습니다. 이들은 K팝 공연을 관람하는 것뿐만 아니라 한국의 전통 문화와 현대 문화를 동시에 경험하려는 것으로 나타났습니다. 특히, K팝 공연은 한국을 방문하는 주요한 이유로 꼽히고 있습니다. 이런 추세는 한국 관광 산업의 발전에 큰 기여를 할 것으로 기대됩니다.",
+        "original": "K팝 공연 따라 한국 간다…태국·홍콩 팬 5명 중 1명 한국 방문",
+        "titleTranslation": "追隨K-pop演出來到韓國…泰國·香港粉絲中有1/5訪問韓國",
+        "translations": {
+          "beginner": [
+            "我想看K-pop演出。",
+            "來自泰國和香港的很多粉絲會來韓國。",
+            "粉絲們想體驗韓國文化。"
+          ],
+          "intermediate": [
+            "K-pop的受歡迎程度正在全球上升。",
+            "來自泰國和香港的粉絲中，有五分之一的人會訪問韓國。",
+            "他們來看K-pop演出，並想體驗韓國的多樣文化。",
+            "這種現象對韓國旅遊業也產生了積極影響。"
+          ],
+          "advanced": [
+            "最近的調查顯示，來自泰國和香港的K-pop粉絲中約20%訪問韓國。",
+            "他們不僅觀看K-pop演出，還希望同時體驗韓國的傳統文化和現代文化。",
+            "特別是，K-pop演出被認為是訪問韓國的主要原因。",
+            "這種趨勢預計將對韓國旅遊業的發展做出重大貢獻。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "공연",
+          "reading": "gongyeon",
+          "meaning": "演出",
+          "example": "K팝 공연은 아주 인기가 많습니다.",
+          "exampleTranslation": "K-pop演出非常受歡迎。",
+          "level": "3"
+        },
+        {
+          "word": "팬",
+          "reading": "paen",
+          "meaning": "粉絲",
+          "example": "많은 팬들이 한국에 옵니다.",
+          "exampleTranslation": "許多粉絲來到韓國。",
+          "level": "1"
+        },
+        {
+          "word": "방문",
+          "reading": "bangmun",
+          "meaning": "訪問",
+          "example": "한국을 방문하는 것이 꿈입니다.",
+          "exampleTranslation": "訪問韓國是我的夢想。",
+          "level": "2"
+        },
+        {
+          "word": "문화",
+          "reading": "munhwa",
+          "meaning": "文化",
+          "example": "한국 문화에 대해 배우고 싶어요.",
+          "exampleTranslation": "我想學習有關韓國文化的知識。",
+          "level": "3"
+        },
+        {
+          "word": "체험",
+          "reading": "cheheom",
+          "meaning": "體驗",
+          "example": "한국의 전통 문화를 체험하고 싶습니다.",
+          "exampleTranslation": "我想體驗韓國的傳統文化。",
+          "level": "3"
+        },
+        {
+          "word": "산업",
+          "reading": "saneop",
+          "meaning": "產業",
+          "example": "관광 산업이 발전하고 있습니다.",
+          "exampleTranslation": "旅遊業正在發展。",
+          "level": "4"
+        },
+        {
+          "word": "조사",
+          "reading": "josa",
+          "meaning": "調查",
+          "example": "최근 조사가 발표되었습니다.",
+          "exampleTranslation": "最近發表了調查。",
+          "level": "3"
+        },
+        {
+          "word": "영향",
+          "reading": "yeonghyang",
+          "meaning": "影響",
+          "example": "이 현상이 긍정적인 영향을 미칩니다.",
+          "exampleTranslation": "這一現象產生了積極的影響。",
+          "level": "4"
+        },
+        {
+          "word": "추세",
+          "reading": "chuse",
+          "meaning": "趨勢",
+          "example": "이런 추세가 계속될 것입니다.",
+          "exampleTranslation": "這種趨勢將會持續下去。",
+          "level": "4"
+        },
+        {
+          "word": "기여",
+          "reading": "giyeo",
+          "meaning": "貢獻",
+          "example": "관광 산업에 기여하고 있습니다.",
+          "exampleTranslation": "對旅遊業作出了貢獻。",
+          "level": "4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "V + 고 싶다",
+          "explanation": "表示想要做某事的願望。",
+          "example": "K팝 공연을 보고 싶어요.",
+          "exampleTranslation": "我想看K-pop演出。",
+          "level": "2"
+        },
+        {
+          "pattern": "N + 중이다",
+          "explanation": "表示正在進行某個狀態或行為。",
+          "example": "팬들이 한국을 방문하는 중입니다.",
+          "exampleTranslation": "粉絲們正在訪問韓國。",
+          "level": "3"
+        },
+        {
+          "pattern": "N + 에 대해",
+          "explanation": "表示關於某事物的內容。",
+          "example": "한국 문화에 대해 이야기해요.",
+          "exampleTranslation": "談論韓國文化。",
+          "level": "4"
+        },
+        {
+          "pattern": "V + (으)ᄂ다고 하다",
+          "explanation": "報導或引述某人的話。",
+          "example": "조사 결과가 발표되었다고 합니다.",
+          "exampleTranslation": "據說調查結果已經發表。",
+          "level": "4"
+        },
+        {
+          "pattern": "N + (으)로",
+          "explanation": "表示某事物的理由或方式。",
+          "example": "K팝 공연으로 한국에 갑니다.",
+          "exampleTranslation": "因為K-pop演出而去韓國。",
+          "level": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "K팝 공연을 보고 싶은 이유는 무엇인가요?",
+          "options": [
+            "한국 문화가 매력적이다.",
+            "한국 음식이 맛있다.",
+            "K팝 스타를 만나고 싶다.",
+            "모두 정답이다."
+          ],
+          "correctAnswer": 3,
+          "explanation": "所有選項都是對於想看K-pop演出的理由。",
+          "translation": "想看K-pop演出的原因是什麼？"
+        },
+        {
+          "question": "태국과 홍콩 팬 중 몇 명이 한국을 방문한다고 했나요?",
+          "options": [
+            "1명 중 5명",
+            "1명 중 10명",
+            "2명 중 5명",
+            "3명 중 10명"
+          ],
+          "correctAnswer": 0,
+          "explanation": "調查顯示，5名粉絲中有1名會訪問韓國。",
+          "translation": "泰國和香港的粉絲中有多少人會訪問韓國？"
+        },
+        {
+          "question": "이 기사는 어떤 주제를 다루고 있나요?",
+          "options": [
+            "한국의 역사",
+            "K팝과 팬 문화",
+            "한국의 전통 음식",
+            "한국의 기후"
+          ],
+          "correctAnswer": 1,
+          "explanation": "這篇文章探討了K-pop及其粉絲文化。",
+          "translation": "這篇文章講述了什麼主題？"
+        },
+        {
+          "question": "K팝 공연이 한국 관광 산업에 미치는 영향은 무엇인가요?",
+          "options": [
+            "부정적 영향",
+            "중립적 영향",
+            "긍정적 영향",
+            "영향 없음"
+          ],
+          "correctAnswer": 2,
+          "explanation": "K-pop演出對韓國旅遊業有積極的影響。",
+          "translation": "K-pop演出對韓國旅遊業的影響是什麼？"
+        },
+        {
+          "question": "K팝 팬들이 한국에서 무엇을 체험하길 원할까요?",
+          "options": [
+            "한국 음식",
+            "전통 문화",
+            "K팝 공연",
+            "모두 정답이다."
+          ],
+          "correctAnswer": 3,
+          "explanation": "粉絲們希望體驗各種文化和演出。",
+          "translation": "K-pop粉絲希望在韓國體驗什麼？"
+        }
+      ]
     },
     {
       "title": "'콘서트 여행' 대세...“K-팝 공연 따라 韓 찾는 해외 팬” - 싱글리스트",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOFFSZlFRMFBBWXRQZ2xpWFpsbE0weFlnTHJCcV9qYnNyNkx4YThVTy0tOHJ1UXhsTWpqWGwtMmt4SmFPeDNnYXQyVVBmSTJ2WVJYaEhvU3BZM2J1QU1LWmdncFZ1UQ?oc=5",
       "published": "Thu, 05 Nov 2026 09:49:32 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOFFSZlFRMFBBWXRQZ2xpWFpsbE0weFlnTHJCcV9qYnNyNkx4YThVTy0tOHJ1UXhsTWpqWGwtMmt4SmFPeDNnYXQyVVBmSTJ2WVJYaEhvU3BZM2J1QU1LWmdncFZ1UQ?oc=5\" target=\"_blank\">'콘서트 여행' 대세...“K-팝 공연 따라 韓 찾는 해외 팬”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">싱글리스트</font>",
-      "source": "싱글리스트"
+      "source": "싱글리스트",
+      "fullContent": {
+        "beginner": "K-팝은 해외에서 인기가 많습니다. 많은 팬이 한국에 옵니다. 그들은 콘서트를 보러 옵니다.",
+        "intermediate": "최근 K-팝 콘서트가 많은 해외 팬을 한국으로 끌어들이고 있습니다. 이들은 한국에서 공연을 즐기고 다양한 문화를 경험하고자 합니다. 특히, 유명 아티스트의 공연이 많은 관심을 받고 있습니다.",
+        "advanced": "최근 '콘서트 여행'이라는 트렌드가 대세로 떠오르며, K-팝 공연을 따라 한국을 찾는 해외 팬들이 증가하고 있습니다. 이러한 팬들은 공연 관람뿐만 아니라 한국의 다양한 문화와 관광지를 체험하는 데 큰 흥미를 보이고 있습니다. 특히, 유명 아티스트의 공연은 많은 팬들에게 특별한 경험으로 여겨집니다. 그 결과, 한국의 관광 산업에는 긍정적인 영향을 미치고 있습니다.",
+        "original": "'콘서트 여행' 대세...“K-팝 공연 따라 韓 찾는 해외 팬”",
+        "titleTranslation": "「演唱會旅行」成趨勢…「隨著K-POP演出來到韓國的海外粉絲」",
+        "translations": {
+          "beginner": [
+            "K-POP在海外非常受歡迎。",
+            "許多粉絲來到韓國。",
+            "他們是來看演唱會的。"
+          ],
+          "intermediate": [
+            "最近，K-POP演唱會吸引了許多海外粉絲來到韓國。",
+            "他們希望在韓國享受表演並體驗多樣的文化。",
+            "特別是，知名藝人的演出受到很多關注。"
+          ],
+          "advanced": [
+            "最近，名為「演唱會旅行」的趨勢正在興起，隨著K-POP演出而來的海外粉絲正在增加。",
+            "這些粉絲不僅觀賞演出，還對體驗韓國的各種文化和旅遊景點表現出濃厚的興趣。",
+            "特別是，知名藝人的演出被許多粉絲視為特別的體驗。",
+            "因此，這對韓國的旅遊產業產生了積極的影響。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "콘서트",
+          "reading": "konseoteu",
+          "meaning": "演唱會",
+          "example": "K-팝 콘서트를 보러 갔어요.",
+          "exampleTranslation": "我去看K-POP演唱會。",
+          "level": "3"
+        },
+        {
+          "word": "팬",
+          "reading": "paen",
+          "meaning": "粉絲",
+          "example": "그는 K-팝 팬이에요.",
+          "exampleTranslation": "他是K-POP粉絲。",
+          "level": "1"
+        },
+        {
+          "word": "한국",
+          "reading": "hanguk",
+          "meaning": "韓國",
+          "example": "한국 음식이 맛있어요.",
+          "exampleTranslation": "韓國的食物很好吃。",
+          "level": "1"
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "旅行",
+          "example": "여행을 가고 싶어요.",
+          "exampleTranslation": "我想去旅行。",
+          "level": "1"
+        },
+        {
+          "word": "문화",
+          "reading": "munhwa",
+          "meaning": "文化",
+          "example": "한국 문화를 배우고 싶어요.",
+          "exampleTranslation": "我想學習韓國文化。",
+          "level": "3"
+        },
+        {
+          "word": "관광",
+          "reading": "gwangwang",
+          "meaning": "觀光",
+          "example": "관광지를 방문했어요.",
+          "exampleTranslation": "我去了觀光景點。",
+          "level": "3"
+        },
+        {
+          "word": "증가하다",
+          "reading": "jeunggahada",
+          "meaning": "增加",
+          "example": "관광객이 증가하고 있어요.",
+          "exampleTranslation": "遊客在增加。",
+          "level": "4"
+        },
+        {
+          "word": "체험하다",
+          "reading": "cheheomhada",
+          "meaning": "體驗",
+          "example": "새로운 문화를 체험했어요.",
+          "exampleTranslation": "我體驗了新的文化。",
+          "level": "3"
+        },
+        {
+          "word": "특별하다",
+          "reading": "teugbyeolhada",
+          "meaning": "特別的",
+          "example": "특별한 경험이었어요.",
+          "exampleTranslation": "這是一個特別的經歷。",
+          "level": "3"
+        },
+        {
+          "word": "영향",
+          "reading": "yeonghyang",
+          "meaning": "影響",
+          "example": "여행이 경제에 영향을 미쳐요.",
+          "exampleTranslation": "旅行對經濟有影響。",
+          "level": "4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "다고 하다",
+          "explanation": "引用別人的話或意見。",
+          "example": "그는 한국에 간다고 해요.",
+          "exampleTranslation": "他說他要去韓國。",
+          "level": "4"
+        },
+        {
+          "pattern": "으려고 하다",
+          "explanation": "表示打算或計劃做某事。",
+          "example": "여행을 하려고 해요.",
+          "exampleTranslation": "我打算去旅行。",
+          "level": "3"
+        },
+        {
+          "pattern": "같이",
+          "explanation": "表示一起或和某人一起。",
+          "example": "친구와 같이 갔어요.",
+          "exampleTranslation": "我和朋友一起去了。",
+          "level": "1"
+        },
+        {
+          "pattern": "때문에",
+          "explanation": "表示因為某個原因。",
+          "example": "비 때문에 늦었어요.",
+          "exampleTranslation": "因為下雨所以遲到了。",
+          "level": "4"
+        },
+        {
+          "pattern": "게 되다",
+          "explanation": "表示變成某種狀態。",
+          "example": "관광객이 많아지게 되었어요.",
+          "exampleTranslation": "變得有很多遊客。",
+          "level": "4"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "K-팝 콘서트가 무엇인가요?",
+          "options": [
+            "여행",
+            "영화",
+            "연극",
+            "음악 공연"
+          ],
+          "correctAnswer": 3,
+          "explanation": "K-팝 콘서트是音樂表演的一種。",
+          "translation": "K-POP演唱會是什麼？"
+        },
+        {
+          "question": "해외 팬들이 한국에 오는 이유는 무엇인가요?",
+          "options": [
+            "음식",
+            "관광",
+            "콘서트",
+            "문화"
+          ],
+          "correctAnswer": 2,
+          "explanation": "海外粉絲來韓國的原因是為了看演唱會。",
+          "translation": "海外粉絲來韓國的原因是什麼？"
+        },
+        {
+          "question": "콘서트를 보러 가는 것은 어떤 경험인가요?",
+          "options": [
+            "특별한 경험",
+            "일상적인 경험",
+            "지루한 경험",
+            "무의미한 경험"
+          ],
+          "correctAnswer": 0,
+          "explanation": "看演唱會是一種特別的經歷。",
+          "translation": "去看演唱會是什麼樣的經歷？"
+        },
+        {
+          "question": "K-팝 공연은 어떤 영향을 미치나요?",
+          "options": [
+            "부정적인 영향",
+            "경제에 긍정적인 영향",
+            "문화에 부정적인 영향",
+            "없음"
+          ],
+          "correctAnswer": 1,
+          "explanation": "K-POP演出對經濟有正面影響。",
+          "translation": "K-POP演出會產生什麼影響？"
+        },
+        {
+          "question": "팬들이 한국에서 무엇을 체험하고 싶어 하나요?",
+          "options": [
+            "음식",
+            "문화",
+            "관광",
+            "모두"
+          ],
+          "correctAnswer": 3,
+          "explanation": "粉絲在韓國想要體驗所有的東西。",
+          "translation": "粉絲們希望在韓國體驗什麼？"
+        }
+      ]
     }
   ],
   "japanese": [
     {
-      "title": "元プロボウラーの中山律子さんが死去 84歳 女子プロ1期生 協会会長も務めるなど発展に貢献（スポニチアネックス） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNUZOUHBLY3N0RlZNVGk4YURyR1JxT1h4ODBaTWZJTDVmMmFsbTFzREloNUloekV3cDVacTQxZkxwRlR3VDZKcDJFTU1pSjItVVo3bUJmTW80c1BCZlZCUGxldFFBYW5JcS1uS0RlWDBlMkk2WVAyN3FUQS0xanM?oc=5",
-      "published": "Sat, 07 Nov 2026 06:39:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNUZOUHBLY3N0RlZNVGk4YURyR1JxT1h4ODBaTWZJTDVmMmFsbTFzREloNUloekV3cDVacTQxZkxwRlR3VDZKcDJFTU1pSjItVVo3bUJmTW80c1BCZlZCUGxldFFBYW5JcS1uS0RlWDBlMkk2WVAyN3FUQS0xanM?oc=5\" target=\"_blank\">元プロボウラーの中山律子さんが死去 84歳 女子プロ1期生 協会会長も務めるなど発展に貢献（スポニチアネックス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "Yahoo!ニュース"
+      "title": "元プロボウラーの中山律子さんが死去 84歳 女子プロ1期生 協会会長も務めるなど発展に貢献 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaWHRmMUpMYWxjSVdvLU1rRVBvdllnbTdmaTV4di16RS1Kb0tlUEFBTXFHakVPNDlNQzdCcUdKQ1pUM0hSR1R0b25ZTENESW5r?oc=5",
+      "published": "Sat, 07 Nov 2026 06:53:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaWHRmMUpMYWxjSVdvLU1rRVBvdllnbTdmaTV4di16RS1Kb0tlUEFBTXFHakVPNDlNQzdCcUdKQ1pUM0hSR1R0b25ZTENESW5r?oc=5\" target=\"_blank\">元プロボウラーの中山律子さんが死去 84歳 女子プロ1期生 協会会長も務めるなど発展に貢献</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "中山律子さんは元プロボウラーです。彼女は84歳で亡くなりました。中山さんは女子プロボウリングの初期メンバーです。",
+        "intermediate": "中山律子さんは、女子プロボウラーとして非常に有名でした。彼女は84歳で、プロボウリング協会の会長も務めていました。中山さんはボウリングの発展に大きく貢献しました。",
+        "advanced": "中山律子さんが84歳で亡くなったという知らせは、多くのボウリングファンに衝撃を与えました。彼女は女子プロボウラーの第一期生として知られ、協会の会長を務めながら、ボウリングの普及と発展に寄与してきました。中山さんの功績は、後進の選手たちにも大きな影響を与えました。このような偉大な人物を失ったことは、ボウリング界にとって大きな損失です。",
+        "original": "元プロボウラーの中山律子さんが死去 84歳 女子プロ1期生 協会会長も務めるなど発展に貢献",
+        "titleTranslation": "前職保齡球手中山律子去世，享年84歲，為女子職業保齡球第一期生，曾任協會會長，貢獻良多",
+        "translations": {
+          "beginner": [
+            "中山律子是前職保齡球手。",
+            "她享年84歲去世。",
+            "中山是女子職業保齡球的初始成員。"
+          ],
+          "intermediate": [
+            "中山律子非常有名的女子職業保齡球手。",
+            "她在84歲時去世，曾任職業保齡球協會會長。",
+            "中山對保齡球的發展做出了巨大貢獻。"
+          ],
+          "advanced": [
+            "中山律子84歲去世的消息震驚了許多保齡球迷。",
+            "她被譽為女子職業保齡球的第一期生，並在協會中任職會長，致力於保齡球的普及與發展。",
+            "中山的成就對於後輩選手們產生了深遠的影響。",
+            "失去這樣一位偉大的人物，對於保齡球界來說是一個巨大的損失。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "プロボウラー",
+          "reading": "purobōrā",
+          "meaning": "職業保齡球手",
+          "example": "彼女はプロボウラーです。",
+          "exampleTranslation": "她是一位職業保齡球手。",
+          "level": "N3"
+        },
+        {
+          "word": "死去",
+          "reading": "shikyaku",
+          "meaning": "去世",
+          "example": "彼は昨年死去しました。",
+          "exampleTranslation": "他去年去世了。"
+        },
+        {
+          "word": "協会",
+          "reading": "kyōkai",
+          "meaning": "協會",
+          "example": "保齡球協会に入会しました。",
+          "exampleTranslation": "我加入了保齡球協會。",
+          "level": "N1"
+        },
+        {
+          "word": "貢献",
+          "reading": "kōken",
+          "meaning": "貢獻",
+          "example": "彼女は多くの貢献をしました。",
+          "exampleTranslation": "她做出了很多貢獻。",
+          "level": "N3"
+        },
+        {
+          "word": "発展",
+          "reading": "hatten",
+          "meaning": "發展",
+          "example": "この地域の発展は重要です。",
+          "exampleTranslation": "這個地區的發展很重要。",
+          "level": "N3"
+        },
+        {
+          "word": "女子",
+          "reading": "joshi",
+          "meaning": "女性",
+          "example": "女子チームが勝ちました。",
+          "exampleTranslation": "女子隊獲勝了。",
+          "level": "N3"
+        },
+        {
+          "word": "期生",
+          "reading": "kisē",
+          "meaning": "初期生",
+          "example": "彼女は最初の期生です。",
+          "exampleTranslation": "她是第一期生。"
+        },
+        {
+          "word": "有名",
+          "reading": "yūmei",
+          "meaning": "有名",
+          "example": "彼は有名な作家です。",
+          "exampleTranslation": "他是一位著名的作家。",
+          "level": "N5"
+        },
+        {
+          "word": "影響",
+          "reading": "eikyō",
+          "meaning": "影響",
+          "example": "彼女は私に大きな影響を与えました。",
+          "exampleTranslation": "她對我有很大的影響。",
+          "level": "N3"
+        },
+        {
+          "word": "損失",
+          "reading": "sonshitsu",
+          "meaning": "損失",
+          "example": "これは大きな損失です。",
+          "exampleTranslation": "這是一個巨大的損失。",
+          "level": "N1"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜ことがある",
+          "explanation": "表示過去的經驗或情況。",
+          "example": "彼女は保齡球をすることがある。",
+          "exampleTranslation": "她有打保齡球的經驗。",
+          "level": "N3"
+        },
+        {
+          "pattern": "〜ために",
+          "explanation": "表示目的或原因。",
+          "example": "彼女はボウリングの発展のために働きました。",
+          "exampleTranslation": "她為了保齡球的發展而工作。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜とともに",
+          "explanation": "表示伴隨或一起。",
+          "example": "彼女は協会とともに成長しました。",
+          "exampleTranslation": "她和協會一起成長。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜によって",
+          "explanation": "表示原因或手段。",
+          "example": "彼女は努力によって成功しました。",
+          "exampleTranslation": "她是通過努力獲得成功的。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜ようにする",
+          "explanation": "表示努力做到某事。",
+          "example": "毎日運動するようにしています。",
+          "exampleTranslation": "我努力每天運動。",
+          "level": "N2"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "中山律子さんは何歳で亡くなりましたか？",
+          "options": [
+            "80歳",
+            "84歳",
+            "90歳",
+            "75歳"
+          ],
+          "correctAnswer": 1,
+          "explanation": "中山律子さんは84歳で亡くなりました。",
+          "translation": "中山律子去世的年齡是多少？"
+        },
+        {
+          "question": "中山さんはどのような職業でしたか？",
+          "options": [
+            "プロボウラー",
+            "コーチ",
+            "選手",
+            "観客"
+          ],
+          "correctAnswer": 0,
+          "explanation": "中山律子さんはプロボウラーでした。",
+          "translation": "中山是什麼職業？"
+        },
+        {
+          "question": "中山さんはどの協会の会長を務めていましたか？",
+          "options": [
+            "バスケットボール協会",
+            "サッカー協会",
+            "プロボウリング協会",
+            "テニス協会"
+          ],
+          "correctAnswer": 2,
+          "explanation": "中山さんはプロボウリング協会の会長を務めていました。",
+          "translation": "中山是什麼協會的會長？"
+        },
+        {
+          "question": "中山さんは何に貢献しましたか？",
+          "options": [
+            "音楽",
+            "ボウリング",
+            "映画",
+            "スポーツ"
+          ],
+          "correctAnswer": 1,
+          "explanation": "中山さんはボウリングの発展に貢献しました。",
+          "translation": "中山貢獻了什麼？"
+        },
+        {
+          "question": "中山律子さんは何期生ですか？",
+          "options": [
+            "第一期生",
+            "第二期生",
+            "第三期生",
+            "第四期生"
+          ],
+          "correctAnswer": 0,
+          "explanation": "中山律子さんは女子プロボウラーの第一期生です。",
+          "translation": "中山是第幾期生？"
+        }
+      ]
     },
     {
       "title": "中国の大学など 日本語学ぶ学生減 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92VlJ0eWZmMGxJRE1fV3p0eWpIUUtkcVdqbU5lSm4tRllvQWc1cDZ2NEtIbkRDbzluTjZvSXlYaTZvSHR1NFFWNWZMWUlRWDRB?oc=5",
       "published": "Sat, 07 Nov 2026 07:57:28 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE92VlJ0eWZmMGxJRE1fV3p0eWpIUUtkcVdqbU5lSm4tRllvQWc1cDZ2NEtIbkRDbzluTjZvSXlYaTZvSHR1NFFWNWZMWUlRWDRB?oc=5\" target=\"_blank\">中国の大学など 日本語学ぶ学生減</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "Yahoo!ニュース"
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "中国の大学で、日本語を学ぶ学生が少なくなっています。多くの学生は英語を選びます。日本語の人気が減っています。",
+        "intermediate": "最近、中国の大学では日本語を学ぶ学生が減少しています。これは英語の人気が高まっているためです。多くの学生は将来の仕事のために英語を選びます。日本語を学ぶ理由が少なくなっています。教師たちはこの問題を心配しています。",
+        "advanced": "中国の大学において、日本語を学ぶ学生数が減少していることが報告されています。この現象の背景には、英語の需要が高まっていることがあります。多くの学生は国際的なキャリアを考え、英語を選択しています。そのため、日本語の授業は減少し、教師たちは学生の興味を引く方法を模索しています。日本文化への関心が薄れる中で、日本語教育の重要性が再評価されるべきという意見もあります。",
+        "original": "中国の大学など 日本語学ぶ学生減",
+        "titleTranslation": "中國的大学等 日本語學習學生減少",
+        "translations": {
+          "beginner": [
+            "在中國的大學裡，學習日文的學生變少了。",
+            "很多學生選擇了英文。",
+            "日文的受歡迎程度下降了。"
+          ],
+          "intermediate": [
+            "最近，中國的大學裡學習日文的學生在減少。",
+            "這是因為英文的受歡迎程度上升。",
+            "很多學生為了未來的工作選擇了英文。",
+            "學習日文的理由變少了。",
+            "教師們對這個問題感到擔憂。"
+          ],
+          "advanced": [
+            "在中國的大學裡，學習日文的學生數量減少的情況被報導出來。",
+            "這一現象的背景是英文需求的上升。",
+            "許多學生考慮到國際職業，選擇了英文。",
+            "因此，日文課程數量減少，教師們在尋找吸引學生興趣的方法。",
+            "在對日本文化的興趣減弱的情況下，日文教育的重要性也應該重新評估。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "大学",
+          "reading": "daigaku",
+          "meaning": "大學",
+          "example": "中国の大学に通っています。",
+          "exampleTranslation": "我在中國的大學就讀。",
+          "level": "N5"
+        },
+        {
+          "word": "学生",
+          "reading": "gakusei",
+          "meaning": "學生",
+          "example": "学生が少なくなっています。",
+          "exampleTranslation": "學生變少了。",
+          "level": "N5"
+        },
+        {
+          "word": "日本語",
+          "reading": "nihongo",
+          "meaning": "日語",
+          "example": "日本語を学びたいです。",
+          "exampleTranslation": "我想學習日語。"
+        },
+        {
+          "word": "英語",
+          "reading": "eigo",
+          "meaning": "英語",
+          "example": "多くの学生が英語を選びます。",
+          "exampleTranslation": "許多學生選擇了英語。",
+          "level": "N5"
+        },
+        {
+          "word": "人気",
+          "reading": "ninki",
+          "meaning": "人氣",
+          "example": "日本語の人気が減っています。",
+          "exampleTranslation": "日語的受歡迎程度正在下降。",
+          "level": "N3"
+        },
+        {
+          "word": "理由",
+          "reading": "riyuu",
+          "meaning": "理由",
+          "example": "学ぶ理由が少なくなっています。",
+          "exampleTranslation": "學習的理由變少了。",
+          "level": "N4"
+        },
+        {
+          "word": "教師",
+          "reading": "kyoushi",
+          "meaning": "教師",
+          "example": "教師たちは心配しています。",
+          "exampleTranslation": "教師們感到擔憂。",
+          "level": "N3"
+        },
+        {
+          "word": "文化",
+          "reading": "bunka",
+          "meaning": "文化",
+          "example": "日本文化に興味があります。",
+          "exampleTranslation": "我對日本文化感興趣。",
+          "level": "N4"
+        },
+        {
+          "word": "教育",
+          "reading": "kyouiku",
+          "meaning": "教育",
+          "example": "日本語教育が重要です。",
+          "exampleTranslation": "日語教育是重要的。",
+          "level": "N4"
+        },
+        {
+          "word": "問題",
+          "reading": "mondai",
+          "meaning": "問題",
+          "example": "この問題を解決したいです。",
+          "exampleTranslation": "我想解決這個問題。",
+          "level": "N5"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜がある",
+          "explanation": "表示某事物的存在。",
+          "example": "大学に日本語の授業がある。",
+          "exampleTranslation": "大學裡有日語課程。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜ために",
+          "explanation": "表示目的或原因。",
+          "example": "仕事のために英語を勉強します。",
+          "exampleTranslation": "為了工作我學習英語。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜ようになる",
+          "explanation": "表示某種狀態的變化。",
+          "example": "日本語を学ぶ学生が増えるようになりました。",
+          "exampleTranslation": "學習日語的學生數量開始增加了。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜について",
+          "explanation": "表示關於某事的話題。",
+          "example": "日本文化について話しましょう。",
+          "exampleTranslation": "我們來談談日本文化吧。",
+          "level": "N3"
+        },
+        {
+          "pattern": "〜ことができる",
+          "explanation": "表示能力或可能性。",
+          "example": "日本語を話すことができます。",
+          "exampleTranslation": "我能說日語。",
+          "level": "N2"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "日本語を学ぶ学生はどうなっていますか？",
+          "options": [
+            "増えている",
+            "減っている",
+            "変わらない",
+            "わからない"
+          ],
+          "correctAnswer": 1,
+          "explanation": "根據新聞，學習日語的學生在減少。",
+          "translation": "學習日語的學生現在怎麼樣？"
+        },
+        {
+          "question": "多くの学生は何を選びますか？",
+          "options": [
+            "日本語",
+            "中国語",
+            "英語",
+            "フランス語"
+          ],
+          "correctAnswer": 2,
+          "explanation": "多數學生選擇英語作為外語。",
+          "translation": "許多學生選擇什麼？"
+        },
+        {
+          "question": "教師たちは何を心配していますか？",
+          "options": [
+            "学生の減少",
+            "授業の質",
+            "教育の未来",
+            "文化の変化"
+          ],
+          "correctAnswer": 0,
+          "explanation": "教師們擔心學生數量的減少。",
+          "translation": "教師們擔心什麼？"
+        },
+        {
+          "question": "日本語の人気はどうなっていますか？",
+          "options": [
+            "上がっている",
+            "下がっている",
+            "変わらない",
+            "新しい"
+          ],
+          "correctAnswer": 1,
+          "explanation": "日語的受歡迎程度正在下降。",
+          "translation": "日語的受歡迎程度現在怎麼樣？"
+        },
+        {
+          "question": "何の言語を学ぶ学生が減っていますか？",
+          "options": [
+            "英語",
+            "日本語",
+            "中国語",
+            "フランス語"
+          ],
+          "correctAnswer": 1,
+          "explanation": "學習日語的學生正在減少。",
+          "translation": "哪種語言的學習者在減少？"
+        }
+      ]
     },
     {
       "title": "【独自】インドの映画館に『ドラえもん』初登場、早くも”日本アニメ映画2位” 現地の熱量と今上映する意義（オタク総研） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OWkdIemM2Y0JMekhkdUFoeGpNWG5IZEFyMV9WajRkMXF5V0NNODZlLVREaGxDVGFTUjlNWWNQU1ZEd0dXeG4zdW5JOWYydVVFMzhzX1RBdGFvczd1YkRKNHpwMWpoZlhIV25WZWk0UktpYkJkdFF2LThYSWstbTA?oc=5",
       "published": "Sat, 07 Nov 2026 00:17:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1OWkdIemM2Y0JMekhkdUFoeGpNWG5IZEFyMV9WajRkMXF5V0NNODZlLVREaGxDVGFTUjlNWWNQU1ZEd0dXeG4zdW5JOWYydVVFMzhzX1RBdGFvczd1YkRKNHpwMWpoZlhIV25WZWk0UktpYkJkdFF2LThYSWstbTA?oc=5\" target=\"_blank\">【独自】インドの映画館に『ドラえもん』初登場、早くも”日本アニメ映画2位” 現地の熱量と今上映する意義（オタク総研）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "ロシアのＪＴ資産「一時管理」、日本の制裁緩和引き出す狙いの「揺さぶり」か…これまで外国企業３４社対象（読売新聞オンライン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wWFFvTzV0U3FMRlFuY0lnd2ZRdFRPVV9pZzJzUm1LZVp5am9SMlNsaWc3RC1XcHlZRWxyWHBSWTZ4eU9acDE1aGxBT1pCU19Jc3hhRFpnWlJYb0dWdFJQd2UtNDc2cEdCN2ZzSWZpZnl5by1rSUZEZm5pNkVVQWM?oc=5",
-      "published": "Sat, 07 Nov 2026 00:20:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9wWFFvTzV0U3FMRlFuY0lnd2ZRdFRPVV9pZzJzUm1LZVp5am9SMlNsaWc3RC1XcHlZRWxyWHBSWTZ4eU9acDE1aGxBT1pCU19Jc3hhRFpnWlJYb0dWdFJQd2UtNDc2cEdCN2ZzSWZpZnl5by1rSUZEZm5pNkVVQWM?oc=5\" target=\"_blank\">ロシアのＪＴ資産「一時管理」、日本の制裁緩和引き出す狙いの「揺さぶり」か…これまで外国企業３４社対象（読売新聞オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "Yahoo!ニュース"
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "インドで『ドラえもん』の映画が始まりました。多くの人が見に来ました。映画は人気です。",
+        "intermediate": "インドの映画館で『ドラえもん』が初めて上映されました。この映画はすぐに日本のアニメ映画の中で2位になりました。現地の人々はとても熱心です。",
+        "advanced": "インドにおいて、映画館で『ドラえもん』が初めて上映され、早くも日本アニメ映画ランキングで2位にランクインしました。この現象は、インドの文化における日本アニメの影響力を示しています。現地の観客は、アニメのストーリーやキャラクターに深い感情を抱いており、上映の意義はますます高まっています。",
+        "original": "【独自】インドの映画館に『ドラえもん』初登場、早くも”日本アニメ映画2位” 現地の熱量と今上映する意義（オタク総研）",
+        "titleTranslation": "獨家：印度影院首次上映《哆啦A夢》，迅速成為日本動畫電影第二名，當地熱度及上映的意義",
+        "translations": {
+          "beginner": [
+            "在印度開始了《哆啦A夢》的電影。",
+            "很多人來看。",
+            "電影很受歡迎。"
+          ],
+          "intermediate": [
+            "《哆啦A夢》在印度的電影館首次上映。",
+            "這部電影迅速成為日本動畫電影的第二名。",
+            "當地的人們非常熱情。"
+          ],
+          "advanced": [
+            "在印度，電影館首次上映《哆啦A夢》，並迅速在日本動畫電影排行榜中名列第二。",
+            "這一現象顯示了日本動畫對印度文化的影響力。",
+            "當地觀眾對動畫的故事和角色抱有深厚的情感，上映的意義日益凸顯。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "映画",
+          "reading": "eiga",
+          "meaning": "電影",
+          "example": "映画を見に行きます。",
+          "exampleTranslation": "我要去看電影。",
+          "level": "N5"
+        },
+        {
+          "word": "人気",
+          "reading": "ninki",
+          "meaning": "受歡迎",
+          "example": "この映画は人気です。",
+          "exampleTranslation": "這部電影很受歡迎。",
+          "level": "N3"
+        },
+        {
+          "word": "上映",
+          "reading": "jōei",
+          "meaning": "上映",
+          "example": "映画が上映されます。",
+          "exampleTranslation": "電影將上映。"
+        },
+        {
+          "word": "熱量",
+          "reading": "netsuryō",
+          "meaning": "熱情，熱度",
+          "example": "現地の熱量がすごいです。",
+          "exampleTranslation": "當地的熱度真的很高。",
+          "level": "N1"
+        },
+        {
+          "word": "映画館",
+          "reading": "eigakan",
+          "meaning": "影院",
+          "example": "映画館に行きます。",
+          "exampleTranslation": "我要去影院。",
+          "level": "N5"
+        },
+        {
+          "word": "アニメ",
+          "reading": "anime",
+          "meaning": "動畫",
+          "example": "日本のアニメが好きです。",
+          "exampleTranslation": "我喜歡日本動畫。"
+        },
+        {
+          "word": "文化",
+          "reading": "bunka",
+          "meaning": "文化",
+          "example": "文化を学ぶことは大事です。",
+          "exampleTranslation": "學習文化是很重要的。",
+          "level": "N4"
+        },
+        {
+          "word": "影響",
+          "reading": "eikyō",
+          "meaning": "影響",
+          "example": "彼は私に影響を与えました。",
+          "exampleTranslation": "他對我產生了影響。",
+          "level": "N3"
+        },
+        {
+          "word": "観客",
+          "reading": "kankyaku",
+          "meaning": "觀眾",
+          "example": "観客が楽しんでいます。",
+          "exampleTranslation": "觀眾很享受。",
+          "level": "N3"
+        },
+        {
+          "word": "意義",
+          "reading": "igi",
+          "meaning": "意義，價值",
+          "example": "この活動には大きな意義があります。",
+          "exampleTranslation": "這個活動具有重要的意義。",
+          "level": "N2"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜において",
+          "explanation": "表示地點或範圍，通常用於正式的情境。",
+          "example": "日本においてアニメは人気です。",
+          "exampleTranslation": "在日本，動畫是受歡迎的。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜が始まる",
+          "explanation": "表示某事物開始。",
+          "example": "映画が始まります。",
+          "exampleTranslation": "電影開始了。",
+          "level": "N4"
+        },
+        {
+          "pattern": "〜において〜にランクインする",
+          "explanation": "表示某事物在某個範圍內排名。",
+          "example": "この映画は二位にランクインしました。",
+          "exampleTranslation": "這部電影排名第二。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜に対して",
+          "explanation": "表示對某事物的態度或反應。",
+          "example": "観客に対して感謝しています。",
+          "exampleTranslation": "我對觀眾表示感謝。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜の意義",
+          "explanation": "表示某事物的意義或價值。",
+          "example": "このイベントの意義は大きいです。",
+          "exampleTranslation": "這個活動的意義很大。",
+          "level": "N2"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "『ドラえもん』はどの国で上映されましたか？",
+          "options": [
+            "日本",
+            "インド",
+            "アメリカ",
+            "中国"
+          ],
+          "correctAnswer": 1,
+          "explanation": "新聞中提到《哆啦A夢》在印度上映。",
+          "translation": "《哆啦A夢》在哪個國家上映？"
+        },
+        {
+          "question": "映画はどのように人気ですか？",
+          "options": [
+            "あまり人気ではない",
+            "人気がある",
+            "全く人気がない",
+            "少しだけ人気"
+          ],
+          "correctAnswer": 1,
+          "explanation": "文章中提到這部電影很受歡迎。",
+          "translation": "電影的受歡迎程度如何？"
+        },
+        {
+          "question": "『ドラえもん』は何位になりましたか？",
+          "options": [
+            "1位",
+            "2位",
+            "3位",
+            "4位"
+          ],
+          "correctAnswer": 1,
+          "explanation": "根據新聞，這部電影迅速成為日本動畫電影的第二名。",
+          "translation": "《哆啦A夢》成為第幾名？"
+        },
+        {
+          "question": "観客はどのような反応を示していますか？",
+          "options": [
+            "無関心",
+            "熱心",
+            "怒っている",
+            "悲しい"
+          ],
+          "correctAnswer": 1,
+          "explanation": "文章提到當地的觀眾非常熱情。",
+          "translation": "觀眾的反應是什麼？"
+        },
+        {
+          "question": "この上映の意義は何ですか？",
+          "options": [
+            "重要ではない",
+            "重要である",
+            "あまり重要ではない",
+            "全く重要ではない"
+          ],
+          "correctAnswer": 1,
+          "explanation": "文章中提到上映的意義日益凸顯。",
+          "translation": "這次上映的意義是什麼？"
+        }
+      ]
     },
     {
       "title": "二度と観たくない胸糞邦画は？ 後味の悪すぎる日本映画（2）救いのない結末が突き刺さる…心をえぐる衝撃作（映画チャンネル） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9feS1QVFlXamZUS2t1QWFOZGVzdndVZ0RvT0p0dnZLbnVpcUNMeU5hOVhhclVXME42VUNFMngxZGJaZC1FNWt5RXpyY200T1NITDl2WDZZVUlCel85YzBEcE5zUklmNkNVOG5BcUxBQXZjUXRLcVJVX2YwbW81VHM?oc=5",
       "published": "Sat, 07 Nov 2026 00:21:43 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9feS1QVFlXamZUS2t1QWFOZGVzdndVZ0RvT0p0dnZLbnVpcUNMeU5hOVhhclVXME42VUNFMngxZGJaZC1FNWt5RXpyY200T1NITDl2WDZZVUlCel85YzBEcE5zUklmNkNVOG5BcUxBQXZjUXRLcVJVX2YwbW81VHM?oc=5\" target=\"_blank\">二度と観たくない胸糞邦画は？ 後味の悪すぎる日本映画（2）救いのない結末が突き刺さる…心をえぐる衝撃作（映画チャンネル）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "Yahoo!ニュース"
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "日本の映画は時々とても悲しいです。人々はこの映画を見て、心が痛くなります。救いがない結末が多いです。",
+        "intermediate": "最近、後味の悪い日本映画についての話題が増えています。多くの人々が二度と観たくない映画を挙げています。これらの映画は、観客の心をえぐるような衝撃的な結末が特徴です。",
+        "advanced": "日本の映画界には、観る者に強烈な衝撃を与える作品が存在します。特に、救いのない結末や後味の悪さが際立つ邦画は、視聴者に深い印象を残します。最近の調査では、二度と観たくないという意見が多く寄せられています。これらの映画は、ストーリーテリングの面でも優れており、観る者の心に深く突き刺さる体験を提供します。",
+        "original": "二度と観たくない胸糞邦画は？ 後味の悪すぎる日本映画（2）救いのない結末が突き刺さる…心をえぐる衝撃作（映画チャンネル） - Yahoo!ニュース",
+        "titleTranslation": "二度不想再看的胸口惡心的日本電影？後味太差的日本電影（2）無法救贖的結局刺痛心靈…心靈撕裂的衝擊作品（電影頻道）",
+        "translations": {
+          "beginner": [
+            "日本的電影有時候很悲傷。",
+            "人們看這部電影時，心會痛。",
+            "沒有救贖的結局很多。"
+          ],
+          "intermediate": [
+            "最近，後味不好的日本電影的話題增多了。",
+            "許多人提到想要二度不再看的電影。",
+            "這些電影的特點是結局讓觀眾心痛。"
+          ],
+          "advanced": [
+            "日本電影界中，有一些作品會給觀眾留下強烈的衝擊。",
+            "特別是那些沒有救贖的結局和不好的後味的邦畫，會給觀眾留下深刻的印象。",
+            "最近的調查顯示，許多人表示不想再看這些電影。",
+            "這些電影在故事講述上也很出色，提供了讓觀眾感受到深刻經歷的體驗。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "映画",
+          "reading": "eiga",
+          "meaning": "電影",
+          "example": "日本の映画が好きです。",
+          "exampleTranslation": "我喜歡日本電影。",
+          "level": "N5"
+        },
+        {
+          "word": "悲しい",
+          "reading": "kanashii",
+          "meaning": "悲傷的",
+          "example": "この映画は悲しいです。",
+          "exampleTranslation": "這部電影很悲傷。",
+          "level": "N4"
+        },
+        {
+          "word": "結末",
+          "reading": "ketsumatsu",
+          "meaning": "結局",
+          "example": "結末が予想外でした。",
+          "exampleTranslation": "結局出乎意料。"
+        },
+        {
+          "word": "心",
+          "reading": "kokoro",
+          "meaning": "心靈",
+          "example": "心が痛いです。",
+          "exampleTranslation": "心裡很痛。",
+          "level": "N4"
+        },
+        {
+          "word": "衝撃",
+          "reading": "shougeki",
+          "meaning": "衝擊",
+          "example": "衝撃的な映画です。",
+          "exampleTranslation": "這是一部衝擊性的電影。",
+          "level": "N1"
+        },
+        {
+          "word": "視聴者",
+          "reading": "shichousha",
+          "meaning": "觀眾",
+          "example": "視聴者の反応が気になります。",
+          "exampleTranslation": "我很在意觀眾的反應。"
+        },
+        {
+          "word": "体験",
+          "reading": "taiken",
+          "meaning": "體驗",
+          "example": "素晴らしい体験でした。",
+          "exampleTranslation": "這是一個美好的體驗。",
+          "level": "N1"
+        },
+        {
+          "word": "話題",
+          "reading": "wadai",
+          "meaning": "話題",
+          "example": "この映画は話題になっています。",
+          "exampleTranslation": "這部電影成為話題。",
+          "level": "N3"
+        },
+        {
+          "word": "優れている",
+          "reading": "sugurete iru",
+          "meaning": "優秀的",
+          "example": "彼の才能は優れています。",
+          "exampleTranslation": "他的才能很優秀。",
+          "level": "N3"
+        },
+        {
+          "word": "観客",
+          "reading": "kankyaku",
+          "meaning": "觀眾",
+          "example": "観客が多かったです。",
+          "exampleTranslation": "觀眾很多。",
+          "level": "N3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜がある",
+          "explanation": "表示存在或擁有某物。",
+          "example": "この映画には驚きの結末がある。",
+          "exampleTranslation": "這部電影有驚人的結局。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜について",
+          "explanation": "表示關於某事的話題。",
+          "example": "この映画について話しましょう。",
+          "exampleTranslation": "讓我們談談這部電影。",
+          "level": "N3"
+        },
+        {
+          "pattern": "〜は〜です",
+          "explanation": "用於介紹或描述某事。",
+          "example": "この映画は面白いです。",
+          "exampleTranslation": "這部電影很有趣。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜ことができる",
+          "explanation": "表示能夠做某事。",
+          "example": "私は映画を観ることができます。",
+          "exampleTranslation": "我能看電影。",
+          "level": "N4"
+        },
+        {
+          "pattern": "〜たい",
+          "explanation": "表示想要做某事。",
+          "example": "私はこの映画を観たいです。",
+          "exampleTranslation": "我想看這部電影。",
+          "level": "N5"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "日本の映画はどうですか？",
+          "options": [
+            "面白い",
+            "悲しい",
+            "つまらない",
+            "楽しい"
+          ],
+          "correctAnswer": 1,
+          "explanation": "這部電影有時候非常悲傷。",
+          "translation": "日本的電影怎麼樣？"
+        },
+        {
+          "question": "この映画の結末はどうでしたか？",
+          "options": [
+            "驚き",
+            "楽しい",
+            "普通",
+            "悪い"
+          ],
+          "correctAnswer": 0,
+          "explanation": "結局是驚人的，讓人意外。",
+          "translation": "這部電影的結局是怎樣的？"
+        },
+        {
+          "question": "観客の反応はどうでしたか？",
+          "options": [
+            "良かった",
+            "悪かった",
+            "普通",
+            "面白かった"
+          ],
+          "correctAnswer": 0,
+          "explanation": "觀眾的反應很好，很多人喜歡。",
+          "translation": "觀眾的反應如何？"
+        },
+        {
+          "question": "この映画を二度と観たくない理由は？",
+          "options": [
+            "怖いから",
+            "悲しいから",
+            "面白いから",
+            "楽しいから"
+          ],
+          "correctAnswer": 1,
+          "explanation": "因為這部電影太悲傷了，不想再看。",
+          "translation": "你為什麼不想再看這部電影？"
+        },
+        {
+          "question": "この映画についてどう思いますか？",
+          "options": [
+            "良い",
+            "悪い",
+            "普通",
+            "面白い"
+          ],
+          "correctAnswer": 1,
+          "explanation": "這部電影的後味太差了，讓人不舒服。",
+          "translation": "你對這部電影有什麼看法？"
+        }
+      ]
+    },
+    {
+      "title": "侍U23、イギリス代表に大苦戦 まさかの4失策…“発展途上国”と延長9回の激闘→押し出しサヨナラ（Full-Count） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hTHBwcWVaaF9EdEI2cjBzeWY4RERVZFdBa1Q1eVNPakg5YTEzRDRFWW5jdW1SSDRDSTNaNENqQWg4VmdHNHJwaEhpdUNFUDEzajFuNlNYRVluR2RNNGJ1c1ZLQV9uYzlDUWt2aGJpNUpLLVpTcVNzRUxwSXdZeEU?oc=5",
+      "published": "Sat, 07 Nov 2026 03:44:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9hTHBwcWVaaF9EdEI2cjBzeWY4RERVZFdBa1Q1eVNPakg5YTEzRDRFWW5jdW1SSDRDSTNaNENqQWg4VmdHNHJwaEhpdUNFUDEzajFuNlNYRVluR2RNNGJ1c1ZLQV9uYzlDUWt2aGJpNUpLLVpTcVNzRUxwSXdZeEU?oc=5\" target=\"_blank\">侍U23、イギリス代表に大苦戦 まさかの4失策…“発展途上国”と延長9回の激闘→押し出しサヨナラ（Full-Count）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "侍U23はイギリス代表と試合をしました。試合はとても難しかったです。侍U23は4回エラーをしました。",
+        "intermediate": "侍U23はイギリス代表との試合で大変苦戦しました。試合中に4回の失策がありました。特に延長9回まで続いた試合は非常に激しいものでした。",
+        "advanced": "侍U23はイギリス代表との対戦において、まさかの4失策を喫し、苦戦を強いられました。試合は延長9回に突入し、両チームの選手たちは最後まで全力を尽くしました。最終的に侍U23は押し出しでサヨナラを決め、辛勝を収めました。この試合は、”発展途上国”とも称される侍U23にとって、成長の糧となる貴重な経験となるでしょう。",
+        "original": "侍U23、イギリス代表に大苦戦 まさかの4失策…“発展途上国”と延長9回の激闘→押し出しサヨナラ",
+        "titleTranslation": "侍U23與英國代表激戰，意外失誤四次…延長九局的激鬥→壓迫出局結束",
+        "translations": {
+          "beginner": [
+            "侍U23與英國代表進行了比賽。",
+            "比賽非常困難。",
+            "侍U23犯了四次錯誤。"
+          ],
+          "intermediate": [
+            "侍U23在與英國代表的比賽中遭遇了很大的困難。",
+            "比賽中出現了四次失誤。",
+            "尤其是延長九局的比賽非常激烈。"
+          ],
+          "advanced": [
+            "侍U23在與英國代表的對戰中，意外地犯了四次失誤，面臨了巨大的挑戰。",
+            "比賽進入延長九局，兩隊的選手們全力以赴。",
+            "最終，侍U23以壓迫出局的方式獲得了勝利，艱苦的勝利為他們帶來了寶貴的經驗。",
+            "這場比賽被稱為發展中的國家的挑戰，對侍U23來說是一次成長的重要機會。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "侍U23",
+          "reading": "samurai U23",
+          "meaning": "日本U23棒球隊",
+          "example": "侍U23は日本の代表チームです。",
+          "exampleTranslation": "侍U23是日本的代表隊。",
+          "level": "N1"
+        },
+        {
+          "word": "イギリス代表",
+          "reading": "igirisu daihyō",
+          "meaning": "英國代表隊",
+          "example": "イギリス代表は強いチームです。",
+          "exampleTranslation": "英國代表是一支強隊。"
+        },
+        {
+          "word": "苦戦",
+          "reading": "kusen",
+          "meaning": "艱苦奮戰",
+          "example": "試合は苦戦しました。",
+          "exampleTranslation": "比賽很艱苦。"
+        },
+        {
+          "word": "失策",
+          "reading": "shissaku",
+          "meaning": "失誤",
+          "example": "4回の失策がありました。",
+          "exampleTranslation": "出現了四次失誤。"
+        },
+        {
+          "word": "延長",
+          "reading": "enchou",
+          "meaning": "延長",
+          "example": "延長戦に入りました。",
+          "exampleTranslation": "進入了延長賽。",
+          "level": "N2"
+        },
+        {
+          "word": "激闘",
+          "reading": "gekito",
+          "meaning": "激戰",
+          "example": "両チームの激闘でした。",
+          "exampleTranslation": "雙方的激戰。"
+        },
+        {
+          "word": "押し出し",
+          "reading": "oshidashi",
+          "meaning": "壓迫出局",
+          "example": "押し出しで勝ちました。",
+          "exampleTranslation": "以壓迫出局獲勝。"
+        },
+        {
+          "word": "サヨナラ",
+          "reading": "sayonara",
+          "meaning": "再見（此處指比賽結束）",
+          "example": "サヨナラ勝ちです。",
+          "exampleTranslation": "這是最後的勝利。"
+        },
+        {
+          "word": "成長",
+          "reading": "seichou",
+          "meaning": "成長",
+          "example": "成長の機会です。",
+          "exampleTranslation": "這是成長的機會。",
+          "level": "N3"
+        },
+        {
+          "word": "発展途上国",
+          "reading": "hatten tojoukoku",
+          "meaning": "發展中國家",
+          "example": "発展途上国と呼ばれています。",
+          "exampleTranslation": "被稱為發展中國家。"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜は〜です",
+          "explanation": "表示主題和狀態的句型。",
+          "example": "侍U23は日本の代表チームです。",
+          "exampleTranslation": "侍U23是日本的代表隊。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜に〜がある",
+          "explanation": "表示存在或發生的句型。",
+          "example": "試合に失策があります。",
+          "exampleTranslation": "比賽中有失誤。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜ている",
+          "explanation": "表示持續狀態或行為的句型。",
+          "example": "試合は続いています。",
+          "exampleTranslation": "比賽正在進行。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜まで",
+          "explanation": "表示到某個時間或地點的句型。",
+          "example": "延長まで続きました。",
+          "exampleTranslation": "持續到延長。",
+          "level": "N4"
+        },
+        {
+          "pattern": "〜と呼ばれている",
+          "explanation": "表示被稱為的句型。",
+          "example": "発展途上国と呼ばれています。",
+          "exampleTranslation": "被稱為發展中國家。",
+          "level": "N2"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "侍U23はどの国の代表チームですか？",
+          "options": [
+            "日本",
+            "アメリカ",
+            "イギリス",
+            "韓国"
+          ],
+          "correctAnswer": 0,
+          "explanation": "侍U23是日本的代表隊。",
+          "translation": "侍U23是哪個國家的代表隊？"
+        },
+        {
+          "question": "試合は何回まで続きましたか？",
+          "options": [
+            "5回",
+            "7回",
+            "9回",
+            "10回"
+          ],
+          "correctAnswer": 2,
+          "explanation": "比賽持續到延長9局。",
+          "translation": "比賽持續到幾局？"
+        },
+        {
+          "question": "侍U23は何回失誤しましたか？",
+          "options": [
+            "2回",
+            "3回",
+            "4回",
+            "5回"
+          ],
+          "correctAnswer": 2,
+          "explanation": "侍U23在比賽中出現4次失誤。",
+          "translation": "侍U23在比賽中犯了幾次錯誤？"
+        },
+        {
+          "question": "試合はどのような戦いでしたか？",
+          "options": [
+            "簡単",
+            "普通",
+            "激闘",
+            "無駄"
+          ],
+          "correctAnswer": 2,
+          "explanation": "試合は非常に激闘でした。",
+          "translation": "比賽是什麼樣的戰鬥？"
+        },
+        {
+          "question": "侍U23はどのように勝ちましたか？",
+          "options": [
+            "ホームラン",
+            "押し出し",
+            "ヒット",
+            "エラー"
+          ],
+          "correctAnswer": 1,
+          "explanation": "侍U23は押し出しで勝ちました。",
+          "translation": "侍U23是怎麼贏的？"
+        }
+      ]
     }
   ]
 }
