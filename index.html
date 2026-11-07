@@ -1428,7 +1428,7 @@
             const articles = newsData[currentLanguage];
             if (!articles || !Array.isArray(articles) || articles.length === 0) return;
             
-            const data = articles[0];
+            const data = articles[currentArticleIndex];
             const title = data.fullContent?.original || '';
             const article = data.fullContent?.[currentLevel] || '';
             speak(title + '。' + article);
