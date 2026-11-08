@@ -1,0 +1,23 @@
+{
+  "name": "OtterNews - 韓日新聞學習",
+  "short_name": "OtterNews",
+  "description": "韓日新聞學習平台",
+  "start_url": "/OtterNews/",
+  "display": "standalone",
+  "background_color": "#2c2c2c",
+  "theme_color": "#8b9d83",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
