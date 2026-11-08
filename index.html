@@ -1032,8 +1032,8 @@
                     <span>OtterNews</span>
                 </div>
                 <div class="language-switch">
-                    <button class="lang-btn active" onclick="switchLanguage('korean')" id="korean-btn">🇰🇷 韓文</button>
-                    <button class="lang-btn" onclick="switchLanguage('japanese')" id="japanese-btn">🇯🇵 日文</button>
+                    <button class="lang-btn active" onclick="switchLanguage('ko')" id="korean-btn">🇰🇷 韓文</button>
+                    <button class="lang-btn" onclick="switchLanguage('ja')" id="japanese-btn">🇯🇵 日文</button>
                 </div>
                 <div class="date-display" id="date-display"></div>
             </div>
@@ -1081,7 +1081,7 @@
 
     
     <script>
-        let currentLanguage = 'korean';
+        let currentLanguage = 'ko';
         let currentLibraryType = 'vocab';
         let currentLevel = 'beginner';
         let newsData = null;
@@ -1100,8 +1100,8 @@
         
         function switchLanguage(lang) {
             currentLanguage = lang;
-            document.getElementById('korean-btn').classList.toggle('active', lang === 'korean');
-            document.getElementById('japanese-btn').classList.toggle('active', lang === 'japanese');
+            document.getElementById('korean-btn').classList.toggle('active', lang === 'ko');
+            document.getElementById('japanese-btn').classList.toggle('active', lang === 'ja');
             if (newsData) {
                 renderContent();
                 currentArticleIndex = 0;
@@ -1114,7 +1114,7 @@
 
         // 初始化文章導航
         function initArticleNav() {
-            const articles = newsData[currentLanguage];
+            const articles = newsData.filter(article => article.language === currentLanguage);
             if (!articles || articles.length === 0) {
                 document.getElementById('article-nav').style.display = 'none';
                 return;
@@ -1233,7 +1233,7 @@
                 speechSynthesis.cancel();
             }
             currentUtterance = new SpeechSynthesisUtterance(text);
-            currentUtterance.lang = currentLanguage === 'korean' ? 'ko-KR' : 'ja-JP';
+            currentUtterance.lang = currentLanguage === 'ko' ? 'ko-KR' : 'ja-JP';
             currentUtterance.rate = speechRate;
             currentUtterance.onend = () => {
                 if (isLooping) {
@@ -1270,6 +1270,7 @@
             try {
                 const response = await fetch('data/news.json');
                 newsData = await response.json();
+                initArticleNav();
                 renderContent();
             } catch (error) {
                 console.error('載入失敗:', error);
@@ -1283,19 +1284,14 @@
         }
         
         function renderContent() {
-            const data = newsData[currentLanguage];
+            const data = newsData.filter(article => article.language === currentLanguage);
 
             // 初始化文章導航（只在切換語言或首次載入時重置索引）
-            if (currentArticles !== data) {
-                currentArticleIndex = 0;
-                currentArticles = data;
-                initArticleNav();
-            }
             
             if (!data || !Array.isArray(data) || data.length === 0) {
                 document.getElementById('main-content').innerHTML = `
                     <div class="error">
-                        📭 目前沒有${currentLanguage === 'korean' ? '韓文' : '日文'}新聞<br>
+                        📭 目前沒有${currentLanguage === 'ko' ? '韓文' : '日文'}新聞<br>
                         <small>請等待每日更新（台灣時間早上 9:00）</small>
                     </div>
                 `;
@@ -1394,7 +1390,7 @@
         
         }
         function renderArticle() {
-            const articles = newsData[currentLanguage];
+            const articles = newsData.filter(article => article.language === currentLanguage);
             if (!articles || !Array.isArray(articles) || articles.length === 0) {
                 console.error('無文章資料');
                 return;
@@ -1443,7 +1439,7 @@
         }
         
         function playArticle() {
-            const articles = newsData[currentLanguage];
+            const articles = newsData.filter(article => article.language === currentLanguage);
             if (!articles || !Array.isArray(articles) || articles.length === 0) return;
             
             const data = articles[currentArticleIndex];
@@ -1611,8 +1607,7 @@
         function submitQuiz(event) {
             event.preventDefault();
             const formData = new FormData(event.target);
-            const data = newsData[currentLanguage];
-            const questions = data[0].quiz.slice(0, 10);
+            const questions = currentArticles[currentArticleIndex].quiz.slice(0, 10);
             
             let correct = 0;
             let results = [];
