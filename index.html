@@ -1274,7 +1274,11 @@
         async function loadNews() {
             try {
                 const response = await fetch('data/news.json');
-                newsData = await response.json();
+                const rawData = await response.json();
+                newsData = [
+                    ...(rawData.korean || []).map(article => ({...article, language: "ko"})),
+                    ...(rawData.japanese || []).map(article => ({...article, language: "ja"}))
+                ];
                 initArticleNav();
                 renderContent();
             } catch (error) {
