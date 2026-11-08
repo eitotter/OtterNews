@@ -1107,9 +1107,10 @@
             currentLanguage = lang;
             document.getElementById('korean-btn').classList.toggle('active', lang === 'ko');
             document.getElementById('japanese-btn').classList.toggle('active', lang === 'ja');
+            currentArticleIndex = 0;
             if (newsData) {
+                initArticleNav();
                 renderContent();
-                currentArticleIndex = 0;
             }
         }
 
