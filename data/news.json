@@ -1,704 +1,1687 @@
 {
-  "last_updated": "2026-11-09T23:28:37.257004",
-  "date": "2026-11-09",
+  "last_updated": "2026-11-10T23:24:37.719479",
+  "date": "2026-11-10",
   "korean": [
     {
-      "title": "엑소, 서울 앙코르 공연 앞두고 팬심 집중…K-POP 공연시장 열기 이어간다 - 시사매거진",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxejhnZVpkNW1JTU0wNEszYURWbVZqcXdVQ1RyeWdtc1ZBRmhFMWQ4STl0YlFCVnVyRFhGMzZzSmZiSDJVNEZnQmpmaUhheHFON09Wd3RHbGFHX01YSmN0cE1B?oc=5",
-      "published": "Thu, 05 Nov 2026 04:43:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxejhnZVpkNW1JTU0wNEszYURWbVZqcXdVQ1RyeWdtc1ZBRmhFMWQ4STl0YlFCVnVyRFhGMzZzSmZiSDJVNEZnQmpmaUhheHFON09Wd3RHbGFHX01YSmN0cE1B?oc=5\" target=\"_blank\">엑소, 서울 앙코르 공연 앞두고 팬심 집중…K-POP 공연시장 열기 이어간다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사매거진</font>",
-      "source": "시사매거진",
+      "title": "한눈에 보는 오늘의 뉴스 (11월 10일) - 데일리바이트(DAILY BYTE)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOdlhSTGxuUDRfcm90VkVVMTQtb2RPUFM1aEdfTjdNOTM2SEFxZV9JbDZiMnc1Q3hiYXR3LTRfdHh0dUlFZXRrUFJpaWhUWWRNdFV0QmNPWXI3T3hBWjUzdEpn?oc=5",
+      "published": "Tue, 10 Nov 2026 20:53:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOdlhSTGxuUDRfcm90VkVVMTQtb2RPUFM1aEdfTjdNOTM2SEFxZV9JbDZiMnc1Q3hiYXR3LTRfdHh0dUlFZXRrUFJpaWhUWWRNdFV0QmNPWXI3T3hBWjUzdEpn?oc=5\" target=\"_blank\">한눈에 보는 오늘의 뉴스 (11월 10일)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리바이트(DAILY BYTE)</font>",
+      "source": "데일리바이트(DAILY BYTE)",
       "fullContent": {
-        "beginner": "엑소는 서울에서 공연을 합니다. 팬들이 기대하고 있습니다. K-POP은 인기가 많습니다.",
-        "intermediate": "엑소는 서울에서 앙코르 공연을 앞두고 있습니다. 많은 팬들이 이 공연을 기다리고 있습니다. K-POP 공연시장은 최근에 더욱 활성화되고 있습니다. 엑소의 공연은 그 열기를 이어갈 것으로 보입니다. 많은 사람들이 이 기회를 놓치고 싶지 않아 합니다.",
-        "advanced": "엑소는 서울에서 앙코르 공연을 앞두고 있으며, 팬들의 관심이 집중되고 있습니다. K-POP 공연시장은 현재 매우 뜨거운 열기를 더하고 있습니다. 엑소는 그동안 많은 사랑을 받아온 그룹으로, 이번 공연에서도 팬들과의 소통을 최대한 이끌어낼 예정입니다. 이들은 서울 공연을 통해 K-POP의 위상을 다시 한번 높일 것으로 기대됩니다. 팬들은 엑소의 공연을 통해 특별한 경험을 할 수 있을 것입니다.",
-        "original": "엑소, 서울 앙코르 공연 앞두고 팬심 집중…K-POP 공연시장 열기 이어간다",
-        "titleTranslation": "EXO在首爾安可演唱會前集中粉絲心…持續K-POP演唱會市場的熱度",
+        "beginner": "오늘은 11월 10일입니다. 많은 뉴스가 있습니다. 사람들이 많은 관심을 가지고 있습니다.",
+        "intermediate": "오늘은 11월 10일로, 여러 가지 뉴스가 보도되고 있습니다. 특히, 정치, 경제, 사회 분야에서 중요한 사건이 발생했습니다. 많은 사람들이 이 뉴스에 관심을 가지고 있습니다. 이번 뉴스는 중요한 정보를 제공합니다.",
+        "advanced": "11월 10일의 뉴스는 다양한 주제를 포함하고 있습니다. 정치적 사건과 경제적 변화가 주요 이슈로 다루어지고 있으며, 이러한 변화는 사회 전반에 영향을 미칠 것으로 예상됩니다. 전문가들은 이러한 뉴스가 국민의 생활에 중요한 영향을 준다고 강조하고 있습니다. 따라서, 모든 국민이 이 뉴스에 주목할 필요가 있습니다. 뉴스는 단순한 정보 제공을 넘어 사회적 책임을 다해야 합니다.",
+        "original": "한눈에 보는 오늘의 뉴스 (11월 10일)",
+        "titleTranslation": "一目了然的今天新聞（11月10日）",
         "translations": {
           "beginner": [
-            "EXO在首爾演出。",
-            "粉絲們期待。",
-            "K-POP非常受歡迎。"
+            "今天是11月10日。",
+            "有很多新聞。",
+            "人們很關心。"
           ],
           "intermediate": [
-            "EXO在首爾的安可演出即將開始。",
-            "許多粉絲在等待這場演出。",
-            "K-POP演出市場最近變得更加活躍。",
-            "EXO的演出將延續這一熱潮。",
-            "很多人不想錯過這個機會。"
+            "今天是11月10日，有許多新聞被報導。",
+            "特別是在政治、經濟和社會領域發生了重要事件。",
+            "很多人對這些新聞感興趣。",
+            "這則新聞提供了重要的信息。"
           ],
           "advanced": [
-            "EXO在首爾的安可演出即將來臨，粉絲們的關注度達到了巔峰。",
-            "目前K-POP演出市場正在持續升溫。",
-            "EXO是一個長期受到喜愛的團體，這次演出計劃與粉絲進行更深層次的互動。",
-            "他們希望通過這次首爾的演出再次提升K-POP的地位。",
-            "粉絲們將能夠在EXO的演出中獲得特別的體驗。"
+            "11月10日的新聞包含了各種主題。",
+            "政治事件和經濟變化是主要議題。",
+            "這些變化預計會影響整個社會。",
+            "專家們強調這些新聞對國民生活的重要影響。",
+            "因此，所有國民都需要關注這些新聞。",
+            "新聞不僅僅是信息的提供，更應該承擔社會責任。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "엑소",
-          "reading": "EXO",
-          "meaning": "EXO（韓國男子音樂團體）",
-          "example": "엑소는 유명한 K-POP 그룹입니다.",
-          "exampleTranslation": "EXO是著名的K-POP團體。",
+          "word": "뉴스",
+          "reading": "nyuseu",
+          "meaning": "新聞",
+          "example": "오늘의 뉴스는 흥미롭습니다.",
+          "exampleTranslation": "今天的新聞很有趣。",
           "level": "1"
         },
         {
-          "word": "공연",
-          "reading": "공연",
-          "meaning": "演出",
-          "example": "이번 공연은 정말 기대됩니다.",
-          "exampleTranslation": "這次演出真的讓人期待。",
-          "level": "3"
-        },
-        {
-          "word": "팬",
-          "reading": "팬",
-          "meaning": "粉絲",
-          "example": "팬들이 많이 모였습니다.",
-          "exampleTranslation": "粉絲們聚集了很多。",
-          "level": "2"
-        },
-        {
-          "word": "서울",
-          "reading": "서울",
-          "meaning": "首爾",
-          "example": "서울은 한국의 수도입니다.",
-          "exampleTranslation": "首爾是韓國的首都。",
-          "level": "1"
-        },
-        {
-          "word": "안코르",
-          "reading": "앙코르",
-          "meaning": "安可",
-          "example": "안코르 공연이 매우 인기가 있습니다.",
-          "exampleTranslation": "安可演出非常受歡迎。",
-          "level": "1"
-        },
-        {
-          "word": "시장",
-          "reading": "시장",
-          "meaning": "市場",
-          "example": "K-POP 시장은 계속 성장하고 있습니다.",
-          "exampleTranslation": "K-POP市場正在持續增長。",
-          "level": "2"
-        },
-        {
-          "word": "열기",
-          "reading": "열기",
-          "meaning": "熱度",
-          "example": "열기가 점점 더 뜨거워지고 있습니다.",
-          "exampleTranslation": "熱度正在變得越來越高。",
-          "level": "3"
-        },
-        {
-          "word": "기대하다",
-          "reading": "기대하다",
-          "meaning": "期待",
-          "example": "팬들이 공연을 기대하고 있습니다.",
-          "exampleTranslation": "粉絲們期待演出。",
-          "level": "3"
-        },
-        {
-          "word": "소통",
-          "reading": "소통",
-          "meaning": "溝通",
-          "example": "그들은 팬들과 소통하고 싶어합니다.",
-          "exampleTranslation": "他們想與粉絲進行溝通。",
+          "word": "정치",
+          "reading": "jeongchi",
+          "meaning": "政治",
+          "example": "정치 뉴스가 많이 보도됩니다.",
+          "exampleTranslation": "政治新聞被大量報導。",
           "level": "4"
         },
         {
-          "word": "경험",
-          "reading": "경험",
-          "meaning": "經驗",
-          "example": "특별한 경험을 할 수 있습니다.",
-          "exampleTranslation": "可以獲得特別的經驗。",
+          "word": "경제",
+          "reading": "gyeongje",
+          "meaning": "經濟",
+          "example": "경제 상황이 좋지 않습니다.",
+          "exampleTranslation": "經濟狀況不好。",
+          "level": "4"
+        },
+        {
+          "word": "사람들",
+          "reading": "saramdeul",
+          "meaning": "人們",
+          "example": "사람들이 뉴스를 보고 있습니다.",
+          "exampleTranslation": "人們正在看新聞。",
+          "level": "2"
+        },
+        {
+          "word": "관심",
+          "reading": "gwansim",
+          "meaning": "關心",
+          "example": "뉴스에 대한 관심이 높아지고 있습니다.",
+          "exampleTranslation": "對新聞的關心正在增加。",
+          "level": "3"
+        },
+        {
+          "word": "정보",
+          "reading": "jeongbo",
+          "meaning": "信息",
+          "example": "이 뉴스는 중요한 정보를 제공합니다.",
+          "exampleTranslation": "這則新聞提供了重要信息。",
+          "level": "3"
+        },
+        {
+          "word": "사건",
+          "reading": "sageon",
+          "meaning": "事件",
+          "example": "최근 사건에 대해 알아보겠습니다.",
+          "exampleTranslation": "我們來了解最近的事件。",
+          "level": "3"
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "社會",
+          "example": "사회 전반에 영향을 미칩니다.",
+          "exampleTranslation": "對整個社會有影響。",
+          "level": "3"
+        },
+        {
+          "word": "전문가",
+          "reading": "jeonmunga",
+          "meaning": "專家",
+          "example": "전문가의 의견을 들어보겠습니다.",
+          "exampleTranslation": "我們來聽聽專家的意見。",
+          "level": "4"
+        },
+        {
+          "word": "책임",
+          "reading": "chaegim",
+          "meaning": "責任",
+          "example": "사회적 책임을 다해야 합니다.",
+          "exampleTranslation": "必須履行社會責任。",
           "level": "4"
         }
       ],
       "grammar": [
         {
-          "pattern": "~고 있다",
-          "explanation": "表示現在正在進行的動作或狀態。",
-          "example": "엑소는 공연을 준비하고 있습니다.",
-          "exampleTranslation": "EXO正在準備演出。",
+          "pattern": "N(이)다",
+          "explanation": "用於表達某事物的狀態或性質。",
+          "example": "오늘은 11월 10일이다.",
+          "exampleTranslation": "今天是11月10日。",
+          "level": "1"
+        },
+        {
+          "pattern": "아/어 보이다",
+          "explanation": "用於描述某物的外觀或感覺。",
+          "example": "뉴스가 흥미로워 보인다.",
+          "exampleTranslation": "新聞看起來很有趣。",
+          "level": "3"
+        },
+        {
+          "pattern": "고 있다",
+          "explanation": "表示正在進行的動作或狀態。",
+          "example": "사람들이 뉴스를 보고 있다.",
+          "exampleTranslation": "人們正在看新聞。",
           "level": "2"
         },
         {
-          "pattern": "려고 하다",
-          "explanation": "表示打算或計畫做某事。",
-          "example": "팬들은 공연을 보러 가려고 합니다.",
-          "exampleTranslation": "粉絲們打算去看演出。",
+          "pattern": "때문에",
+          "explanation": "表示原因或理由。",
+          "example": "뉴스 때문에 사람들이 모인다.",
+          "exampleTranslation": "因為新聞，人們聚在一起。",
+          "level": "4"
+        },
+        {
+          "pattern": "N(이)라고 하다",
+          "explanation": "用於引用或報導某件事。",
+          "example": "전문가들은 이 상황을 어렵다고 한다.",
+          "exampleTranslation": "專家們說這個情況很困難。",
+          "level": "4"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "오늘은 몇 월 며칠인가요?",
+          "options": [
+            "12월 10일",
+            "11월 10일",
+            "10월 10일",
+            "11월 11일"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "12月10日",
+            "11月10日",
+            "10月10日",
+            "11月11日"
+          ],
+          "explanation": "今天是11月10日。",
+          "translation": "今天是幾月幾日？"
+        },
+        {
+          "type": "choice",
+          "question": "뉴스에 대한 사람들의 태도는 어떤가요?",
+          "options": [
+            "관심이 없다",
+            "관심이 있다",
+            "싫어한다",
+            "모르겠다"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "沒有興趣",
+            "有興趣",
+            "討厭",
+            "不知道"
+          ],
+          "explanation": "人們對新聞很關心。",
+          "translation": "人們對新聞的態度如何？"
+        },
+        {
+          "type": "choice",
+          "question": "전문가들은 어떤 의견을 가지고 있나요?",
+          "options": [
+            "중요하다고 한다",
+            "무관하다고 한다",
+            "부정적이라고 한다",
+            "모르겠다"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "認為重要",
+            "認為無關",
+            "認為消極",
+            "不知道"
+          ],
+          "explanation": "專家們強調這些新聞的重要性。",
+          "translation": "專家們持有什麼樣的意見？"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
+            "오늘",
+            "뉴스",
+            "이",
+            "흥미롭습니다"
+          ],
+          "correctAnswer": "오늘 이 뉴스는 흥미롭습니다.",
+          "explanation": "正確的順序是：今天這則新聞很有趣。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
+            "사람들이",
+            "보고",
+            "뉴스를",
+            "있습니다"
+          ],
+          "correctAnswer": "사람들이 뉴스를 보고 있습니다.",
+          "explanation": "正確的順序是：人們正在看新聞。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "[김홍준의 뉴스터치] 한국·미국 대통령의 마이 웨이 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MNFFmS2YzamRVT25hcHU4aGpWVWhYSnVTNlR5MGpRTWhsZE5XNk5zMHhaemxfRVY4LWp4b1ZYTzRiRnh3aDRNbHVrOXhEUWk1ZXFXTlBn?oc=5",
+      "published": "Tue, 10 Nov 2026 15:02:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MNFFmS2YzamRVT25hcHU4aGpWVWhYSnVTNlR5MGpRTWhsZE5XNk5zMHhaemxfRVY4LWp4b1ZYTzRiRnh3aDRNbHVrOXhEUWk1ZXFXTlBn?oc=5\" target=\"_blank\">[김홍준의 뉴스터치] 한국·미국 대통령의 마이 웨이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+      "source": "중앙일보",
+      "fullContent": {
+        "beginner": "한국과 미국의 대통령은 서로 다른 스타일을 가지고 있습니다. 두 나라의 대통령은 각자의 길을 가고 있습니다. 그들은 자신만의 방식으로 일을 처리합니다.",
+        "intermediate": "한국 대통령과 미국 대통령은 각각의 정치적 환경에서 다르게 행동합니다. 그들은 각국의 문화와 전통을 반영합니다. 대통령의 스타일은 국민들에게 큰 영향을 미칠 수 있습니다. 이러한 차이는 두 나라의 외교 정책에도 나타납니다.",
+        "advanced": "한국과 미국의 대통령들은 서로 다른 정치적 배경과 문화적 맥락에서 각자의 방식을 선택합니다. 두 나라의 대통령은 국가의 이익을 대변하기 위해 다양한 전략을 사용합니다. 이들은 국내외적으로 중대한 문제를 해결하기 위해 각기 다른 접근 방식을 취합니다. 이러한 차별화된 스타일은 국제 관계와 외교 정책에 큰 영향을 미칩니다. 따라서 두 대통령의 리더십 스타일 비교는 매우 흥미로운 주제입니다.",
+        "original": "[김홍준의 뉴스터치] 한국·미국 대통령의 마이 웨이",
+        "titleTranslation": "韓國·美國總統的我的方式",
+        "translations": {
+          "beginner": [
+            "韓國和美國的總統有不同的風格。",
+            "兩國的總統各走各的路。",
+            "他們用自己的方式處理事情。"
+          ],
+          "intermediate": [
+            "韓國總統和美國總統在各自的政治環境中行為各異。",
+            "他們反映了各國的文化和傳統。",
+            "總統的風格對國民有很大的影響。",
+            "這種差異在兩國的外交政策中也有所體現。"
+          ],
+          "advanced": [
+            "韓國和美國的總統在不同的政治背景和文化語境中選擇各自的方式。",
+            "兩國的總統使用多種策略來代表國家的利益。",
+            "他們為了解決國內外重大問題，採取不同的處理方式。",
+            "這種差異化的風格對國際關係和外交政策有著重大影響。",
+            "因此，對比兩位總統的領導風格是一個非常有趣的主題。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "대통령",
+          "reading": "daetongnyeong",
+          "meaning": "總統",
+          "example": "한국의 대통령은 중요한 결정을 내립니다.",
+          "exampleTranslation": "韓國的總統做出重要的決策。",
+          "level": "4"
+        },
+        {
+          "word": "스타일",
+          "reading": "seutail",
+          "meaning": "風格",
+          "example": "대통령의 스타일은 그 사람을 나타냅니다.",
+          "exampleTranslation": "總統的風格表現了那個人。",
           "level": "3"
         },
         {
-          "pattern": "~기 위해서",
-          "explanation": "表示為了某個目的或目標。",
-          "example": "엑소는 팬들과 소통하기 위해서 공연을 합니다.",
-          "exampleTranslation": "EXO為了與粉絲溝通而舉行演出。",
+          "word": "정치",
+          "reading": "jeongchi",
+          "meaning": "政治",
+          "example": "정치는 사람들의 삶에 큰 영향을 미칩니다.",
+          "exampleTranslation": "政治對人們的生活有很大的影響。",
+          "level": "4"
+        },
+        {
+          "word": "문화",
+          "reading": "munhwa",
+          "meaning": "文化",
+          "example": "각국의 문화는 다릅니다.",
+          "exampleTranslation": "各國的文化是不同的。",
           "level": "3"
         },
         {
-          "pattern": "더욱",
-          "explanation": "表示更加或更進一步的意思。",
-          "example": "K-POP 시장은 더욱 활성화되고 있습니다.",
-          "exampleTranslation": "K-POP市場正在更加活躍。",
+          "word": "전통",
+          "reading": "jeontong",
+          "meaning": "傳統",
+          "example": "한국의 전통은 매우 중요합니다.",
+          "exampleTranslation": "韓國的傳統非常重要。",
           "level": "3"
         },
         {
-          "pattern": "~고 싶다",
-          "explanation": "表示想要做某事。",
-          "example": "팬들은 공연을 보고 싶어합니다.",
-          "exampleTranslation": "粉絲們想看演出。",
+          "word": "외교",
+          "reading": "oegyo",
+          "meaning": "外交",
+          "example": "외교 정책은 국가의 중요한 부분입니다.",
+          "exampleTranslation": "外交政策是國家的重要部分。",
+          "level": "4"
+        },
+        {
+          "word": "정책",
+          "reading": "jeongchaek",
+          "meaning": "政策",
+          "example": "새로운 정책이 발표되었습니다.",
+          "exampleTranslation": "新的政策已經發布。",
+          "level": "4"
+        },
+        {
+          "word": "비교",
+          "reading": "bigyo",
+          "meaning": "比較",
+          "example": "두 대통령의 스타일 비교는 흥미롭습니다.",
+          "exampleTranslation": "兩位總統的風格比較很有趣。",
+          "level": "3"
+        },
+        {
+          "word": "국가",
+          "reading": "gukga",
+          "meaning": "國家",
+          "example": "각 국가는 독특한 특징을 가지고 있습니다.",
+          "exampleTranslation": "每個國家都有獨特的特徵。",
+          "level": "2"
+        },
+        {
+          "word": "문제",
+          "reading": "munje",
+          "meaning": "問題",
+          "example": "이 문제를 해결해야 합니다.",
+          "exampleTranslation": "我們必須解決這個問題。",
+          "level": "2"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A는/은 B이다",
+          "explanation": "表示A是B，常用於描述。",
+          "example": "한국은 아름다운 나라이다.",
+          "exampleTranslation": "韓國是一個美麗的國家。",
+          "level": "1"
+        },
+        {
+          "pattern": "A도 B이다",
+          "explanation": "表示A也B，強調相似性。",
+          "example": "미국도 큰 나라이다.",
+          "exampleTranslation": "美國也是一個大國。",
+          "level": "2"
+        },
+        {
+          "pattern": "A와/과 B는 다르다",
+          "explanation": "表示A和B不同，常用於比較。",
+          "example": "한국과 일본은 다르다.",
+          "exampleTranslation": "韓國和日本是不同的。",
+          "level": "3"
+        },
+        {
+          "pattern": "A 때문에 B가 있다",
+          "explanation": "表示因為A，所以有B，常用於原因。",
+          "example": "문화 때문에 다양한 전통이 있다.",
+          "exampleTranslation": "因為文化，所以有多樣的傳統。",
+          "level": "3"
+        },
+        {
+          "pattern": "A를/을 위해 B하다",
+          "explanation": "表示為了A做B，常用於目的。",
+          "example": "국가를 위해 일하다.",
+          "exampleTranslation": "為了國家而工作。",
+          "level": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "한국의 대통령은 무엇을 합니까?",
+          "options": [
+            "국민의 의견을 듣는다",
+            "여행을 간다",
+            "영화를 본다",
+            "음식을 만든다"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "聽取國民的意見",
+            "去旅行",
+            "看電影",
+            "做食物"
+          ],
+          "explanation": "總統的主要任務之一是聽取國民的意見。",
+          "translation": "韓國的總統做什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "대통령의 스타일은 무엇에 영향을 줍니까?",
+          "options": [
+            "국가의 정책",
+            "사람들의 취미",
+            "음식",
+            "옷"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "國家的政策",
+            "人們的興趣",
+            "食物",
+            "衣服"
+          ],
+          "explanation": "總統的風格會影響國家的政策。",
+          "translation": "總統的風格對什麼有影響？"
+        },
+        {
+          "type": "choice",
+          "question": "한국과 미국의 대통령은 어떻게 다릅니까?",
+          "options": [
+            "정치적 환경",
+            "음식 취향",
+            "여행 스타일",
+            "영화 취향"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "政治環境",
+            "食物喜好",
+            "旅行風格",
+            "電影喜好"
+          ],
+          "explanation": "韓國和美國的總統在政治環境上有所不同。",
+          "translation": "韓國和美國的總統怎麼不同？"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하세요.",
+          "words": [
+            "대통령",
+            "정책",
+            "국가의",
+            "중요한",
+            "결정",
+            "내립니다"
+          ],
+          "correctAnswer": "대통령은 국가의 중요한 결정을 내립니다.",
+          "explanation": "正確的語序是主語-賓語-動詞。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하세요.",
+          "words": [
+            "문화",
+            "반영합니다",
+            "각국의",
+            "대통령은"
+          ],
+          "correctAnswer": "대통령은 각국의 문화를 반영합니다.",
+          "explanation": "正確的語序是主語-賓語-動詞。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "프랑스서 마주친 한국-우크라…외교장관회담으로 갈등 수습하나 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jODNZRHFsUm94UG5jcEh4V1NReFVDZFBESFpBQ1VUMGxDSGhvdWo3bGVuYU1ZSFB1ZFhUTUUyVEFCMkRMUzNxdFdPNlNEc09Wc3hOWVBOaDJtUDJ1TkZ5M9IBYEFVX3lxTE5jODNZRHFsUm94UG5jcEh4V1NReFVDZFBESFpBQ1VUMGxDSGhvdWo3bGVuYU1ZSFB1ZFhUTUUyVEFCMkRMUzNxdFdPNlNEc09Wc3hOWVBOaDJtUDJ1TkZ5Mw?oc=5",
+      "published": "Tue, 10 Nov 2026 08:00:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jODNZRHFsUm94UG5jcEh4V1NReFVDZFBESFpBQ1VUMGxDSGhvdWo3bGVuYU1ZSFB1ZFhUTUUyVEFCMkRMUzNxdFdPNlNEc09Wc3hOWVBOaDJtUDJ1TkZ5M9IBYEFVX3lxTE5jODNZRHFsUm94UG5jcEh4V1NReFVDZFBESFpBQ1VUMGxDSGhvdWo3bGVuYU1ZSFB1ZFhUTUUyVEFCMkRMUzNxdFdPNlNEc09Wc3hOWVBOaDJtUDJ1TkZ5Mw?oc=5\" target=\"_blank\">프랑스서 마주친 한국-우크라…외교장관회담으로 갈등 수습하나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+      "source": "연합뉴스",
+      "fullContent": {
+        "beginner": "한국과 우크라이나가 프랑스에서 만났습니다. 두 나라의 외교장관이 대화했습니다. 갈등을 해결하려고 합니다.",
+        "intermediate": "프랑스에서 한국과 우크라이나의 외교장관이 만났습니다. 이 회담에서는 양국 간의 갈등에 대해 논의했습니다. 외교장관들은 평화를 위한 해결책을 찾으려고 노력하고 있습니다. 앞으로의 관계가 어떻게 될지 관심이 집중되고 있습니다.",
+        "advanced": "프랑스에서 열린 회담에서 한국과 우크라이나의 외교장관이 마주쳤습니다. 이 회담은 양국 간의 갈등을 해결하기 위한 중요한 기회로 여겨집니다. 외교장관들은 대화를 통해 문제를 해결하고자 했으며, 또한 두 나라의 협력 강화를 위해 노력했습니다. 이번 회담을 계기로 더 나은 관계를 구축할 수 있을지 주목됩니다.",
+        "original": "프랑스서 마주친 한국-우크라…외교장관회담으로 갈등 수습하나",
+        "titleTranslation": "在法國相遇的韓國-烏克蘭…外長會談是否能平息衝突",
+        "translations": {
+          "beginner": [
+            "韓國和烏克蘭在法國見面。",
+            "兩國的外長進行了對話。",
+            "他們想解決衝突。"
+          ],
+          "intermediate": [
+            "在法國，韓國和烏克蘭的外長會面了。",
+            "在這次會談中，雙方討論了衝突的問題。",
+            "外長們努力尋找和平的解決方案。",
+            "大家都關注兩國未來的關係會如何發展。"
+          ],
+          "advanced": [
+            "在法國舉行的會議上，韓國和烏克蘭的外長相遇了。",
+            "這次會談被認為是解決兩國之間衝突的重要機會。",
+            "外長們試圖通過對話來解決問題，",
+            "並且也努力加強兩國的合作。",
+            "大家都在關注是否能以這次會談作為契機，建立更好的關係。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "갈등",
+          "reading": "갈등",
+          "meaning": "衝突",
+          "example": "두 나라 간의 갈등이 심화되고 있습니다.",
+          "exampleTranslation": "兩國之間的衝突日益加劇。",
+          "level": "4"
+        },
+        {
+          "word": "외교장관",
+          "reading": "외교장관",
+          "meaning": "外長",
+          "example": "한국의 외교장관이 회담에 참석했습니다.",
+          "exampleTranslation": "韓國的外長參加了會談。",
+          "level": "5"
+        },
+        {
+          "word": "회담",
+          "reading": "회담",
+          "meaning": "會談",
+          "example": "이번 회담은 매우 중요합니다.",
+          "exampleTranslation": "這次會談非常重要。",
+          "level": "4"
+        },
+        {
+          "word": "해결하다",
+          "reading": "해결하다",
+          "meaning": "解決",
+          "example": "문제를 해결해야 합니다.",
+          "exampleTranslation": "必須解決問題。",
+          "level": "4"
+        },
+        {
+          "word": "관계",
+          "reading": "관계",
+          "meaning": "關係",
+          "example": "두 나라의 관계가 좋아지길 바랍니다.",
+          "exampleTranslation": "希望兩國的關係能改善。",
+          "level": "3"
+        },
+        {
+          "word": "중요하다",
+          "reading": "중요하다",
+          "meaning": "重要",
+          "example": "이 문제는 매우 중요합니다.",
+          "exampleTranslation": "這個問題非常重要。",
+          "level": "3"
+        },
+        {
+          "word": "노력하다",
+          "reading": "노력하다",
+          "meaning": "努力",
+          "example": "모두가 평화를 위해 노력하고 있습니다.",
+          "exampleTranslation": "大家都在為和平努力。",
+          "level": "3"
+        },
+        {
+          "word": "미래",
+          "reading": "미래",
+          "meaning": "未來",
+          "example": "미래에 대한 희망이 있습니다.",
+          "exampleTranslation": "對未來有希望。",
+          "level": "3"
+        },
+        {
+          "word": "기회",
+          "reading": "기회",
+          "meaning": "機會",
+          "example": "이것은 좋은 기회입니다.",
+          "exampleTranslation": "這是一個好機會。",
+          "level": "3"
+        },
+        {
+          "word": "평화",
+          "reading": "평화",
+          "meaning": "和平",
+          "example": "평화를 위해 싸웁니다.",
+          "exampleTranslation": "為了和平而奮鬥。",
+          "level": "3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "N1과/와 N2",
+          "explanation": "表示兩個名詞之間的關係，用於連接名詞。",
+          "example": "한국과 일본은 가까운 나라입니다.",
+          "exampleTranslation": "韓國和日本是鄰近的國家。",
+          "level": "1"
+        },
+        {
+          "pattern": "V(으)려고 하다",
+          "explanation": "表示某個動作或行為的意圖或計劃。",
+          "example": "문제를 해결하려고 합니다.",
+          "exampleTranslation": "打算解決問題。",
+          "level": "3"
+        },
+        {
+          "pattern": "A/V-기 위해",
+          "explanation": "表示為了達成某個目的而做的行動。",
+          "example": "평화를 위해 노력합니다.",
+          "exampleTranslation": "為了和平而努力。",
+          "level": "3"
+        },
+        {
+          "pattern": "N이/가 중요하다",
+          "explanation": "用來表示某事物的重要性。",
+          "example": "이 문제는 중요합니다.",
+          "exampleTranslation": "這個問題很重要。",
+          "level": "2"
+        },
+        {
+          "pattern": "V-고 있다",
+          "explanation": "表示正在進行的動作或狀態。",
+          "example": "우리는 회담을 하고 있습니다.",
+          "exampleTranslation": "我們正在進行會談。",
           "level": "2"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "엑소는 어떤 그룹인가요?",
+          "question": "한국과 우크라이나의 외교장관은 어디에서 만났습니까?",
           "options": [
-            "여자 그룹",
-            "남자 그룹",
-            "혼성 그룹",
-            "아이돌 그룹"
+            "일본",
+            "프랑스",
+            "미국",
+            "중국"
           ],
           "correctAnswer": 1,
           "optionsTranslation": [
-            "女子團體",
-            "男子團體",
-            "混合團體",
-            "偶像團體"
+            "日本",
+            "法國",
+            "美國",
+            "中國"
           ],
-          "explanation": "엑소는 남자 그룹입니다.",
-          "translation": "EXO是什麼團體？"
+          "explanation": "根據新聞，外長在法國會面。",
+          "translation": "韓國和烏克蘭的外長在哪裡會面？"
         },
         {
           "type": "choice",
-          "question": "팬들이 공연을 ____ 하고 있습니다.",
+          "question": "이번 회담의 목적은 무엇인가요?",
           "options": [
-            "기대",
-            "기대하다",
-            "기대했",
-            "기대하는"
+            "전쟁",
+            "갈등 해결",
+            "무역",
+            "관계 단절"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "戰爭",
+            "解決衝突",
+            "貿易",
+            "關係斷絕"
+          ],
+          "explanation": "此次會談是為了解決兩國之間的衝突。",
+          "translation": "這次會談的目的是什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "어떤 관계를 구축하고자 하나요?",
+          "options": [
+            "좋은",
+            "나쁜",
+            "어려운",
+            "복잡한"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "期待",
-            "期待（動詞）",
-            "期待過",
-            "正在期待"
+            "良好的",
+            "壞的",
+            "困難的",
+            "複雜的"
           ],
-          "explanation": "이 문장은 현재 진행형입니다.",
-          "translation": "粉絲們正在____演出。"
-        },
-        {
-          "type": "choice",
-          "question": "K-POP 시장은 ____ 있습니다.",
-          "options": [
-            "활성화",
-            "활성화되다",
-            "활성화하고",
-            "활성화되"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "活躍",
-            "正在活躍",
-            "活躍中",
-            "活躍的"
-          ],
-          "explanation": "K-POP 시장은 현재 진행형으로 표현되었습니다.",
-          "translation": "K-POP市場正在____。"
+          "explanation": "希望建立良好的關係。",
+          "translation": "想要建立什麼樣的關係？"
         },
         {
           "type": "reorder",
           "question": "다음 문장을 재구성하세요.",
           "words": [
-            "팬들",
-            "많이",
-            "모였습니다"
+            "갈등",
+            "우크라이나",
+            "해결",
+            "한국",
+            "하려고"
           ],
-          "correctAnswer": "팬들이 많이 모였습니다.",
-          "explanation": "주어와 서술어의 순서를 맞춰야 합니다.",
+          "correctAnswer": "한국은 우크라이나 갈등을 해결하려고 합니다.",
+          "explanation": "重新整理句子的正確順序。",
           "translation": "請重組以下句子。"
         },
         {
           "type": "reorder",
           "question": "다음 문장을 재구성하세요.",
           "words": [
-            "공연",
-            "진행중",
-            "하고",
-            "엑소는"
+            "회담",
+            "중요한",
+            "이번",
+            "입니다"
           ],
-          "correctAnswer": "엑소는 공연을 하고 있습니다.",
-          "explanation": "주어와 목적어의 순서를 맞춰야 합니다.",
+          "correctAnswer": "이번 회담은 중요합니다.",
+          "explanation": "重新整理句子的正確順序。",
           "translation": "請重組以下句子。"
         }
       ]
     },
     {
-      "title": "\"K팝 공연 따라 한국 간다\"…태국·홍콩 팬 5명 중 1명 한국 방문 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeWkzZEpGX29ndDF6VnhfYlpDLTUwQW9fbTNnSkd0MnpRVHpXNEJCdG5OcHRnSlp4V3FwemRrLWM0UnprbmNiR0pjQ3ZBdTVWNkx2TnRBTEJEYllCUTJoeFJuSG9VWDRieEVNaHphd0wxMXhKeldZZEQ4MnNVZ1J3cA?oc=5",
-      "published": "Thu, 05 Nov 2026 00:52:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNeWkzZEpGX29ndDF6VnhfYlpDLTUwQW9fbTNnSkd0MnpRVHpXNEJCdG5OcHRnSlp4V3FwemRrLWM0UnprbmNiR0pjQ3ZBdTVWNkx2TnRBTEJEYllCUTJoeFJuSG9VWDRieEVNaHphd0wxMXhKeldZZEQ4MnNVZ1J3cA?oc=5\" target=\"_blank\">\"K팝 공연 따라 한국 간다\"…태국·홍콩 팬 5명 중 1명 한국 방문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-      "source": "이데일리",
+      "title": "쌀값은 어떻게 결정되나요? 쌀의 모든 것 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUFnSlgtNHp0Nmo2V1JOS0l3RmhMVGh4Y0VBU3F0azFYb1paNWlIdWhQM2F1a05WNG1tSEhLWld4T09VYnJfcVNybWVoRFFlLXIzbGEzODhjWVdYRm1ySUJGVW1rdlhNdEQyN0xyZkpvSHdFenJ2RWItQWN3Wi1nOXZ5dHYxWGdabEE?oc=5",
+      "published": "Tue, 10 Nov 2026 10:45:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUFnSlgtNHp0Nmo2V1JOS0l3RmhMVGh4Y0VBU3F0azFYb1paNWlIdWhQM2F1a05WNG1tSEhLWld4T09VYnJfcVNybWVoRFFlLXIzbGEzODhjWVdYRm1ySUJGVW1rdlhNdEQyN0xyZkpvSHdFenJ2RWItQWN3Wi1nOXZ5dHYxWGdabEE?oc=5\" target=\"_blank\">쌀값은 어떻게 결정되나요? 쌀의 모든 것 - 영상 | 멀티미디어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한민국 정책브리핑</font>",
+      "source": "대한민국 정책브리핑",
       "fullContent": {
-        "beginner": "K팝 공연이 인기입니다. 태국과 홍콩의 팬들이 한국에 갑니다. 많은 사람들이 K팝을 좋아합니다.",
-        "intermediate": "최근 조사에 따르면, 태국과 홍콩의 K팝 팬 중에서 5명 중 1명이 한국을 방문하고 있습니다. 이 팬들은 K팝 공연을 보기 위해 한국으로 가고 있습니다. 한국은 K팝의 본고장입니다.",
-        "advanced": "최근 연구 결과에 따르면, 태국과 홍콩의 K팝 팬들 중 약 20%가 한국을 방문하는 것으로 나타났습니다. 이들은 K팝 공연을 관람하기 위해 한국을 찾아오며, 한국의 문화와 관광 명소를 경험하고자 합니다. K팝은 전 세계적으로 많은 인기를 얻고 있으며, 한국을 찾는 팬들이 증가하고 있습니다. K팝은 한국의 문화 산업에 큰 영향을 미치고 있습니다.",
-        "original": "K팝 공연 따라 한국 간다…태국·홍콩 팬 5명 중 1명 한국 방문",
-        "titleTranslation": "隨著K-Pop演出來韓國…泰國和香港粉絲中每5人就有1人訪韓",
+        "beginner": "쌀값은 중요합니다. 쌀은 한국의 주식입니다. 쌀값은 어떻게 결정되나요?",
+        "intermediate": "쌀값은 여러 가지 요인에 따라 결정됩니다. 가장 중요한 요인은 생산량과 수요입니다. 농작물의 기후와 가격 변동도 영향을 미칩니다. 정부 정책도 쌀값에 큰 역할을 합니다. 이 영상에서는 쌀의 모든 것을 설명합니다.",
+        "advanced": "쌀값은 경제적 요소와 사회적 요인에 의해 복합적으로 결정됩니다. 생산량은 기후 변화와 농업 기술의 발전에 따라 달라지며, 이는 공급에 직접적인 영향을 미칩니다. 또한, 소비자들의 수요는 시장의 흐름에 따라 변동합니다. 정부의 정책과 지원이 쌀 농업에 미치는 영향도 매우 큽니다. 이 영상에서는 쌀값 결정의 모든 과정을 상세히 다루고 있습니다. 한국에서 쌀은 단순한 식량을 넘어 문화와 전통의 상징으로 여겨집니다.",
+        "original": "쌀값은 어떻게 결정되나요? 쌀의 모든 것 - 영상 | 멀티미디어",
+        "titleTranslation": "稻米價格是怎麼決定的？稻米的所有事 - 影片 | 多媒體",
         "translations": {
           "beginner": [
-            "K-pop演出很受歡迎。",
-            "泰國和香港的粉絲們來韓國。",
-            "很多人喜歡K-pop。"
+            "稻米價格很重要。",
+            "稻米是韓國的主食。",
+            "稻米價格是怎麼決定的？"
           ],
           "intermediate": [
-            "最近的調查顯示，泰國和香港的K-pop粉絲中，每5人就有1人來韓國。",
-            "這些粉絲們是為了觀看K-pop演出而來韓國的。",
-            "韓國是K-pop的發源地。"
+            "稻米價格根據多種因素決定。",
+            "最重要的因素是產量和需求。",
+            "作物的氣候和價格波動也會影響。",
+            "政府的政策對稻米價格也有很大作用。",
+            "這個影片將解釋稻米的所有事情。"
           ],
           "advanced": [
-            "最近的研究結果顯示，泰國和香港的K-pop粉絲中，大約20%會訪問韓國。",
-            "他們來韓國是為了觀賞K-pop演出，並希望體驗韓國的文化和旅遊景點。",
-            "K-pop在全球範圍內受到了很多人的喜愛，來韓國的粉絲數量也在增加。",
-            "K-pop對韓國的文化產業產生了重大影響。"
+            "稻米價格是由經濟因素和社會因素複雜決定的。",
+            "產量隨著氣候變化和農業技術的發展而變化，這直接影響供應。",
+            "此外，消費者的需求根據市場流動而變動。",
+            "政府的政策和支持對稻米農業的影響也非常大。",
+            "這個影片詳細探討了稻米價格決定的所有過程。",
+            "在韓國，稻米不僅僅是一種食物，更是文化和傳統的象徵。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "공연",
-          "reading": "gongyeon",
-          "meaning": "演出",
-          "example": "K팝 공연은 정말 재미있습니다.",
-          "exampleTranslation": "K-pop演出真的很有趣。",
+          "word": "쌀값",
+          "reading": "ssal-gab",
+          "meaning": "稻米價格",
+          "example": "쌀값이 비쌉니다.",
+          "exampleTranslation": "稻米價格很貴。",
           "level": "3"
         },
         {
-          "word": "팬",
-          "reading": "paen",
-          "meaning": "粉絲",
-          "example": "그는 유명한 K팝 팬입니다.",
-          "exampleTranslation": "他是一位著名的K-pop粉絲。",
-          "level": "2"
-        },
-        {
-          "word": "방문",
-          "reading": "bangmun",
-          "meaning": "訪問",
-          "example": "한국을 방문하고 싶습니다.",
-          "exampleTranslation": "我想訪問韓國。",
-          "level": "2"
-        },
-        {
-          "word": "인기",
-          "reading": "ingi",
-          "meaning": "人氣",
-          "example": "K팝은 세계적으로 큰 인기를 얻고 있습니다.",
-          "exampleTranslation": "K-pop在全球獲得了很大的人氣。",
-          "level": "3"
-        },
-        {
-          "word": "문화",
-          "reading": "munhwa",
-          "meaning": "文化",
-          "example": "한국 문화가 매력적입니다.",
-          "exampleTranslation": "韓國文化很有魅力。",
-          "level": "3"
-        },
-        {
-          "word": "관람",
-          "reading": "gwanlam",
-          "meaning": "觀賞",
-          "example": "공연 관람은 필수입니다.",
-          "exampleTranslation": "觀看演出是必須的。",
-          "level": "3"
-        },
-        {
-          "word": "조사",
-          "reading": "josa",
-          "meaning": "調查",
-          "example": "최근 조사를 했습니다.",
-          "exampleTranslation": "最近進行了一項調查。",
-          "level": "3"
-        },
-        {
-          "word": "경험",
-          "reading": "gyeongheom",
-          "meaning": "體驗",
-          "example": "새로운 문화를 경험하고 싶습니다.",
-          "exampleTranslation": "我想體驗新的文化。",
+          "word": "결정되다",
+          "reading": "gyeoljeongdoeda",
+          "meaning": "被決定",
+          "example": "가격이 어떻게 결정됩니까?",
+          "exampleTranslation": "價格是怎麼決定的？",
           "level": "4"
         },
         {
-          "word": "증가",
-          "reading": "jeungga",
-          "meaning": "增加",
-          "example": "팬 수가 증가하고 있습니다.",
-          "exampleTranslation": "粉絲數量正在增加。",
+          "word": "수요",
+          "reading": "suyo",
+          "meaning": "需求",
+          "example": "수요가 많습니다.",
+          "exampleTranslation": "需求很大。",
+          "level": "4"
+        },
+        {
+          "word": "생산량",
+          "reading": "saengsan-ryang",
+          "meaning": "產量",
+          "example": "올해 쌀 생산량이 증가했습니다.",
+          "exampleTranslation": "今年稻米產量增加了。",
+          "level": "4"
+        },
+        {
+          "word": "정부",
+          "reading": "jeongbu",
+          "meaning": "政府",
+          "example": "정부의 정책이 필요합니다.",
+          "exampleTranslation": "需要政府的政策。",
+          "level": "4"
+        },
+        {
+          "word": "정책",
+          "reading": "jeongchaek",
+          "meaning": "政策",
+          "example": "농업 정책이 중요합니다.",
+          "exampleTranslation": "農業政策很重要。",
           "level": "4"
         },
         {
           "word": "영향",
           "reading": "yeonghyang",
           "meaning": "影響",
-          "example": "K팝은 문화에 큰 영향을 미칩니다.",
-          "exampleTranslation": "K-pop對文化有很大的影響。",
-          "level": "4"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "N(이)다",
-          "explanation": "用來表示名詞的身份或屬性。",
-          "example": "그는 K팝 팬이다.",
-          "exampleTranslation": "他是K-pop粉絲。",
-          "level": "1"
-        },
-        {
-          "pattern": "V(으)러 가다/오다",
-          "explanation": "表示目的地或目的的動作。",
-          "example": "공연을 보러 한국에 간다.",
-          "exampleTranslation": "去韓國看演出。",
-          "level": "3"
-        },
-        {
-          "pattern": "N 중(에서)",
-          "explanation": "表示在某一範圍內或某一群體中。",
-          "example": "팬 중에서 가장 유명하다.",
-          "exampleTranslation": "在粉絲中是最著名的。",
-          "level": "3"
-        },
-        {
-          "pattern": "V(으)면서",
-          "explanation": "表示兩個動作同時進行。",
-          "example": "K팝을 들으면서 공부한다.",
-          "exampleTranslation": "一邊聽K-pop一邊學習。",
+          "example": "기후 변화가 영향을 미칩니다.",
+          "exampleTranslation": "氣候變化會產生影響。",
           "level": "4"
         },
         {
-          "pattern": "N 때문에",
-          "explanation": "表示原因或理由。",
-          "example": "K팝 때문에 한국에 간다.",
-          "exampleTranslation": "因為K-pop而去韓國。",
+          "word": "소비자",
+          "reading": "sobija",
+          "meaning": "消費者",
+          "example": "소비자의 선택이 중요합니다.",
+          "exampleTranslation": "消費者的選擇很重要。",
+          "level": "4"
+        },
+        {
+          "word": "농업",
+          "reading": "nong-eop",
+          "meaning": "農業",
+          "example": "농업이 발전하고 있습니다.",
+          "exampleTranslation": "農業正在發展。",
           "level": "3"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "K팝 공연은 어떤가요?",
-          "options": [
-            "재미있습니다.",
-            "지루합니다.",
-            "어렵습니다.",
-            "슬픕니다."
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "有趣。",
-            "無聊。",
-            "難。",
-            "悲傷。"
-          ],
-          "explanation": "K-pop演出通常被認為是有趣的。",
-          "translation": "K-pop演出怎麼樣？"
-        },
-        {
-          "type": "choice",
-          "question": "한국을 방문하는 팬은 몇 명 중 몇 명인가요?",
-          "options": [
-            "3명 중 1명",
-            "5명 중 1명",
-            "10명 중 1명",
-            "2명 중 1명"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "每3人中1人",
-            "每5人中1人",
-            "每10人中1人",
-            "每2人中1人"
-          ],
-          "explanation": "研究顯示泰國和香港的粉絲中，每5人就有1人來韓國。",
-          "translation": "來韓國的粉絲是幾人中幾人？"
-        },
-        {
-          "type": "choice",
-          "question": "K팝은 어떤 영향을 미치나요?",
-          "options": [
-            "문화에 큰 영향을 미친다.",
-            "경제에 영향을 미치지 않는다.",
-            "정치에만 영향을 미친다.",
-            "사회에 영향을 미치지 않는다."
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "對文化有很大影響。",
-            "不對經濟有影響。",
-            "只對政治有影響。",
-            "對社會沒有影響。"
-          ],
-          "explanation": "K-pop對文化有很大的影響。",
-          "translation": "K-pop對哪方面有影響？"
-        },
-        {
-          "type": "reorder",
-          "question": "請重組以下句子",
-          "words": [
-            "방문",
-            "팬",
-            "한국을",
-            "그는"
-          ],
-          "correctAnswer": "그는 한국을 방문한다.",
-          "explanation": "正確的順序是主語在前，動詞在後。",
-          "translation": "他去韓國拜訪。"
-        },
-        {
-          "type": "reorder",
-          "question": "請重組以下句子",
-          "words": [
-            "K팝",
-            "공연",
-            "보러",
-            "가다",
-            "한국에"
-          ],
-          "correctAnswer": "K팝 공연 보러 한국에 간다.",
-          "explanation": "正確的順序是動詞在後，目的地在最後。",
-          "translation": "去韓國看K-pop演出。"
-        }
-      ]
-    },
-    {
-      "title": "'콘서트 여행' 대세...“K-팝 공연 따라 韓 찾는 해외 팬” - 싱글리스트",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOFFSZlFRMFBBWXRQZ2xpWFpsbE0weFlnTHJCcV9qYnNyNkx4YThVTy0tOHJ1UXhsTWpqWGwtMmt4SmFPeDNnYXQyVVBmSTJ2WVJYaEhvU3BZM2J1QU1LWmdncFZ1UQ?oc=5",
-      "published": "Thu, 05 Nov 2026 09:49:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOFFSZlFRMFBBWXRQZ2xpWFpsbE0weFlnTHJCcV9qYnNyNkx4YThVTy0tOHJ1UXhsTWpqWGwtMmt4SmFPeDNnYXQyVVBmSTJ2WVJYaEhvU3BZM2J1QU1LWmdncFZ1UQ?oc=5\" target=\"_blank\">'콘서트 여행' 대세...“K-팝 공연 따라 韓 찾는 해외 팬”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">싱글리스트</font>",
-      "source": "싱글리스트",
-      "fullContent": {
-        "beginner": "많은 외국 팬들이 K-팝 콘서트를 보러 한국에 옵니다. 그들은 콘서트를 즐깁니다. 한국은 인기 있는 여행지입니다.",
-        "intermediate": "최근 K-팝 콘서트를 보기 위해 외국 팬들이 한국을 방문하는 경우가 많아졌습니다. 이들은 콘서트 여행을 통해 한국 문화를 경험하고 있습니다. K-팝의 인기는 세계적으로 커지고 있습니다. 많은 팬들이 좋아하는 아티스트의 공연을 보기 위해 한국으로 옵니다.",
-        "advanced": "최근 K-팝 공연을 관람하기 위해 한국을 찾는 해외 팬들이 급증하고 있습니다. 이들은 단순히 콘서트에 참석하는 것을 넘어서, 한국의 문화와 음식, 그리고 관광지를 체험하는 기회를 갖고 있습니다. K-팝의 인기는 이제 국내를 넘어 전 세계적으로 확산되고 있으며, 이는 한국 관광 산업에도 긍정적인 영향을 미치고 있습니다. 많은 팬들이 자신이 좋아하는 아티스트의 공연을 보기 위해 한국을 방문하며, 이로 인해 '콘서트 여행'이라는 새로운 트렌드가 형성되고 있습니다.",
-        "original": "'콘서트 여행' 대세...“K-팝 공연 따라 韓 찾는 해외 팬”",
-        "titleTranslation": "'演唱會旅遊' 成為主流...「隨著 K-POP 表演而來的海外粉絲」",
-        "translations": {
-          "beginner": [
-            "許多外國粉絲來韓國看K-POP演唱會。",
-            "他們享受演唱會。",
-            "韓國是受歡迎的旅遊地點。"
-          ],
-          "intermediate": [
-            "最近，越來越多的外國粉絲來韓國參加K-POP演唱會。",
-            "這些人通過演唱會體驗韓國文化。",
-            "K-POP的受歡迎程度在全球不斷增長。",
-            "許多粉絲為了看自己喜歡的藝人而來韓國。"
-          ],
-          "advanced": [
-            "最近，前來韓國觀看K-POP表演的海外粉絲急劇增加。",
-            "他們不僅僅是參加演唱會，還有機會體驗韓國文化、美食和旅遊景點。",
-            "K-POP的受歡迎程度已經超越國內，擴展到全球，這也對韓國的旅遊業產生了積極的影響。",
-            "許多粉絲為了觀看自己喜歡的藝人的表演而來韓國，這促成了‘演唱會旅遊’這一新趨勢。"
-          ]
-        }
-      },
-      "vocabulary": [
-        {
-          "word": "콘서트",
-          "reading": "konseoteu",
-          "meaning": "音樂會",
-          "example": "나는 콘서트에 가고 싶어요.",
-          "exampleTranslation": "我想去音樂會。",
-          "level": "3"
-        },
-        {
-          "word": "팬",
-          "reading": "paen",
-          "meaning": "粉絲",
-          "example": "그는 유명한 K-팝 팬이에요.",
-          "exampleTranslation": "他是一位著名的K-POP粉絲。",
-          "level": "2"
-        },
-        {
-          "word": "여행",
-          "reading": "yeohaeng",
-          "meaning": "旅行",
-          "example": "한국 여행은 정말 재밌어요.",
-          "exampleTranslation": "去韓國旅行真的很有趣。",
-          "level": "1"
         },
         {
           "word": "문화",
           "reading": "munhwa",
           "meaning": "文化",
-          "example": "한국 문화는 매우 다양해요.",
-          "exampleTranslation": "韓國文化非常多樣化。",
+          "example": "한국의 문화는 다양합니다.",
+          "exampleTranslation": "韓國的文化多樣化。",
           "level": "3"
-        },
-        {
-          "word": "관광지",
-          "reading": "gwangwangji",
-          "meaning": "觀光地",
-          "example": "서울은 유명한 관광지입니다.",
-          "exampleTranslation": "首爾是著名的觀光地。",
-          "level": "3"
-        },
-        {
-          "word": "인기",
-          "reading": "ingi",
-          "meaning": "人氣",
-          "example": "그 가수는 많은 인기를 얻고 있어요.",
-          "exampleTranslation": "那位歌手獲得了很多人氣。",
-          "level": "3"
-        },
-        {
-          "word": "아티스트",
-          "reading": "atisteu",
-          "meaning": "藝術家",
-          "example": "그 아티스트의 콘서트에 가고 싶어요.",
-          "exampleTranslation": "我想去那位藝術家的音樂會。",
-          "level": "4"
-        },
-        {
-          "word": "체험",
-          "reading": "cheheom",
-          "meaning": "體驗",
-          "example": "한국 문화를 체험해보고 싶어요.",
-          "exampleTranslation": "我想體驗韓國文化。",
-          "level": "3"
-        },
-        {
-          "word": "트렌드",
-          "reading": "teureondeu",
-          "meaning": "趨勢",
-          "example": "K-팝은 새로운 트렌드입니다.",
-          "exampleTranslation": "K-POP是一種新的趨勢。",
-          "level": "4"
-        },
-        {
-          "word": "방문",
-          "reading": "bangmun",
-          "meaning": "訪問",
-          "example": "많은 외국인이 한국을 방문하고 있어요.",
-          "exampleTranslation": "許多外國人正在訪問韓國。",
-          "level": "2"
         }
       ],
       "grammar": [
         {
-          "pattern": "V-고 싶다",
-          "explanation": "表示想要做某事",
-          "example": "나는 콘서트에 가고 싶어요.",
-          "exampleTranslation": "我想去音樂會。",
-          "level": "2"
-        },
-        {
-          "pattern": "N(이)다",
-          "explanation": "用於陳述名詞的屬性",
-          "example": "한국은 인기 있는 여행지입니다.",
-          "exampleTranslation": "韓國是受歡迎的旅遊地點。",
-          "level": "1"
-        },
-        {
-          "pattern": "V-는 것",
-          "explanation": "表示動作的名詞化",
-          "example": "K-팝을 듣는 것은 즐거워요.",
-          "exampleTranslation": "聽K-POP是令人愉快的。",
-          "level": "3"
-        },
-        {
-          "pattern": "N을/를 통해",
-          "explanation": "通過某事來達成某種目的",
-          "example": "콘서트를 통해 한국 문화를 체험해요.",
-          "exampleTranslation": "通過音樂會體驗韓國文化。",
+          "pattern": "A에 따라 B",
+          "explanation": "A根據B，表示因果關係。",
+          "example": "가격은 수요에 따라 다릅니다.",
+          "exampleTranslation": "價格根據需求而異。",
           "level": "4"
         },
         {
-          "pattern": "V-고 있다",
-          "explanation": "表示正在進行的動作",
-          "example": "많은 팬들이 K-팝 콘서트를 보고 있어요.",
-          "exampleTranslation": "許多粉絲正在觀看K-POP音樂會。",
-          "level": "2"
+          "pattern": "V-(으)ㄴ/는 것",
+          "explanation": "表示動作或狀態的名詞化。",
+          "example": "농업의 발전이 중요합니다.",
+          "exampleTranslation": "農業的發展很重要。",
+          "level": "3"
+        },
+        {
+          "pattern": "V-게 하다",
+          "explanation": "使某人做某事的表達方式。",
+          "example": "정부가 농업을 발전하게 합니다.",
+          "exampleTranslation": "政府使農業發展。",
+          "level": "4"
+        },
+        {
+          "pattern": "A(으)로 B",
+          "explanation": "用A做B，表示方式或方法。",
+          "example": "기후 변화로 가격이 변동합니다.",
+          "exampleTranslation": "因氣候變化而價格波動。",
+          "level": "3"
+        },
+        {
+          "pattern": "A와/과 B",
+          "explanation": "表示兩者之間的關係。",
+          "example": "소비자와 생산자는 중요합니다.",
+          "exampleTranslation": "消費者和生產者很重要。",
+          "level": "1"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "K-팝 공연을 보러 한국에 오는 사람들은 누구입니까?",
+          "question": "쌀값은 어떻게 결정됩니까?",
           "options": [
-            "운전사",
-            "팬",
-            "선생님",
-            "의사"
+            "기후",
+            "수요",
+            "정부 정책",
+            "모두"
           ],
-          "correctAnswer": 1,
+          "correctAnswer": 3,
           "optionsTranslation": [
-            "司機",
-            "粉絲",
-            "老師",
-            "醫生"
+            "氣候",
+            "需求",
+            "政府政策",
+            "全部"
           ],
-          "explanation": "新聞中提到來韓國的人是K-POP的粉絲。",
-          "translation": "來韓國看K-POP表演的人是誰？"
+          "explanation": "稻米價格是根據氣候、需求和政府政策等多方面因素決定的。",
+          "translation": "稻米價格是怎麼決定的？"
         },
         {
           "type": "choice",
-          "question": "K-팝의 인기는 어디까지 퍼져 있습니까?",
+          "question": "한국에서 쌀은 무엇의 상징입니까?",
           "options": [
-            "한국에서만",
-            "전 세계적으로",
-            "아시아에서만",
-            "유럽에서만"
+            "경제",
+            "문화",
+            "정치",
+            "모두"
           ],
           "correctAnswer": 1,
           "optionsTranslation": [
-            "僅在韓國",
-            "全球",
-            "僅在亞洲",
-            "僅在歐洲"
+            "經濟",
+            "文化",
+            "政治",
+            "全部"
           ],
-          "explanation": "K-POP的受歡迎程度已經擴展到全球。",
-          "translation": "K-POP的受歡迎程度擴展到哪裡？"
+          "explanation": "稻米在韓國不僅僅是食物，更是文化和傳統的象徵。",
+          "translation": "在韓國，稻米是什麼的象徵？"
+        },
+        {
+          "type": "choice",
+          "question": "농업 정책의 영향을 받는 것은 무엇입니까?",
+          "options": [
+            "쌀 가격",
+            "소비자",
+            "생산량",
+            "모두"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "稻米價格",
+            "消費者",
+            "產量",
+            "全部"
+          ],
+          "explanation": "農業政策對稻米價格、消費者及產量都有影響。",
+          "translation": "農業政策影響的是什麼？"
         },
         {
           "type": "reorder",
-          "question": "다음 문장을 재배열하세요.",
+          "question": "아래 문장을 재배열하세요.",
           "words": [
-            "한국",
-            "팬들이",
+            "결정",
+            "쌀값은",
+            "어떻게",
+            "되나요"
+          ],
+          "correctAnswer": "쌀값은 어떻게 결정되나요.",
+          "explanation": "這句話是詢問稻米價格的決定方式。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "아래 문장을 재배열하세요.",
+          "words": [
+            "중요한",
+            "농업이",
+            "정책입니다",
+            "정확한"
+          ],
+          "correctAnswer": "정확한 농업이 중요한 정책입니다.",
+          "explanation": "這句話的意思是準確的農業政策是重要的。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "한국이 데이터센터 대안으로 뜬다?…이유 봤더니 [잇슈 머니] - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UOVprbjNpTllyclhNQlpFU09PQng5N01qU29VQkFxcEF4YzdJODJ6MWZXbDE3cU1pLW91cWF4RTFvRnhSSDFCcXRncTRxN1B1bWUxR3BwbkJTdk05WlRKQ2kxc21YUFVrZWh0TnF3?oc=5",
+      "published": "Tue, 10 Nov 2026 21:49:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5UOVprbjNpTllyclhNQlpFU09PQng5N01qU29VQkFxcEF4YzdJODJ6MWZXbDE3cU1pLW91cWF4RTFvRnhSSDFCcXRncTRxN1B1bWUxR3BwbkJTdk05WlRKQ2kxc21YUFVrZWh0TnF3?oc=5\" target=\"_blank\">한국이 데이터센터 대안으로 뜬다?…이유 봤더니 [잇슈 머니]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+      "source": "KBS 뉴스",
+      "fullContent": {
+        "beginner": "한국은 데이터센터의 대안으로 주목받고 있습니다. 많은 기업이 한국에 데이터센터를 세우고 있습니다. 그래서 한국의 경제가 성장하고 있습니다.",
+        "intermediate": "최근 한국은 데이터센터의 대안으로 주목받고 있습니다. 많은 글로벌 기업들이 한국에 데이터센터를 설립하고 있습니다. 한국은 안정적인 인터넷 환경과 발전된 기술 인프라를 가지고 있습니다. 이러한 이유로 데이터센터가 한국에서 증가하고 있습니다. 앞으로도 더 많은 기업들이 한국을 선택할 것으로 예상됩니다.",
+        "advanced": "한국이 데이터센터의 대안으로 떠오르고 있는 이유는 여러 가지가 있습니다. 우선, 한국은 안정적인 전력 공급과 빠른 인터넷 속도를 제공하고 있습니다. 이는 데이터센터 운영에 필수적인 요소입니다. 또한, 한국 정부는 데이터센터 유치를 위한 다양한 지원 정책을 시행하고 있습니다. 이러한 환경은 많은 글로벌 기업들이 한국을 데이터센터 설립 장소로 선택하게 만드는 요인입니다. 앞으로 데이터센터 산업은 더욱 발전할 것으로 기대됩니다.",
+        "original": "한국이 데이터센터 대안으로 뜬다?…이유 봤더니 [잇슈 머니]",
+        "titleTranslation": "韓國成為數據中心的替代選擇？…原因已揭曉 [Issue Money]",
+        "translations": {
+          "beginner": [
+            "韓國是數據中心的替代選擇。",
+            "很多企業在韓國建立數據中心。",
+            "因此，韓國的經濟正在增長。"
+          ],
+          "intermediate": [
+            "最近韓國成為數據中心的替代選擇。",
+            "許多全球企業在韓國設立數據中心。",
+            "韓國擁有穩定的互聯網環境和發達的技術基礎設施。",
+            "這些原因使得數據中心在韓國不斷增加。",
+            "未來還有更多企業預計會選擇韓國。"
+          ],
+          "advanced": [
+            "韓國成為數據中心替代選擇的原因有很多。",
+            "首先，韓國提供穩定的電力供應和快速的互聯網速度。",
+            "這些都是數據中心運營的必要因素。",
+            "此外，韓國政府實施各種支持政策以吸引數據中心。",
+            "這樣的環境使得許多全球企業選擇韓國作為數據中心的設立地點。",
+            "未來數據中心產業將有望進一步發展。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "데이터센터",
+          "reading": "deiteo senteo",
+          "meaning": "數據中心",
+          "example": "한국에 데이터센터가 많이 있습니다.",
+          "exampleTranslation": "韓國有很多數據中心。",
+          "level": "5"
+        },
+        {
+          "word": "기업",
+          "reading": "gieop",
+          "meaning": "企業",
+          "example": "많은 기업이 한국에 옵니다.",
+          "exampleTranslation": "很多企業來到韓國。",
+          "level": "4"
+        },
+        {
+          "word": "경제",
+          "reading": "gyeongje",
+          "meaning": "經濟",
+          "example": "한국의 경제가 성장하고 있습니다.",
+          "exampleTranslation": "韓國的經濟正在增長。",
+          "level": "4"
+        },
+        {
+          "word": "안정적",
+          "reading": "anjeongjeok",
+          "meaning": "穩定的",
+          "example": "안정적인 전력 공급이 중요합니다.",
+          "exampleTranslation": "穩定的電力供應很重要。",
+          "level": "5"
+        },
+        {
+          "word": "속도",
+          "reading": "sokdo",
+          "meaning": "速度",
+          "example": "인터넷 속도가 빠릅니다.",
+          "exampleTranslation": "互聯網速度很快。",
+          "level": "3"
+        },
+        {
+          "word": "정책",
+          "reading": "jeongchaek",
+          "meaning": "政策",
+          "example": "정부는 새로운 정책을 시행합니다.",
+          "exampleTranslation": "政府實施新的政策。",
+          "level": "4"
+        },
+        {
+          "word": "환경",
+          "reading": "hwan-gyeong",
+          "meaning": "環境",
+          "example": "좋은 환경이 필요합니다.",
+          "exampleTranslation": "需要良好的環境。",
+          "level": "3"
+        },
+        {
+          "word": "선택",
+          "reading": "seontaek",
+          "meaning": "選擇",
+          "example": "많은 기업이 한국을 선택했습니다.",
+          "exampleTranslation": "許多企業選擇了韓國。",
+          "level": "3"
+        },
+        {
+          "word": "산업",
+          "reading": "san-eop",
+          "meaning": "產業",
+          "example": "데이터센터 산업이 성장하고 있습니다.",
+          "exampleTranslation": "數據中心產業正在增長。",
+          "level": "4"
+        },
+        {
+          "word": "기대",
+          "reading": "gidae",
+          "meaning": "期待",
+          "example": "미래에 더 많은 발전이 기대됩니다.",
+          "exampleTranslation": "未來期待更多的發展。",
+          "level": "2"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A는 B이다",
+          "explanation": "用於表達主語A是補語B。",
+          "example": "한국은 데이터센터의 대안이다.",
+          "exampleTranslation": "韓國是數據中心的替代選擇。",
+          "level": "1"
+        },
+        {
+          "pattern": "A와 B는 C하다",
+          "explanation": "用於描述A和B共同做C。",
+          "example": "한국과 정부는 데이터센터를 지원한다.",
+          "exampleTranslation": "韓國和政府支持數據中心。",
+          "level": "2"
+        },
+        {
+          "pattern": "A 때문에 B가 있다",
+          "explanation": "用於表達因為A的原因，B存在。",
+          "example": "안정적이기 때문에 좋은 환경이 있다.",
+          "exampleTranslation": "因為穩定，所以有良好的環境。",
+          "level": "4"
+        },
+        {
+          "pattern": "A를 선택하다",
+          "explanation": "表示選擇A。",
+          "example": "많은 기업이 한국을 선택했다.",
+          "exampleTranslation": "很多企業選擇了韓國。",
+          "level": "2"
+        },
+        {
+          "pattern": "A가 B를 기대하다",
+          "explanation": "用於表達A期待B。",
+          "example": "미래에 더 많은 발전을 기대한다.",
+          "exampleTranslation": "期待未來更多的發展。",
+          "level": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "한국은 무엇으로 주목받고 있습니까?",
+          "options": [
+            "자동차",
+            "데이터센터",
+            "영화",
+            "의료"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "汽車",
+            "數據中心",
+            "電影",
+            "醫療"
+          ],
+          "explanation": "最近韓國因為數據中心而受到關注。",
+          "translation": "韓國是因為什麼而受到關注？"
+        },
+        {
+          "type": "choice",
+          "question": "한국의 데이터센터는 무엇이 중요합니까?",
+          "options": [
+            "전력 공급",
+            "소음",
+            "온도",
+            "미세먼지"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "電力供應",
+            "噪音",
+            "溫度",
+            "PM2.5"
+          ],
+          "explanation": "穩定的電力供應對於數據中心運營至關重要。",
+          "translation": "韓國的數據中心重要的是什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "많은 기업이 한국을 선택한 이유는 무엇입니까?",
+          "options": [
+            "정치적 이유",
+            "기술 인프라",
+            "지리적 위치",
+            "문화"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "政治原因",
+            "技術基礎設施",
+            "地理位置",
+            "文化"
+          ],
+          "explanation": "技術基礎設施是企業選擇韓國的重要原因。",
+          "translation": "很多企業選擇韓國的原因是什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
+            "한국은",
+            "중요한",
+            "데이터센터",
+            "운영에",
+            "속도"
+          ],
+          "correctAnswer": "한국은 데이터센터 운영에 중요한 속도이다.",
+          "explanation": "這句話的正確順序是：韓國是數據中心運營的重要速度。",
+          "translation": "請重組以下句子"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
             "많은",
-            "방문하고",
-            "있어요"
+            "기업이",
+            "데이터센터",
+            "선택할",
+            "한국을"
           ],
-          "correctAnswer": "많은 팬들이 한국을 방문하고 있어요.",
-          "explanation": "這句話的正確順序是描述許多粉絲正在訪問韓國。",
-          "translation": "請重組以下句子。"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재배열하세요.",
-          "words": [
-            "K-팝",
-            "인기",
-            "전 세계적으로",
-            "커지고",
-            "있어요"
-          ],
-          "correctAnswer": "K-팝의 인기가 전 세계적으로 커지고 있어요.",
-          "explanation": "這句話的正確順序是描述K-POP的受歡迎程度正在全球增長。",
-          "translation": "請重組以下句子。"
+          "correctAnswer": "많은 기업이 한국을 데이터센터로 선택할 것이다.",
+          "explanation": "這句話的正確順序是：很多企業將選擇韓國作為數據中心。",
+          "translation": "請重組以下句子"
         }
       ]
     }
   ],
   "japanese": [
+    {
+      "title": "【日本代表スタメン予想】ブラジル戦は4バック採用か 南野ら代表復帰組や初召集・福田師王の起用は？ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80Z1oyMUotSUtLVVZnbDZqNDRRMkduZGZYTGN6cnhPTWxUUlVyamVCUnV0TkY0dEpTeXUwY2trVEt1Zzh6d0tYMW4yMHlDZFJXV3FFZC12ZDdWUzJwd0VlM2xBaHl3NlJDeEJBSGppWFR6REdKTkp2N21RVy1nczQ?oc=5",
+      "published": "Tue, 10 Nov 2026 22:20:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE80Z1oyMUotSUtLVVZnbDZqNDRRMkduZGZYTGN6cnhPTWxUUlVyamVCUnV0TkY0dEpTeXUwY2trVEt1Zzh6d0tYMW4yMHlDZFJXV3FFZC12ZDdWUzJwd0VlM2xBaHl3NlJDeEJBSGppWFR6REdKTkp2N21RVy1nczQ?oc=5\" target=\"_blank\">【日本代表スタメン予想】ブラジル戦は4バック採用か 南野ら代表復帰組や初召集・福田師王の起用は？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "日本のサッカーチームはブラジルと試合をします。南野選手が代表に戻ります。福田選手も初めて選ばれました。",
+        "intermediate": "日本代表はブラジル戦に向けて4バックを採用する可能性があります。南野選手は代表復帰し、期待されています。また、初召集の福田師王選手も注目されています。ブラジル相手の試合は大変重要です。",
+        "advanced": "日本代表は次回のブラジル戦において、4バックの戦術を採用するかもしれません。南野選手は代表に復帰し、チームの戦力としての期待が高まっています。さらに、初召集の福田師王選手の起用も噂されています。この試合は日本にとって非常に重要であり、強力なブラジルチームに対抗するための戦略が求められています。監督の判断が試合の結果に大きく影響するでしょう。",
+        "original": "【日本代表スタメン予想】ブラジル戦は4バック採用か 南野ら代表復帰組や初召集・福田師王の起用は？",
+        "titleTranslation": "【日本代表首發預測】巴西戰是否採用四後衛 南野等復隊組及初召集福田師王的使用？",
+        "translations": {
+          "beginner": [
+            "日本的足球隊將與巴西比賽。",
+            "南野選手將回到代表隊。",
+            "福田選手也第一次被選上。"
+          ],
+          "intermediate": [
+            "日本代表可能會採用四後衛陣型來迎接巴西戰。",
+            "南野選手回歸，大家都很期待。",
+            "另外，首次被召集的福田師王選手也受到關注。",
+            "對於日本來說，這場比賽非常重要。"
+          ],
+          "advanced": [
+            "日本代表在即將到來的巴西戰中，或許會採用四後衛的戰術。",
+            "南野選手的回歸，使得球隊的實力再次增強。",
+            "此外，初次被召集的福田師王選手的使用問題也引起了話題。",
+            "這場比賽對於日本而言具有相當的意義，",
+            "需要面對強大的巴西隊，因此制定相應的策略至關重要。",
+            "監督的決策將對比賽結果產生重大影響。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "代表",
+          "reading": "daihyou",
+          "meaning": "代表隊",
+          "example": "日本のサッカー代表は強いです。",
+          "exampleTranslation": "日本的足球代表隊很強。",
+          "level": "N3"
+        },
+        {
+          "word": "試合",
+          "reading": "shiai",
+          "meaning": "比賽",
+          "example": "試合は来週です。",
+          "exampleTranslation": "比賽是在下週。",
+          "level": "N4"
+        },
+        {
+          "word": "選手",
+          "reading": "senshu",
+          "meaning": "選手",
+          "example": "南野選手が活躍します。",
+          "exampleTranslation": "南野選手將會表現出色。",
+          "level": "N3"
+        },
+        {
+          "word": "復帰",
+          "reading": "fukki",
+          "meaning": "復歸",
+          "example": "彼はチームに復帰しました。",
+          "exampleTranslation": "他回到了隊伍中。"
+        },
+        {
+          "word": "初召集",
+          "reading": "shoshoushuu",
+          "meaning": "首次被召集",
+          "example": "福田選手は初召集です。",
+          "exampleTranslation": "福田選手是首次被召集。",
+          "level": "N1"
+        },
+        {
+          "word": "戦術",
+          "reading": "senjutsu",
+          "meaning": "戰術",
+          "example": "新しい戦術を試します。",
+          "exampleTranslation": "將嘗試新的戰術。",
+          "level": "N1"
+        },
+        {
+          "word": "重要",
+          "reading": "juuyou",
+          "meaning": "重要",
+          "example": "この試合は重要です。",
+          "exampleTranslation": "這場比賽很重要。",
+          "level": "N3"
+        },
+        {
+          "word": "戦力",
+          "reading": "senryoku",
+          "meaning": "戰力",
+          "example": "チームの戦力が増えました。",
+          "exampleTranslation": "隊伍的戰力增強了。",
+          "level": "N1"
+        },
+        {
+          "word": "監督",
+          "reading": "kantoku",
+          "meaning": "監督",
+          "example": "監督が指示を出します。",
+          "exampleTranslation": "監督將發出指示。",
+          "level": "N3"
+        },
+        {
+          "word": "影響",
+          "reading": "eikyou",
+          "meaning": "影響",
+          "example": "結果に影響を与える。",
+          "exampleTranslation": "會對結果產生影響。",
+          "level": "N3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜がある/〜がいる",
+          "explanation": "存在或擁有某物或某人。",
+          "example": "代表がいる。",
+          "exampleTranslation": "有代表。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜に向けて",
+          "explanation": "為了某個目標或事件的方向。",
+          "example": "試合に向けて練習します。",
+          "exampleTranslation": "為了比賽而練習。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜のために",
+          "explanation": "為了某事而做某事。",
+          "example": "勝つために頑張ります。",
+          "exampleTranslation": "為了贏而努力。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜ことができる",
+          "explanation": "能夠做某事。",
+          "example": "彼はサッカーをすることができる。",
+          "exampleTranslation": "他能踢足球。",
+          "level": "N4"
+        },
+        {
+          "pattern": "〜と思う",
+          "explanation": "認為或想。",
+          "example": "勝てると思います。",
+          "exampleTranslation": "我認為可以贏。",
+          "level": "N4"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "南野選手は何に復帰しますか？",
+          "options": [
+            "サッカー",
+            "バスケットボール",
+            "野球",
+            "テニス"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "足球",
+            "籃球",
+            "棒球",
+            "網球"
+          ],
+          "explanation": "南野選手是足球選手，因此他復歸的是足球代表隊。",
+          "translation": "南野選手將復歸於哪個運動？"
+        },
+        {
+          "type": "choice",
+          "question": "福田選手は何回目の召集ですか？",
+          "options": [
+            "初めて",
+            "二回目",
+            "三回目",
+            "四回目"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "第一次",
+            "第二次",
+            "第三次",
+            "第四次"
+          ],
+          "explanation": "福田選手是首次被召集，這是他的第一次。",
+          "translation": "福田選手是幾次召集？"
+        },
+        {
+          "type": "choice",
+          "question": "ブラジル戦はどのような戦術を使いますか？",
+          "options": [
+            "1バック",
+            "2バック",
+            "3バック",
+            "4バック"
+          ],
+          "correctAnswer": 3,
+          "optionsTranslation": [
+            "一後衛",
+            "二後衛",
+            "三後衛",
+            "四後衛"
+          ],
+          "explanation": "日本代表はブラジル戦に4バックを採用する可能性があります。",
+          "translation": "巴西戰將使用哪種戰術？"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を正しい順番に並べてください。",
+          "words": [
+            "選手",
+            "復帰",
+            "南野",
+            "は",
+            "代表",
+            "します"
+          ],
+          "correctAnswer": "南野選手は復帰します。",
+          "explanation": "正確的句子是「南野選手は復帰します。」",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を正しい順番に並べてください。",
+          "words": [
+            "戦術",
+            "新しい",
+            "試合",
+            "を",
+            "使います"
+          ],
+          "correctAnswer": "新しい戦術を使います。",
+          "explanation": "正確的句子是「新しい戦術を使います。」",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "【独自】日中首脳会談、実現調整は不調 中国拒否、首相答弁に反発（共同通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GNXltLU1YTktVbUg2WlIzcTc3bUh2M1Q1LWtsYkFkeW42M2I2b0VLeEtDNkxCN1JxSkJGcjd3Z3N3VVdWLUpuZk5GREV2c19PcDlKRk9LOWdUdUV3d29ZWG9BUmlHd2Joa3pSWXZia0RFdkR2OWJDWkR1Ymg4Mzg?oc=5",
+      "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9GNXltLU1YTktVbUg2WlIzcTc3bUh2M1Q1LWtsYkFkeW42M2I2b0VLeEtDNkxCN1JxSkJGcjd3Z3N3VVdWLUpuZk5GREV2c19PcDlKRk9LOWdUdUV3d29ZWG9BUmlHd2Joa3pSWXZia0RFdkR2OWJDWkR1Ymg4Mzg?oc=5\" target=\"_blank\">【独自】日中首脳会談、実現調整は不調 中国拒否、首相答弁に反発（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "日本と中国の首脳会談がありました。会談はうまくいきませんでした。中国は協議を拒否しました。",
+        "intermediate": "最近、日本と中国の首脳会談が行われました。しかし、調整が不調でした。中国は、日本の首相の答弁に反発しました。これにより、両国の関係がさらに緊張しています。",
+        "advanced": "日本と中国の首脳会談が開催されましたが、実現に向けた調整は不調に終わりました。中国側は、日本の首相の発言に対して強く反発し、協議の進展を拒否しました。この状況は、両国間の外交関係におけるさらなる緊張を引き起こす可能性があります。特に、経済や安全保障に関する重要な議題が残っている中での不調は、今後の対話に影響を及ぼすでしょう。",
+        "original": "【独自】日中首脳会談、実現調整は不調 中国拒否、首相答弁に反発（共同通信）",
+        "titleTranslation": "【獨家】日中首腦會談，實現調整不順 中國拒絕，首相答辯反發",
+        "translations": {
+          "beginner": [
+            "日本和中國的首腦會議舉行了。",
+            "會議進行得不順利。",
+            "中國拒絕協商。"
+          ],
+          "intermediate": [
+            "最近，日本和中國的首腦會議舉行了。",
+            "但是，調整不順利。",
+            "中國對日本首相的答辯表示反對。",
+            "這使兩國的關係更加緊張。"
+          ],
+          "advanced": [
+            "日本和中國的首腦會議召開了，但實現調整的過程不如預期。",
+            "中國方面對日本首相的言論強烈反對，",
+            "並拒絕了進一步的協商。",
+            "這一情況可能導致兩國外交關係的進一步緊張。",
+            "尤其在經濟和安全問題等重要議題尚未解決的背景下，",
+            "這次的失敗將影響未來的對話。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "首脳会談",
+          "reading": "shunoukaidan",
+          "meaning": "首腦會談",
+          "example": "日本と中国の首脳会談が行われました。",
+          "exampleTranslation": "日本和中國的首腦會議舉行了。"
+        },
+        {
+          "word": "調整",
+          "reading": "chousei",
+          "meaning": "調整",
+          "example": "実現に向けた調整は不調でした。",
+          "exampleTranslation": "實現調整不順。",
+          "level": "N2"
+        },
+        {
+          "word": "拒否",
+          "reading": "kyohi",
+          "meaning": "拒絕",
+          "example": "中国は協議を拒否しました。",
+          "exampleTranslation": "中國拒絕協商。",
+          "level": "N1"
+        },
+        {
+          "word": "反発",
+          "reading": "hanpatsu",
+          "meaning": "反發",
+          "example": "首相の答弁に反発しました。",
+          "exampleTranslation": "對首相的答辯表示反對。",
+          "level": "N1"
+        },
+        {
+          "word": "関係",
+          "reading": "kankei",
+          "meaning": "關係",
+          "example": "両国の関係が緊張しています。",
+          "exampleTranslation": "兩國的關係變得緊張。",
+          "level": "N4"
+        },
+        {
+          "word": "外交",
+          "reading": "gaikou",
+          "meaning": "外交",
+          "example": "外交関係における緊張が高まっています。",
+          "exampleTranslation": "外交關係中的緊張加劇。",
+          "level": "N3"
+        },
+        {
+          "word": "経済",
+          "reading": "keizai",
+          "meaning": "經濟",
+          "example": "経済に関する重要な議題があります。",
+          "exampleTranslation": "有關經濟的重要議題。",
+          "level": "N4"
+        },
+        {
+          "word": "安全保障",
+          "reading": "anzen hoshou",
+          "meaning": "安全保障",
+          "example": "安全保障に関する問題が残っています。",
+          "exampleTranslation": "安全保障問題仍然存在。"
+        },
+        {
+          "word": "発言",
+          "reading": "hatsugen",
+          "meaning": "發言",
+          "example": "発言に対して強く反発しました。",
+          "exampleTranslation": "對發言表示強烈反對。",
+          "level": "N1"
+        },
+        {
+          "word": "進展",
+          "reading": "shinten",
+          "meaning": "進展",
+          "example": "協議の進展を拒否しました。",
+          "exampleTranslation": "拒絕了協商的進展。",
+          "level": "N1"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜に対して",
+          "explanation": "表示對某事物的反應或態度",
+          "example": "首相の発言に対して反発しました。",
+          "exampleTranslation": "對首相的發言表示反對。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜がある",
+          "explanation": "表示存在某事物或某種情況",
+          "example": "重要な議題があります。",
+          "exampleTranslation": "有重要的議題。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜を拒否する",
+          "explanation": "表示拒絕某事物",
+          "example": "中国は協議を拒否しました。",
+          "exampleTranslation": "中國拒絕了協商。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜における",
+          "explanation": "表示在某個範圍或領域內的情況",
+          "example": "外交関係における緊張が高まっています。",
+          "exampleTranslation": "外交關係中的緊張加劇。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜に向けた",
+          "explanation": "表示為了某個目的或方向",
+          "example": "実現に向けた調整は不調でした。",
+          "exampleTranslation": "實現調整不順。",
+          "level": "N2"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "日中首脳会談はどこで行われましたか？",
+          "options": [
+            "日本",
+            "アメリカ",
+            "中国",
+            "韓国"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "日本",
+            "美國",
+            "中國",
+            "韓國"
+          ],
+          "explanation": "會談在日本舉行。",
+          "translation": "日中首腦會談是在何處舉行的？"
+        },
+        {
+          "type": "choice",
+          "question": "中国は何を拒否しましたか？",
+          "options": [
+            "協議",
+            "会談",
+            "調整",
+            "発言"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "協商",
+            "會議",
+            "調整",
+            "發言"
+          ],
+          "explanation": "中國拒絕了協商。",
+          "translation": "中國拒絕了什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "首相の発言に対してどう反応しましたか？",
+          "options": [
+            "賛成",
+            "反発",
+            "無視",
+            "支持"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "贊成",
+            "反對",
+            "忽視",
+            "支持"
+          ],
+          "explanation": "對首相的發言表示反對。",
+          "translation": "首相的發言引發了什麼反應？"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文章を重組してください：",
+          "words": [
+            "会談",
+            "日中",
+            "行われました",
+            "首脳"
+          ],
+          "correctAnswer": "日中首脳会談が行われました。",
+          "explanation": "正確的句子應為「日中首脳会談が行われました。」",
+          "translation": "請重組以下句子："
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文章を重組してください：",
+          "words": [
+            "中国",
+            "拒否",
+            "協議",
+            "は"
+          ],
+          "correctAnswer": "中国は協議を拒否しました。",
+          "explanation": "正確的句子應為「中国は協議を拒否しました。」",
+          "translation": "請重組以下句子："
+        }
+      ]
+    },
     {
       "title": "大地震エネルギー蓄積か 日本海溝 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LOXlETGVUZXVKVFM1c0xEX3JBTEowQkoyY0JJb0prdGR3Q0hrTTU1THo2YjFXcFZic0IwNlNOYnZyQVZmZThrc2x3b0E0V05k?oc=5",
@@ -706,1171 +1689,703 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LOXlETGVUZXVKVFM1c0xEX3JBTEowQkoyY0JJb0prdGR3Q0hrTTU1THo2YjFXcFZic0IwNlNOYnZyQVZmZThrc2x3b0E0V05k?oc=5\" target=\"_blank\">大地震エネルギー蓄積か 日本海溝</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "source": "Yahoo!ニュース",
       "fullContent": {
-        "beginner": "日本海溝で大地震のエネルギーが蓄積されています。地震は大きな自然の力です。私たちは準備をする必要があります。",
-        "intermediate": "最近、日本海溝で大地震のエネルギーが蓄積されているという報告があります。この現象は地震の前兆と考えられています。専門家は、適切な対策を取ることが重要だと述べています。私たちは日々の生活で防災を意識する必要があります。",
-        "advanced": "最近の研究によれば、日本海溝において大地震のエネルギーが蓄積されている可能性があることが指摘されています。この現象は、今後の地震活動に影響を及ぼす恐れがあるため、注意が必要です。専門家は、地域住民に対して防災意識を高めるよう呼びかけており、適切な備えが求められています。また、過去のデータと照らし合わせると、地震の前兆を把握することが重要であるとされています。",
+        "beginner": "日本海溝で大きな地震が起こるかもしれません。エネルギーがたまっています。人々は心配しています。",
+        "intermediate": "最近、日本海溝の下で地震のエネルギーが蓄積されている可能性があります。このエネルギーは、将来的に大きな地震を引き起こすかもしれません。専門家は警戒を呼びかけています。",
+        "advanced": "日本海溝において、地震エネルギーが蓄積されているとの報告があり、これは近い将来に大地震を引き起こす可能性があるとされています。地震学者は、過去のデータを基に、エネルギーの蓄積状態を分析し、予測を行っています。地域住民に対して避難訓練や防災対策の重要性が強調されています。",
         "original": "大地震エネルギー蓄積か 日本海溝",
-        "titleTranslation": "大地震能量積累？日本海溝",
+        "titleTranslation": "日本海溝可能累積大地震能量",
         "translations": {
           "beginner": [
-            "在日本海溝有積累大地震的能量。",
-            "地震是很大的自然力量。",
-            "我們需要做好準備。"
+            "日本海溝で大きな地震が起こるかもしれません。",
+            "エネルギーがたまっています。",
+            "人々は心配しています。"
           ],
           "intermediate": [
-            "最近，有報告指出日本海溝積累了大地震的能量。",
-            "這種現象被認為是地震的前兆。",
-            "專家表示，採取適當的對策非常重要。",
-            "我們在日常生活中需要意識到防災。"
+            "最近、日本海溝の下で地震のエネルギーが蓄積されている可能性があります。",
+            "このエネルギーは、将来的に大きな地震を引き起こすかもしれません。",
+            "専門家は警戒を呼びかけています。"
           ],
           "advanced": [
-            "最近的研究指出，日本海溝可能正在積累大地震的能量。",
-            "這種現象可能對未來的地震活動造成影響，因此需要引起注意。",
-            "專家呼籲當地居民提高防災意識，並要求做好適當的準備。",
-            "此外，與過去的數據相對照，掌握地震的前兆是非常重要的。"
+            "日本海溝において、地震エネルギーが蓄積されているとの報告があり、",
+            "これは近い将来に大地震を引き起こす可能性があるとされています。",
+            "地震学者は、過去のデータを基に、エネルギーの蓄積状態を分析し、予測を行っています。",
+            "地域住民に対して避難訓練や防災対策の重要性が強調されています。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "大地震",
-          "reading": "daijishin",
-          "meaning": "大地震",
-          "example": "日本では大地震が多い。",
-          "exampleTranslation": "日本經常發生大地震。"
+          "word": "地震",
+          "reading": "jishin",
+          "meaning": "地震",
+          "example": "地震が起こりました。",
+          "exampleTranslation": "發生了地震。",
+          "level": "N4"
         },
         {
           "word": "エネルギー",
-          "reading": "enerugii",
+          "reading": "enerugī",
           "meaning": "能量",
-          "example": "エネルギーを蓄積する。",
-          "exampleTranslation": "儲存能量。",
+          "example": "エネルギーが蓄積されています。",
+          "exampleTranslation": "能量正在累積。",
           "level": "N3"
         },
         {
           "word": "蓄積",
           "reading": "chikuseki",
-          "meaning": "積累",
-          "example": "資源を蓄積することが大切です。",
-          "exampleTranslation": "積累資源是很重要的。",
+          "meaning": "累積",
+          "example": "エネルギーの蓄積が心配です。",
+          "exampleTranslation": "對能量的累積感到擔心。",
           "level": "N1"
         },
         {
-          "word": "日本海溝",
-          "reading": "nihonkai-kou",
-          "meaning": "日本海溝",
-          "example": "日本海溝は深い海溝です。",
-          "exampleTranslation": "日本海溝是一個深海溝。"
-        },
-        {
-          "word": "自然",
-          "reading": "shizen",
-          "meaning": "自然",
-          "example": "自然は美しいです。",
-          "exampleTranslation": "自然是美麗的。",
-          "level": "N3"
-        },
-        {
-          "word": "準備",
-          "reading": "junbi",
-          "meaning": "準備",
-          "example": "地震のために準備をする。",
-          "exampleTranslation": "為地震做準備。",
-          "level": "N3"
-        },
-        {
-          "word": "防災",
-          "reading": "bousai",
-          "meaning": "防災",
-          "example": "防災意識を高める。",
-          "exampleTranslation": "提高防災意識。"
-        },
-        {
-          "word": "影響",
-          "reading": "eikyou",
-          "meaning": "影響",
-          "example": "大地震は生活に影響を与える。",
-          "exampleTranslation": "大地震會影響生活。",
-          "level": "N3"
+          "word": "可能性",
+          "reading": "kanōsei",
+          "meaning": "可能性",
+          "example": "大きな地震の可能性があります。",
+          "exampleTranslation": "有可能會發生大地震。"
         },
         {
           "word": "専門家",
           "reading": "senmonka",
           "meaning": "專家",
-          "example": "専門家の意見を聞く。",
-          "exampleTranslation": "聽取專家的意見。"
+          "example": "専門家が研究しています。",
+          "exampleTranslation": "專家正在研究。"
         },
         {
-          "word": "データ",
-          "reading": "deeta",
-          "meaning": "數據",
-          "example": "過去のデータを分析する。",
-          "exampleTranslation": "分析過去的數據。",
+          "word": "警戒",
+          "reading": "keikai",
+          "meaning": "警戒",
+          "example": "警戒が必要です。",
+          "exampleTranslation": "需要保持警戒。",
           "level": "N1"
+        },
+        {
+          "word": "分析",
+          "reading": "bunseki",
+          "meaning": "分析",
+          "example": "データを分析します。",
+          "exampleTranslation": "對數據進行分析。"
+        },
+        {
+          "word": "予測",
+          "reading": "yosoku",
+          "meaning": "預測",
+          "example": "地震の予測がされています。",
+          "exampleTranslation": "正在進行地震的預測。"
+        },
+        {
+          "word": "地域",
+          "reading": "chiiki",
+          "meaning": "地區",
+          "example": "地域住民が集まりました。",
+          "exampleTranslation": "當地居民聚集起來。",
+          "level": "N3"
+        },
+        {
+          "word": "防災",
+          "reading": "bōsai",
+          "meaning": "防災",
+          "example": "防災訓練を行います。",
+          "exampleTranslation": "將進行防災訓練。"
         }
       ],
       "grammar": [
         {
-          "pattern": "〜かもしれない",
-          "explanation": "表示可能性，通常用來表達不確定性。",
-          "example": "雨が降るかもしれない。",
-          "exampleTranslation": "可能會下雨。",
+          "pattern": "可能性がある",
+          "explanation": "表示某事有可能發生。",
+          "example": "大地震の可能性がある。",
+          "exampleTranslation": "有大地震的可能性。",
           "level": "N2"
         },
         {
-          "pattern": "〜ために",
-          "explanation": "表示目的或原因。",
-          "example": "安全のために備える。",
-          "exampleTranslation": "為了安全而做好準備。",
-          "level": "N2"
+          "pattern": "〜ている",
+          "explanation": "表示正在進行的動作或狀態。",
+          "example": "エネルギーが蓄積されています。",
+          "exampleTranslation": "能量正在累積。",
+          "level": "N5"
         },
         {
-          "pattern": "〜ことが重要だ",
-          "explanation": "強調某事的重要性。",
-          "example": "防災を意識することが重要だ。",
-          "exampleTranslation": "意識到防災是很重要的。",
-          "level": "N2"
+          "pattern": "〜が必要です",
+          "explanation": "表示某事是必要的。",
+          "example": "警戒が必要です。",
+          "exampleTranslation": "需要保持警戒。",
+          "level": "N4"
         },
         {
-          "pattern": "〜に対して",
-          "explanation": "表示對某事的反應或態度。",
-          "example": "専門家に対して意見を聞く。",
-          "exampleTranslation": "向專家詢問意見。",
-          "level": "N2"
+          "pattern": "〜します",
+          "explanation": "表示執行某動作。",
+          "example": "データを分析します。",
+          "exampleTranslation": "對數據進行分析。",
+          "level": "N5"
         },
         {
-          "pattern": "〜と考えられている",
-          "explanation": "表示某種觀點或看法。",
-          "example": "これは地震の前兆と考えられている。",
-          "exampleTranslation": "這被認為是地震的前兆。",
-          "level": "N2"
+          "pattern": "〜について",
+          "explanation": "表示關於某事的主題。",
+          "example": "地震について研究しています。",
+          "exampleTranslation": "正在研究地震。",
+          "level": "N3"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "最近、日本海溝で何が蓄積されていますか？",
+          "question": "日本海溝で何が蓄積されていますか？",
           "options": [
             "水",
             "エネルギー",
-            "空気",
-            "食料"
+            "風",
+            "土"
           ],
           "correctAnswer": 1,
           "optionsTranslation": [
             "水",
             "能量",
-            "空氣",
-            "食物"
+            "風",
+            "土"
           ],
-          "explanation": "根據報告，日本海溝正在積累能量。",
-          "translation": "最近，日本海溝積累了什麼？"
+          "explanation": "根據文章，日本海溝主要蓄積的是能量。",
+          "translation": "在日本海溝中累積的是什麼？"
         },
         {
           "type": "choice",
           "question": "専門家は何を呼びかけていますか？",
           "options": [
-            "旅行",
-            "防災意識",
-            "買い物",
-            "運動"
+            "遊び",
+            "警戒",
+            "研究",
+            "旅行"
           ],
           "correctAnswer": 1,
           "optionsTranslation": [
-            "旅行",
-            "防災意識",
-            "購物",
-            "運動"
+            "遊玩",
+            "警戒",
+            "研究",
+            "旅行"
           ],
-          "explanation": "專家呼籲提高防災意識。",
-          "translation": "專家呼籲什麼？"
+          "explanation": "專家呼籲大家保持警戒以防地震。",
+          "translation": "專家在呼籲什麼？"
         },
         {
           "type": "choice",
-          "question": "地震はどのような自然の力ですか？",
+          "question": "防災訓練は何のために行いますか？",
           "options": [
-            "小さい",
-            "大きい",
-            "弱い",
-            "強い"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "小的",
-            "大的",
-            "弱的",
-            "強的"
-          ],
-          "explanation": "地震是一種很大的自然力量。",
-          "translation": "地震是什麼樣的自然力量？"
-        },
-        {
-          "type": "reorder",
-          "question": "請重組以下句子",
-          "words": [
-            "蓄積",
-            "エネルギー",
-            "大地震",
-            "が",
-            "日本海溝"
-          ],
-          "correctAnswer": "日本海溝が大地震のエネルギーを蓄積する。",
-          "explanation": "正確的句子結構應該是主語在前。",
-          "translation": "正確的句子是什麼？"
-        },
-        {
-          "type": "reorder",
-          "question": "請重組以下句子",
-          "words": [
+            "遊び",
+            "勉強",
             "準備",
-            "私たち",
-            "する",
-            "必要",
-            "があります"
+            "休暇"
           ],
-          "correctAnswer": "私たちには準備をする必要があります。",
-          "explanation": "句子的結構需要正確，主語放在前面。",
-          "translation": "正確的句子是什麼？"
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "遊玩",
+            "學習",
+            "準備",
+            "假期"
+          ],
+          "explanation": "防災訓練是為了準備應對可能的災害。",
+          "translation": "防災訓練是為了什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
+            "地震",
+            "日本海溝",
+            "大きな",
+            "起こる",
+            "かもしれません"
+          ],
+          "correctAnswer": "日本海溝で大きな地震が起こるかもしれません。",
+          "explanation": "需要將句子重新排列以形成正確的句子。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
+            "専門家",
+            "研究",
+            "しています",
+            "エネルギー",
+            "の",
+            "蓄積",
+            "を"
+          ],
+          "correctAnswer": "専門家がエネルギーの蓄積を研究しています。",
+          "explanation": "需要將句子重新排列以形成正確的句子。",
+          "translation": "請重組以下句子。"
         }
       ]
     },
     {
-      "title": "日本テレビ・森圭介アナ、休養を発表「２週間ほど、のどの治療のためお休みして」「メンテナンスして参ります」…「ｎｅｗｓ ｅｖｅｒｙ．」で生報告（スポーツ報知） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbEVFc3htblJBX0F0Y3F4M29SdHFtYmJpZUppaHQ4MlFxR2RUdFZlZHhVdWVYdjI3dndINTZYZUZHNThFX0R1ajlpLXFlRWtybW5FMmw5ZExSdEM5cGJrcmFkYTNvMzBfVUFPVDRJRm9CVklHZkJSenUwNTFycHM?oc=5",
-      "published": "Mon, 09 Nov 2026 09:59:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbEVFc3htblJBX0F0Y3F4M29SdHFtYmJpZUppaHQ4MlFxR2RUdFZlZHhVdWVYdjI3dndINTZYZUZHNThFX0R1ajlpLXFlRWtybW5FMmw5ZExSdEM5cGJrcmFkYTNvMzBfVUFPVDRJRm9CVklHZkJSenUwNTFycHM?oc=5\" target=\"_blank\">日本テレビ・森圭介アナ、休養を発表「２週間ほど、のどの治療のためお休みして」「メンテナンスして参ります」…「ｎｅｗｓ ｅｖｅｒｙ．」で生報告（スポーツ報知）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "title": "「バスケができなくなったら…」 絶望から現役復帰 がんを公表した元日本代表・吉田亜沙美 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fckJZZ0ZneTdhcDg0ZlFvcHpweUdZT054UlRjbC05em9lZ3NDM2Q4NDJiQm9MRTNjemFmWnpWZDhYMWJLeDVHdnNQakRxUllY?oc=5",
+      "published": "Mon, 09 Nov 2026 23:19:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fckJZZ0ZneTdhcDg0ZlFvcHpweUdZT054UlRjbC05em9lZ3NDM2Q4NDJiQm9MRTNjemFmWnpWZDhYMWJLeDVHdnNQakRxUllY?oc=5\" target=\"_blank\">「バスケができなくなったら…」 絶望から現役復帰 がんを公表した元日本代表・吉田亜沙美</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "source": "Yahoo!ニュース",
       "fullContent": {
-        "beginner": "森圭介アナウンサーが休養します。彼はのどの治療のために、二週間お休みします。彼は元気になりたいです。",
-        "intermediate": "日本テレビの森圭介アナウンサーが、のどの治療のために休養を発表しました。彼は約二週間お休みすると言っています。また、森アナはメンテナンスをして、元気に戻る予定です。",
-        "advanced": "日本テレビの森圭介アナウンサーが、自身の健康状態について公表し、のどの治療のために二週間ほど休養することを発表しました。彼は『メンテナンスして参ります』と述べ、視聴者に心配をかけないよう配慮しています。また、彼は『news every.』で生報告を行い、復帰に向けた意気込みを語りました。今後の回復を期待しています。",
-        "original": "日本テレビ・森圭介アナ、休養を発表「２週間ほど、のどの治療のためお休みして」「メンテナンスして参ります」…「ｎｅｗｓ ｅｖｅｒｙ．」で生報告（スポーツ報知）",
-        "titleTranslation": "日本電視台森圭介主播宣布休養，為了治療喉嚨將休息兩週，並在「news every.」中進行現場報告",
+        "beginner": "吉田亜沙美さんは元日本のバスケットボール選手です。彼女はがんにかかりました。今、彼女は復帰を目指しています。",
+        "intermediate": "元日本代表のバスケットボール選手、吉田亜沙美さんががんを公表しました。彼女は絶望的な状況から、再びプレーすることを希望しています。多くの人々が彼女を応援しています。彼女の勇気は、他の人にも影響を与えるでしょう。",
+        "advanced": "元日本代表バスケットボール選手である吉田亜沙美さんが、がんを公表し、現役復帰を目指していることが報じられました。彼女は、バスケットボールができなくなったときの絶望感を語り、再びコートに立つために努力しています。この決意は、同じような状況にある人々に勇気を与えるとともに、スポーツの持つ力を再認識させるものです。多くのファンや仲間たちが彼女を支えています。",
+        "original": "「バスケができなくなったら…」 絶望から現役復帰 がんを公表した元日本代表・吉田亜沙美",
+        "titleTranslation": "「如果不能打籃球…」從絕望中復出，公佈罹癌的前日本代表・吉田亞沙美",
         "translations": {
           "beginner": [
-            "森圭介主播將休養。",
-            "他因為治療喉嚨，將休息兩週。",
-            "他希望能夠健康起來。"
+            "吉田亜沙美是前日本籃球運動員。",
+            "她得了癌症。",
+            "現在，她希望能夠復出。"
           ],
           "intermediate": [
-            "日本電視台的森圭介主播，因為喉嚨治療而宣布休養。",
-            "他表示將休息約兩週。",
-            "森主播還提到，他會進行健康維護，並計劃回到工作中。"
+            "前日本代表的籃球選手吉田亜沙美公佈了罹癌的消息。",
+            "她在絕望的情況下，希望能夠再次參賽。",
+            "許多人在支持她。",
+            "她的勇氣將影響其他人。",
+            "她希望能夠再次站在球場上。"
           ],
           "advanced": [
-            "日本電視台的森圭介主播，公佈了自己的健康狀況，並宣布因為喉嚨治療將休養約兩週。",
-            "他提到，將進行必要的維護，並會努力恢復健康。",
-            "在「news every.」中，森主播進行了現場報告，表達了對於回歸工作的期待。",
-            "他希望能夠在休養後，健康地回到觀眾面前，並感謝大家的關心。"
+            "前日本代表籃球選手吉田亜沙美公佈了她罹癌的消息，並計畫復出。",
+            "她談到了無法打籃球時的絕望感，並表達了重返賽場的強烈願望。",
+            "這份決心不僅讓她自己堅強，也激勵了許多面臨相似困境的人。",
+            "她的故事提醒我們運動的力量和人類的堅韌。",
+            "身邊的朋友和粉絲們都在全力支持她的復出之路。",
+            "吉田さんの勇気は多くの人に影響を与えることでしょう。",
+            "彼女が再びコートに立つ日を、みんなで待っています。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "休養",
-          "reading": "kyuuou",
-          "meaning": "休養",
-          "example": "彼は休養が必要です。",
-          "exampleTranslation": "他需要休養。",
-          "level": "N2"
+          "word": "バスケットボール",
+          "reading": "basukettoboru",
+          "meaning": "籃球",
+          "example": "バスケットボールが好きです。",
+          "exampleTranslation": "我喜歡籃球。"
         },
         {
-          "word": "治療",
-          "reading": "chiryou",
-          "meaning": "治療",
-          "example": "のどの治療を受けます。",
-          "exampleTranslation": "我將接受喉嚨的治療。",
+          "word": "がん",
+          "reading": "gan",
+          "meaning": "癌症",
+          "example": "彼女はがんにかかりました。",
+          "exampleTranslation": "她罹患了癌症。",
           "level": "N1"
         },
         {
-          "word": "元気",
-          "reading": "genki",
-          "meaning": "健康",
-          "example": "彼は元気です。",
-          "exampleTranslation": "他很健康。",
-          "level": "N5"
+          "word": "復帰",
+          "reading": "fukki",
+          "meaning": "復出",
+          "example": "彼はサッカーに復帰します。",
+          "exampleTranslation": "他將復出踢足球。"
         },
         {
-          "word": "メンテナンス",
-          "reading": "menteinansu",
-          "meaning": "維護",
-          "example": "彼はメンテナンスが必要です。",
-          "exampleTranslation": "他需要維護。"
-        },
-        {
-          "word": "発表",
-          "reading": "happyou",
-          "meaning": "發表",
-          "example": "彼は休養を発表しました。",
-          "exampleTranslation": "他宣布了休養。",
-          "level": "N3"
-        },
-        {
-          "word": "報告",
-          "reading": "houkoku",
-          "meaning": "報告",
-          "example": "彼は生報告をしました。",
-          "exampleTranslation": "他做了現場報告。",
-          "level": "N3"
-        },
-        {
-          "word": "視聴者",
-          "reading": "shichousha",
-          "meaning": "觀眾",
-          "example": "視聴者に感謝します。",
-          "exampleTranslation": "感謝觀眾。"
-        },
-        {
-          "word": "健康",
-          "reading": "kenkou",
-          "meaning": "健康",
-          "example": "健康が一番大事です。",
-          "exampleTranslation": "健康是最重要的。",
-          "level": "N3"
-        },
-        {
-          "word": "仕事",
-          "reading": "shigoto",
-          "meaning": "工作",
-          "example": "仕事に戻ります。",
-          "exampleTranslation": "我將回到工作中。",
-          "level": "N5"
-        },
-        {
-          "word": "期待",
-          "reading": "kitai",
-          "meaning": "期待",
-          "example": "彼は復帰を期待しています。",
-          "exampleTranslation": "他對復歸充滿期待。",
-          "level": "N3"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "～ために",
-          "explanation": "表示目的或原因，常用於描述行為的動機。",
-          "example": "治療のために休みます。",
-          "exampleTranslation": "為了治療，我將休息。",
-          "level": "N2"
-        },
-        {
-          "pattern": "～ことができる",
-          "explanation": "表示能力或可能性。",
-          "example": "元気になることができる。",
-          "exampleTranslation": "能夠變得健康。",
-          "level": "N3"
-        },
-        {
-          "pattern": "～つもりです",
-          "explanation": "表示打算或計劃。",
-          "example": "元気に戻るつもりです。",
-          "exampleTranslation": "我打算健康地回來。",
-          "level": "N2"
-        },
-        {
-          "pattern": "～と言っています",
-          "explanation": "用於引述他人的言論。",
-          "example": "彼は休養すると言っています。",
-          "exampleTranslation": "他說他將休養。",
-          "level": "N3"
-        },
-        {
-          "pattern": "～ながら",
-          "explanation": "表示同時進行的動作。",
-          "example": "治療を受けながら、仕事を考えます。",
-          "exampleTranslation": "在接受治療的同時，我會考慮工作。",
-          "level": "N3"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "森圭介アナウンサーは何のために休養しますか？",
-          "options": [
-            "仕事",
-            "治療",
-            "旅行",
-            "勉強"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "工作",
-            "治療",
-            "旅行",
-            "學習"
-          ],
-          "explanation": "森アナウンサーはのどの治療のために休養を発表しました。",
-          "translation": "森圭介主播為了什麼而休養？"
-        },
-        {
-          "type": "choice",
-          "question": "森アナはどのくらい休養しますか？",
-          "options": [
-            "1週間",
-            "2週間",
-            "3週間",
-            "1ヶ月"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "1週",
-            "2週",
-            "3週",
-            "1個月"
-          ],
-          "explanation": "彼は約2週間お休みすると言っています。",
-          "translation": "森主播將休養多久？"
-        },
-        {
-          "type": "choice",
-          "question": "森アナはどこで報告しましたか？",
-          "options": [
-            "テレビ",
-            "ラジオ",
-            "新聞",
-            "インターネット"
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "電視",
-            "廣播",
-            "報紙",
-            "網路"
-          ],
-          "explanation": "彼は「news every.」で生報告を行いました。",
-          "translation": "森主播在哪裡報告？"
-        },
-        {
-          "type": "reorder",
-          "question": "以下の文を正しい順番に並べてください。",
-          "words": [
-            "休養",
-            "発表",
-            "森アナ",
-            "しました"
-          ],
-          "correctAnswer": "森アナは休養を発表しました。",
-          "explanation": "正しい順番は主語、目的語、動詞の順です。",
-          "translation": "請將以下句子重組。"
-        },
-        {
-          "type": "reorder",
-          "question": "以下の文を正しい順番に並べてください。",
-          "words": [
-            "治療",
-            "受けます",
-            "のどの",
-            "私は"
-          ],
-          "correctAnswer": "私はのどの治療を受けます。",
-          "explanation": "正確的順序是主語、目的語、動詞的排列。",
-          "translation": "請將以下句子重組。"
-        }
-      ]
-    },
-    {
-      "title": "麻生コンクリ JIS認証取り消し - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54OWJjOVF3NGw5WmJnVXFGWUY1RnhYVzdoeUVJUnZwRXVacDcwVG5JZXp6ajl5WGZiQllMck9VcVE4SmJsb2NpWVZhaHRicTFj?oc=5",
-      "published": "Mon, 09 Nov 2026 12:56:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE54OWJjOVF3NGw5WmJnVXFGWUY1RnhYVzdoeUVJUnZwRXVacDcwVG5JZXp6ajl5WGZiQllMck9VcVE4SmJsb2NpWVZhaHRicTFj?oc=5\" target=\"_blank\">麻生コンクリ JIS認証取り消し</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "Yahoo!ニュース",
-      "fullContent": {
-        "beginner": "麻生コンクリはJIS認証を取り消されました。JIS認証は大事です。会社はこの問題を解決する必要があります。",
-        "intermediate": "麻生コンクリは最近、JIS認証を取り消されました。この認証は、品質を保証するために重要です。取り消しの理由は、規則に違反したからです。会社は顧客の信頼を取り戻す努力をしなければなりません。",
-        "advanced": "麻生コンクリは、JIS認証を取り消されたという重要なニュースが報じられました。JIS認証は、製品の品質と安全性を確保するための基準ですが、同社はその基準に違反したため、この措置が取られました。取り消しの結果、顧客からの信頼を失う可能性が高く、企業の将来にも影響を及ぼします。そのため、麻生コンクリは迅速に問題を解決し、再度認証を取得する必要があります。",
-        "original": "麻生コンクリ JIS認証取り消し",
-        "titleTranslation": "麻生混凝土 JIS認證被取消",
-        "translations": {
-          "beginner": [
-            "麻生混凝土被取消了JIS認證。",
-            "JIS認證很重要。",
-            "公司需要解決這個問題。"
-          ],
-          "intermediate": [
-            "麻生混凝土最近被取消了JIS認證。",
-            "這個認證對於保證品質很重要。",
-            "取消的原因是違反了規則。",
-            "公司必須努力恢復顧客的信任。"
-          ],
-          "advanced": [
-            "麻生混凝土被報導取消了JIS認證這個重要新聞。",
-            "JIS認證是確保產品品質和安全性的標準。",
-            "該公司因違反標準而受到這一措施。",
-            "取消的結果是可能失去客戶的信任。",
-            "這對公司的未來會有影響。",
-            "因此，麻生混凝土需要迅速解決問題。",
-            "並再次獲得認證。"
-          ]
-        }
-      },
-      "vocabulary": [
-        {
-          "word": "コンクリ",
-          "reading": "konkuri",
-          "meaning": "混凝土",
-          "example": "コンクリは建物に使います。",
-          "exampleTranslation": "混凝土用於建築物。"
-        },
-        {
-          "word": "認証",
-          "reading": "ninshou",
-          "meaning": "認證",
-          "example": "この製品は認証を持っています。",
-          "exampleTranslation": "這個產品擁有認證。"
-        },
-        {
-          "word": "取り消し",
-          "reading": "torikeshi",
-          "meaning": "取消",
-          "example": "契約の取り消しが必要です。",
-          "exampleTranslation": "需要取消契約。"
-        },
-        {
-          "word": "重要",
-          "reading": "juuyou",
-          "meaning": "重要",
-          "example": "これは重要な問題です。",
-          "exampleTranslation": "這是一個重要的問題。",
-          "level": "N3"
-        },
-        {
-          "word": "理由",
-          "reading": "riyuu",
-          "meaning": "理由",
-          "example": "理由を説明してください。",
-          "exampleTranslation": "請解釋理由。",
-          "level": "N4"
-        },
-        {
-          "word": "品質",
-          "reading": "hinshitsu",
-          "meaning": "品質",
-          "example": "高品質の製品を作ります。",
-          "exampleTranslation": "我們生產高品質的產品。",
+          "word": "絶望",
+          "reading": "zetsubou",
+          "meaning": "絕望",
+          "example": "絶望的な状況です。",
+          "exampleTranslation": "這是一個絕望的情況。",
           "level": "N1"
         },
         {
-          "word": "会社",
-          "reading": "kaisha",
-          "meaning": "公司",
-          "example": "私の会社は大きいです。",
-          "exampleTranslation": "我的公司很大。",
-          "level": "N5"
-        },
-        {
-          "word": "信頼",
-          "reading": "shinrai",
-          "meaning": "信任",
-          "example": "彼は信頼できる人です。",
-          "exampleTranslation": "他是一個可以信任的人。",
+          "word": "希望",
+          "reading": "kibou",
+          "meaning": "希望",
+          "example": "彼女に希望があります。",
+          "exampleTranslation": "她有希望。",
           "level": "N3"
         },
         {
-          "word": "問題",
-          "reading": "mondai",
-          "meaning": "問題",
-          "example": "問題を解決しましょう。",
-          "exampleTranslation": "讓我們解決問題。"
+          "word": "影響",
+          "reading": "eikyou",
+          "meaning": "影響",
+          "example": "彼の行動は影響があります。",
+          "exampleTranslation": "他的行為有影響。",
+          "level": "N3"
+        },
+        {
+          "word": "勇気",
+          "reading": "yuuki",
+          "meaning": "勇氣",
+          "example": "彼女は勇気があります。",
+          "exampleTranslation": "她有勇氣。",
+          "level": "N3"
         },
         {
           "word": "努力",
           "reading": "doryoku",
           "meaning": "努力",
-          "example": "彼は努力しています。",
-          "exampleTranslation": "他在努力。",
+          "example": "努力が大切です。",
+          "exampleTranslation": "努力是很重要的。"
+        },
+        {
+          "word": "支える",
+          "reading": "sasaeru",
+          "meaning": "支持",
+          "example": "彼らは彼女を支えています。",
+          "exampleTranslation": "他們在支持她。",
+          "level": "N3"
+        },
+        {
+          "word": "再び",
+          "reading": "futatabi",
+          "meaning": "再次",
+          "example": "再び会いましょう。",
+          "exampleTranslation": "我們再見面吧。",
           "level": "N3"
         }
       ],
       "grammar": [
         {
-          "pattern": "〜が必要です",
-          "explanation": "表示需要某事物。",
-          "example": "この問題が必要です。",
-          "exampleTranslation": "這個問題是必要的。",
+          "pattern": "〜ができる",
+          "explanation": "表示能力或可能性，意為「能夠...」",
+          "example": "彼はバスケットボールができる。",
+          "exampleTranslation": "他能打籃球。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜から",
+          "explanation": "表示原因或理由，意為「因為...」",
+          "example": "彼女はがんから復帰します。",
+          "exampleTranslation": "她因為癌症而復出。",
           "level": "N4"
         },
         {
-          "pattern": "〜のために",
-          "explanation": "表示為了某個目的。",
-          "example": "顧客のために努力します。",
-          "exampleTranslation": "為了顧客而努力。",
-          "level": "N2"
+          "pattern": "〜たい",
+          "explanation": "表示希望做某事，意為「想要...」",
+          "example": "私はバスケットボールをしたいです。",
+          "exampleTranslation": "我想打籃球。",
+          "level": "N5"
         },
         {
-          "pattern": "〜なければなりません",
-          "explanation": "表示必須做某事。",
-          "example": "問題を解決しなければなりません。",
-          "exampleTranslation": "必須解決問題。",
-          "level": "N2"
+          "pattern": "〜ことがある",
+          "explanation": "表示過去的經驗，意為「曾經...」",
+          "example": "彼女は試合に出たことがあります。",
+          "exampleTranslation": "她曾經參加過比賽。",
+          "level": "N3"
         },
         {
-          "pattern": "〜に違反する",
-          "explanation": "表示違反某條規定。",
-          "example": "ルールに違反しました。",
-          "exampleTranslation": "違反了規則。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜可能性がある",
-          "explanation": "表示有某種可能性。",
-          "example": "信頼を失う可能性があります。",
-          "exampleTranslation": "有失去信任的可能性。",
+          "pattern": "〜ようにする",
+          "explanation": "表示努力去做某事，意為「努力去...」",
+          "example": "毎日運動するようにします。",
+          "exampleTranslation": "我會努力每天運動。",
           "level": "N2"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "麻生コンクリは何を取り消されましたか？",
+          "question": "吉田亜沙美は何を公表しましたか？",
           "options": [
-            "JIS認証",
-            "品質",
-            "契約",
-            "会社"
+            "バスケットボール",
+            "がん",
+            "サッカー",
+            "テニス"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "optionsTranslation": [
-            "JIS認證",
-            "品質",
-            "契約",
-            "公司"
+            "籃球",
+            "癌症",
+            "足球",
+            "網球"
           ],
-          "explanation": "麻生コンクリ被取消的是JIS認證。",
-          "translation": "麻生混凝土被取消了什麼？"
+          "explanation": "吉田亜沙美公佈了她罹癌的消息。",
+          "translation": "吉田亞沙美公佈了什麼？"
         },
         {
           "type": "choice",
-          "question": "JIS認証は何のためにありますか？",
+          "question": "彼女は復帰を目指していますか？",
           "options": [
-            "信頼を保証する",
-            "法律を守る",
-            "コストを下げる",
-            "会社を大きくする"
+            "はい",
+            "いいえ",
+            "分かりません",
+            "時々"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "保證信任",
-            "遵守法律",
-            "降低成本",
-            "擴大公司"
+            "是",
+            "不是",
+            "不知道",
+            "有時"
           ],
-          "explanation": "JIS認證的目的是為了保證產品的品質和信任。",
-          "translation": "JIS認證是為了什麼？"
+          "explanation": "是的，她希望能夠復出。",
+          "translation": "她希望復出嗎？"
         },
         {
           "type": "choice",
-          "question": "麻生コンクリはどのような問題を抱えていますか？",
+          "question": "吉田さんはどんな感情を持っていますか？",
           "options": [
-            "信頼の問題",
-            "製品の問題",
-            "スタッフの問題",
-            "コストの問題"
+            "喜び",
+            "絶望",
+            "怒り",
+            "悲しみ"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "optionsTranslation": [
-            "信任的問題",
-            "產品的問題",
-            "員工的問題",
-            "成本的問題"
+            "喜悅",
+            "絕望",
+            "憤怒",
+            "悲傷"
           ],
-          "explanation": "麻生コンクリ面臨的問題是信任的問題。",
-          "translation": "麻生混凝土面臨什麼問題？"
+          "explanation": "她談到了無法打籃球時的絕望感。",
+          "translation": "吉田對於她的情感是什麼？"
         },
         {
           "type": "reorder",
           "question": "請重組以下句子",
           "words": [
-            "を",
-            "解決しなければ",
-            "問題",
-            "私たちは",
-            "ます"
+            "彼女",
+            "勇気",
+            "持っています"
           ],
-          "correctAnswer": "私たちは問題を解決しなければなりません。",
-          "explanation": "正確的句子是「私たちは問題を解決しなければなりません。」",
-          "translation": "請重組以下句子。"
+          "correctAnswer": "彼女は勇気を持っています。",
+          "explanation": "正確的句子是「她有勇氣」。",
+          "translation": "請重組以下句子"
         },
         {
           "type": "reorder",
           "question": "請重組以下句子",
           "words": [
-            "重要",
-            "この",
-            "認証",
-            "は",
-            "です"
+            "サポート",
+            "多くの人々",
+            "彼女",
+            "支えています"
           ],
-          "correctAnswer": "この認証は重要です。",
-          "explanation": "正確的句子是「この認証は重要です。」",
-          "translation": "請重組以下句子。"
+          "correctAnswer": "多くの人々が彼女を支えています。",
+          "explanation": "正確的句子是「許多人在支持她」。",
+          "translation": "請重組以下句子"
         }
       ]
     },
     {
-      "title": "JT株2営業日連続ストップ安 ロシア大統領令で 取引時間中に売買成立せず（テレビ朝日系（ANN）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WaXNacDJpMTA2OHIza1R4amNud01adUFOWWduWDAwWXFod1RQbno0T0lwTEktbWlnTnhjVnJUYmpnUXpPOWRLcjJqRHQxbWRkSDg0M1lPa1U2dVd3YW5FLWFuY3hBN19jRGFqelJjM19JdnZ5c2tGbXNaY3hWd28?oc=5",
-      "published": "Mon, 09 Nov 2026 08:04:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1WaXNacDJpMTA2OHIza1R4amNud01adUFOWWduWDAwWXFod1RQbno0T0lwTEktbWlnTnhjVnJUYmpnUXpPOWRLcjJqRHQxbWRkSDg0M1lPa1U2dVd3YW5FLWFuY3hBN19jRGFqelJjM19JdnZ5c2tGbXNaY3hWd28?oc=5\" target=\"_blank\">JT株2営業日連続ストップ安 ロシア大統領令で 取引時間中に売買成立せず（テレビ朝日系（ANN））</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "title": "【巨人】織田翔希の１位指名「お騒がせして申し訳ない」と謝罪 「日本で活躍してアメリカに」育成プランは「作成中」水野編成本部長が明かした思い（スポーツ報知） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xUTVSZlQ5Tkk0dlp3U0pTUzZ5b2FadWhacGdxN1hoMWpqMUxKRkxzc3V5dTVWMTZXdFh2dlRBekZkN1hFYS0yVzVUVkdfTm0xM210bUVLMFZXeU5yWk5vMFhtemVyQjczZElOTWdmUF9iX0pVRkw0LVN1Z2dYVkk?oc=5",
+      "published": "Tue, 10 Nov 2026 05:29:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9xUTVSZlQ5Tkk0dlp3U0pTUzZ5b2FadWhacGdxN1hoMWpqMUxKRkxzc3V5dTVWMTZXdFh2dlRBekZkN1hFYS0yVzVUVkdfTm0xM210bUVLMFZXeU5yWk5vMFhtemVyQjczZElOTWdmUF9iX0pVRkw0LVN1Z2dYVkk?oc=5\" target=\"_blank\">【巨人】織田翔希の１位指名「お騒がせして申し訳ない」と謝罪 「日本で活躍してアメリカに」育成プランは「作成中」水野編成本部長が明かした思い（スポーツ報知）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "source": "Yahoo!ニュース",
       "fullContent": {
-        "beginner": "JTの株は二日連続でストップ安です。ロシアの大統領令が原因です。取引時間中に売買が成立しませんでした。",
-        "intermediate": "JTの株は、二営業日連続でストップ安となりました。これはロシアの大統領令による影響です。取引時間中に売買が成立しなかったため、多くの投資家が困っています。市場の反応は非常に敏感です。",
-        "advanced": "JT株は、ロシアの大統領令が発表された影響により、二営業日連続でストップ安となりました。取引時間中には売買が成立しなかったため、投資家たちは不安を抱えています。この状況は、JTの株価に大きな影響を及ぼし、市場全体の動向にも関わる可能性があります。専門家は、今後の市場の動きに注目する必要があると指摘しています。",
-        "original": "JT株2営業日連続ストップ安 ロシア大統領令で 取引時間中に売買成立せず（テレビ朝日系（ANN））",
-        "titleTranslation": "JT股票連續兩個交易日停牌，因俄羅斯總統令導致交易期間無法成交",
+        "beginner": "巨人は織田翔希を1位で指名しました。水野編成本部長は謝罪しました。彼は日本で活躍したいと言いました。",
+        "intermediate": "巨人は織田翔希を1位指名しましたが、彼の指名についてお騒がせしたことを謝罪しました。水野編成本部長は、彼の育成プランが現在作成中であることを明かしました。彼は日本で成功して、アメリカに行きたいと考えています。",
+        "advanced": "読売ジャイアンツは、織田翔希選手を1位指名しました。この決定に対して水野編成本部長は、「お騒がせして申し訳ない」と謝罪しました。彼は、織田選手が日本でしっかりと活躍した後、アメリカでの挑戦を考えていると述べました。また、育成プランについては現在作成中であると明かし、今後の期待を寄せました。",
+        "original": "【巨人】織田翔希の１位指名「お騒がせして申し訳ない」と謝罪 「日本で活躍してアメリカに」育成プランは「作成中」水野編成本部長が明かした思い（スポーツ報知）",
+        "titleTranslation": "【巨人】織田翔希的第一順位指名「造成騷動很抱歉」並道歉，「希望在日本活躍後前往美國」育成計畫正在「制定中」",
         "translations": {
           "beginner": [
-            "JT的股票連續兩天停牌。",
-            "這是因為俄羅斯的總統令。",
-            "在交易時間內沒有成交。"
+            "巨人選擇了織田翔希為第一順位。",
+            "水野編成本部長道歉了。",
+            "他想在日本活躍。"
           ],
           "intermediate": [
-            "JT的股票在兩個交易日連續停牌。",
-            "這是由於俄羅斯的總統令造成的影響。",
-            "在交易時間內沒有成交，因此許多投資者感到困擾。",
-            "市場的反應非常敏感。"
+            "巨人選擇了織田翔希為第一順位，但對於他的指名引發的騷動道歉。",
+            "水野編成本部長透露，織田的育成計畫正在制定中。",
+            "他考慮在日本成功後前往美國。"
           ],
           "advanced": [
-            "JT的股票因俄羅斯總統令的影響，連續兩個交易日停牌。",
-            "在交易時間內未能成交，投資者因此感到不安。",
-            "這一情況對JT的股價造成了重大影響，可能會影響整個市場的走向。",
-            "專家指出，未來的市場動向值得關注。",
-            "投資者應該密切關注市場的變化和相關消息。"
+            "讀賣巨人隊選擇了織田翔希作為第一順位指名，並對此表示歉意，因為他們引起了不必要的騷動。",
+            "水野編成本部長明言，織田選手的育成計畫目前正在積極制定中。",
+            "他強調希望織田選手能在日本的職業生涯中取得成功，然後再向美國挑戰。",
+            "這不僅是個人的成就，還是對球隊未來的一個重要計畫。",
+            "巨人隊希望通過這樣的方式來培養更多優秀的選手。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "株",
-          "reading": "kabu",
-          "meaning": "股票",
-          "example": "JTの株が下がった。",
-          "exampleTranslation": "JT的股票下跌了。",
-          "level": "N3"
+          "word": "巨人",
+          "reading": "kyojin",
+          "meaning": "巨人",
+          "example": "巨人は強いチームです。",
+          "exampleTranslation": "巨人是一支強大的隊伍。"
         },
         {
-          "word": "営業日",
-          "reading": "eigyoubi",
-          "meaning": "交易日",
-          "example": "今日も営業日です。",
-          "exampleTranslation": "今天也是交易日。"
+          "word": "指名",
+          "reading": "shimei",
+          "meaning": "指名",
+          "example": "彼は1位指名されました。",
+          "exampleTranslation": "他被指名為第一位。"
         },
         {
-          "word": "ストップ安",
-          "reading": "sutoppu-an",
-          "meaning": "停牌",
-          "example": "株価がストップ安になった。",
-          "exampleTranslation": "股票價格停牌了。"
+          "word": "謝罪",
+          "reading": "shazai",
+          "meaning": "道歉",
+          "example": "彼は謝罪しました。",
+          "exampleTranslation": "他道歉了。"
         },
         {
-          "word": "ロシア",
-          "reading": "Roshia",
-          "meaning": "俄羅斯",
-          "example": "ロシアの大統領が発表した。",
-          "exampleTranslation": "俄羅斯總統發表了。"
+          "word": "活躍",
+          "reading": "katsuyaku",
+          "meaning": "活躍",
+          "example": "彼は日本で活躍しています。",
+          "exampleTranslation": "他在日本活躍。",
+          "level": "N2"
         },
         {
-          "word": "大統領",
-          "reading": "daitouryou",
-          "meaning": "總統",
-          "example": "大統領が決定を下した。",
-          "exampleTranslation": "總統做出了決定。",
-          "level": "N3"
-        },
-        {
-          "word": "令",
-          "reading": "rei",
-          "meaning": "命令",
-          "example": "新しい令が出た。",
-          "exampleTranslation": "出了一個新命令。"
-        },
-        {
-          "word": "取引",
-          "reading": "torihiki",
-          "meaning": "交易",
-          "example": "取引が成立した。",
-          "exampleTranslation": "交易成立了。",
+          "word": "育成",
+          "reading": "ikusei",
+          "meaning": "育成",
+          "example": "育成プランがあります。",
+          "exampleTranslation": "有育成計畫。",
           "level": "N1"
         },
         {
-          "word": "時間",
-          "reading": "jikan",
-          "meaning": "時間",
-          "example": "取引の時間は限られている。",
-          "exampleTranslation": "交易的時間有限。",
-          "level": "N5"
+          "word": "計画",
+          "reading": "keikaku",
+          "meaning": "計畫",
+          "example": "新しい計画を立てました。",
+          "exampleTranslation": "制定了新的計畫。",
+          "level": "N3"
         },
         {
-          "word": "成立",
-          "reading": "seiritsu",
-          "meaning": "成立",
-          "example": "契約が成立した。",
-          "exampleTranslation": "合同成立了。",
-          "level": "N2"
+          "word": "明かす",
+          "reading": "akasu",
+          "meaning": "揭示",
+          "example": "彼は秘密を明かしました。",
+          "exampleTranslation": "他揭示了秘密。",
+          "level": "N1"
         },
         {
-          "word": "投資家",
-          "reading": "toushika",
-          "meaning": "投資者",
-          "example": "投資家が市場を見守っている。",
-          "exampleTranslation": "投資者在關注市場。"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "〜による",
-          "explanation": "表示原因或理由的用法。",
-          "example": "ロシアの大統領令による影響です。",
-          "exampleTranslation": "這是由於俄羅斯總統令的影響。",
-          "level": "N2"
+          "word": "考える",
+          "reading": "kangaeru",
+          "meaning": "考慮",
+          "example": "彼は未来を考えています。",
+          "exampleTranslation": "他在考慮未來。",
+          "level": "N4"
         },
         {
-          "pattern": "〜が成立する",
-          "explanation": "表示某事物的成立或達成。",
-          "example": "取引が成立しませんでした。",
-          "exampleTranslation": "交易未能成立。",
-          "level": "N2"
+          "word": "期待",
+          "reading": "kitai",
+          "meaning": "期待",
+          "example": "みんなが期待しています。",
+          "exampleTranslation": "大家都在期待。",
+          "level": "N3"
         },
-        {
-          "pattern": "〜がある",
-          "explanation": "表示某事物存在的用法。",
-          "example": "市場に不安がある。",
-          "exampleTranslation": "市場上存在不安。",
-          "level": "N5"
-        },
-        {
-          "pattern": "連続で",
-          "explanation": "表示連續發生的狀態。",
-          "example": "連続でストップ安となった。",
-          "exampleTranslation": "連續停牌了。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜に注目する",
-          "explanation": "表示關注某事物的用法。",
-          "example": "市場の動きに注目する必要がある。",
-          "exampleTranslation": "有必要關注市場的動向。",
-          "level": "N2"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "JTの株は何日連続でストップ安ですか？",
-          "options": [
-            "一日",
-            "二日",
-            "三日",
-            "四日"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "一天",
-            "兩天",
-            "三天",
-            "四天"
-          ],
-          "explanation": "根據新聞，JT的股票連續兩天停牌。",
-          "translation": "JT的股票連續幾天停牌？"
-        },
-        {
-          "type": "choice",
-          "question": "ストップ安の原因は何ですか？",
-          "options": [
-            "ロシアの大統領令",
-            "日本の法律",
-            "市場の動き",
-            "投資家の行動"
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "俄羅斯的總統令",
-            "日本的法律",
-            "市場的動向",
-            "投資者的行為"
-          ],
-          "explanation": "新聞中提到，原因是俄羅斯的總統令。",
-          "translation": "停牌的原因是什麼？"
-        },
-        {
-          "type": "choice",
-          "question": "投資家はどう感じていますか？",
-          "options": [
-            "安心している",
-            "困っている",
-            "喜んでいる",
-            "無関心だ"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "感到安心",
-            "感到困擾",
-            "感到高興",
-            "不關心"
-          ],
-          "explanation": "投資者因為交易未能成立而感到困擾。",
-          "translation": "投資者感覺如何？"
-        },
-        {
-          "type": "reorder",
-          "question": "以下の文を重組してください：取引成立時間無",
-          "words": [
-            "取引",
-            "時間",
-            "成立",
-            "無"
-          ],
-          "correctAnswer": "取引が成立しなかった。",
-          "explanation": "正確的句子是「取引が成立しなかった。」。",
-          "translation": "請重組以下句子：交易未成立。"
-        },
-        {
-          "type": "reorder",
-          "question": "以下の文を重組してください：株ストップ安二日",
-          "words": [
-            "株",
-            "ストップ安",
-            "二日"
-          ],
-          "correctAnswer": "株は二日連続でストップ安です。",
-          "explanation": "正確的句子是「株は二日連続でストップ安です。」。",
-          "translation": "請重組以下句子：股票連續兩天停牌。"
-        }
-      ]
-    },
-    {
-      "title": "レイエス異例の訴え 大型契約の日本ハム助っ人 母国25歳後輩の「日本でのプレー機会」をアピール（スポニチアネックス） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Db1lOaENmZk51M0Z2c2tSc2Q4bDhnUUxBTzRYLV8ySUNHY2Vibm9qNUVSSktDWTh2WVAxYU9MMGVYMFcyanJuX0VPTWNSZ3lHRm43Ml8wanMxOXpjaTFaOUNXUUdQTUdqVTc2YTA0WkpXM29hbGxUWEFfQnExTkU?oc=5",
-      "published": "Mon, 09 Nov 2026 05:09:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1Db1lOaENmZk51M0Z2c2tSc2Q4bDhnUUxBTzRYLV8ySUNHY2Vibm9qNUVSSktDWTh2WVAxYU9MMGVYMFcyanJuX0VPTWNSZ3lHRm43Ml8wanMxOXpjaTFaOUNXUUdQTUdqVTc2YTA0WkpXM29hbGxUWEFfQnExTkU?oc=5\" target=\"_blank\">レイエス異例の訴え 大型契約の日本ハム助っ人 母国25歳後輩の「日本でのプレー機会」をアピール（スポニチアネックス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "Yahoo!ニュース",
-      "fullContent": {
-        "beginner": "レイエスは日本でプレーしています。彼は日本ハムの選手です。彼は後輩にチャンスをあげたいと言いました。",
-        "intermediate": "レイエス選手は日本ハムの助っ人です。彼は母国の25歳の後輩に日本でプレーする機会をアピールしました。彼の契約は大型で、注目されています。レイエスは後輩の成長を応援したいと考えています。",
-        "advanced": "日本ハムの助っ人であるレイエス選手は、異例の訴えを行いました。彼は母国の25歳の後輩選手に対して、日本でのプレー機会を提供することを強調しました。レイエスは、自身の大型契約を活用し、後輩の才能を日本で試す場を作りたいと考えています。彼の行動は、チーム内外で注目を集めています。日本での経験が、後輩選手にとって大きな成長の機会になると信じています。",
-        "original": "レイエス異例の訴え 大型契約の日本ハム助っ人 母国25歳後輩の「日本でのプレー機会」をアピール（スポニチアネックス）",
-        "titleTranslation": "雷耶斯異例的訴求 大型合約的日本火腿助援 母國25歲後輩的「在日本的比賽機會」",
-        "translations": {
-          "beginner": [
-            "雷耶斯在日本比賽。",
-            "他是日本火腿的選手。",
-            "他表示想給後輩機會。"
-          ],
-          "intermediate": [
-            "雷耶斯選手是日本火腿的助援。",
-            "他向母國的25歲後輩提出在日本比賽的機會。",
-            "他的合約很大，受到關注。",
-            "雷耶斯想要支持後輩的成長。"
-          ],
-          "advanced": [
-            "日本火腿的助援選手雷耶斯，發表了異例的訴求。",
-            "他強調希望給母國的25歲後輩選手在日本比賽的機會。",
-            "雷耶斯想利用自己大型的合約，為後輩提供試驗才能的場地。",
-            "他的行動引起了隊內外的關注。",
-            "他相信在日本的經驗，將是後輩選手成長的重要機會。"
-          ]
-        }
-      },
-      "vocabulary": [
         {
           "word": "選手",
           "reading": "senshu",
           "meaning": "選手",
-          "example": "彼はサッカーの選手です。",
-          "exampleTranslation": "他是足球選手。",
+          "example": "彼は優秀な選手です。",
+          "exampleTranslation": "他是一位優秀的選手。",
           "level": "N3"
-        },
-        {
-          "word": "契約",
-          "reading": "keiyaku",
-          "meaning": "合約",
-          "example": "大きな契約を結びました。",
-          "exampleTranslation": "簽訂了大型合約。",
-          "level": "N3"
-        },
-        {
-          "word": "後輩",
-          "reading": "kouhai",
-          "meaning": "後輩",
-          "example": "彼は私の後輩です。",
-          "exampleTranslation": "他是我的後輩。",
-          "level": "N2"
-        },
-        {
-          "word": "アピール",
-          "reading": "apiiru",
-          "meaning": "吸引，宣傳",
-          "example": "彼は新しい商品をアピールしています。",
-          "exampleTranslation": "他正在宣傳新產品。"
-        },
-        {
-          "word": "機会",
-          "reading": "kikai",
-          "meaning": "機會",
-          "example": "チャンスの機会を逃さないでください。",
-          "exampleTranslation": "請不要錯過機會。",
-          "level": "N4"
-        },
-        {
-          "word": "注目",
-          "reading": "chuumoku",
-          "meaning": "注意，注目",
-          "example": "彼の行動は注目されています。",
-          "exampleTranslation": "他的行為受到注意。",
-          "level": "N3"
-        },
-        {
-          "word": "成長",
-          "reading": "seichou",
-          "meaning": "成長",
-          "example": "子供の成長を見守っています。",
-          "exampleTranslation": "我在看著孩子的成長。",
-          "level": "N3"
-        },
-        {
-          "word": "経験",
-          "reading": "keiken",
-          "meaning": "經驗",
-          "example": "良い経験をしました。",
-          "exampleTranslation": "我有了很好的經驗。",
-          "level": "N3"
-        },
-        {
-          "word": "サポート",
-          "reading": "sapooto",
-          "meaning": "支持",
-          "example": "彼をサポートします。",
-          "exampleTranslation": "我會支持他。"
-        },
-        {
-          "word": "活用",
-          "reading": "katsuyou",
-          "meaning": "活用",
-          "example": "知識を活用することが重要です。",
-          "exampleTranslation": "活用知識是很重要的。"
         }
       ],
       "grammar": [
         {
           "pattern": "〜たい",
-          "explanation": "表示希望做某事的意願。",
-          "example": "私は日本でプレーしたいです。",
-          "exampleTranslation": "我想在日本比賽。",
+          "explanation": "表示希望做某事。",
+          "example": "日本で活躍したい。",
+          "exampleTranslation": "希望在日本活躍。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜ている",
+          "explanation": "表示持續進行的狀態。",
+          "example": "彼は育成プランを作成している。",
+          "exampleTranslation": "他正在制定育成計畫。",
           "level": "N5"
         },
         {
           "pattern": "〜ことがある",
-          "explanation": "表示曾經有過某種經驗。",
-          "example": "日本でプレーしたことがあります。",
-          "exampleTranslation": "我有在日本比賽的經驗。",
+          "explanation": "表示曾經發生過某事。",
+          "example": "彼はアメリカに行ったことがある。",
+          "exampleTranslation": "他曾去過美國。",
           "level": "N3"
         },
         {
-          "pattern": "〜ようにする",
-          "explanation": "表示努力去做某事。",
-          "example": "後輩のためにサポートするようにします。",
-          "exampleTranslation": "我會努力支持後輩。",
-          "level": "N2"
+          "pattern": "〜ながら",
+          "explanation": "表示同時進行的動作。",
+          "example": "考えながら話します。",
+          "exampleTranslation": "一邊考慮一邊說。",
+          "level": "N3"
         },
         {
-          "pattern": "〜と考えています",
-          "explanation": "表示某種想法或計畫。",
-          "example": "後輩の成長を応援しようと考えています。",
-          "exampleTranslation": "我打算支持後輩的成長。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜ために",
-          "explanation": "表示為了某個目的。",
-          "example": "彼のために機会を作ります。",
-          "exampleTranslation": "我會為他創造機會。",
-          "level": "N2"
+          "pattern": "〜と思う",
+          "explanation": "表示自己的想法。",
+          "example": "成功すると思います。",
+          "exampleTranslation": "我認為會成功。",
+          "level": "N5"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "レイエスはどのチームの選手ですか？",
+          "question": "巨人は誰を指名しましたか？",
           "options": [
-            "日本ハム",
-            "巨人",
-            "阪神",
-            "中日"
+            "織田翔希",
+            "田中選手",
+            "松井選手",
+            "佐藤選手"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "日本火腿",
-            "巨人",
-            "阪神",
-            "中日"
+            "織田翔希",
+            "田中選手",
+            "松井選手",
+            "佐藤選手"
           ],
-          "explanation": "レイエスは日本ハムの選手です。",
-          "translation": "雷耶斯是哪支球隊的選手？"
+          "explanation": "新聞中提到巨人選擇了織田翔希為第一順位。",
+          "translation": "巨人選擇了誰作為指名？"
         },
         {
           "type": "choice",
-          "question": "レイエスは何歳の後輩をサポートしていますか？",
+          "question": "水野編成本部長は何を明かしましたか？",
           "options": [
-            "20歳",
-            "25歳",
-            "30歳",
-            "35歳"
+            "育成プラン",
+            "選手の名前",
+            "チームの目標",
+            "試合の日程"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "育成計劃",
+            "選手的名字",
+            "球隊的目標",
+            "比賽的日程"
+          ],
+          "explanation": "水野編成本部長提到育成計畫正在制定中。",
+          "translation": "水野編成本部長透露了什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "織田翔希はどこで活躍したいですか？",
+          "options": [
+            "アメリカ",
+            "日本",
+            "韓国",
+            "中国"
           ],
           "correctAnswer": 1,
           "optionsTranslation": [
-            "20歲",
-            "25歲",
-            "30歲",
-            "35歲"
+            "美國",
+            "日本",
+            "韓國",
+            "中國"
           ],
-          "explanation": "彼は25歳の後輩をサポートしています。",
-          "translation": "雷耶斯支持幾歲的後輩？"
-        },
-        {
-          "type": "choice",
-          "question": "レイエスの契約はどうですか？",
-          "options": [
-            "小さい",
-            "普通",
-            "大きい",
-            "特別"
-          ],
-          "correctAnswer": 2,
-          "optionsTranslation": [
-            "小",
-            "普通",
-            "大",
-            "特別"
-          ],
-          "explanation": "彼の契約は大きいです。",
-          "translation": "雷耶斯的合約是怎樣的？"
+          "explanation": "織田翔希希望在日本活躍。",
+          "translation": "織田翔希希望在哪裡活躍？"
         },
         {
           "type": "reorder",
-          "question": "以下の文を正しい順序に並べ替えてください。",
+          "question": "以下の文章を正しく並べ替えてください。",
           "words": [
-            "後輩",
-            "彼は",
-            "サポートする",
-            "を",
-            "考えています"
+            "謝罪",
+            "お騒がせ",
+            "申し訳ない",
+            "した"
           ],
-          "correctAnswer": "彼は後輩をサポートする考えています。",
-          "explanation": "正確な文の順序です。",
-          "translation": "請將以下句子重組成正確的順序。"
+          "correctAnswer": "お騒がせして申し訳ないと謝罪した。",
+          "explanation": "這句話表示因為造成騷動而道歉。",
+          "translation": "請正確排列以下句子。"
         },
         {
           "type": "reorder",
-          "question": "以下の文を正しい順序に並べ替えてください。",
+          "question": "以下の文章を正しく並べ替えてください。",
           "words": [
-            "日本で",
-            "プレー",
-            "したい",
-            "私は"
+            "育成",
+            "プラン",
+            "作成中",
+            "は",
+            "現在"
           ],
-          "correctAnswer": "私は日本でプレーしたい。",
-          "explanation": "正確な文の順序です。",
-          "translation": "請將以下句子重組成正確的順序。"
+          "correctAnswer": "育成プランは現在作成中です。",
+          "explanation": "這句話表示目前育成計畫正在制定中。",
+          "translation": "請正確排列以下句子。"
         }
       ]
     }
