@@ -1,111 +1,808 @@
 {
-  "last_updated": "2026-11-11T23:39:56.951127",
-  "date": "2026-11-11",
+  "last_updated": "2026-11-12T23:30:33.388339",
+  "date": "2026-11-12",
   "korean": [
     {
-      "title": "댄 고 \"한미관계 매우 우려…트럼프, 한국보다 북한 더 존중\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wOWphc3hZYzRobThQZzk4eXZMWDdpWWZ5aFBjaGxXU3B1SWJDb0I5M1NGQTR5S29MRTZZdlhveGpvemVyUFE2T1c4MjAwcXFzeGpQT1h3RUJQam_SAWBBVV95cUxNeEdzTjhOb1JIZUpvNW14U3VxRTdiNlVlU3NtbFBCVnh6TE5GZ1RqdDNhMlNyNGFrWmF4MG9hSnBLTGlNeHBrRUlTaEhGSXVDaTE5X2JaY1ktUXV2WXdvQzk?oc=5",
-      "published": "Wed, 11 Nov 2026 20:45:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wOWphc3hZYzRobThQZzk4eXZMWDdpWWZ5aFBjaGxXU3B1SWJDb0I5M1NGQTR5S29MRTZZdlhveGpvemVyUFE2T1c4MjAwcXFzeGpQT1h3RUJQam_SAWBBVV95cUxNeEdzTjhOb1JIZUpvNW14U3VxRTdiNlVlU3NtbFBCVnh6TE5GZ1RqdDNhMlNyNGFrWmF4MG9hSnBLTGlNeHBrRUlTaEhGSXVDaTE5X2JaY1ktUXV2WXdvQzk?oc=5\" target=\"_blank\">댄 고 \"한미관계 매우 우려…트럼프, 한국보다 북한 더 존중\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+      "title": "한국·프랑스 원자력 협력 격상…SMR부터 핵연료까지 확대 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLVHc3ZTZJbXBCbGdrUjFFRGR1UUt0Y3ZXOGFSalNzMm50VWNNbFFGMTQtdWliYmhueWl4Z2RmZ1VpNGFNSDBZZm1TQV9VUl8xTWE3U2ZWdnBXUmfSAWBBVV95cUxQT0RGWWpmT1Vzc1JtTlpCRHRxdzdFX3VOUUg5X0M3SXM0bkpJN0REOENRYVlfV1l3Y1NkMFNUOWV6eEZNSmFQcEJyMGxNdHJ1VUQxeTRfNDBCdjJZTHNuNnU?oc=5",
+      "published": "Thu, 12 Nov 2026 22:00:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLVHc3ZTZJbXBCbGdrUjFFRGR1UUt0Y3ZXOGFSalNzMm50VWNNbFFGMTQtdWliYmhueWl4Z2RmZ1VpNGFNSDBZZm1TQV9VUl8xTWE3U2ZWdnBXUmfSAWBBVV95cUxQT0RGWWpmT1Vzc1JtTlpCRHRxdzdFX3VOUUg5X0M3SXM0bkpJN0REOENRYVlfV1l3Y1NkMFNUOWV6eEZNSmFQcEJyMGxNdHJ1VUQxeTRfNDBCdjJZTHNuNnU?oc=5\" target=\"_blank\">한국·프랑스 원자력 협력 격상…SMR부터 핵연료까지 확대</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
       "source": "연합뉴스",
       "fullContent": {
-        "beginner": "댄 고는 한미관계에 대해 걱정한다고 말했습니다. 그는 트럼프가 북한을 더 존중한다고 주장했습니다. 한국은 중요하지만, 북한도 중요합니다.",
-        "intermediate": "댄 고는 한미관계가 매우 우려스럽다고 표현했습니다. 그는 트럼프 대통령이 한국보다 북한을 더 존중하는 것 같다고 지적했습니다. 이러한 발언은 한미관계의 미래에 영향을 미칠 수 있습니다.",
-        "advanced": "댄 고는 현재 한미관계에 대해 심각한 우려를 표명했습니다. 그는 트럼프 대통령이 한국보다 북한을 더 존중하는 경향이 있다고 언급하며, 이는 양국 관계에 부정적인 영향을 미칠 수 있다고 경고했습니다. 이러한 상황은 한국의 외교 정책에 중요한 과제가 될 수 있습니다. 또한, 그는 이러한 태도가 양국 간의 신뢰를 해칠 수 있다고 지적했습니다.",
-        "original": "댄 고 \"한미관계 매우 우려…트럼프, 한국보다 북한 더 존중\"",
-        "titleTranslation": "丹·高：對韓美關係非常擔憂...特朗普更尊重北韓而非韓國",
+        "beginner": "한국과 프랑스는 원자력 협력을 강화합니다. SMR 기술이 포함됩니다. 핵연료도 함께 다룹니다.",
+        "intermediate": "한국과 프랑스의 원자력 협력이 격상되었습니다. 이번 협력에는 소형 모듈 원자로(SMR) 기술이 포함됩니다. 또한 핵연료 개발과 관련된 협력도 확대될 예정입니다. 양국은 에너지 안보를 강화하기 위해 협력하고 있습니다. 이러한 협력은 상호 이익을 위한 것입니다.",
+        "advanced": "한국과 프랑스의 원자력 협력이 한 단계 격상되었습니다. 이번 협력은 소형 모듈 원자로(SMR) 기술부터 시작하여 핵연료 개발까지 확대될 예정입니다. 양국은 에너지 안보와 지속 가능한 발전을 위해 긴밀히 협력하고 있습니다. 특히, 이 협력은 양국의 원자력 기술을 발전시키고 경쟁력을 높이는 데 기여할 것입니다. 한국은 프랑스의 선진 기술을 배우고, 프랑스는 한국의 원자력 시장에 진출할 수 있는 기회를 얻게 됩니다.",
+        "original": "한국·프랑스 원자력 협력 격상…SMR부터 핵연료까지 확대",
+        "titleTranslation": "韓國·法國原子力合作升級…從SMR到核燃料擴展",
         "translations": {
           "beginner": [
-            "丹·高表示他對韓美關係感到擔憂。",
-            "他主張特朗普對北韓更尊重。",
-            "韓國很重要，但北韓也重要。"
+            "韓國和法國加強原子能合作。",
+            "包括SMR技術。",
+            "還涉及核燃料。"
           ],
           "intermediate": [
-            "丹·高表達了對韓美關係的嚴重擔憂。",
-            "他指出特朗普總統似乎更尊重北韓而非韓國。",
-            "這樣的言論可能會影響韓美關係的未來。"
+            "韓國和法國的原子能合作升級了。",
+            "此次合作包括小型模組反應器(SMR)技術。",
+            "還將擴大與核燃料開發相關的合作。",
+            "兩國為了加強能源安全而合作。",
+            "這種合作是為了雙方的利益。"
           ],
           "advanced": [
-            "丹·高對目前韓美關係表達了嚴重的擔憂。",
-            "他提到特朗普總統似乎更尊重北韓，這可能會對雙邊關係造成負面影響。",
-            "這樣的情況可能成為韓國外交政策上的一大挑戰。",
-            "他還指出，這種態度可能會損害雙方之間的信任。",
-            "因此，未來的外交策略需要重新評估。"
+            "韓國和法國的原子能合作升級了一個檔次。",
+            "此次合作將從小型模組反應器(SMR)技術開始，並擴展到核燃料開發。",
+            "兩國為了能源安全和可持續發展而緊密合作。",
+            "特別是，這種合作將促進兩國的原子能技術發展，提高競爭力。",
+            "韓國將學習法國的先進技術，法國將獲得進入韓國原子能市場的機會。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "관계",
-          "reading": "gwan-gye",
-          "meaning": "關係",
-          "example": "한미관계는 중요합니다.",
-          "exampleTranslation": "韓美關係是重要的。",
-          "level": "3"
+          "word": "원자력",
+          "reading": "wonjaryeok",
+          "meaning": "原子力",
+          "example": "원자력 발전소는 전기를 생산합니다.",
+          "exampleTranslation": "原子力發電廠生產電力。",
+          "level": "6"
         },
         {
-          "word": "우려",
-          "reading": "u-ryeo",
-          "meaning": "擔憂",
-          "example": "우려가 큽니다.",
-          "exampleTranslation": "擔憂很大。",
+          "word": "협력",
+          "reading": "hyeobryeok",
+          "meaning": "合作",
+          "example": "국제 협력이 중요합니다.",
+          "exampleTranslation": "國際合作很重要。",
           "level": "4"
         },
         {
-          "word": "트럼프",
-          "reading": "teureompeu",
-          "meaning": "特朗普",
-          "example": "트럼프 대통령이 방문했습니다.",
-          "exampleTranslation": "特朗普總統來訪了。",
+          "word": "확대",
+          "reading": "hwakdae",
+          "meaning": "擴大",
+          "example": "협력을 확대할 계획입니다.",
+          "exampleTranslation": "計畫擴大合作。",
+          "level": "4"
+        },
+        {
+          "word": "SMR",
+          "reading": "SMR",
+          "meaning": "小型模組反應器",
+          "example": "SMR 기술이 발전하고 있습니다.",
+          "exampleTranslation": "SMR技術正在發展。",
+          "level": "6"
+        },
+        {
+          "word": "핵연료",
+          "reading": "haekyeollyo",
+          "meaning": "核燃料",
+          "example": "핵연료 개발이 중요합니다.",
+          "exampleTranslation": "核燃料開發很重要。",
+          "level": "6"
+        },
+        {
+          "word": "에너지",
+          "reading": "eneoji",
+          "meaning": "能源",
+          "example": "에너지 안보를 강화해야 합니다.",
+          "exampleTranslation": "必須加強能源安全。",
+          "level": "3"
+        },
+        {
+          "word": "기술",
+          "reading": "gisul",
+          "meaning": "技術",
+          "example": "한국의 원자력 기술이 뛰어납니다.",
+          "exampleTranslation": "韓國的原子能技術優越。",
+          "level": "3"
+        },
+        {
+          "word": "시장",
+          "reading": "sijang",
+          "meaning": "市場",
+          "example": "한국 시장에 진출하고 싶습니다.",
+          "exampleTranslation": "想進入韓國市場。",
+          "level": "2"
+        },
+        {
+          "word": "안보",
+          "reading": "anbo",
+          "meaning": "安全",
+          "example": "에너지 안보가 중요합니다.",
+          "exampleTranslation": "能源安全很重要。",
+          "level": "3"
+        },
+        {
+          "word": "이익",
+          "reading": "iik",
+          "meaning": "利益",
+          "example": "양국의 이익을 위해 협력합니다.",
+          "exampleTranslation": "為了雙方的利益而合作。",
+          "level": "4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A/V + 기 위해서",
+          "explanation": "表示目的，意為「為了...」",
+          "example": "안전을 위해서 노력합니다.",
+          "exampleTranslation": "為了安全而努力。",
+          "level": "3"
+        },
+        {
+          "pattern": "A/V + (으)ㄴ/는 편이다",
+          "explanation": "表示傾向，意為「傾向於...」",
+          "example": "한국은 에너지를 아끼는 편입니다.",
+          "exampleTranslation": "韓國傾向於節約能源。",
+          "level": "4"
+        },
+        {
+          "pattern": "A/V + (으)면 좋겠다",
+          "explanation": "表示願望，意為「如果...就好」",
+          "example": "협력이 계속되면 좋겠습니다.",
+          "exampleTranslation": "希望合作能繼續下去。",
+          "level": "3"
+        },
+        {
+          "pattern": "A/V + (으)려면",
+          "explanation": "表示條件，意為「如果想...」",
+          "example": "안전을 지키려면 조심해야 합니다.",
+          "exampleTranslation": "如果想要保持安全，就必須小心。",
+          "level": "3"
+        },
+        {
+          "pattern": "A/V + 지 않다",
+          "explanation": "表示否定，意為「不...」",
+          "example": "협력을 하지 않으면 안 됩니다.",
+          "exampleTranslation": "不合作是不行的。",
+          "level": "2"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "한국과 프랑스의 협력은 무엇에 대한 것인가요?",
+          "options": [
+            "SMR 기술",
+            "자동차",
+            "의료",
+            "농업"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "SMR技術",
+            "汽車",
+            "醫療",
+            "農業"
+          ],
+          "explanation": "這次合作主要是關於原子能領域的SMR技術。",
+          "translation": "韓國和法國的合作是關於什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "원자력 협력의 목적은 무엇인가요?",
+          "options": [
+            "에너지 안보",
+            "경제 성장",
+            "문화 교류",
+            "관광"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "能源安全",
+            "經濟增長",
+            "文化交流",
+            "旅遊"
+          ],
+          "explanation": "合作的目的是加強能源安全。",
+          "translation": "原子能合作的目的是什么？"
+        },
+        {
+          "type": "choice",
+          "question": "협력은 어떤 분야로 확대될 예정인가요?",
+          "options": [
+            "핵연료",
+            "전자기기",
+            "식품",
+            "의료"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "核燃料",
+            "電子產品",
+            "食品",
+            "醫療"
+          ],
+          "explanation": "合作將擴大到核燃料的開發。",
+          "translation": "合作將擴展到哪個領域？"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하세요.",
+          "words": [
+            "협력",
+            "국가",
+            "안전",
+            "에너지",
+            "강화"
+          ],
+          "correctAnswer": "에너지 안전 국가 협력 강화",
+          "explanation": "這句話的正確順序是：\"에너지 안전 국가 협력 강화\"。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하세요.",
+          "words": [
+            "프랑스",
+            "한국",
+            "협력",
+            "원자력",
+            "강화"
+          ],
+          "correctAnswer": "한국 프랑스 원자력 협력 강화",
+          "explanation": "這句話的正確順序是：\"한국 프랑스 원자력 협력 강화\"。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "다시 아이의 시간이 흐르기 시작했습니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzN2aXozejByRktWUFFDLTlCcENvQjM1STJKaE8tR3FSUFZWdnlrQ3F4Tm81bENSeFpTQ05SRkNlU2pGOWFTaFM1UU9XUjJJMFh1b0hSQWxrd3A4aGdTYlJRdjRyM0M4UDludHYyMllId3p0MUFVeUlnSVQyam9DdG11YXdLejRxYnc?oc=5",
+      "published": "Thu, 12 Nov 2026 07:09:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzN2aXozejByRktWUFFDLTlCcENvQjM1STJKaE8tR3FSUFZWdnlrQ3F4Tm81bENSeFpTQ05SRkNlU2pGOWFTaFM1UU9XUjJJMFh1b0hSQWxrd3A4aGdTYlJRdjRyM0M4UDludHYyMllId3p0MUFVeUlnSVQyam9DdG11YXdLejRxYnc?oc=5\" target=\"_blank\">다시 아이의 시간이 흐르기 시작했습니다 - 영상 | 멀티미디어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한민국 정책브리핑</font>",
+      "source": "대한민국 정책브리핑",
+      "fullContent": {
+        "beginner": "아이들이 다시 놀기 시작했습니다. 그들은 밖에서 뛰어놀고 있습니다. 행복한 시간이 흐르고 있습니다.",
+        "intermediate": "아이들의 시간이 다시 흐르기 시작했습니다. 많은 아이들이 밖에서 놀고 있습니다. 그들은 친구들과 함께 신나게 뛰어다니고 있습니다. 부모님도 아이들을 보며 웃고 있습니다. 이 모습이 정말 행복합니다.",
+        "advanced": "최근에 아이들의 시간이 다시 흐르기 시작했습니다. 많은 부모들이 아이들이 밖에서 자유롭게 놀 수 있도록 하였습니다. 아이들은 친구들과 함께 다양한 놀이를 하며 즐거운 시간을 보내고 있습니다. 이 과정에서 부모들은 아이들의 웃음소리를 들으며 행복을 느끼고 있습니다. 앞으로도 이런 모습이 계속되기를 바랍니다.",
+        "original": "다시 아이의 시간이 흐르기 시작했습니다 - 영상 | 멀티미디어",
+        "titleTranslation": "孩子的時間再次開始流逝 - 影片 | 多媒體",
+        "translations": {
+          "beginner": [
+            "孩子們開始再次玩耍。",
+            "他們在外面跑來跑去。",
+            "快樂的時光在流逝。"
+          ],
+          "intermediate": [
+            "孩子們的時間再次開始流逝。",
+            "很多孩子在外面玩耍。",
+            "他們和朋友們一起快樂地跑來跑去。",
+            "父母們也在看著孩子們微笑。",
+            "這樣的景象真的讓人覺得幸福。"
+          ],
+          "advanced": [
+            "最近孩子們的時間再次開始流逝。",
+            "許多父母讓孩子們能夠自由地在外面玩耍。",
+            "孩子們和朋友們一起進行各種遊戲，享受愉快的時光。",
+            "在這個過程中，父母們聽到孩子們的笑聲，感到幸福。",
+            "希望未來也能繼續看到這樣的畫面。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "아이",
+          "reading": "ai",
+          "meaning": "孩子",
+          "example": "아이는 즐겁게 놀고 있습니다.",
+          "exampleTranslation": "孩子們快樂地玩耍。",
           "level": "1"
         },
         {
-          "word": "존중",
-          "reading": "jonjung",
-          "meaning": "尊重",
-          "example": "서로를 존중해야 합니다.",
-          "exampleTranslation": "我們應該互相尊重。",
-          "level": "4"
+          "word": "시간",
+          "reading": "sigan",
+          "meaning": "時間",
+          "example": "시간이 빨리 지나갑니다.",
+          "exampleTranslation": "時間過得很快。",
+          "level": "1"
         },
         {
-          "word": "북한",
-          "reading": "bukhan",
-          "meaning": "北韓",
-          "example": "북한과의 관계가 중요합니다.",
-          "exampleTranslation": "與北韓的關係是重要的。",
+          "word": "흐르다",
+          "reading": "heureuda",
+          "meaning": "流逝",
+          "example": "시간이 흐릅니다.",
+          "exampleTranslation": "時間在流逝。",
           "level": "3"
         },
         {
-          "word": "중요",
-          "reading": "jungyo",
-          "meaning": "重要",
-          "example": "이 문제는 매우 중요합니다.",
-          "exampleTranslation": "這個問題是非常重要的。",
-          "level": "3"
+          "word": "놀이",
+          "reading": "nori",
+          "meaning": "遊戲",
+          "example": "아이들은 놀이를 하고 있습니다.",
+          "exampleTranslation": "孩子們在玩遊戲。",
+          "level": "1"
         },
         {
-          "word": "외교",
-          "reading": "oegyo",
-          "meaning": "外交",
-          "example": "외교 정책을 재조정해야 합니다.",
-          "exampleTranslation": "需要重新調整外交政策。",
+          "word": "부모",
+          "reading": "bumo",
+          "meaning": "父母",
+          "example": "부모들이 아이를 사랑합니다.",
+          "exampleTranslation": "父母們愛自己的孩子。",
+          "level": "2"
+        },
+        {
+          "word": "웃음",
+          "reading": "useum",
+          "meaning": "笑聲",
+          "example": "아이들의 웃음소리가 들립니다.",
+          "exampleTranslation": "聽到孩子們的笑聲。",
+          "level": "2"
+        },
+        {
+          "word": "행복",
+          "reading": "haengbok",
+          "meaning": "幸福",
+          "example": "행복한 시간을 보내세요.",
+          "exampleTranslation": "祝你有幸福的時光。",
+          "level": "2"
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "朋友",
+          "example": "친구들과 함께 놀아요.",
+          "exampleTranslation": "和朋友們一起玩吧。",
+          "level": "1"
+        },
+        {
+          "word": "신나다",
+          "reading": "sinnada",
+          "meaning": "興奮",
+          "example": "아이들이 신나게 놀고 있습니다.",
+          "exampleTranslation": "孩子們興奮地玩耍。",
+          "level": "2"
+        },
+        {
+          "word": "밖",
+          "reading": "bak",
+          "meaning": "外面",
+          "example": "밖에서 놀아요.",
+          "exampleTranslation": "在外面玩。",
+          "level": "1"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "다시 + V",
+          "explanation": "表示再次做某事。",
+          "example": "다시 시작합니다.",
+          "exampleTranslation": "再次開始。",
+          "level": "2"
+        },
+        {
+          "pattern": "아/어/여 + 주다",
+          "explanation": "表示為某人做某事。",
+          "example": "도와주다.",
+          "exampleTranslation": "幫忙。",
+          "level": "2"
+        },
+        {
+          "pattern": "고 있다",
+          "explanation": "表示正在進行的動作。",
+          "example": "아이들이 놀고 있다.",
+          "exampleTranslation": "孩子們正在玩。",
+          "level": "2"
+        },
+        {
+          "pattern": "N과/와 함께",
+          "explanation": "表示和某人一起。",
+          "example": "친구와 함께 놀아요.",
+          "exampleTranslation": "和朋友一起玩。",
+          "level": "2"
+        },
+        {
+          "pattern": "V + 고 싶다",
+          "explanation": "表示想要做某事。",
+          "example": "놀고 싶어요.",
+          "exampleTranslation": "我想玩。",
+          "level": "2"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "아이들은 어디에서 놀고 있습니까?",
+          "options": [
+            "학교",
+            "밖",
+            "집",
+            "도서관"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "學校",
+            "外面",
+            "家",
+            "圖書館"
+          ],
+          "explanation": "新聞中提到孩子們在外面玩耍。",
+          "translation": "孩子們在哪裡玩？"
+        },
+        {
+          "type": "choice",
+          "question": "부모들은 어떤 기분을 느끼고 있습니까?",
+          "options": [
+            "슬프다",
+            "행복하다",
+            "화가나다",
+            "무섭다"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "難過",
+            "幸福",
+            "生氣",
+            "害怕"
+          ],
+          "explanation": "父母們看到孩子們的笑聲而感到幸福。",
+          "translation": "父母們感覺如何？"
+        },
+        {
+          "type": "choice",
+          "question": "아이들은 무엇을 하고 있습니까?",
+          "options": [
+            "공부",
+            "청소",
+            "놀이",
+            "일"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "學習",
+            "清理",
+            "遊戲",
+            "工作"
+          ],
+          "explanation": "孩子們正在玩遊戲。",
+          "translation": "孩子們在做什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배치하세요.",
+          "words": [
+            "아이들",
+            "놀고",
+            "신나게",
+            "있다"
+          ],
+          "correctAnswer": "아이들이 신나게 놀고 있다.",
+          "explanation": "正確的句子結構是主語在前，動詞在後。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배치하세요.",
+          "words": [
+            "부모",
+            "아이들을",
+            "보며",
+            "웃고"
+          ],
+          "correctAnswer": "부모가 아이들을 보며 웃고 있다.",
+          "explanation": "正確的句子結構是主語在前，動詞在後，並且要記住助詞的使用。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "[포토뉴스]한국은행 강원본부, 제2회 강원금융포럼 - 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40QmZDQjAzbzh5SnQ2MnZKTEJOb0twaUlWcFpuZjJVS1JxaEp2V1hORnZ4d0tRdnNta2FIVDRnclVZSFZHZkExa1YtVmpveFpjano0VHlfYjZYcEU?oc=5",
+      "published": "Thu, 12 Nov 2026 07:22:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE40QmZDQjAzbzh5SnQ2MnZKTEJOb0twaUlWcFpuZjJVS1JxaEp2V1hORnZ4d0tRdnNta2FIVDRnclVZSFZHZkExa1YtVmpveFpjano0VHlfYjZYcEU?oc=5\" target=\"_blank\">[포토뉴스]한국은행 강원본부, 제2회 강원금융포럼</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
+      "source": "강원일보",
+      "fullContent": {
+        "beginner": "한국은행 강원본부는 금융 포럼을 개최했습니다. 많은 사람들이 참석했습니다. 포럼에서 금융에 대해 이야기했습니다.",
+        "intermediate": "한국은행 강원본부는 최근 제2회 강원금융포럼을 개최했습니다. 이 포럼은 강원도 내 금융 산업의 발전을 목표로 하고 있습니다. 많은 전문가들이 참여하여 다양한 주제로 발표했습니다. 참석자들은 서로의 의견을 나누며 활발한 토론을 했습니다.",
+        "advanced": "한국은행 강원본부는 지난 10월 20일 제2회 강원금융포럼을 개최하였습니다. 이 포럼은 강원도 금융 산업의 지속 가능한 발전을 도모하기 위해 마련되었습니다. 다양한 금융 전문가들이 모여, 지역 경제와 금융 시장의 현황 및 미래 전망에 대해 심도 있는 논의를 나누었습니다. 참석자들은 강원도의 금융 정책에 대한 의견을 교환하고, 협력 방안을 모색하는 시간을 가졌습니다.",
+        "original": "[포토뉴스]한국은행 강원본부, 제2회 강원금융포럼",
+        "titleTranslation": "【照片新聞】韓國銀行江原本部，第2屆江原金融論壇",
+        "translations": {
+          "beginner": [
+            "韓國銀行江原本部舉辦了金融論壇。",
+            "很多人參加了。",
+            "論壇上談論了金融。"
+          ],
+          "intermediate": [
+            "韓國銀行江原本部最近舉辦了第二屆江原金融論壇。",
+            "這個論壇的目標是促進江原道內的金融產業發展。",
+            "許多專家參加並發表了不同主題的演講。",
+            "參加者們交流意見並進行了熱烈的討論。"
+          ],
+          "advanced": [
+            "韓國銀行江原本部於10月20日舉辦了第二屆江原金融論壇。",
+            "這個論壇為了促進江原地區金融產業的可持續發展而設立。",
+            "來自各地的金融專家聚集在一起，深入討論當前的區域經濟和金融市場的現狀及未來展望。",
+            "參加者們交流了對江原金融政策的看法，並尋求合作方案。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "금융",
+          "reading": "geumyung",
+          "meaning": "金融",
+          "example": "금융 산업은 매우 중요합니다.",
+          "exampleTranslation": "金融產業非常重要。",
           "level": "4"
         },
         {
-          "word": "신뢰",
-          "reading": "sinloe",
-          "meaning": "信任",
-          "example": "신뢰가 필요합니다.",
-          "exampleTranslation": "需要信任。",
+          "word": "포럼",
+          "reading": "poreom",
+          "meaning": "論壇",
+          "example": "이번 포럼은 많은 관심을 받았습니다.",
+          "exampleTranslation": "這次論壇受到了很多關注。",
           "level": "4"
         },
         {
-          "word": "미래",
-          "reading": "mirae",
-          "meaning": "未來",
-          "example": "미래의 관계를 고민해야 합니다.",
-          "exampleTranslation": "需要思考未來的關係。",
+          "word": "개최하다",
+          "reading": "gaechwihada",
+          "meaning": "舉辦",
+          "example": "그들은 새로운 행사를 개최했습니다.",
+          "exampleTranslation": "他們舉辦了一個新的活動。",
+          "level": "5"
+        },
+        {
+          "word": "참석하다",
+          "reading": "chamseokhada",
+          "meaning": "參加",
+          "example": "많은 사람들이 행사에 참석했습니다.",
+          "exampleTranslation": "許多人參加了活動。",
           "level": "3"
+        },
+        {
+          "word": "전문가",
+          "reading": "jeonmungga",
+          "meaning": "專家",
+          "example": "그는 금융 전문가입니다.",
+          "exampleTranslation": "他是金融專家。",
+          "level": "4"
+        },
+        {
+          "word": "산업",
+          "reading": "saneop",
+          "meaning": "產業",
+          "example": "이 지역의 산업은 발전하고 있습니다.",
+          "exampleTranslation": "這個地區的產業正在發展。",
+          "level": "4"
+        },
+        {
+          "word": "발전",
+          "reading": "baljeon",
+          "meaning": "發展",
+          "example": "우리는 기술 발전에 대해 논의했습니다.",
+          "exampleTranslation": "我們討論了技術發展。",
+          "level": "4"
+        },
+        {
+          "word": "정책",
+          "reading": "jeongchaek",
+          "meaning": "政策",
+          "example": "정부는 새로운 정책을 발표했습니다.",
+          "exampleTranslation": "政府發表了新的政策。",
+          "level": "4"
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "意見",
+          "example": "그들은 서로의 의견을 나누었습니다.",
+          "exampleTranslation": "他們互相交流了意見。",
+          "level": "3"
+        },
+        {
+          "word": "토론",
+          "reading": "toron",
+          "meaning": "討論",
+          "example": "이 주제에 대해 토론합시다.",
+          "exampleTranslation": "讓我們討論這個主題吧。",
+          "level": "3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "~에 대해",
+          "explanation": "用來表示對某事物的討論或介紹。",
+          "example": "우리는 금융에 대해 이야기했습니다.",
+          "exampleTranslation": "我們談論了金融。",
+          "level": "3"
+        },
+        {
+          "pattern": "목표로 하다",
+          "explanation": "表示某個行動的目標或目的。",
+          "example": "이 포럼은 발전을 목표로 합니다.",
+          "exampleTranslation": "這個論壇的目的是促進發展。",
+          "level": "4"
+        },
+        {
+          "pattern": "참여하다",
+          "explanation": "表示參加某個活動。",
+          "example": "많은 사람들이 포럼에 참여했습니다.",
+          "exampleTranslation": "許多人參加了論壇。",
+          "level": "3"
+        },
+        {
+          "pattern": "서로의 ~을 나누다",
+          "explanation": "表示互相分享某事物。",
+          "example": "그들은 의견을 나누었습니다.",
+          "exampleTranslation": "他們分享了意見。",
+          "level": "4"
+        },
+        {
+          "pattern": "진행되다",
+          "explanation": "用來表示某活動正在進行。",
+          "example": "포럼이 잘 진행되었습니다.",
+          "exampleTranslation": "論壇進行得很好。",
+          "level": "4"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "한국은행 강원본부는 무엇을 개최했습니까?",
+          "options": [
+            "금융 포럼",
+            "회의",
+            "전시회",
+            "세미나"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "金融論壇",
+            "會議",
+            "展覽",
+            "研討會"
+          ],
+          "explanation": "韓國銀行江原本部舉辦的是金融論壇。",
+          "translation": "韓國銀行江原本部舉辦了什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "많은 전문가는 무엇에 대해 발표했습니까?",
+          "options": [
+            "금융 정책",
+            "환경 문제",
+            "경제 성장",
+            "교육"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "金融政策",
+            "環境問題",
+            "經濟增長",
+            "教育"
+          ],
+          "explanation": "許多專家發表了有關金融政策的演講。",
+          "translation": "許多專家發表了什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "포럼에서 무엇이 이루어졌습니까?",
+          "options": [
+            "토론",
+            "게임",
+            "영화 상영",
+            "식사"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "討論",
+            "遊戲",
+            "電影放映",
+            "用餐"
+          ],
+          "explanation": "論壇上進行了討論。",
+          "translation": "論壇上發生了什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하세요.",
+          "words": [
+            "금융",
+            "에",
+            "토론",
+            "했습니다",
+            "우리는"
+          ],
+          "correctAnswer": "우리는 금융에 토론했습니다.",
+          "explanation": "正確的順序是主語先，然後是賓語和動詞。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하세요.",
+          "words": [
+            "강원금융포럼",
+            "제2회",
+            "개최",
+            "했습니다",
+            "한국은행"
+          ],
+          "correctAnswer": "한국은행은 제2회 강원금융포럼을 개최했습니다.",
+          "explanation": "正確的順序是主語，然後是時間和動詞。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "한국수자원공사 신임 사장에 양승조 전 충남지사 - 충청뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kVzY4MVBTR05CTlpIOHNBWm5RVlA1TGllNnU3eXlJWHFXY1FaRVFMcFktcjVrM3l1OC0wdFU1TUV2OFdTR1JqZF9oUmtlMXVYUmVpU1pHalQwbVFEN3IzajdkeWpIOWhTUEZnUA?oc=5",
+      "published": "Thu, 12 Nov 2026 12:53:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9kVzY4MVBTR05CTlpIOHNBWm5RVlA1TGllNnU3eXlJWHFXY1FaRVFMcFktcjVrM3l1OC0wdFU1TUV2OFdTR1JqZF9oUmtlMXVYUmVpU1pHalQwbVFEN3IzajdkeWpIOWhTUEZnUA?oc=5\" target=\"_blank\">한국수자원공사 신임 사장에 양승조 전 충남지사</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">충청뉴스</font>",
+      "source": "충청뉴스",
+      "fullContent": {
+        "beginner": "양승조는 충남의 전 지사입니다. 그는 한국수자원공사의 사장이 되었습니다. 많은 사람들이 그를 응원합니다.",
+        "intermediate": "양승조 전 충남지사가 한국수자원공사의 신임 사장으로 임명되었습니다. 그는 환경과 수자원 관리에 대한 경험이 많습니다. 양승조 사장은 공사의 발전을 위해 노력할 것입니다. 많은 이들이 그의 리더십을 기대하고 있습니다. 앞으로 더 나은 물 관리를 위해 힘쓸 것입니다.",
+        "advanced": "양승조 전 충남지사가 한국수자원공사의 신임 사장으로 선임되었습니다. 양 사장은 환경 보전과 수자원 관리에 대한 풍부한 경험을 바탕으로 공사의 혁신을 이끌 것으로 기대됩니다. 그는 수자원의 효율적 관리와 지속 가능한 개발을 목표로 하고 있으며, 이를 위해 다양한 정책을 추진할 계획입니다. 많은 전문가들과 시민들이 그의 리더십에 주목하고 있습니다. 앞으로의 행보에 많은 관심이 쏠릴 것입니다.",
+        "original": "한국수자원공사 신임 사장에 양승조 전 충남지사",
+        "titleTranslation": "前忠南知事楊承朝被任命為韓國水資源公社新社長",
+        "translations": {
+          "beginner": [
+            "楊承朝是忠南的前知事。",
+            "他成為了韓國水資源公社的社長。",
+            "很多人支持他。"
+          ],
+          "intermediate": [
+            "前忠南知事楊承朝被任命為韓國水資源公社的新社長。",
+            "他在環境和水資源管理方面有很多經驗。",
+            "楊社長將努力推動公社的發展。",
+            "許多人對他的領導充滿期待。",
+            "未來他將為更好的水資源管理而努力。"
+          ],
+          "advanced": [
+            "前忠南知事楊承朝被任命為韓國水資源公社的新社長。",
+            "楊社長將憑藉其在環境保護及水資源管理方面的豐富經驗，預計將引領公社的創新。",
+            "他的目標是有效管理水資源和持續發展，並計畫推進各種政策。",
+            "許多專家和市民對他的領導能力充滿期待。",
+            "未來的動向將會受到廣泛關注。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "사장",
+          "reading": "sajang",
+          "meaning": "社長",
+          "example": "그는 회사의 사장입니다.",
+          "exampleTranslation": "他是公司的社長。",
+          "level": "4"
+        },
+        {
+          "word": "물",
+          "reading": "mul",
+          "meaning": "水",
+          "example": "물은 생명에 중요합니다.",
+          "exampleTranslation": "水對生命是重要的。",
+          "level": "1"
+        },
+        {
+          "word": "관리",
+          "reading": "gwanri",
+          "meaning": "管理",
+          "example": "자원의 관리는 매우 중요합니다.",
+          "exampleTranslation": "資源的管理非常重要。",
+          "level": "4"
+        },
+        {
+          "word": "경험",
+          "reading": "gyeongheom",
+          "meaning": "經驗",
+          "example": "그는 많은 경험이 있습니다.",
+          "exampleTranslation": "他有很多經驗。",
+          "level": "4"
+        },
+        {
+          "word": "환경",
+          "reading": "hwangyeong",
+          "meaning": "環境",
+          "example": "환경 보호는 중요합니다.",
+          "exampleTranslation": "環境保護是重要的。",
+          "level": "3"
+        },
+        {
+          "word": "기대",
+          "reading": "gidae",
+          "meaning": "期待",
+          "example": "사람들은 그의 리더십을 기대합니다.",
+          "exampleTranslation": "人們期待他的領導能力。",
+          "level": "2"
         },
         {
           "word": "정책",
@@ -114,1085 +811,388 @@
           "example": "새로운 정책이 필요합니다.",
           "exampleTranslation": "需要新的政策。",
           "level": "4"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "~(으)ㄴ 것 같다",
-          "explanation": "表示對某事的推測或感覺。",
-          "example": "트럼프가 북한을 더 존중하는 것 같다.",
-          "exampleTranslation": "感覺特朗普更尊重北韓。",
-          "level": "4"
-        },
-        {
-          "pattern": "동안",
-          "explanation": "表示某一時間段內的狀態或行為。",
-          "example": "그동안 한미관계가 변화했다.",
-          "exampleTranslation": "在這段時間內，韓美關係發生了變化。",
-          "level": "3"
-        },
-        {
-          "pattern": "때문에",
-          "explanation": "表示某事的原因。",
-          "example": "우려가 크기 때문에 조치가 필요하다.",
-          "exampleTranslation": "因為擔憂很大，所以需要採取措施。",
-          "level": "4"
-        },
-        {
-          "pattern": "처럼",
-          "explanation": "表示類似或比較的意思。",
-          "example": "북한처럼 한국도 중요하다.",
-          "exampleTranslation": "像北韓一樣，韓國也很重要。",
-          "level": "3"
-        },
-        {
-          "pattern": "다시",
-          "explanation": "表示重新做某事。",
-          "example": "외교 정책을 다시 검토해야 한다.",
-          "exampleTranslation": "需要重新檢討外交政策。",
-          "level": "1"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "댄 고는 어떤 관계를 걱정하였습니까?",
-          "options": [
-            "한국과 일본",
-            "한미관계",
-            "북한과 중국",
-            "북한과 미국"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "韓國和日本",
-            "韓美關係",
-            "北韓和中國",
-            "北韓和美國"
-          ],
-          "explanation": "댄 고는 한미관계에 대해 걱정한다고 말했습니다.",
-          "translation": "丹·高擔心哪種關係？"
-        },
-        {
-          "type": "choice",
-          "question": "트럼프는 한국과 북한 중 누구를 더 존중한다고 하였습니까?",
-          "options": [
-            "한국",
-            "북한",
-            "일본",
-            "중국"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "韓國",
-            "北韓",
-            "日本",
-            "中國"
-          ],
-          "explanation": "트럼프는 북한을 더 존중하는 경향이 있다고 언급되었습니다.",
-          "translation": "特朗普更尊重誰？"
-        },
-        {
-          "type": "choice",
-          "question": "댄 고의 발언은 무엇을 암시합니까?",
-          "options": [
-            "신뢰가 필요하다",
-            "관계가 나쁘다",
-            "정책이 변화해야 한다",
-            "모두 해당된다"
-          ],
-          "correctAnswer": 3,
-          "optionsTranslation": [
-            "需要信任",
-            "關係不好",
-            "政策需要變化",
-            "皆是此項"
-          ],
-          "explanation": "댄 고는 한국과 북한, 그리고 한미관계의 중요성을 강조했습니다.",
-          "translation": "丹·高的言論暗示了什麼？"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재배열하세요.",
-          "words": [
-            "관계",
-            "한미",
-            "중요",
-            "은",
-            "입니다"
-          ],
-          "correctAnswer": "한미관계는 중요합니다.",
-          "explanation": "이 문장은 한미관계의 중요성을 나타냅니다.",
-          "translation": "請重組以下句子。"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재배열하세요.",
-          "words": [
-            "트럼프",
-            "북한을",
-            "더",
-            "존중합니다"
-          ],
-          "correctAnswer": "트럼프는 북한을 더 존중합니다.",
-          "explanation": "이 문장은 트럼프의 태도를 설명합니다.",
-          "translation": "請重組以下句子。"
-        }
-      ]
-    },
-    {
-      "title": "한국 디지털·AI 경쟁력 세계 10위…8계단 상승 - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Na0xXc0hxdlNvdE5xU2ZmNFk4YXB0Y193dUZ6MEk1WjBIWFM3QVlsQjR2OXFkVnU5QkMxa252V3p1S1k4U3dtZ0FiVVhNbzlQcFV5Z3VyRW41eFJnQVZOZkhadDkxMFE?oc=5",
-      "published": "Wed, 11 Nov 2026 20:34:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Na0xXc0hxdlNvdE5xU2ZmNFk4YXB0Y193dUZ6MEk1WjBIWFM3QVlsQjR2OXFkVnU5QkMxa252V3p1S1k4U3dtZ0FiVVhNbzlQcFV5Z3VyRW41eFJnQVZOZkhadDkxMFE?oc=5\" target=\"_blank\">한국 디지털·AI 경쟁력 세계 10위…8계단 상승</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
-      "source": "연합뉴스TV",
-      "fullContent": {
-        "beginner": "한국의 디지털과 AI 경쟁력이 높아졌습니다. 이제 우리는 세계에서 10위입니다. 8계단 상승했습니다.",
-        "intermediate": "한국은 최근 디지털과 인공지능(AI) 분야에서 세계 10위에 올랐습니다. 이는 8계단 상승한 것입니다. 정부와 기업의 노력 덕분에 성과를 거두었습니다. 앞으로 더 발전할 것으로 기대됩니다. 디지털 기술은 우리의 삶에 큰 영향을 미칩니다.",
-        "advanced": "한국의 디지털 및 인공지능(AI) 경쟁력이 세계에서 10위로 상승했습니다. 이는 8계단의 큰 도약을 의미하며, 이러한 성장은 정부와 민간 부문 간의 협력이 중요한 역할을 했습니다. 한국은 기술 혁신과 인재 양성에 집중하고 있으며, 이러한 노력은 디지털 경제의 발전에 기여하고 있습니다. 앞으로도 한국은 더욱 높은 경쟁력을 갖추기 위해 지속적으로 투자하고 연구 개발을 추진할 것입니다.",
-        "original": "한국 디지털·AI 경쟁력 세계 10위…8계단 상승",
-        "titleTranslation": "韓國數位與AI競爭力全球第十位…上升八階",
-        "translations": {
-          "beginner": [
-            "韓國的數位和AI競爭力提高了。",
-            "現在我們在世界上排名第十。",
-            "上升了八個階梯。"
-          ],
-          "intermediate": [
-            "韓國最近在數位和人工智慧(AI)領域中，登上了世界第十位。",
-            "這是上升了八個階梯的成就。",
-            "這要感謝政府和企業的努力。",
-            "未來我們期待更大的發展。",
-            "數位技術對我們的生活影響很大。"
-          ],
-          "advanced": [
-            "韓國的數位和人工智慧(AI)競爭力在全球排名中上升到了第十位。",
-            "這標誌著八個階梯的重大飛躍，",
-            "而這種成長主要得益於政府和私營部門之間的合作。",
-            "韓國正專注於技術創新和人才培養，",
-            "這些努力正在促進數位經濟的發展。",
-            "未來，韓國將持續投資並推進研究開發，",
-            "以便擁有更高的競爭力。"
-          ]
-        }
-      },
-      "vocabulary": [
-        {
-          "word": "디지털",
-          "reading": "digiteol",
-          "meaning": "數位",
-          "example": "디지털 기술은 매우 중요합니다.",
-          "exampleTranslation": "數位技術非常重要。",
-          "level": "4"
-        },
-        {
-          "word": "경쟁력",
-          "reading": "gyeongjaengnyeok",
-          "meaning": "競爭力",
-          "example": "우리나라의 경쟁력이 높습니다.",
-          "exampleTranslation": "我們國家的競爭力很高。",
-          "level": "5"
-        },
-        {
-          "word": "AI",
-          "reading": "AI",
-          "meaning": "人工智慧",
-          "example": "AI 기술이 발전하고 있습니다.",
-          "exampleTranslation": "人工智慧技術正在發展。",
-          "level": "6"
-        },
-        {
-          "word": "상승",
-          "reading": "sangseung",
-          "meaning": "上升",
-          "example": "순위가 상승했습니다.",
-          "exampleTranslation": "排名上升了。",
-          "level": "4"
-        },
-        {
-          "word": "정부",
-          "reading": "jeongbu",
-          "meaning": "政府",
-          "example": "정부의 지원이 필요합니다.",
-          "exampleTranslation": "需要政府的支持。",
-          "level": "4"
-        },
-        {
-          "word": "기업",
-          "reading": "gieop",
-          "meaning": "企業",
-          "example": "기업의 노력도 중요합니다.",
-          "exampleTranslation": "企業的努力也很重要。",
-          "level": "4"
-        },
-        {
-          "word": "기대",
-          "reading": "gidae",
-          "meaning": "期待",
-          "example": "미래에 대한 기대가 큽니다.",
-          "exampleTranslation": "對未來的期待很大。",
-          "level": "2"
         },
         {
           "word": "발전",
           "reading": "baljeon",
           "meaning": "發展",
-          "example": "기술 발전이 필요합니다.",
-          "exampleTranslation": "需要技術發展。",
+          "example": "회사의 발전을 위해 노력합니다.",
+          "exampleTranslation": "為了公司的發展而努力。",
           "level": "4"
         },
         {
-          "word": "투자",
-          "reading": "tuja",
-          "meaning": "投資",
-          "example": "연구에 많은 투자가 필요합니다.",
-          "exampleTranslation": "對研究需要大量投資。",
-          "level": "4"
-        },
-        {
-          "word": "인재",
-          "reading": "injae",
-          "meaning": "人才",
-          "example": "우리는 인재를 양성해야 합니다.",
-          "exampleTranslation": "我們應該培養人才。",
-          "level": "4"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "A(으)로 인해 B",
-          "explanation": "表示因為A而導致B的情況。",
-          "example": "정부의 지원으로 인해 성공했습니다.",
-          "exampleTranslation": "因為政府的支持而成功了。",
-          "level": "4"
-        },
-        {
-          "pattern": "A(으)ㄴ/는 것처럼 B",
-          "explanation": "表示A就像B一樣的情況。",
-          "example": "기술이 발전하는 것처럼 우리의 삶도 변화합니다.",
-          "exampleTranslation": "技術進步就像我們的生活一樣改變。",
-          "level": "4"
-        },
-        {
-          "pattern": "A기 위해서 B",
-          "explanation": "表示為了A而做B。",
-          "example": "경쟁력을 높이기 위해서 노력해야 합니다.",
-          "exampleTranslation": "為了提高競爭力必須努力。",
-          "level": "3"
-        },
-        {
-          "pattern": "A에 대해 B",
-          "explanation": "表示對A的相關信息或情況。",
-          "example": "AI에 대해 많은 연구가 필요합니다.",
-          "exampleTranslation": "對於人工智慧需要進行大量研究。",
-          "level": "3"
-        },
-        {
-          "pattern": "A는 B이다",
-          "explanation": "表示A的性質或狀態是B。",
-          "example": "디지털 기술은 필수적이다.",
-          "exampleTranslation": "數位技術是必需的。",
-          "level": "1"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "한국의 AI 경쟁력은 몇 위인가요?",
-          "options": [
-            "1위",
-            "5위",
-            "10위",
-            "15위"
-          ],
-          "correctAnswer": 2,
-          "optionsTranslation": [
-            "第一位",
-            "第五位",
-            "第十位",
-            "第十五位"
-          ],
-          "explanation": "韓國的AI競爭力現在是第十位。",
-          "translation": "韓國的AI競爭力是第幾位？"
-        },
-        {
-          "type": "choice",
-          "question": "몇 계단 상승했습니까?",
-          "options": [
-            "5계단",
-            "8계단",
-            "10계단",
-            "12계단"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "五階梯",
-            "八階梯",
-            "十階梯",
-            "十二階梯"
-          ],
-          "explanation": "韓國在排名上升了八個階梯。",
-          "translation": "上升了幾階梯？"
-        },
-        {
-          "type": "choice",
-          "question": "어떤 분야에서 경쟁력이 높아졌나요?",
-          "options": [
-            "의료",
-            "디지털",
-            "농업",
-            "건설"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "醫療",
-            "數位",
-            "農業",
-            "建設"
-          ],
-          "explanation": "在數位和AI領域的競爭力提高了。",
-          "translation": "在哪個領域競爭力提高了？"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재배열하세요.",
-          "words": [
-            "AI",
-            "경쟁력",
-            "높아졌습니다",
-            "한국의"
-          ],
-          "correctAnswer": "한국의 AI 경쟁력이 높아졌습니다.",
-          "explanation": "這句話的正確順序是「韓國的AI競爭力提高了」。",
-          "translation": "請重組以下句子。"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재배열하세요.",
-          "words": [
-            "상승",
-            "계단",
-            "여덟",
-            "했습니다"
-          ],
-          "correctAnswer": "여덟 계단 상승했습니다.",
-          "explanation": "這句話的正確順序是「上升了八個階梯」。",
-          "translation": "請重組以下句子。"
-        }
-      ]
-    },
-    {
-      "title": "[포토뉴스]국립공원공단·연세대·한국RSG MOU - 강원일보",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OEhnOG1zTnZJMmVtSUMwQ0JSZHNuSlFURUhvR3pSOW1BZ2ktdHFMZ1dQWEZ3SHd4OVN2RFJsNFVTM1BieG5QcnB0NzlURW43d3pkc1pka2Z0ejA?oc=5",
-      "published": "Wed, 11 Nov 2026 15:05:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OEhnOG1zTnZJMmVtSUMwQ0JSZHNuSlFURUhvR3pSOW1BZ2ktdHFMZ1dQWEZ3SHd4OVN2RFJsNFVTM1BieG5QcnB0NzlURW43d3pkc1pka2Z0ejA?oc=5\" target=\"_blank\">[포토뉴스]국립공원공단·연세대·한국RSG MOU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
-      "source": "강원일보",
-      "fullContent": {
-        "beginner": "국립공원공단은 연세대와 한국RSG와 MOU를 체결했습니다. 이 협약은 환경 보호를 위한 것입니다. 모든 사람들이 자연을 사랑해야 합니다.",
-        "intermediate": "국립공원공단은 연세대학교와 한국RSG와의 협력을 위해 양해각서를 체결했습니다. 이번 협약은 자연 보호와 지속 가능한 발전을 목표로 하고 있습니다. 세 기관은 다양한 프로그램을 통해 환경 교육을 진행할 예정입니다.",
-        "advanced": "최근 국립공원공단은 연세대학교 및 한국RSG와 협력하여 양해각서를 체결하였습니다. 이 협약은 환경 보호와 지속 가능한 개발을 위한 다양한 연구와 교육 프로그램을 실시하기 위한 것입니다. 특히, 각 기관은 생태계의 보전과 관련한 공동 프로젝트를 통해 더 많은 사람들에게 환경의 중요성을 알릴 계획입니다. 이를 통해 자연과 인간이 함께 공존하는 방법을 모색하고 있습니다.",
-        "original": "[포토뉴스]국립공원공단·연세대·한국RSG MOU",
-        "titleTranslation": "[照片新聞]國立公園公團·延世大學·韓國RSG MOU",
-        "translations": {
-          "beginner": [
-            "國立公園公團與延世大學和韓國RSG簽署了MOU。",
-            "這個協議是為了保護環境。",
-            "每個人都應該愛護自然。"
-          ],
-          "intermediate": [
-            "國立公園公團為了與延世大學和韓國RSG合作簽署了諒解備忘錄。",
-            "此次協議的目標是自然保護和可持續發展。",
-            "三個機構將通過各種計畫進行環境教育。"
-          ],
-          "advanced": [
-            "最近，國立公園公團與延世大學及韓國RSG合作簽署了諒解備忘錄。",
-            "該協議是為了進行環境保護和可持續發展的各種研究與教育計畫。",
-            "特別是，各機構將透過生態系保護相關的共同項目，向更多人宣傳環境的重要性。",
-            "通過這樣的方式，我們正在尋找自然與人類共存的方法。"
-          ]
-        }
-      },
-      "vocabulary": [
-        {
-          "word": "국립공원공단",
-          "reading": "gugnip gongwon gongdan",
-          "meaning": "國立公園公團",
-          "example": "국립공원공단은 자연을 보호합니다.",
-          "exampleTranslation": "國立公園公團保護自然。",
-          "level": "6"
-        },
-        {
-          "word": "연세대",
-          "reading": "Yeonse daehak",
-          "meaning": "延世大學",
-          "example": "연세대는 유명한 학교입니다.",
-          "exampleTranslation": "延世大學是一所著名的學校。",
-          "level": "3"
-        },
-        {
-          "word": "협약",
-          "reading": "hyeob-yak",
-          "meaning": "協議",
-          "example": "협약을 체결했습니다.",
-          "exampleTranslation": "已經簽署協議。",
-          "level": "5"
-        },
-        {
-          "word": "환경",
-          "reading": "hwan-gyeong",
-          "meaning": "環境",
-          "example": "환경을 보호해야 합니다.",
-          "exampleTranslation": "必須保護環境。",
-          "level": "3"
-        },
-        {
-          "word": "보호",
-          "reading": "boho",
-          "meaning": "保護",
-          "example": "우리는 자연을 보호합니다.",
-          "exampleTranslation": "我們保護自然。",
-          "level": "3"
-        },
-        {
-          "word": "지속 가능",
-          "reading": "jisok ganeung",
-          "meaning": "可持續",
-          "example": "지속 가능한 발전이 필요합니다.",
-          "exampleTranslation": "需要可持續發展。",
-          "level": "6"
-        },
-        {
-          "word": "프로그램",
-          "reading": "peurogeuraem",
-          "meaning": "計畫",
-          "example": "새로운 프로그램을 시작합니다.",
-          "exampleTranslation": "開始新的計畫。",
-          "level": "3"
-        },
-        {
-          "word": "교육",
-          "reading": "gyoyuk",
-          "meaning": "教育",
-          "example": "환경 교육이 중요합니다.",
-          "exampleTranslation": "環境教育很重要。",
-          "level": "3"
-        },
-        {
-          "word": "생태계",
-          "reading": "saengtaegye",
-          "meaning": "生態系",
-          "example": "생태계를 보호해야 합니다.",
-          "exampleTranslation": "必須保護生態系。",
-          "level": "4"
-        },
-        {
-          "word": "중요성",
-          "reading": "jungyoseong",
-          "meaning": "重要性",
-          "example": "환경의 중요성을 알립니다.",
-          "exampleTranslation": "宣傳環境的重要性。",
-          "level": "4"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "N1과/와 N2",
-          "explanation": "表示與N2一起的意思。",
-          "example": "연세대와 협력합니다.",
-          "exampleTranslation": "與延世大學合作。",
-          "level": "2"
-        },
-        {
-          "pattern": "N을/를 위해",
-          "explanation": "為了N的意思。",
-          "example": "자연 보호를 위해 노력합니다.",
-          "exampleTranslation": "為了保護自然而努力。",
-          "level": "3"
-        },
-        {
-          "pattern": "N이/가 필요하다",
-          "explanation": "表示需要N的意思。",
-          "example": "교육이 필요합니다.",
-          "exampleTranslation": "需要教育。",
-          "level": "3"
-        },
-        {
-          "pattern": "N과/와 함께",
-          "explanation": "表示和N一起的意思。",
-          "example": "국립공원공단과 함께 합니다.",
-          "exampleTranslation": "與國立公園公團一起。",
-          "level": "2"
-        },
-        {
-          "pattern": "N의 중요성",
-          "explanation": "表示N的重要性。",
-          "example": "환경의 중요성을 강조합니다.",
-          "exampleTranslation": "強調環境的重要性。",
-          "level": "3"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "국립공원공단은 무엇을 위해 협약을 체결했습니까?",
-          "options": [
-            "환경 보호",
-            "학교 설립",
-            "여행 프로그램",
-            "음식 제공"
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "環境保護",
-            "學校設立",
-            "旅行計畫",
-            "提供食物"
-          ],
-          "explanation": "國立公園公團簽署協議是為了環境保護。",
-          "translation": "國立公園公團簽署協議是為了什麼？"
-        },
-        {
-          "type": "choice",
-          "question": "연세대와의 협력은 무엇을 목적으로 합니까?",
-          "options": [
-            "자연 보호",
-            "음식 만들기",
-            "여행 계획",
-            "학교 행사"
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "自然保護",
-            "做食物",
-            "旅行計畫",
-            "學校活動"
-          ],
-          "explanation": "與延世大學的合作目的是自然保護。",
-          "translation": "與延世大學的合作目的為何？"
-        },
-        {
-          "type": "choice",
-          "question": "MOU는 무엇의 약자입니까?",
-          "options": [
-            "다양한 교육",
-            "양해각서",
-            "국립공원",
-            "지속 가능"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "多樣教育",
-            "諒解備忘錄",
-            "國立公園",
-            "可持續"
-          ],
-          "explanation": "MOU는 양해각서의 약자입니다.",
-          "translation": "MOU是什麼的縮寫？"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재배열하세요.",
-          "words": [
-            "환경",
-            "중요성",
-            "알리다",
-            "의",
-            "우리는"
-          ],
-          "correctAnswer": "우리는 환경의 중요성을 알립니다.",
-          "explanation": "這是正確的句子結構。",
-          "translation": "請重組以下句子。"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재배열하세요.",
-          "words": [
-            "협약",
-            "체결하다",
-            "우리는",
-            "자연",
-            "보호를"
-          ],
-          "correctAnswer": "우리는 자연 보호를 위해 협약을 체결합니다.",
-          "explanation": "這是正確的句子結構。",
-          "translation": "請重組以下句子。"
-        }
-      ]
-    },
-    {
-      "title": "고향사랑기부, 아직 안 하셨다면 주목!!!! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlhkNTF0djktb0lKd3h5YVJIV1VVZXBuREl3SVp3b21NRUJILTZXVTVLWlV5UzcyNDl0RjJhQU1aZlpYZVpPcHFDQ3FIYnAwQnhoaTZJRVhnRFZTMC04aGhETEdxdEtoampHWTRWZVJMMExiS0tFTTNIcmc0bDdQTFp5MVk1dGRqa3c?oc=5",
-      "published": "Wed, 11 Nov 2026 08:44:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlhkNTF0djktb0lKd3h5YVJIV1VVZXBuREl3SVp3b21NRUJILTZXVTVLWlV5UzcyNDl0RjJhQU1aZlpYZVpPcHFDQ3FIYnAwQnhoaTZJRVhnRFZTMC04aGhETEdxdEtoampHWTRWZVJMMExiS0tFTTNIcmc0bDdQTFp5MVk1dGRqa3c?oc=5\" target=\"_blank\">고향사랑기부, 아직 안 하셨다면 주목!!!! - 영상 | 멀티미디어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한민국 정책브리핑</font>",
-      "source": "대한민국 정책브리핑",
-      "fullContent": {
-        "beginner": "고향사랑기부는 중요한 프로그램입니다. 많은 사람들이 참여하고 있습니다. 여러분도 참여하세요!",
-        "intermediate": "고향사랑기부는 한국의 여러 지역을 지원하는 프로그램입니다. 이 프로그램을 통해 소중한 기부를 할 수 있습니다. 아직 참여하지 않으신 분들은 꼭 주목하세요! 여러분의 작은 기부가 큰 도움이 됩니다.",
-        "advanced": "고향사랑기부는 한국 사회의 지역 발전을 위한 중요한 기부 프로그램입니다. 이 프로그램은 사람들에게 자신의 고향을 기억하고 지원할 수 있는 기회를 제공합니다. 많은 사람들이 참여하여 지역 사회의 발전에 기여하고 있습니다. 아직 참여하지 않으신 분들은 이번 기회를 놓치지 마세요. 여러분의 소중한 기부가 고향의 미래를 밝힐 수 있습니다.",
-        "original": "고향사랑기부, 아직 안 하셨다면 주목!!!! - 영상 | 멀티미디어",
-        "titleTranslation": "故鄉愛心捐款，還沒參加的話請注意！！！！ - 影片 | 多媒體",
-        "translations": {
-          "beginner": [
-            "故鄉愛心捐款是一個重要的計畫。",
-            "很多人都參加了。",
-            "你們也來參加吧！"
-          ],
-          "intermediate": [
-            "故鄉愛心捐款是支持韓國各地的計畫。",
-            "透過這個計畫，你可以進行珍貴的捐款。",
-            "還沒有參加的人請一定要注意！",
-            "你們的小小捐款會成為很大的幫助。"
-          ],
-          "advanced": [
-            "故鄉愛心捐款是一個為韓國社會地區發展的重要捐款計畫。",
-            "這個計畫給人們提供了記住和支持自己故鄉的機會。",
-            "許多人參加並為地區社會的發展做出了貢獻。",
-            "還沒有參加的人請不要錯過這次機會。",
-            "你們的珍貴捐款能夠照亮故鄉的未來。"
-          ]
-        }
-      },
-      "vocabulary": [
-        {
-          "word": "고향사랑기부",
-          "reading": "gohyangsalanggibu",
-          "meaning": "故鄉愛心捐款",
-          "example": "고향사랑기부는 중요한 프로그램이에요.",
-          "exampleTranslation": "故鄉愛心捐款是一個重要的計畫。",
-          "level": "6"
-        },
-        {
-          "word": "프로그램",
-          "reading": "peurogeuraem",
-          "meaning": "計畫、程序",
-          "example": "이 프로그램에 많은 사람들이 참여하고 있어요.",
-          "exampleTranslation": "許多人參加了這個計畫。",
-          "level": "3"
-        },
-        {
-          "word": "참여하다",
-          "reading": "chamyeohada",
-          "meaning": "參加",
-          "example": "여러분도 참여하세요!",
-          "exampleTranslation": "你們也來參加吧！",
-          "level": "3"
-        },
-        {
-          "word": "지원하다",
-          "reading": "jiwonhada",
-          "meaning": "支持",
-          "example": "이 프로그램은 지역을 지원합니다.",
-          "exampleTranslation": "這個計畫支持地區。",
-          "level": "4"
-        },
-        {
-          "word": "기부",
-          "reading": "gibu",
-          "meaning": "捐款",
-          "example": "기부는 소중한 일이에요.",
-          "exampleTranslation": "捐款是一件珍貴的事。",
-          "level": "3"
-        },
-        {
-          "word": "소중하다",
-          "reading": "sojunghada",
-          "meaning": "珍貴的",
-          "example": "소중한 기부를 할 수 있어요.",
-          "exampleTranslation": "可以進行珍貴的捐款。",
-          "level": "4"
-        },
-        {
-          "word": "기회",
-          "reading": "gihoe",
-          "meaning": "機會",
-          "example": "이번 기회를 놓치지 마세요.",
-          "exampleTranslation": "請不要錯過這次機會。",
+          "word": "시민",
+          "reading": "simin",
+          "meaning": "市民",
+          "example": "시민의 의견을 듣는 것이 중요합니다.",
+          "exampleTranslation": "聽取市民的意見是重要的。",
           "level": "3"
         },
         {
           "word": "미래",
           "reading": "mirae",
           "meaning": "未來",
-          "example": "여러분의 기부가 고향의 미래를 밝힐 수 있어요.",
-          "exampleTranslation": "你們的捐款能夠照亮故鄉的未來。",
+          "example": "미래를 위한 준비가 필요합니다.",
+          "exampleTranslation": "需要為未來做好準備。",
           "level": "3"
-        },
-        {
-          "word": "작은",
-          "reading": "jageun",
-          "meaning": "小的",
-          "example": "작은 기부가 큰 도움이 됩니다.",
-          "exampleTranslation": "小小的捐款會成為很大的幫助。",
-          "level": "1"
-        },
-        {
-          "word": "도움",
-          "reading": "doum",
-          "meaning": "幫助",
-          "example": "여러분의 도움이 필요합니다.",
-          "exampleTranslation": "需要你們的幫助。",
-          "level": "2"
         }
       ],
       "grammar": [
         {
-          "pattern": "A는 B이다",
-          "explanation": "表示A是B，常用於定義或描述。",
-          "example": "고향사랑기부는 중요한 프로그램이다.",
-          "exampleTranslation": "故鄉愛心捐款是一個重要的計畫。",
-          "level": "1"
-        },
-        {
-          "pattern": "V(으)ㄹ 수 있다",
-          "explanation": "表示能夠做某事，表示能力或可能性。",
-          "example": "소중한 기부를 할 수 있다.",
-          "exampleTranslation": "可以進行珍貴的捐款。",
-          "level": "3"
-        },
-        {
-          "pattern": "A(으)로 B를 지원하다",
-          "explanation": "表示支持某事物的方式或手段。",
-          "example": "이 프로그램은 지역을 지원한다.",
-          "exampleTranslation": "這個計畫支持地區。",
+          "pattern": "~(으)로 임명되다",
+          "explanation": "表示被任命為某職位。",
+          "example": "그는 사장으로 임명되었습니다.",
+          "exampleTranslation": "他被任命為社長。",
           "level": "4"
         },
         {
-          "pattern": "A는 B를 놓치다",
-          "explanation": "表示錯過某機會或事情。",
-          "example": "이번 기회를 놓치지 마세요.",
-          "exampleTranslation": "請不要錯過這次機會。",
+          "pattern": "경험이 많다",
+          "explanation": "表示擁有豐富的經驗。",
+          "example": "그는 경력이 많습니다.",
+          "exampleTranslation": "他有豐富的經驗。",
           "level": "3"
         },
         {
-          "pattern": "A가 B를 밝히다",
-          "explanation": "表示讓某事物變得明亮或清晰。",
-          "example": "여러분의 기부가 고향의 미래를 밝힌다.",
-          "exampleTranslation": "你們的捐款能夠照亮故鄉的未來。",
+          "pattern": "기대하다",
+          "explanation": "表示期待某事發生。",
+          "example": "사람들은 그의 리더십을 기대합니다.",
+          "exampleTranslation": "人們期待他的領導能力。",
           "level": "3"
+        },
+        {
+          "pattern": "노력하다",
+          "explanation": "表示努力去做某事。",
+          "example": "그는 발전을 위해 노력합니다.",
+          "exampleTranslation": "他為了發展而努力。",
+          "level": "2"
+        },
+        {
+          "pattern": "중요하다",
+          "explanation": "表示某事物是重要的。",
+          "example": "환경 보호는 중요합니다.",
+          "exampleTranslation": "環境保護是重要的。",
+          "level": "2"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "고향사랑기부는 무엇인가요?",
+          "question": "양승조 전 충남지사는 무엇으로 임명되었습니까?",
           "options": [
-            "지역 발전을 위한 기부 프로그램입니다.",
-            "단순한 기부입니다.",
-            "개인적인 기부입니다.",
-            "전국적인 기부입니다."
+            "사장",
+            "부사장",
+            "이사",
+            "과장"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "是為了地區發展的捐款計畫。",
-            "只是單純的捐款。",
-            "是個人的捐款。",
-            "是全國性的捐款。"
+            "社長",
+            "副社長",
+            "董事",
+            "科長"
           ],
-          "explanation": "고향사랑기부는 지역 발전을 위한 프로그램입니다.",
-          "translation": "故鄉愛心捐款是什麼？"
+          "explanation": "根據新聞，他被任命為社長。",
+          "translation": "楊承朝前忠南知事被任命為什麼？"
         },
         {
           "type": "choice",
-          "question": "아직 참여하지 않으신 분들은 어떻게 해야 하나요?",
+          "question": "양승조 사장은 어떤 경험이 많습니까?",
           "options": [
-            "꼭 참여해야 합니다.",
-            "참여할 필요가 없습니다.",
-            "그냥 지켜봐야 합니다.",
-            "어떻게든 참여하세요."
+            "재무",
+            "환경과 수자원 관리",
+            "마케팅",
+            "인사"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "optionsTranslation": [
-            "一定要參加。",
-            "沒必要參加。",
-            "只是觀望就好。",
-            "無論如何都要參加。"
+            "財務",
+            "環境和水資源管理",
+            "行銷",
+            "人事"
           ],
-          "explanation": "아직 참여하지 않으신 분들은 꼭 참여해야 합니다.",
-          "translation": "還沒參加的人應該怎麼做？"
+          "explanation": "他在環境和水資源管理方面有很多經驗。",
+          "translation": "楊承朝社長有什麼樣的經驗？"
         },
         {
           "type": "choice",
-          "question": "고향사랑기부의 장점은 무엇인가요?",
+          "question": "사람들은 양승조 사장을 어떻게 생각합니까?",
           "options": [
-            "소중한 기부를 할 수 있습니다.",
-            "돈을 잃습니다.",
-            "시간이 낭비됩니다.",
-            "아무도 관심이 없습니다."
+            "실망스럽다",
+            "기대한다",
+            "무관심하다",
+            "부정적이다"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "optionsTranslation": [
-            "可以進行珍貴的捐款。",
-            "會失去金錢。",
-            "浪費時間。",
-            "沒有人關心。"
+            "失望",
+            "期待",
+            "無關心",
+            "負面"
           ],
-          "explanation": "고향사랑기부의 장점은 소중한 기부를 할 수 있다는 것입니다.",
-          "translation": "故鄉愛心捐款的優點是什麼？"
+          "explanation": "許多人對他的領導充滿期待。",
+          "translation": "人們對楊承朝社長有什麼看法？"
         },
         {
           "type": "reorder",
-          "question": "다음 문장을 재조합하세요.",
+          "question": "다음 문장을 재배열하세요.",
           "words": [
-            "고향",
-            "기부",
-            "사랑",
-            "하는",
-            "중요한",
-            "프로그램",
-            "이다"
+            "사장",
+            "양승조",
+            "임명되었다",
+            "으로",
+            "한국수자원공사"
           ],
-          "correctAnswer": "고향사랑기부는 중요한 프로그램이다.",
-          "explanation": "문장을 올바르게 조합해야 합니다.",
-          "translation": "請重組下面的句子。"
+          "correctAnswer": "양승조는 한국수자원공사의 사장으로 임명되었다.",
+          "explanation": "正確的順序是先介紹人名，然後是職位。",
+          "translation": "請重新排列以下句子。"
         },
         {
           "type": "reorder",
-          "question": "다음 문장을 재조합하세요.",
+          "question": "다음 문장을 재배열하세요.",
           "words": [
-            "여러분의",
-            "기부",
-            "소중한",
-            "될",
-            "도움이",
-            "큰"
+            "환경",
+            "보호는",
+            "중요하다"
           ],
-          "correctAnswer": "여러분의 소중한 기부가 큰 도움이 될 것이다.",
-          "explanation": "문장을 올바르게 조합해야 합니다.",
-          "translation": "請重組下面的句子。"
+          "correctAnswer": "환경 보호는 중요하다.",
+          "explanation": "這句話的主語是'환경 보호'，謂語是'중요하다'。",
+          "translation": "請重新排列以下句子。"
         }
       ]
     },
     {
-      "title": "코리아넷뉴스 - [사진으로 보는 한국] 해군 창설 81주년 맞아 전시된 백두산함 모형 - 문화체육관광부 한국문화원",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ3QwRVE0LUh1NWZtM0hyR3VjVnBnUGh5ZXZXeWpzempRS1FYaTI4Uy1iQmxyOTdnLWtxLUhRdVZHWGZ0LXlZUmF1YVo4Z1ljTDBsY3F1UGZkeVh3bW9WVjc5VldUb21wYUdUVUxqcl9IaUNWU1dWVEtfWFA1RzhNc3ZoS2tRdE9xZEo5Z0hiRHJlUUx3RmJZS0NleTZ4T3FKVGR3aXQycmZQNVdjSlJRMy1tc1FZd1MxMGQ0SkhRc0NlMHdBODQyTEZSMm5PRk8yMjExVThqVWxqeC1CVGJBRHJRdVVzaWUyT0gzeGlEWU03Tm1NWVE?oc=5",
-      "published": "Wed, 11 Nov 2026 09:00:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ3QwRVE0LUh1NWZtM0hyR3VjVnBnUGh5ZXZXeWpzempRS1FYaTI4Uy1iQmxyOTdnLWtxLUhRdVZHWGZ0LXlZUmF1YVo4Z1ljTDBsY3F1UGZkeVh3bW9WVjc5VldUb21wYUdUVUxqcl9IaUNWU1dWVEtfWFA1RzhNc3ZoS2tRdE9xZEo5Z0hiRHJlUUx3RmJZS0NleTZ4T3FKVGR3aXQycmZQNVdjSlJRMy1tc1FZd1MxMGQ0SkhRc0NlMHdBODQyTEZSMm5PRk8yMjExVThqVWxqeC1CVGJBRHJRdVVzaWUyT0gzeGlEWU03Tm1NWVE?oc=5\" target=\"_blank\">코리아넷뉴스 - [사진으로 보는 한국] 해군 창설 81주년 맞아 전시된 백두산함 모형</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화체육관광부 한국문화원</font>",
-      "source": "문화체육관광부 한국문화원",
+      "title": "“뭐, 한국이?” 美의회 움직였다…쿠팡 로비스트가 흘린 한마디 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5URmdqTmZiaEJIa0JsdmtfOHhNc2tsOFZ0WVRyTWJDcmpDSC0wNk9JSWtOU0ZwS3VGWVhHNGFPTjExNXNfaDc2TkticVBCaENMQk81SWhR?oc=5",
+      "published": "Thu, 12 Nov 2026 20:01:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5URmdqTmZiaEJIa0JsdmtfOHhNc2tsOFZ0WVRyTWJDcmpDSC0wNk9JSWtOU0ZwS3VGWVhHNGFPTjExNXNfaDc2TkticVBCaENMQk81SWhR?oc=5\" target=\"_blank\">“뭐, 한국이?” 美의회 움직였다…쿠팡 로비스트가 흘린 한마디</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+      "source": "중앙일보",
       "fullContent": {
-        "beginner": "한국 해군이 창설된 지 81년이 되었습니다. 백두산함 모형이 전시되었습니다. 이 전시회는 문화체육관광부에서 열렸습니다.",
-        "intermediate": "한국 해군 창설 81주년 기념으로 백두산함 모형이 전시되었습니다. 이 전시는 문화체육관광부 한국문화원에서 열리고 있습니다. 많은 사람들이 이 특별한 전시를 보기 위해 방문하고 있습니다. 백두산함은 한국 해군의 상징적인 함정입니다.",
-        "advanced": "한국 해군 창설 81주년을 맞이하여, 특별한 전시회가 문화체육관광부 한국문화원에서 열리고 있습니다. 이번 전시회에서는 백두산함 모형이 공개되었으며, 해군의 역사와 발전을 조명하고 있습니다. 백두산함은 한국 해군의 상징적인 함정으로, 많은 관람객들이 이 전시를 통해 해군의 위상을 느낄 수 있습니다. 전시회는 해군의 중요성과 기여를 알리는 좋은 기회입니다.",
-        "original": "코리아넷뉴스 - [사진으로 보는 한국] 해군 창설 81주년 맞아 전시된 백두산함 모형",
-        "titleTranslation": "韓國海軍成立81周年 展示的白頭山號模型",
+        "beginner": "쿠팡은 한국의 큰 회사입니다. 미국 의회에서 쿠팡에 대해 이야기했습니다. 로비스트가 한마디를 했습니다.",
+        "intermediate": "최근에 미국 의회가 한국의 쿠팡에 대한 논의를 시작했습니다. 쿠팡의 로비스트는 \"뭐, 한국이?\"라는 말을 했습니다. 이 발언은 한국 기업에 대한 관심을 높였습니다.",
+        "advanced": "미국 의회가 최근 한국의 쿠팡에 대한 논의에 착수하였습니다. 쿠팡의 로비스트는 의회에서 \"뭐, 한국이?\"라는 발언을 하였고, 이는 한국 기업에 대한 미국의 관심을 불러일으켰습니다. 이 사건은 한국 경제와 국제 무역에 큰 영향을 미칠 것으로 예상됩니다. 쿠팡은 이제 미국 시장에서 더 많은 주목을 받고 있습니다.",
+        "original": "뭐, 한국이? 美의회 움직였다…쿠팡 로비스트가 흘린 한마디",
+        "titleTranslation": "什麼，韓國？美國國會開始行動… 쿠팡的遊說者流露的一句話",
         "translations": {
           "beginner": [
-            "韓國海軍成立81年了。",
-            "展示了白頭山號模型。",
-            "這個展覽是由文化體育觀光部舉辦的。"
+            "쿠팡은 한국의 큰 회사입니다.",
+            "美國 의회에서 쿠팡에 대해 이야기했습니다.",
+            "로비스트가 한마디를 했습니다."
           ],
           "intermediate": [
-            "為了紀念韓國海軍成立81周年，展示了白頭山號模型。",
-            "這個展覽在文化體育觀光部韓國文化院舉行。",
-            "許多人為了看這個特別的展覽而參觀。",
-            "白頭山號是韓國海軍的象徵性艦艇。"
+            "최근에 미국 의회가 한국의 쿠팡에 대한 논의를 시작했습니다.",
+            "쿠팡의 로비스트는 \"뭐, 한국이?\"라는 말을 했습니다.",
+            "이 발언은 한국 기업에 대한 관심을 높였습니다."
           ],
           "advanced": [
-            "為了迎接韓國海軍成立81周年，特別的展覽會在文化體育觀光部韓國文化院舉行。",
-            "這次展覽公開了白頭山號模型，並聚焦於海軍的歷史和發展。",
-            "白頭山號是韓國海軍的象徵性艦艇，許多觀眾通過這個展覽感受到海軍的地位。",
-            "這個展覽會是宣傳海軍重要性和貢獻的好機會。"
+            "미국 의회가 최근 한국의 쿠팡에 대한 논의에 착수하였습니다.",
+            "쿠팡의 로비스트는 의회에서 \"뭐, 한국이?\"라는 발언을 하였고, 이는 한국 기업에 대한 미국의 관심을 불러일으켰습니다.",
+            "이 사건은 한국 경제와 국제 무역에 큰 영향을 미칠 것으로 예상됩니다.",
+            "쿠팡은 이제 미국 시장에서 더 많은 주목을 받고 있습니다."
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "해군",
-          "reading": "haegun",
-          "meaning": "海軍",
-          "example": "한국 해군은 강력합니다.",
-          "exampleTranslation": "韓國海軍是強大的。",
-          "level": "3"
+          "word": "쿠팡",
+          "reading": "Coupang",
+          "meaning": "韓國的一家電商公司",
+          "example": "쿠팡은 한국에서 가장 큰 온라인 쇼핑몰입니다.",
+          "exampleTranslation": "Coupang 是韓國最大的在線購物商城。",
+          "level": "1"
         },
         {
-          "word": "창설",
-          "reading": "changseol",
-          "meaning": "成立",
-          "example": "해군 창설 기념일입니다.",
-          "exampleTranslation": "海軍成立紀念日。",
+          "word": "의회",
+          "reading": "uihoe",
+          "meaning": "國會",
+          "example": "미국 의회가 회의를 열었습니다.",
+          "exampleTranslation": "美國國會召開了會議。",
           "level": "4"
         },
         {
-          "word": "모형",
-          "reading": "mohyeong",
-          "meaning": "模型",
-          "example": "백두산함 모형이 전시되었습니다.",
-          "exampleTranslation": "展示了白頭山號模型。",
-          "level": "3"
-        },
-        {
-          "word": "전시",
-          "reading": "jeonsi",
-          "meaning": "展覽",
-          "example": "이 전시는 매우 흥미롭습니다.",
-          "exampleTranslation": "這個展覽非常有趣。",
-          "level": "3"
-        },
-        {
-          "word": "문화체육관광부",
-          "reading": "munhwachaeukgwangwangbu",
-          "meaning": "文化體育觀光部",
-          "example": "문화체육관광부에서 주관합니다.",
-          "exampleTranslation": "由文化體育觀光部主辦。",
+          "word": "로비스트",
+          "reading": "lobiseuteu",
+          "meaning": "遊說者",
+          "example": "로비스트는 의견을 전달합니다.",
+          "exampleTranslation": "遊說者傳達意見。",
           "level": "6"
         },
         {
-          "word": "관람객",
-          "reading": "gwanramgaek",
-          "meaning": "觀眾",
-          "example": "많은 관람객들이 오고 있습니다.",
-          "exampleTranslation": "許多觀眾正在來。",
-          "level": "4"
-        },
-        {
-          "word": "상징",
-          "reading": "sangjing",
-          "meaning": "象徵",
-          "example": "백두산함은 해군의 상징입니다.",
-          "exampleTranslation": "白頭山號是海軍的象徵。",
-          "level": "4"
-        },
-        {
-          "word": "기회",
-          "reading": "gihoe",
-          "meaning": "機會",
-          "example": "좋은 기회입니다.",
-          "exampleTranslation": "這是個好機會。",
+          "word": "관심",
+          "reading": "gwansim",
+          "meaning": "興趣",
+          "example": "한국 기업에 대한 관심이 높아지고 있습니다.",
+          "exampleTranslation": "對韓國企業的興趣正在增加。",
           "level": "3"
         },
         {
-          "word": "역사",
-          "reading": "yeoksa",
-          "meaning": "歷史",
-          "example": "해군의 역사를 알고 싶습니다.",
-          "exampleTranslation": "我想了解海軍的歷史。",
+          "word": "논의",
+          "reading": "non-ui",
+          "meaning": "討論",
+          "example": "이 문제에 대한 논의가 필요합니다.",
+          "exampleTranslation": "這個問題需要討論。",
+          "level": "4"
+        },
+        {
+          "word": "경제",
+          "reading": "gyeongje",
+          "meaning": "經濟",
+          "example": "한국 경제는 빠르게 성장하고 있습니다.",
+          "exampleTranslation": "韓國經濟正在快速增長。",
           "level": "3"
         },
         {
-          "word": "발전",
-          "reading": "baljeon",
-          "meaning": "發展",
-          "example": "해군의 발전을 지켜보세요.",
-          "exampleTranslation": "請關注海軍的發展。",
+          "word": "영향",
+          "reading": "yeonghyang",
+          "meaning": "影響",
+          "example": "이 사건은 많은 영향을 미칠 것입니다.",
+          "exampleTranslation": "這事件將會有很大的影響。",
+          "level": "4"
+        },
+        {
+          "word": "주목",
+          "reading": "jumok",
+          "meaning": "注目",
+          "example": "이 사건에 많은 주목이 쏠리고 있습니다.",
+          "exampleTranslation": "這一事件受到很多的關注。",
+          "level": "3"
+        },
+        {
+          "word": "시작",
+          "reading": "sijak",
+          "meaning": "開始",
+          "example": "새로운 프로젝트가 시작되었습니다.",
+          "exampleTranslation": "新的項目已經開始。",
+          "level": "1"
+        },
+        {
+          "word": "발언",
+          "reading": "bareon",
+          "meaning": "發言",
+          "example": "그의 발언은 매우 중요합니다.",
+          "exampleTranslation": "他的發言非常重要。",
           "level": "4"
         }
       ],
       "grammar": [
         {
-          "pattern": "V + 기 위해서",
-          "explanation": "表示目的或意圖。",
-          "example": "많은 사람들이 이 전시를 보기 위해서 왔습니다.",
-          "exampleTranslation": "許多人為了看這個展覽而來。",
-          "level": "3"
-        },
-        {
-          "pattern": "N + 이다",
-          "explanation": "用來表達主語的狀態或性質。",
-          "example": "백두산함은 해군의 상징이다.",
-          "exampleTranslation": "白頭山號是海軍的象徵。",
-          "level": "1"
-        },
-        {
-          "pattern": "V + 아/어야 하다",
-          "explanation": "表示必要性或義務。",
-          "example": "해군의 발전을 알아야 한다.",
-          "exampleTranslation": "必須了解海軍的發展。",
+          "pattern": "~(으)로 인해",
+          "explanation": "表示由於某種原因導致的情況。",
+          "example": "이 사건으로 인해 많은 사람이 영향을 받았습니다.",
+          "exampleTranslation": "由於這一事件，許多人受到了影響。",
           "level": "4"
         },
         {
-          "pattern": "N + 때문에",
-          "explanation": "表示原因或理由。",
-          "example": "해군 창설일 때문에 행사가 열립니다.",
-          "exampleTranslation": "因為是海軍成立日，所以舉行活動。",
+          "pattern": "는/은 것 같다",
+          "explanation": "表示推測或猜測。",
+          "example": "그는 한국에 간 것 같다.",
+          "exampleTranslation": "他似乎去了韓國。",
           "level": "3"
         },
         {
-          "pattern": "V + 고 있다",
-          "explanation": "表示正在進行的動作。",
-          "example": "전시회가 열리고 있습니다.",
-          "exampleTranslation": "展覽會正在進行。",
-          "level": "2"
+          "pattern": "기 위해서",
+          "explanation": "表示為了達成某個目的。",
+          "example": "성공하기 위해서 열심히 노력해야 합니다.",
+          "exampleTranslation": "為了成功，我們必須努力。",
+          "level": "3"
+        },
+        {
+          "pattern": "~에 대해",
+          "explanation": "表示對某事物的討論或關注。",
+          "example": "한국 경제에 대해 이야기합시다.",
+          "exampleTranslation": "我們來談談韓國經濟。",
+          "level": "3"
+        },
+        {
+          "pattern": "ㄴ/는다고 하다",
+          "explanation": "用於報導他人的話或說法。",
+          "example": "그는 내일 올 것이라고 했습니다.",
+          "exampleTranslation": "他說他明天會來。",
+          "level": "4"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "한국 해군 창설 몇 주년인가요?",
+          "question": "쿠팡은 어떤 회사인가요?",
           "options": [
-            "70주년",
-            "80주년",
-            "81주년",
-            "90주년"
+            "작은 가게",
+            "온라인 쇼핑몰",
+            "식당",
+            "은행"
           ],
-          "correctAnswer": 2,
+          "correctAnswer": 1,
           "optionsTranslation": [
-            "70周年",
-            "80周年",
-            "81周年",
-            "90周年"
+            "小商店",
+            "在線購物商城",
+            "餐廳",
+            "銀行"
           ],
-          "explanation": "標題中提到韓國海軍是成立81周年。",
-          "translation": "韓國海軍成立幾周年？"
+          "explanation": "쿠팡은 한국에서 가장 큰 온라인 쇼핑몰입니다.",
+          "translation": "Coupang 是什麼公司？"
         },
         {
           "type": "choice",
-          "question": "백두산함은 어떤 역할을 하나요?",
+          "question": "미국 의회는 누구를 논의했나요?",
           "options": [
-            "상징적인 함정",
-            "상업선",
-            "어선",
-            "여객선"
+            "쿠팡",
+            "삼성",
+            "LG",
+            "현대"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "象徵性的艦艇",
-            "商船",
-            "漁船",
-            "客船"
+            "Coupang",
+            "三星",
+            "LG",
+            "現代"
           ],
-          "explanation": "白頭山號被提及為海軍的象徵性艦艇。",
-          "translation": "白頭山號是什麼角色？"
+          "explanation": "미국 의회는 쿠팡에 대해 논의했습니다.",
+          "translation": "美國國會在討論誰？"
         },
         {
           "type": "choice",
-          "question": "전시회는 어디에서 열리나요?",
+          "question": "로비스트는 무엇을 합니까?",
           "options": [
-            "한국문화원",
-            "미술관",
-            "박물관",
-            "학교"
+            "잠자다",
+            "의견을 전달하다",
+            "일하다",
+            "여행하다"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "optionsTranslation": [
-            "韓國文化院",
-            "美術館",
-            "博物館",
-            "學校"
+            "睡覺",
+            "傳達意見",
+            "工作",
+            "旅行"
           ],
-          "explanation": "展覽會在文化體育觀光部韓國文化院舉行。",
-          "translation": "展覽會在哪裡舉行？"
+          "explanation": "로비스트는 의견을 전달합니다.",
+          "translation": "遊說者做什麼？"
         },
         {
           "type": "reorder",
-          "question": "다음 단어들을 재배열하세요.",
+          "question": "다음 문장을 재배열하세요.",
           "words": [
-            "전시",
-            "열리",
-            "문화체육관광부에서"
+            "한국이",
+            "뭐,",
+            "쿠팡",
+            "이다"
           ],
-          "correctAnswer": "문화체육관광부에서 전시 열리",
-          "explanation": "這句話是指展覽會在文化體育觀光部舉行。",
+          "correctAnswer": "쿠팡은 한국이 뭐이다.",
+          "explanation": "이 문장은 '쿠팡은 한국이 뭐이다'로 재배열되어야 합니다.",
           "translation": "請重組以下句子。"
         },
         {
           "type": "reorder",
-          "question": "다음 단어들을 재배열하세요.",
+          "question": "다음 문장을 재배열하세요.",
           "words": [
-            "모형",
-            "백두산함",
-            "전시되었습니다"
+            "미국",
+            "의회",
+            "쿠팡에",
+            "대한",
+            "논의"
           ],
-          "correctAnswer": "백두산함 모형이 전시되었습니다",
-          "explanation": "這句話是指白頭山號模型被展示了。",
+          "correctAnswer": "미국 의회는 쿠팡에 대한 논의.",
+          "explanation": "이 문장은 '미국 의회는 쿠팡에 대한 논의'로 재배열되어야 합니다.",
           "translation": "請重組以下句子。"
         }
       ]
@@ -1200,1188 +1200,1188 @@
   ],
   "japanese": [
     {
-      "title": "ソフトバンク入団辞退の１８歳右腕が米球界挑戦へ 育成９位指名も「将来について何度も悩み、考えた結果」最速１４７キロ、日本ウェルネス沖縄の長山武蔵（スポーツ報知） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43MGZ0WHBReldJeWc3YUo5cjlSSHRZVGxfalNRU3BGOEZYY3l0eEJjbnY1OTdFWDlkanlFRVV5UnVxQnNuY2RpcmtsT1ZaZjhwNWNNZXE0UWNmOElBOV9vOHFyclBIX09SU2dOYlNNbVdEeHdOVGVUNVR0clYzSFE?oc=5",
-      "published": "Wed, 11 Nov 2026 09:50:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE43MGZ0WHBReldJeWc3YUo5cjlSSHRZVGxfalNRU3BGOEZYY3l0eEJjbnY1OTdFWDlkanlFRVV5UnVxQnNuY2RpcmtsT1ZaZjhwNWNNZXE0UWNmOElBOV9vOHFyclBIX09SU2dOYlNNbVdEeHdOVGVUNVR0clYzSFE?oc=5\" target=\"_blank\">ソフトバンク入団辞退の１８歳右腕が米球界挑戦へ 育成９位指名も「将来について何度も悩み、考えた結果」最速１４７キロ、日本ウェルネス沖縄の長山武蔵（スポーツ報知）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "title": "「日本国内で真似する人が出てきたらマズイのでは」 ひろゆき氏の実験がネットをざわつかせた法律上の問題 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RNzZtaU5ZOG12ZFl1ZXhabjdpcVZXdG5TV29LRjNLZjVMR0lleGFQSllIMzhjUE1xWWNRQ2N4VHJUbXpuQm82RXVBOHh0OTdmN2w3TFE4WkZNQ2tVVnBQeDdTcWNUUnZoX1FsVmx2MERuMDRfSXB2NjVTY1lBek0?oc=5",
+      "published": "Thu, 12 Nov 2026 09:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1RNzZtaU5ZOG12ZFl1ZXhabjdpcVZXdG5TV29LRjNLZjVMR0lleGFQSllIMzhjUE1xWWNRQ2N4VHJUbXpuQm82RXVBOHh0OTdmN2w3TFE4WkZNQ2tVVnBQeDdTcWNUUnZoX1FsVmx2MERuMDRfSXB2NjVTY1lBek0?oc=5\" target=\"_blank\">「日本国内で真似する人が出てきたらマズイのでは」 ひろゆき氏の実験がネットをざわつかせた法律上の問題</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "source": "Yahoo!ニュース",
       "fullContent": {
-        "beginner": "18歳の投手がいます。彼はソフトバンクに入団しません。彼はアメリカの野球に挑戦します。",
-        "intermediate": "日本ウェルネス沖縄の長山武蔵選手が、ソフトバンクの入団を辞退しました。彼は育成9位指名でしたが、アメリカの野球界に挑戦することを決めました。彼は最速147キロの速球を投げます。",
-        "advanced": "日本ウェルネス沖縄に所属する18歳の右腕、長山武蔵選手が、ソフトバンクからの育成9位指名を辞退し、アメリカのプロ野球に挑戦することを発表しました。彼は将来について何度も悩み、考えた結果、この決断に至ったと語っています。長山選手は最速147キロの速球を投げる才能を持ち、注目されています。今後の活躍に期待が寄せられています。",
-        "original": "ソフトバンク入団辞退の１８歳右腕が米球界挑戦へ 育成９位指名も「将来について何度も悩み、考えた結果」最速１４７キロ、日本ウェルネス沖縄の長山武蔵（スポーツ報知） - Yahoo!ニュース",
-        "titleTranslation": "18歲右投辭退入團挑戰美國球界 9號指名卻因「反覆思考未來」",
+        "beginner": "ひろゆきさんは実験をしました。彼はネットで問題を考えました。日本では真似する人がいるかもしれません。",
+        "intermediate": "ひろゆき氏は最近、インターネット上での実験を行いました。この実験は法律上の問題を引き起こしています。彼は、日本国内でこのような行動を真似する人が出てくる可能性について懸念を示しました。多くの人がこの話題に興味を持っています。",
+        "advanced": "最近、ひろゆき氏の行った実験が日本国内で大きな話題となっています。彼は、自身の行動が法律的にどのような影響を及ぼすかを探るために、インターネット上での実験を実施しました。この実験は、特に日本国内において真似する人が出てくることへの懸念を引き起こしました。法律専門家や一般市民の間で、彼の行動が適法かどうかについての議論が活発に行われています。今後、この問題がどのように展開するか注目されています。",
+        "original": "「日本国内で真似する人が出てきたらマズイのでは」 ひろゆき氏の実験がネットをざわつかせた法律上の問題",
+        "titleTranslation": "「如果在日本國內出現模仿的人會很糟糕吧」 ひろゆき的實驗引發網路的法律問題",
         "translations": {
           "beginner": [
-            "有一位18歲的投手。",
-            "他不加入軟銀。",
-            "他挑戰美國的棒球。"
+            "ひろゆきさんは実験をしました。",
+            "彼はネットで問題を考えました。",
+            "日本では真似する人がいるかもしれません。"
           ],
           "intermediate": [
-            "來自日本健康沖繩的長山武藏選手辭退了軟銀的入團。",
-            "他是育成第9位指名，",
-            "但決定挑戰美國的棒球界。",
-            "他的最快投球速度為147公里。"
+            "ひろゆき氏は最近、インターネット上での実験を行いました。",
+            "この実験は法律上の問題を引き起こしています。",
+            "彼は、日本国内でこのような行動を真似する人が出てくる可能性について懸念を示しました。",
+            "多くの人がこの話題に興味を持っています。"
           ],
           "advanced": [
-            "來自日本健康沖繩的18歲右投長山武藏選手，",
-            "辭退了軟銀的育成9位指名，",
-            "並宣布挑戰美國的職業棒球界。",
-            "他表示，經過多次思考未來，",
-            "最終做出了這個決定。",
-            "長山選手擁有最快147公里的速球，",
-            "備受矚目，",
-            "人們期待他的未來發展。"
+            "最近、ひろゆき氏の行った実験が日本国内で大きな話題となっています。",
+            "彼は、自身の行動が法律的にどのような影響を及ぼすかを探るために、インターネット上での実験を実施しました。",
+            "この実験は、特に日本国内において真似する人が出てくることへの懸念を引き起こしました。",
+            "法律専門家や一般市民の間で、彼の行動が適法かどうかについての議論が活発に行われています。",
+            "今後、この問題がどのように展開するか注目されています。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "投手",
-          "reading": "toshu",
-          "meaning": "投手",
-          "example": "彼は優れた投手です。",
-          "exampleTranslation": "他是一位優秀的投手。"
+          "word": "実験",
+          "reading": "jikken",
+          "meaning": "實驗",
+          "example": "彼は新しい実験を行いました。",
+          "exampleTranslation": "他進行了一個新的實驗。",
+          "level": "N3"
         },
         {
-          "word": "入団",
-          "reading": "nyuudan",
-          "meaning": "入團",
-          "example": "彼はチームに入団しました。",
-          "exampleTranslation": "他加入了隊伍。"
-        },
-        {
-          "word": "挑戦",
-          "reading": "chousen",
-          "meaning": "挑戰",
-          "example": "新しいことに挑戦します。",
-          "exampleTranslation": "我將挑戰新的事物。",
-          "level": "N1"
-        },
-        {
-          "word": "育成",
-          "reading": "ikusei",
-          "meaning": "育成",
-          "example": "育成選手として活躍します。",
-          "exampleTranslation": "他作為育成選手活躍。",
-          "level": "N1"
-        },
-        {
-          "word": "指名",
-          "reading": "shimei",
-          "meaning": "指名",
-          "example": "彼は1位に指名されました。",
-          "exampleTranslation": "他被指定為第一位。"
-        },
-        {
-          "word": "将来",
-          "reading": "shourai",
-          "meaning": "未來",
-          "example": "将来の夢があります。",
-          "exampleTranslation": "我有未來的夢想。",
+          "word": "法律",
+          "reading": "houritsu",
+          "meaning": "法律",
+          "example": "法律は社会のルールです。",
+          "exampleTranslation": "法律是社會的規則。",
           "level": "N4"
         },
         {
-          "word": "悩む",
-          "reading": "nayamu",
-          "meaning": "苦惱",
-          "example": "将来について悩んでいます。",
-          "exampleTranslation": "我在苦惱未來的事。",
+          "word": "問題",
+          "reading": "mondai",
+          "meaning": "問題",
+          "example": "この問題は難しいです。",
+          "exampleTranslation": "這個問題很難。",
+          "level": "N5"
+        },
+        {
+          "word": "懸念",
+          "reading": "kenen",
+          "meaning": "擔憂",
+          "example": "彼はそのことを懸念しています。",
+          "exampleTranslation": "他對那件事感到擔憂。"
+        },
+        {
+          "word": "行動",
+          "reading": "koudou",
+          "meaning": "行為",
+          "example": "彼の行動は賛否が分かれました。",
+          "exampleTranslation": "他的行為引起了不同的意見。",
           "level": "N3"
         },
         {
-          "word": "結果",
-          "reading": "kekka",
-          "meaning": "結果",
-          "example": "彼は良い結果を出しました。",
-          "exampleTranslation": "他取得了好結果。",
-          "level": "N3"
-        },
-        {
-          "word": "速球",
-          "reading": "sokkyuu",
-          "meaning": "速球",
-          "example": "彼は速球が得意です。",
-          "exampleTranslation": "他擅長速球。"
+          "word": "模倣",
+          "reading": "mohou",
+          "meaning": "模仿",
+          "example": "模倣することは簡単ではありません。",
+          "exampleTranslation": "模仿並不簡單。",
+          "level": "N1"
         },
         {
           "word": "注目",
           "reading": "chuumoku",
-          "meaning": "注目",
-          "example": "彼は注目の選手です。",
-          "exampleTranslation": "他是備受注目的選手。",
+          "meaning": "關注",
+          "example": "この問題には注目が集まっています。",
+          "exampleTranslation": "這個問題受到關注。",
           "level": "N3"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "〜ことを決める",
-          "explanation": "表示做出決定的行為。",
-          "example": "彼はアメリカに行くことを決めました。",
-          "exampleTranslation": "他決定去美國。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜について考える",
-          "explanation": "表示考慮某事。",
-          "example": "将来について考えています。",
-          "exampleTranslation": "我在考慮未來。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜がある",
-          "explanation": "表示存在或擁有某事物。",
-          "example": "夢があります。",
-          "exampleTranslation": "我有夢想。",
-          "level": "N5"
-        },
-        {
-          "pattern": "〜を持つ",
-          "explanation": "表示擁有某種特徵或能力。",
-          "example": "才能を持っています。",
-          "exampleTranslation": "我擁有才能。",
-          "level": "N3"
-        },
-        {
-          "pattern": "〜に挑戦する",
-          "explanation": "表示挑戰某事。",
-          "example": "新しい分野に挑戦します。",
-          "exampleTranslation": "我將挑戰新的領域。",
-          "level": "N2"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "長山選手はどこに挑戦しますか？",
-          "options": [
-            "日本",
-            "アメリカ",
-            "韓国",
-            "中国"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "日本",
-            "美國",
-            "韓國",
-            "中國"
-          ],
-          "explanation": "長山選手はアメリカの野球界に挑戦すると決めました。",
-          "translation": "長山選手將挑戰哪裡？"
-        },
-        {
-          "type": "choice",
-          "question": "彼は何歳ですか？",
-          "options": [
-            "16歳",
-            "17歳",
-            "18歳",
-            "19歳"
-          ],
-          "correctAnswer": 2,
-          "optionsTranslation": [
-            "16歲",
-            "17歲",
-            "18歲",
-            "19歲"
-          ],
-          "explanation": "記事によると、彼は18歳です。",
-          "translation": "他幾歲？"
-        },
-        {
-          "type": "choice",
-          "question": "彼はどのチームの入団を辞退しましたか？",
-          "options": [
-            "ソフトバンク",
-            "巨人",
-            "阪神",
-            "西武"
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "軟銀",
-            "巨人",
-            "阪神",
-            "西武"
-          ],
-          "explanation": "長山選手はソフトバンクの入団を辞退しました。",
-          "translation": "他辭退了哪個隊的入團？"
-        },
-        {
-          "type": "reorder",
-          "question": "次の文を整理してください。",
-          "words": [
-            "挑戦",
-            "彼は",
-            "アメリカに"
-          ],
-          "correctAnswer": "彼はアメリカに挑戦します。",
-          "explanation": "正しい文は「彼はアメリカに挑戦します。」です。",
-          "translation": "請將這句話整理好。"
-        },
-        {
-          "type": "reorder",
-          "question": "次の文を整理してください。",
-          "words": [
-            "ソフトバンク",
-            "入団",
-            "辞退",
-            "彼は"
-          ],
-          "correctAnswer": "彼はソフトバンクの入団を辞退しました。",
-          "explanation": "正しい文は「彼はソフトバンクの入団を辞退しました。」です。",
-          "translation": "請將這句話整理好。"
-        }
-      ]
-    },
-    {
-      "title": "日本近海で水温上昇 雑種フグ・アニサキス…食の安全に影響も - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwREtRUUtzSEdmTUxHRUs4NHlHNW9fYWFPSFNWdjlsRzIzUVpsQVhIeS1KdmhaSC1BTFhtRE9pTFpQLUtfMWhvVzFjV2lEMHRfdnJIQUstVUFDX2dwMjEw?oc=5",
-      "published": "Wed, 11 Nov 2026 11:25:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwREtRUUtzSEdmTUxHRUs4NHlHNW9fYWFPSFNWdjlsRzIzUVpsQVhIeS1KdmhaSC1BTFhtRE9pTFpQLUtfMWhvVzFjV2lEMHRfdnJIQUstVUFDX2dwMjEw?oc=5\" target=\"_blank\">日本近海で水温上昇 雑種フグ・アニサキス…食の安全に影響も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-      "source": "NHKニュース",
-      "fullContent": {
-        "beginner": "日本の海で水温が上がっています。これにより、雑種フグやアニサキスが増えています。食べ物の安全が心配です。",
-        "intermediate": "最近、日本の近海で水温が上昇しています。この影響で、雑種フグやアニサキスの数が増加しています。これらの生物は食の安全に影響を与える可能性があります。特に魚介類を食べる際には注意が必要です。",
-        "advanced": "日本近海での水温上昇が観測されており、それに伴って雑種フグやアニサキスの出現が増加しています。これらの生物は、食材として利用される魚介類に混入することがあり、消費者の食の安全に深刻な影響を及ぼす可能性があります。特に、アニサキスは生魚に寄生することが多く、感染症を引き起こす恐れがあります。今後、専門家の注意と対策が求められています。",
-        "original": "日本近海で水温上昇 雑種フグ・アニサキス…食の安全に影響も",
-        "titleTranslation": "日本近海水溫上升 雜種河豚與阿尼薩基斯對食物安全的影響",
-        "translations": {
-          "beginner": [
-            "日本的海水溫度正在上升。",
-            "這導致了雜種河豚和阿尼薩基斯的增加。",
-            "食品安全令人擔憂。"
-          ],
-          "intermediate": [
-            "最近，日本的近海水溫上升。",
-            "這影響了雜種河豚和阿尼薩基斯的數量增加。",
-            "這些生物可能影響食品安全。",
-            "特別是在吃海鮮時，需要注意。",
-            "專家建議提高警覺。"
-          ],
-          "advanced": [
-            "日本近海的水溫上升已經被觀測到，",
-            "隨之而來的是雜種河豚和阿尼薩基斯的出現增加。",
-            "這些生物可能混入魚類等海鮮之中，",
-            "對消費者的食物安全造成嚴重影響。",
-            "特別是阿尼薩基斯經常寄生在生魚上，",
-            "可能引起感染疾病的風險。",
-            "未來迫切需要專家的注意和應對措施。"
-          ]
-        }
-      },
-      "vocabulary": [
-        {
-          "word": "水温",
-          "reading": "sui on",
-          "meaning": "水溫",
-          "example": "水温が上がっています。",
-          "exampleTranslation": "水溫正在上升。"
-        },
-        {
-          "word": "雑種フグ",
-          "reading": "zasshu fugu",
-          "meaning": "雜種河豚",
-          "example": "雑種フグが増えています。",
-          "exampleTranslation": "雜種河豚正在增加。"
-        },
-        {
-          "word": "アニサキス",
-          "reading": "anisakisu",
-          "meaning": "阿尼薩基斯",
-          "example": "アニサキスは危険です。",
-          "exampleTranslation": "阿尼薩基斯是危險的。"
-        },
-        {
-          "word": "食の安全",
-          "reading": "shoku no anzen",
-          "meaning": "食品安全",
-          "example": "食の安全が心配です。",
-          "exampleTranslation": "食品安全令人擔憂。"
         },
         {
           "word": "影響",
           "reading": "eikyou",
           "meaning": "影響",
-          "example": "これは食に影響を与えます。",
-          "exampleTranslation": "這會影響食物。",
+          "example": "その決定は大きな影響を与えます。",
+          "exampleTranslation": "那個決定會帶來很大的影響。",
           "level": "N3"
         },
         {
-          "word": "特に",
-          "reading": "toku ni",
-          "meaning": "特別是",
-          "example": "特に注意が必要です。",
-          "exampleTranslation": "特別需要注意。"
+          "word": "市民",
+          "reading": "shimin",
+          "meaning": "市民",
+          "example": "市民は投票で意見を表明します。",
+          "exampleTranslation": "市民透過投票表達意見。",
+          "level": "N4"
         },
         {
-          "word": "増加",
-          "reading": "zouka",
-          "meaning": "增加",
-          "example": "数が増加しています。",
-          "exampleTranslation": "數量正在增加。",
-          "level": "N3"
-        },
-        {
-          "word": "消費者",
-          "reading": "shouhisha",
-          "meaning": "消費者",
-          "example": "消費者の安全が大事です。",
-          "exampleTranslation": "消費者的安全很重要。"
-        },
-        {
-          "word": "感染",
-          "reading": "kansen",
-          "meaning": "感染",
-          "example": "感染のリスクがあります。",
-          "exampleTranslation": "有感染的風險。"
-        },
-        {
-          "word": "対策",
-          "reading": "taisaku",
-          "meaning": "對策",
-          "example": "対策が必要です。",
-          "exampleTranslation": "需要對策。",
-          "level": "N2"
+          "word": "行われる",
+          "reading": "okonawareru",
+          "meaning": "進行",
+          "example": "実験は来週行われます。",
+          "exampleTranslation": "實驗將在下週進行。"
         }
       ],
       "grammar": [
         {
-          "pattern": "〜が",
-          "explanation": "表示主語或主題。",
-          "example": "水温が上がっています。",
-          "exampleTranslation": "水溫正在上升。",
-          "level": "N5"
-        },
-        {
-          "pattern": "〜ています",
-          "explanation": "表示持續的狀態或動作。",
-          "example": "雑種フグが増えています。",
-          "exampleTranslation": "雜種河豚正在增加。",
-          "level": "N5"
-        },
-        {
-          "pattern": "〜ことがある",
-          "explanation": "表示有時發生某事。",
-          "example": "アニサキスが寄生することがあります。",
-          "exampleTranslation": "有時會寄生阿尼薩基斯。",
-          "level": "N3"
-        },
-        {
-          "pattern": "〜に影響を与える",
-          "explanation": "表示對某事物造成影響。",
-          "example": "食の安全に影響を与えます。",
-          "exampleTranslation": "對食品安全造成影響。",
+          "pattern": "〜かもしれない",
+          "explanation": "表示可能性，意為「可能...」",
+          "example": "彼は来るかもしれない。",
+          "exampleTranslation": "他可能會來。",
           "level": "N2"
         },
         {
-          "pattern": "〜必要があります",
-          "explanation": "表示有必要做某事。",
-          "example": "注意が必要です。",
-          "exampleTranslation": "需要注意。",
+          "pattern": "〜ている",
+          "explanation": "表示持續的狀態，意為「正在...」",
+          "example": "彼は勉強している。",
+          "exampleTranslation": "他正在學習。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜について",
+          "explanation": "表示關於某事，意為「關於...」",
+          "example": "この問題について考えます。",
+          "exampleTranslation": "我會考慮這個問題。",
+          "level": "N3"
+        },
+        {
+          "pattern": "〜を示す",
+          "explanation": "表示表達或顯示的意思，意為「表明...」",
+          "example": "彼は意見を示しました。",
+          "exampleTranslation": "他表明了意見。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜がある",
+          "explanation": "表示存在或有某物，意為「有...」",
+          "example": "問題がある。",
+          "exampleTranslation": "有問題。",
+          "level": "N5"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "ひろゆき氏は何を行いましたか？",
+          "options": [
+            "実験",
+            "旅行",
+            "講演",
+            "会議"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "實驗",
+            "旅行",
+            "講演",
+            "會議"
+          ],
+          "explanation": "ひろゆき氏はネット上での実験を行いました。",
+          "translation": "ひろゆき氏做了什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "この実験は何の問題を引き起こしましたか？",
+          "options": [
+            "法律",
+            "経済",
+            "健康",
+            "文化"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "法律",
+            "經濟",
+            "健康",
+            "文化"
+          ],
+          "explanation": "この実験は法律上の問題を引き起こしています。",
+          "translation": "這個實驗引發了什麼問題？"
+        },
+        {
+          "type": "choice",
+          "question": "彼はどのような懸念を示しましたか？",
+          "options": [
+            "真似する人が出てくること",
+            "新しい法律",
+            "実験の結果",
+            "市民の意見"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "模仿的人會出現",
+            "新的法律",
+            "實驗的結果",
+            "市民的意見"
+          ],
+          "explanation": "彼は真似する人が出てくることへの懸念を示しました。",
+          "translation": "他表達了什麼擔憂？"
+        },
+        {
+          "type": "reorder",
+          "question": "次の文を正しい順番に並べ替えてください。",
+          "words": [
+            "問題",
+            "この",
+            "懸念",
+            "があります"
+          ],
+          "correctAnswer": "この問題があります懸念。",
+          "explanation": "正しい順番に並べ替えることが必要です。",
+          "translation": "請把這句話按照正確的順序重新排列。"
+        },
+        {
+          "type": "reorder",
+          "question": "次の文を正しい順番に並べ替えてください。",
+          "words": [
+            "法律",
+            "引き起こす",
+            "この実験",
+            "問題",
+            "を"
+          ],
+          "correctAnswer": "この実験は法律問題を引き起こす。",
+          "explanation": "正しい文法構造を理解することが大切です。",
+          "translation": "請把這句話按照正確的順序重新排列。"
+        }
+      ]
+    },
+    {
+      "title": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1N2E2d3lpZWdlMTlDQ0VPdURZMVVFUkgtVmdhaWZBWEt1V3ZYMXFMbF9ETXNxREdtRVdyMjIyUm9ic3R1NlloVmpoRldPbUZIbC1rbFlGcUEzWlFtWmRjM2U1OHNtSC1qYVNqUw?oc=5",
+      "published": "Thu, 12 Nov 2026 19:55:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB1N2E2d3lpZWdlMTlDQ0VPdURZMVVFUkgtVmdhaWZBWEt1V3ZYMXFMbF9ETXNxREdtRVdyMjIyUm9ic3R1NlloVmpoRldPbUZIbC1rbFlGcUEzWlFtWmRjM2U1OHNtSC1qYVNqUw?oc=5\" target=\"_blank\">マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "source": "日本経済新聞",
+      "fullContent": {
+        "beginner": "マイクロソフトは大きな問題があります。メールが送れません。ビジネスに影響があります。",
+        "intermediate": "マイクロソフトは、「365」というサービスで大規模な障害が発生しました。多くのユーザーがメールを送れなくなりました。この問題は、さまざまなビジネスに影響を与えています。早く解決されることを願っています。",
+        "advanced": "マイクロソフトは、同社のクラウドサービス「Microsoft 365」において、世界規模での大規模障害が発生したことを発表しました。この障害により、多くのユーザーが重要なメールを送信できず、ビジネスの運営に深刻な影響を及ぼしています。現在、マイクロソフトは問題の解決に向けて全力を尽くしており、ユーザーへの影響を最小限に抑えるための対策を講じています。多くの企業がこの問題に直面しており、復旧作業が急がれています。",
+        "original": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響",
+        "titleTranslation": "微軟「365」全球大規模故障 無法發送郵件影響商業",
+        "translations": {
+          "beginner": [
+            "微軟有一個大問題。",
+            "郵件無法發送。",
+            "對商業有影響。"
+          ],
+          "intermediate": [
+            "微軟在「365」服務中發生了大規模故障。",
+            "許多用戶無法發送郵件。",
+            "這個問題影響了各種商業。",
+            "我們希望能夠儘快解決。"
+          ],
+          "advanced": [
+            "微軟宣布其雲端服務「Microsoft 365」在全球範圍內發生了大規模故障。",
+            "這次故障導致許多用戶無法發送重要的電子郵件，",
+            "對商業運營造成了嚴重影響。",
+            "目前，微軟正全力以赴解決問題，",
+            "並採取措施以將用戶影響降到最低。",
+            "許多企業正面臨這一問題，",
+            "復甦工作迫在眉睫。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "マイクロソフト",
+          "reading": "maikurosofuto",
+          "meaning": "微軟",
+          "example": "マイクロソフトは大きな会社です。",
+          "exampleTranslation": "微軟是一家大公司。"
+        },
+        {
+          "word": "障害",
+          "reading": "shougai",
+          "meaning": "故障",
+          "example": "システムに障害があります。",
+          "exampleTranslation": "系統發生了故障。",
+          "level": "N3"
+        },
+        {
+          "word": "メール",
+          "reading": "meeru",
+          "meaning": "郵件",
+          "example": "メールが届きません。",
+          "exampleTranslation": "郵件沒有送到。"
+        },
+        {
+          "word": "送れない",
+          "reading": "okurenai",
+          "meaning": "無法發送",
+          "example": "今、メールが送れない。",
+          "exampleTranslation": "現在無法發送郵件。"
+        },
+        {
+          "word": "ビジネス",
+          "reading": "bijinesu",
+          "meaning": "商業",
+          "example": "ビジネスに影響があります。",
+          "exampleTranslation": "對商業有影響。",
+          "level": "N1"
+        },
+        {
+          "word": "影響",
+          "reading": "eikyou",
+          "meaning": "影響",
+          "example": "この問題は大きな影響を与えています。",
+          "exampleTranslation": "這個問題造成了很大的影響。",
+          "level": "N3"
+        },
+        {
+          "word": "発生",
+          "reading": "hassei",
+          "meaning": "發生",
+          "example": "障害が発生しました。",
+          "exampleTranslation": "故障已經發生。",
+          "level": "N1"
+        },
+        {
+          "word": "ユーザー",
+          "reading": "yuzaa",
+          "meaning": "用戶",
+          "example": "多くのユーザーが困っています。",
+          "exampleTranslation": "許多用戶遇到了困難。"
+        },
+        {
+          "word": "解決",
+          "reading": "kaiketsu",
+          "meaning": "解決",
+          "example": "問題を解決しなければなりません。",
+          "exampleTranslation": "必須解決問題。",
+          "level": "N3"
+        },
+        {
+          "word": "企業",
+          "reading": "kigyou",
+          "meaning": "企業",
+          "example": "多くの企業が参加します。",
+          "exampleTranslation": "許多企業參加。",
+          "level": "N3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜がある",
+          "explanation": "表示存在某物或某事。",
+          "example": "問題があります。",
+          "exampleTranslation": "有問題。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜できない",
+          "explanation": "表示無法進行某行動。",
+          "example": "メールが送れない。",
+          "exampleTranslation": "無法發送郵件。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜に影響を与える",
+          "explanation": "表示對某事造成影響。",
+          "example": "この問題はビジネスに影響を与えています。",
+          "exampleTranslation": "這個問題對商業造成了影響。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜に向けて",
+          "explanation": "表示朝著某個方向或目標進行。",
+          "example": "問題の解決に向けて努力しています。",
+          "exampleTranslation": "正朝著解決問題而努力。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜が発生する",
+          "explanation": "表示某事發生。",
+          "example": "障害が発生しました。",
+          "exampleTranslation": "故障發生了。",
           "level": "N2"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "日本の海で何が上がっていますか？",
+          "question": "マイクロソフトは何のサービスで障害が発生しましたか？",
           "options": [
-            "水温",
-            "魚の数",
-            "消費者",
-            "感染"
+            "A. Windows",
+            "B. Office",
+            "C. 365",
+            "D. Azure"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 2,
           "optionsTranslation": [
-            "水溫",
-            "魚的數量",
-            "消費者",
-            "感染"
+            "A. Windows",
+            "B. Office",
+            "C. 365",
+            "D. Azure"
           ],
-          "explanation": "根據新聞，水溫正在上升。",
-          "translation": "日本的海水溫度正在上升嗎？"
+          "explanation": "マイクロソフトの「365」サービスで障害が発生しました。",
+          "translation": "微軟在哪個服務中發生了故障？"
         },
         {
           "type": "choice",
-          "question": "アニサキスは何ですか？",
+          "question": "この障害は何に影響を与えていますか？",
           "options": [
-            "魚",
-            "寄生虫",
-            "海藻",
-            "フグ"
+            "A. 教育",
+            "B. ビジネス",
+            "C. 映画",
+            "D. スポーツ"
           ],
           "correctAnswer": 1,
           "optionsTranslation": [
-            "魚",
-            "寄生蟲",
-            "海藻",
-            "河豚"
+            "A. 教育",
+            "B. 商業",
+            "C. 電影",
+            "D. 體育"
           ],
-          "explanation": "アニサキスは寄生虫です。",
-          "translation": "阿尼薩基斯是什麼？"
+          "explanation": "この障害はビジネスに影響を与えています。",
+          "translation": "這次故障對什麼造成了影響？"
         },
         {
           "type": "choice",
-          "question": "何が食の安全を危険にしますか？",
+          "question": "問題が何によって発生しましたか？",
           "options": [
-            "水温の上昇",
-            "天候",
-            "地域",
-            "消費者"
+            "A. 天気",
+            "B. サーバー",
+            "C. ユーザー",
+            "D. ソフトウェア"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "optionsTranslation": [
-            "水溫上升",
-            "天氣",
-            "地區",
-            "消費者"
+            "A. 天氣",
+            "B. 伺服器",
+            "C. 用戶",
+            "D. 軟體"
           ],
-          "explanation": "水温の上昇が食の安全に影響を与えます。",
-          "translation": "什麼會危害食品安全？"
+          "explanation": "サーバーの問題によって障害が発生しました。",
+          "translation": "問題是由什麼造成的？"
         },
         {
           "type": "reorder",
           "question": "以下の文を重組してください。",
           "words": [
-            "上がって",
-            "水温",
-            "います",
-            "います"
+            "影響",
+            "ビジネス",
+            "この",
+            "ある",
+            "問題",
+            "に"
           ],
-          "correctAnswer": "水温が上がっています。",
-          "explanation": "正確の順序は「水温が上がっています」です。",
+          "correctAnswer": "この問題はビジネスに影響がある。",
+          "explanation": "文の意味を理解し、正しい順序に並べ替えます。",
           "translation": "請重組以下句子。"
         },
         {
           "type": "reorder",
           "question": "以下の文を重組してください。",
           "words": [
-            "アニサキス",
-            "危険",
-            "です"
+            "マイクロソフト",
+            "発生",
+            "障害",
+            "大規模な",
+            "しました"
           ],
-          "correctAnswer": "アニサキスは危険です。",
-          "explanation": "正確の順序は「アニサキスは危険です」です。",
+          "correctAnswer": "マイクロソフトは大規模な障害を発生しました。",
+          "explanation": "文の意味を理解し、正しい順序に並べ替えます。",
           "translation": "請重組以下句子。"
         }
       ]
     },
     {
-      "title": "川口春奈、第1子出産を報告 周囲への感謝の思いつづる「たくさんの方に支えていただきました」今年8月にサッカー日本代表・板倉滉との結婚発表【全文】（オリコン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUT0RXOVpIZVdyenpGUkl1UjdKUEpNYk1FaUtIdWlzNzFWdTRhWmk1bEVjeXh3UE5zb3BYX1NLNXNlcDVSam1EYTdNWC0xcUx1TFRITzgtZUw0aHBYTU9seWFQamtBbkhLVGpROUstRHczV3pnOWNGYW9YNWNySnM?oc=5",
-      "published": "Wed, 11 Nov 2026 09:01:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBUT0RXOVpIZVdyenpGUkl1UjdKUEpNYk1FaUtIdWlzNzFWdTRhWmk1bEVjeXh3UE5zb3BYX1NLNXNlcDVSam1EYTdNWC0xcUx1TFRITzgtZUw0aHBYTU9seWFQamtBbkhLVGpROUstRHczV3pnOWNGYW9YNWNySnM?oc=5\" target=\"_blank\">川口春奈、第1子出産を報告 周囲への感謝の思いつづる「たくさんの方に支えていただきました」今年8月にサッカー日本代表・板倉滉との結婚発表【全文】（オリコン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "title": "「日本の自動車メーカーとは大違い」…中国EVにシフトしたタイの地元企業から悲鳴（クーリエ・ジャポン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaDFUVXlkTi1nX3ExdUdVVThmTVB0WFBadDZQaDVtdkdxYmRJVHJpU3JpbEF4Mmx6WUpBNFFCR2JpR2xnS1JNZGlZU2hMVFVnbGVhOXh3ek5VSGtma0laT0o5YVNEZWpCYkJMak9YRVRNZW5WSUp4VEJtbjlTSUE?oc=5",
+      "published": "Thu, 12 Nov 2026 03:40:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaDFUVXlkTi1nX3ExdUdVVThmTVB0WFBadDZQaDVtdkdxYmRJVHJpU3JpbEF4Mmx6WUpBNFFCR2JpR2xnS1JNZGlZU2hMVFVnbGVhOXh3ek5VSGtma0laT0o5YVNEZWpCYkJMak9YRVRNZW5WSUp4VEJtbjlTSUE?oc=5\" target=\"_blank\">「日本の自動車メーカーとは大違い」…中国EVにシフトしたタイの地元企業から悲鳴（クーリエ・ジャポン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "source": "Yahoo!ニュース",
       "fullContent": {
-        "beginner": "川口春奈さんは、第1子が生まれました。彼女は、周りの人に感謝しています。彼女は結婚もしました。",
-        "intermediate": "女優の川口春奈さんが、第1子を出産したことを報告しました。彼女は、周囲の人々への感謝の気持ちを伝えました。今年の8月にサッカー選手の板倉滉さんと結婚したことも発表しました。",
-        "advanced": "川口春奈さんが第1子を出産したことを自身のSNSで報告しました。彼女は「たくさんの方に支えていただきました」と感謝の気持ちを述べ、周囲のサポートの重要性を強調しました。また、彼女は今年8月にサッカー日本代表の板倉滉さんとの結婚を発表し、新たな家庭を築くことを楽しみにしていると語りました。今後の彼女の活躍にも期待が寄せられています。",
-        "original": "川口春奈、第1子出産を報告 周囲への感謝の思いつづる「たくさんの方に支えていただきました」今年8月にサッカー日本代表・板倉滉との結婚発表【全文】（オリコン） - Yahoo!ニュース",
-        "titleTranslation": "川口春奈報告第1子出生，表達對周圍的感謝「得到了許多人的支持」今年8月宣佈與足球日本代表板倉滉結婚【全文】（Oricon） - Yahoo!新聞",
+        "beginner": "タイの企業は中国のEVに注目しています。日本の自動車メーカーは人気があります。タイの企業は大変です。",
+        "intermediate": "タイの地元企業は、中国の電気自動車（EV）にシフトしています。日本の自動車メーカーとは大違いです。企業の経営者は、競争が激しくなっていると感じています。これにより、タイの企業は苦しんでいます。未来のために、新しい戦略が必要です。",
+        "advanced": "タイの地元企業が中国の電気自動車（EV）市場にシフトする中、日本の自動車メーカーとの違いを感じているという報告があります。多くの経営者は、競争が激化する中で経営の厳しさを実感しており、特に技術力や販売戦略において大きな差があるとコメントしています。このため、タイの企業は新たなビジネスモデルを模索する必要があると考えています。今後の展望として、技術革新と市場のニーズに応えることが重要です。",
+        "original": "「日本の自動車メーカーとは大違い」…中国EVにシフトしたタイの地元企業から悲鳴（クーリエ・ジャポン）",
+        "titleTranslation": "「與日本汽車製造商大不相同」...來自轉向中國電動車的泰國當地企業的悲鳴",
         "translations": {
           "beginner": [
-            "川口春奈小姐生了第一個孩子。",
-            "她對周圍的人表示感謝。",
-            "她也結婚了。"
+            "泰國的企業正在注目中國的電動車。",
+            "日本的汽車製造商很受歡迎。",
+            "泰國的企業很艱辛。"
           ],
           "intermediate": [
-            "女演員川口春奈報告了她出生第一個孩子的消息。",
-            "她表達了對周圍人的感謝之情。",
-            "她在今年八月也宣佈了與足球選手板倉滉的結婚消息。"
+            "泰國的本地企業正在轉向中國的電動汽車（EV）。",
+            "與日本的汽車製造商完全不同。",
+            "企業的經營者感受到競爭變得激烈。",
+            "這使得泰國的企業面臨困難。",
+            "為了未來，需要新的策略。"
           ],
           "advanced": [
-            "川口春奈在她的社交媒體上報告了她的第一個孩子出生的消息。",
-            "她提到「我得到了很多人的支持」，並強調了周圍支持的重要性。",
-            "她還透露今年八月和日本國家足球隊成員板倉滉結婚的消息，",
-            "表示期待建立一個新的家庭。",
-            "人們對她未來的發展充滿期待。"
+            "報導指出，泰國的本地企業在轉向中國的電動汽車（EV）市場時，感受到與日本汽車製造商的差異。",
+            "許多經營者在競爭加劇的情況下，實感經營的艱難，特別是在技術力和銷售策略方面存在著巨大的差距。",
+            "因此，泰國的企業認為必須探索新的商業模式。",
+            "未來的展望中，技術創新和滿足市場需求將是重要的課題。",
+            "這一變化可能會影響整個汽車產業的格局。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "出産",
-          "reading": "shussan",
-          "meaning": "出生",
-          "example": "彼女は出産しました。",
-          "exampleTranslation": "她生了孩子。",
-          "level": "N1"
-        },
-        {
-          "word": "感謝",
-          "reading": "kansha",
-          "meaning": "感謝",
-          "example": "感謝の気持ちを伝えました。",
-          "exampleTranslation": "表達了感謝的心情。",
+          "word": "企業",
+          "reading": "kigyō",
+          "meaning": "企業",
+          "example": "この企業は大きいです。",
+          "exampleTranslation": "這家公司很大。",
           "level": "N3"
         },
         {
-          "word": "周囲",
-          "reading": "shuu'i",
-          "meaning": "周圍",
-          "example": "周囲の人々に支えられました。",
-          "exampleTranslation": "得到了周圍人的支持。",
-          "level": "N3"
-        },
-        {
-          "word": "結婚",
-          "reading": "kekkon",
-          "meaning": "結婚",
-          "example": "彼女は結婚しました。",
-          "exampleTranslation": "她結婚了。",
+          "word": "自動車",
+          "reading": "jidōsha",
+          "meaning": "汽車",
+          "example": "日本の自動車は有名です。",
+          "exampleTranslation": "日本的汽車是有名的。",
           "level": "N5"
         },
         {
-          "word": "発表",
-          "reading": "happyou",
-          "meaning": "發表",
-          "example": "結婚を発表しました。",
-          "exampleTranslation": "宣佈了結婚。",
+          "word": "競争",
+          "reading": "kyōsō",
+          "meaning": "競爭",
+          "example": "競争は厳しいです。",
+          "exampleTranslation": "競爭很激烈。",
+          "level": "N4"
+        },
+        {
+          "word": "市場",
+          "reading": "shijō",
+          "meaning": "市場",
+          "example": "市場が変わっています。",
+          "exampleTranslation": "市場正在變化。",
           "level": "N3"
         },
         {
-          "word": "選手",
-          "reading": "senshu",
-          "meaning": "選手",
-          "example": "サッカー選手です。",
-          "exampleTranslation": "是一名足球選手。",
+          "word": "戦略",
+          "reading": "senryaku",
+          "meaning": "策略",
+          "example": "新しい戦略が必要です。",
+          "exampleTranslation": "需要新的策略。"
+        },
+        {
+          "word": "技術",
+          "reading": "gijutsu",
+          "meaning": "技術",
+          "example": "この技術はとても重要です。",
+          "exampleTranslation": "這項技術非常重要。",
+          "level": "N4"
+        },
+        {
+          "word": "変化",
+          "reading": "henka",
+          "meaning": "變化",
+          "example": "変化が必要です。",
+          "exampleTranslation": "需要變化。",
           "level": "N3"
         },
         {
-          "word": "重要",
-          "reading": "juuyou",
-          "meaning": "重要",
-          "example": "サポートは重要です。",
-          "exampleTranslation": "支持是重要的。",
+          "word": "注目",
+          "reading": "chūmoku",
+          "meaning": "注目",
+          "example": "注目されています。",
+          "exampleTranslation": "受到注目。",
           "level": "N3"
         },
         {
-          "word": "発表する",
-          "reading": "happyou suru",
-          "meaning": "宣佈",
-          "example": "新しいプロジェクトを発表します。",
-          "exampleTranslation": "將宣佈新的計畫。",
+          "word": "苦しむ",
+          "reading": "kurushimu",
+          "meaning": "苦苦掙扎",
+          "example": "企業は苦しんでいます。",
+          "exampleTranslation": "企業正在苦苦掙扎。",
           "level": "N3"
         },
         {
-          "word": "期待",
-          "reading": "kitai",
-          "meaning": "期待",
-          "example": "彼女の活躍に期待しています。",
-          "exampleTranslation": "期待她的活躍。",
+          "word": "未来",
+          "reading": "mirai",
+          "meaning": "未來",
+          "example": "未来が大切です。",
+          "exampleTranslation": "未來是重要的。",
           "level": "N3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "は...です",
+          "explanation": "用於描述主題或狀態，表示肯定。",
+          "example": "これは日本の自動車です。",
+          "exampleTranslation": "這是日本的汽車。",
+          "level": "N5"
+        },
+        {
+          "pattern": "が...ています",
+          "explanation": "表示動作的持續或狀態的發展。",
+          "example": "企業は変化しています。",
+          "exampleTranslation": "企業正在變化。",
+          "level": "N5"
+        },
+        {
+          "pattern": "と...言います",
+          "explanation": "用於引用或報導他人的話。",
+          "example": "彼はそれを難しいと言いました。",
+          "exampleTranslation": "他說這很難。",
+          "level": "N4"
+        },
+        {
+          "pattern": "ために",
+          "explanation": "表示目的或原因。",
+          "example": "未来のために学びます。",
+          "exampleTranslation": "為了未來而學習。",
+          "level": "N2"
+        },
+        {
+          "pattern": "ので",
+          "explanation": "表示原因或理由，通常用於句子的後半部分。",
+          "example": "競争が激しいので、努力が必要です。",
+          "exampleTranslation": "因為競爭激烈，所以需要努力。",
+          "level": "N4"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "タイの企業は何にシフトしましたか？",
+          "options": [
+            "自動車",
+            "EV",
+            "バイク",
+            "トラック"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "汽車",
+            "電動車",
+            "摩托車",
+            "卡車"
+          ],
+          "explanation": "泰國的企業正在轉向電動車（EV）。",
+          "translation": "泰國的企業轉向了什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "日本の自動車メーカーとタイの企業の違いは何ですか？",
+          "options": [
+            "技術力",
+            "価格",
+            "デザイン",
+            "全て"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "技術力",
+            "價格",
+            "設計",
+            "全部"
+          ],
+          "explanation": "主要的差異在於技術力。",
+          "translation": "日本的汽車製造商和泰國企業的差異是什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "企業は何を必要としていますか？",
+          "options": [
+            "新しい戦略",
+            "古い戦略",
+            "休暇",
+            "投資"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "新策略",
+            "舊策略",
+            "假期",
+            "投資"
+          ],
+          "explanation": "企業需要新的策略來應對競爭。 ",
+          "translation": "企業需要什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を重組してください：企業が苦しんでいます。",
+          "words": [
+            "苦しんで",
+            "企業",
+            "います",
+            "が"
+          ],
+          "correctAnswer": "企業が苦しんでいます。",
+          "explanation": "正確的主語和動詞順序應該是：企業が苦しんでいます。",
+          "translation": "請重組以下句子：企業正在苦苦掙扎。"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を重組してください：日本の自動車は人気です。",
+          "words": [
+            "人気",
+            "の",
+            "自動車",
+            "日本",
+            "は",
+            "です"
+          ],
+          "correctAnswer": "日本の自動車は人気です。",
+          "explanation": "正確的主語和述語應該是：日本の自動車は人気です。",
+          "translation": "請重組以下句子：日本的汽車是受歡迎的。"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIAフアンCEOの「社内不倫」相手、キンバリー・パウエル氏とは？ 夫のいる48歳の女性役員（朝鮮日報日本語版） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01N0s1cHFWSUxPalJJTGhoT2NMQkprSlFFZUlWbkhwZ0k5djZ6SVVMYmg0YzN3S3hPZXBvc2hvTDVfQmJLRG9wblJzTms0RUF6Nm9ISWhsVzg5aWh6eU1xbWlRYnFPdjJFTjFGai1pT0h3bGI4NlNZMloyaV9sSUk?oc=5",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE01N0s1cHFWSUxPalJJTGhoT2NMQkprSlFFZUlWbkhwZ0k5djZ6SVVMYmg0YzN3S3hPZXBvc2hvTDVfQmJLRG9wblJzTms0RUF6Nm9ISWhsVzg5aWh6eU1xbWlRYnFPdjJFTjFGai1pT0h3bGI4NlNZMloyaV9sSUk?oc=5\" target=\"_blank\">NVIDIAフアンCEOの「社内不倫」相手、キンバリー・パウエル氏とは？ 夫のいる48歳の女性役員（朝鮮日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "NVIDIAのCEO、フアンさんは、社内で不倫をしています。相手はキンバリー・パウエルさんです。彼女は48歳で、夫がいます。",
+        "intermediate": "NVIDIAのCEO、フアン氏が社内不倫をしているというニュースが報じられました。不倫相手のキンバリー・パウエル氏は、48歳の女性役員です。彼女は既婚者であり、家庭があるため、この問題は大きな注目を集めています。",
+        "advanced": "NVIDIAのCEOであるフアン氏が社内不倫を報じられ、その相手がキンバリー・パウエル氏であることが明らかになりました。キンバリー氏は48歳の女性役員であり、既婚者です。この不倫関係は、企業内の倫理やプライバシーに関する議論を呼び起こしています。彼女の家庭状況は、社内での人間関係にも影響を及ぼす可能性があるため、慎重に捉える必要があります。",
+        "original": "NVIDIAフアンCEOの「社内不倫」相手、キンバリー・パウエル氏とは？ 夫のいる48歳の女性役員（朝鮮日報日本語版） - Yahoo!ニュース",
+        "titleTranslation": "NVIDIA首席執行官黃仁勳的「公司內部不倫」對象金伯莉·鮑威爾是誰？有夫之婦的48歲女性高管",
+        "translations": {
+          "beginner": [
+            "NVIDIA的CEO黃仁勳在公司內不倫。",
+            "對象是金伯莉·鮑威爾。",
+            "她48歲，有丈夫。"
+          ],
+          "intermediate": [
+            "NVIDIA的CEO黃仁勳被報導有不倫關係。",
+            "不倫對象是金伯莉·鮑威爾，是一位48歲的女性高管。",
+            "她已婚，家庭狀況引起了關注。"
+          ],
+          "advanced": [
+            "NVIDIA的首席執行官黃仁勳被報導有社內不倫，對象為金伯莉·鮑威爾。",
+            "金伯莉是48歲的女性高管，並且已婚。",
+            "這段不倫關係引發了對企業倫理和隱私的討論。",
+            "她的家庭情況可能會影響到公司內的人際關係，因此需謹慎看待。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "CEO",
+          "reading": "shūsei",
+          "meaning": "首席執行官",
+          "example": "NVIDIAのCEOはフアン氏です。",
+          "exampleTranslation": "NVIDIA的首席執行官是黃仁勳。"
+        },
+        {
+          "word": "不倫",
+          "reading": "furin",
+          "meaning": "不倫",
+          "example": "彼は社内で不倫をしています。",
+          "exampleTranslation": "他在公司內有不倫關係。"
+        },
+        {
+          "word": "相手",
+          "reading": "aite",
+          "meaning": "對象",
+          "example": "相手は誰ですか？",
+          "exampleTranslation": "對象是誰？",
+          "level": "N3"
+        },
+        {
+          "word": "役員",
+          "reading": "yakuin",
+          "meaning": "高管",
+          "example": "彼女は会社の役員です。",
+          "exampleTranslation": "她是公司的高管。"
+        },
+        {
+          "word": "既婚",
+          "reading": "gikon",
+          "meaning": "已婚",
+          "example": "彼は既婚者です。",
+          "exampleTranslation": "他是已婚者。",
+          "level": "N1"
         },
         {
           "word": "家庭",
           "reading": "katei",
           "meaning": "家庭",
-          "example": "新しい家庭を築く。",
-          "exampleTranslation": "建立一個新的家庭。",
+          "example": "家庭を大切にしています。",
+          "exampleTranslation": "我重視家庭。",
           "level": "N5"
+        },
+        {
+          "word": "注目",
+          "reading": "chuumoku",
+          "meaning": "注意，注目",
+          "example": "この問題は注目されています。",
+          "exampleTranslation": "這個問題受到注意。",
+          "level": "N3"
+        },
+        {
+          "word": "影響",
+          "reading": "eikyou",
+          "meaning": "影響",
+          "example": "この事件は影響を与えます。",
+          "exampleTranslation": "這個事件會造成影響。",
+          "level": "N3"
+        },
+        {
+          "word": "倫理",
+          "reading": "rinri",
+          "meaning": "倫理",
+          "example": "企業倫理が重要です。",
+          "exampleTranslation": "企業倫理是重要的。"
+        },
+        {
+          "word": "慎重",
+          "reading": "shinchou",
+          "meaning": "謹慎",
+          "example": "慎重に考えるべきです。",
+          "exampleTranslation": "應該謹慎考慮。",
+          "level": "N3"
         }
       ],
       "grammar": [
         {
-          "pattern": "〜ました",
-          "explanation": "表示過去的動作或狀態。",
-          "example": "彼女は出産しました。",
-          "exampleTranslation": "她生了孩子。",
+          "pattern": "〜ています",
+          "explanation": "表現持續的狀態或正在進行的動作。",
+          "example": "彼は不倫をしています。",
+          "exampleTranslation": "他正在進行不倫。",
           "level": "N5"
         },
         {
-          "pattern": "〜を伝える",
-          "explanation": "表示告訴某人某事。",
-          "example": "感謝の気持ちを伝えました。",
-          "exampleTranslation": "表達了感謝的心情。",
-          "level": "N3"
-        },
-        {
-          "pattern": "〜に支えられる",
-          "explanation": "表示受到某人的支持。",
-          "example": "周囲の人々に支えられました。",
-          "exampleTranslation": "得到了周圍人的支持。",
+          "pattern": "のです",
+          "explanation": "用於解釋或強調情況。",
+          "example": "彼女は既婚なのです。",
+          "exampleTranslation": "她是已婚的。",
           "level": "N2"
         },
         {
-          "pattern": "〜を期待する",
-          "explanation": "表示對某事物有期望。",
-          "example": "彼女の活躍に期待しています。",
-          "exampleTranslation": "期待她的活躍。",
-          "level": "N2"
+          "pattern": "ことがある",
+          "explanation": "表示有時會發生某事。",
+          "example": "この問題が注目されることがあります。",
+          "exampleTranslation": "這個問題有時會受到注意。",
+          "level": "N3"
         },
         {
-          "pattern": "〜を発表する",
-          "explanation": "表示宣佈某事。",
-          "example": "結婚を発表しました。",
-          "exampleTranslation": "宣佈了結婚。",
+          "pattern": "〜について",
+          "explanation": "表示關於某事的話題。",
+          "example": "この問題について話しましょう。",
+          "exampleTranslation": "讓我們談談這個問題。",
           "level": "N3"
+        },
+        {
+          "pattern": "〜かもしれない",
+          "explanation": "表示不確定性或可能性。",
+          "example": "影響があるかもしれない。",
+          "exampleTranslation": "可能會有影響。",
+          "level": "N2"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "川口春奈さんは何をしましたか？",
+          "question": "NVIDIAのCEOは誰ですか？",
           "options": [
-            "出産しました",
-            "旅行しました",
-            "新しい映画を撮りました",
-            "仕事を辞めました"
+            "フアン",
+            "キンバリー",
+            "役員",
+            "既婚"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "生了孩子",
-            "旅行了",
-            "拍了新電影",
-            "辭職了"
+            "黃仁勳",
+            "金伯莉",
+            "高管",
+            "已婚"
           ],
-          "explanation": "新聞中提到川口春奈生了第一個孩子。",
-          "translation": "川口春奈小姐做了什麼？"
+          "explanation": "NVIDIAのCEOはフアン氏です。",
+          "translation": "NVIDIA的首席執行官是誰？"
         },
         {
           "type": "choice",
-          "question": "誰と結婚しましたか？",
+          "question": "キンバリー・パウエル氏は何歳ですか？",
           "options": [
-            "サッカー選手",
-            "俳優",
-            "歌手",
-            "作家"
+            "30歳",
+            "40歳",
+            "48歳",
+            "50歳"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 2,
           "optionsTranslation": [
-            "足球選手",
-            "演員",
-            "歌手",
-            "作家"
+            "30歲",
+            "40歲",
+            "48歲",
+            "50歲"
           ],
-          "explanation": "她和足球選手板倉滉結婚。",
-          "translation": "她和誰結婚了？"
+          "explanation": "彼女は48歳です。",
+          "translation": "金伯莉·鮑威爾幾歲？"
         },
         {
           "type": "choice",
-          "question": "彼女は感謝の気持ちをどこで伝えましたか？",
+          "question": "この不倫相手はどんな人ですか？",
           "options": [
-            "SNS",
-            "テレビ",
-            "新聞",
-            "ラジオ"
+            "独身",
+            "未婚",
+            "既婚",
+            "恋人"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 2,
           "optionsTranslation": [
-            "社交媒體",
-            "電視",
-            "報紙",
-            "廣播"
+            "單身",
+            "未婚",
+            "已婚",
+            "情侶"
           ],
-          "explanation": "她在社交媒體上表達了感謝。",
-          "translation": "她在哪裡表達了感謝的心情？"
+          "explanation": "彼女は既婚者です。",
+          "translation": "這位不倫對象是什麼樣的人？"
         },
         {
           "type": "reorder",
-          "question": "請重組以下句子",
+          "question": "次の文を並べ替えてください。",
           "words": [
-            "春奈",
-            "出産",
-            "は",
-            "しました"
+            "CEO",
+            "NVIDIAの",
+            "フアン氏は",
+            "です",
+            "です",
+            "不倫",
+            "社内で"
           ],
-          "correctAnswer": "春奈は出産しました。",
-          "explanation": "正確的順序是主語加動詞。",
-          "translation": "請重組以下句子。"
+          "correctAnswer": "NVIDIAのCEOフアン氏は社内で不倫です。",
+          "explanation": "文の順序を正しく並べ替えました。",
+          "translation": "請將以下句子重組。"
         },
         {
           "type": "reorder",
-          "question": "請重組以下句子",
+          "question": "次の文を並べ替えてください。",
           "words": [
-            "感謝",
-            "の",
-            "気持ち",
-            "伝えました",
-            "彼女",
-            "を"
+            "彼女は",
+            "役員",
+            "です",
+            "高い",
+            "地位の"
           ],
-          "correctAnswer": "彼女は感謝の気持ちを伝えました。",
-          "explanation": "正確的順序是主語加賓語加動詞。",
-          "translation": "請重組以下句子。"
+          "correctAnswer": "彼女は高い地位の役員です。",
+          "explanation": "文の順序を正しく並べ替えました。",
+          "translation": "請將以下句子重組。"
         }
       ]
     },
     {
-      "title": "首脳がCOP31を欠席 日本に化石賞 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMZ2laQzExRUhOSDZFV0NXRkkxd09RcmU1TmllbDg5WFdueTRVak5zUGw5a1NUSGg4S0lieEFyX1R4ZVpEUmpKanlNcGIySXdx?oc=5",
-      "published": "Wed, 11 Nov 2026 11:11:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMZ2laQzExRUhOSDZFV0NXRkkxd09RcmU1TmllbDg5WFdueTRVak5zUGw5a1NUSGg4S0lieEFyX1R4ZVpEUmpKanlNcGIySXdx?oc=5\" target=\"_blank\">首脳がCOP31を欠席 日本に化石賞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "title": "日本セクシー女優約30人が入国拒否か、香港成人イベント中止に波紋広がる #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEV3alVWREJ2eGowT044c3ZFSGt4VU16QU5UN2V0UUExWDBLTWVDYUp1UlAyQ05nX21WYTZsZE5GY1kwSkpLbE9SVi1CTndHVDVZVExyd0d1ZWpPOV93clExaUtzSHVHX1FxUUtLQWI2cXpBQnJiTTU3MU9vZFZsVVRYTmJEMWN6?oc=5",
+      "published": "Thu, 12 Nov 2026 00:45:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEV3alVWREJ2eGowT044c3ZFSGt4VU16QU5UN2V0UUExWDBLTWVDYUp1UlAyQ05nX21WYTZsZE5GY1kwSkpLbE9SVi1CTndHVDVZVExyd0d1ZWpPOV93clExaUtzSHVHX1FxUUtLQWI2cXpBQnJiTTU3MU9vZFZsVVRYTmJEMWN6?oc=5\" target=\"_blank\">日本セクシー女優約30人が入国拒否か、香港成人イベント中止に波紋広がる #エキスパートトピ（高口康太） - エキスパート</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "source": "Yahoo!ニュース",
       "fullContent": {
-        "beginner": "日本の首脳はCOP31に行きませんでした。日本は化石賞を受け取りました。これは良くないことです。",
-        "intermediate": "日本の首脳はCOP31に欠席しました。この会議は環境問題について話し合う大切な場所です。日本は化石賞を受賞しました。この賞は環境に悪い行動をした国に与えられます。",
-        "advanced": "最近、COP31が開催されましたが、日本の首脳はこの重要な会議に欠席しました。この会議では、気候変動に関する議論が行われ、多くの国が集まりました。一方、日本は化石賞を受賞しました。この賞は、環境への配慮が不足している国に与えられるもので、日本の姿勢が問題視されています。このことは、国際的な評価にも影響を与えるでしょう。",
-        "original": "首脳がCOP31を欠席 日本に化石賞",
-        "titleTranslation": "首腦缺席 COP31 日本獲化石獎",
+        "beginner": "日本のセクシー女優が約30人います。彼女たちは香港に行く予定でした。入国が拒否されました。",
+        "intermediate": "最近、日本のセクシー女優約30人が香港に入国できなかったというニュースがありました。このため、香港で予定されていた成人イベントが中止になりました。多くの人々がこの問題について話しています。",
+        "advanced": "最近、日本のセクシー女優約30人が香港への入国を拒否される事態が発生しました。この影響で、香港で計画されていた成人向けイベントが中止となり、関係者やファンの間に波紋が広がっています。入国管理当局の判断は様々な意見を呼び起こしており、特に文化や性に関する規制が議論されています。この件は、今後のイベント運営にも影響を及ぼす可能性があると考えられています。",
+        "original": "日本セクシー女優約30人が入国拒否か、香港成人イベント中止に波紋広がる #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース",
+        "titleTranslation": "約30名日本性感女優被拒入境，香港成人活動取消引發波瀾",
         "translations": {
           "beginner": [
-            "日本的首腦沒有參加COP31。",
-            "日本獲得了化石獎。",
-            "這是件不好的事情。"
+            "日本的性感女優大約有30人。",
+            "她們原本打算去香港。",
+            "入境被拒絕了。"
           ],
           "intermediate": [
-            "日本的首腦缺席了COP31。",
-            "這個會議是討論環境問題的重要場所。",
-            "日本獲得了化石獎。",
-            "這個獎是給予環境行為不良的國家。"
+            "最近，日本的性感女優約30人無法入境香港。",
+            "因此，在香港預定的成人活動被取消了。",
+            "許多人對這個問題進行了討論。"
           ],
           "advanced": [
-            "最近，COP31舉行了，但日本的首腦缺席了這個重要的會議。",
-            "會議上進行了有關氣候變化的討論，許多國家參加了。",
-            "同時，日本獲得了化石獎。",
-            "這個獎是頒發給缺乏環境考量的國家，",
-            "日本的立場受到質疑。",
-            "這一事件也可能對國際評價產生影響。"
+            "最近，日本的性感女優約30人被拒絕入境香港。",
+            "因此，在香港計劃的成人活動被迫取消，",
+            "這引起了相關人士和粉絲之間的廣泛討論。",
+            "入境管理當局的決定引發了各種意見，",
+            "尤其是有關文化和性規範的問題。",
+            "這一事件可能會影響未來的活動舉辦。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "首脳",
-          "reading": "shunō",
-          "meaning": "首腦",
-          "example": "首脳が会議に出席しました。",
-          "exampleTranslation": "首腦參加了會議。",
+          "word": "セクシー",
+          "reading": "sekushī",
+          "meaning": "性感的",
+          "example": "彼女はセクシーな衣装を着ています。",
+          "exampleTranslation": "她穿著性感的服裝。"
+        },
+        {
+          "word": "女優",
+          "reading": "joyū",
+          "meaning": "女演員",
+          "example": "彼女は有名な女優です。",
+          "exampleTranslation": "她是著名的女演員。",
+          "level": "N3"
+        },
+        {
+          "word": "入国",
+          "reading": "nyūkoku",
+          "meaning": "入境",
+          "example": "入国の手続きが必要です。",
+          "exampleTranslation": "需要辦理入境手續。"
+        },
+        {
+          "word": "拒否",
+          "reading": "kyohi",
+          "meaning": "拒絕",
+          "example": "入国を拒否されました。",
+          "exampleTranslation": "被拒絕入境了。",
           "level": "N1"
         },
         {
-          "word": "欠席",
-          "reading": "kesshiki",
-          "meaning": "缺席",
-          "example": "彼は病気で欠席しました。",
-          "exampleTranslation": "他因病缺席。",
+          "word": "成人",
+          "reading": "seijin",
+          "meaning": "成人",
+          "example": "成人向けのイベントがあります。",
+          "exampleTranslation": "有針對成人的活動。",
           "level": "N3"
         },
         {
-          "word": "COP31",
-          "reading": "COP31",
-          "meaning": "COP31",
-          "example": "COP31は国際会議です。",
-          "exampleTranslation": "COP31是國際會議。"
+          "word": "イベント",
+          "reading": "ibento",
+          "meaning": "活動",
+          "example": "特別なイベントが開催されます。",
+          "exampleTranslation": "將舉辦特別的活動。"
         },
         {
-          "word": "化石賞",
-          "reading": "kaseki shō",
-          "meaning": "化石獎",
-          "example": "日本は化石賞を受け取りました。",
-          "exampleTranslation": "日本獲得了化石獎。"
-        },
-        {
-          "word": "環境",
-          "reading": "kankyō",
-          "meaning": "環境",
-          "example": "環境問題は重要です。",
-          "exampleTranslation": "環境問題很重要。",
+          "word": "中止",
+          "reading": "chūshi",
+          "meaning": "中止",
+          "example": "イベントが中止になりました。",
+          "exampleTranslation": "活動被中止了。",
           "level": "N3"
         },
         {
-          "word": "議論",
-          "reading": "giron",
-          "meaning": "討論",
-          "example": "自由に議論しましょう。",
-          "exampleTranslation": "讓我們自由地討論。",
+          "word": "波紋",
+          "reading": "hamon",
+          "meaning": "波紋",
+          "example": "この問題は波紋を呼びました。",
+          "exampleTranslation": "這個問題引發了波瀾。"
+        },
+        {
+          "word": "影響",
+          "reading": "eikyō",
+          "meaning": "影響",
+          "example": "このことは後に影響します。",
+          "exampleTranslation": "這件事會在未來產生影響。",
           "level": "N3"
-        },
-        {
-          "word": "行動",
-          "reading": "kōdō",
-          "meaning": "行動",
-          "example": "彼女の行動は素晴らしいです。",
-          "exampleTranslation": "她的行動很出色。",
-          "level": "N3"
-        },
-        {
-          "word": "国際的",
-          "reading": "kokusaiteki",
-          "meaning": "國際的",
-          "example": "国際的な問題です。",
-          "exampleTranslation": "這是國際性問題。"
-        },
-        {
-          "word": "評価",
-          "reading": "hyōka",
-          "meaning": "評價",
-          "example": "彼の評価は高いです。",
-          "exampleTranslation": "他的評價很高。",
-          "level": "N3"
-        },
-        {
-          "word": "姿勢",
-          "reading": "shisei",
-          "meaning": "姿勢",
-          "example": "彼の姿勢は良いです。",
-          "exampleTranslation": "他的姿勢很好。",
-          "level": "N2"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "〜に欠席する",
-          "explanation": "表示缺席某個活動或會議。",
-          "example": "彼は会議に欠席しました。",
-          "exampleTranslation": "他缺席了會議。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜を受け取る",
-          "explanation": "接受某個獎項或物品。",
-          "example": "彼は賞を受け取りました。",
-          "exampleTranslation": "他接受了獎項。",
-          "level": "N3"
-        },
-        {
-          "pattern": "〜に参加する",
-          "explanation": "表示參加某個活動或會議。",
-          "example": "私たちは会議に参加します。",
-          "exampleTranslation": "我們參加會議。",
-          "level": "N4"
-        },
-        {
-          "pattern": "〜について議論する",
-          "explanation": "就某個主題進行討論。",
-          "example": "彼らは環境について議論しました。",
-          "exampleTranslation": "他們討論了環境問題。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜が重要です",
-          "explanation": "強調某事的重要性。",
-          "example": "この問題が重要です。",
-          "exampleTranslation": "這個問題很重要。",
-          "level": "N4"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "日本の首脳はCOP31に何をしましたか？",
-          "options": [
-            "行きました",
-            "欠席しました",
-            "参加しました",
-            "見ました"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "去了",
-            "缺席了",
-            "參加了",
-            "看了"
-          ],
-          "explanation": "根據新聞，日本的首腦缺席了COP31。",
-          "translation": "日本的首腦在COP31做了什麼？"
-        },
-        {
-          "type": "choice",
-          "question": "化石賞はどのような意味ですか？",
-          "options": [
-            "良い行動",
-            "悪い行動",
-            "新しい技術",
-            "国際協力"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "好的行為",
-            "壞的行為",
-            "新技術",
-            "國際合作"
-          ],
-          "explanation": "化石賞是頒發給環境行為不良的國家。",
-          "translation": "化石獎有什麼意義？"
-        },
-        {
-          "type": "choice",
-          "question": "COP31は何について話し合いましたか？",
-          "options": [
-            "経済",
-            "環境",
-            "教育",
-            "文化"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "經濟",
-            "環境",
-            "教育",
-            "文化"
-          ],
-          "explanation": "COP31是關於環境問題的會議。",
-          "translation": "COP31討論了什麼？"
-        },
-        {
-          "type": "reorder",
-          "question": "次の文章を正しい順番に並べてください。",
-          "words": [
-            "首脳",
-            "会議",
-            "は",
-            "欠席",
-            "しました"
-          ],
-          "correctAnswer": "首脳は会議に欠席しました。",
-          "explanation": "這是一個關於缺席會議的句子，正確的順序是「首脳は会議に欠席しました」。",
-          "translation": "請將以下句子重組為正確的順序。"
-        },
-        {
-          "type": "reorder",
-          "question": "次の文章を正しい順番に並べてください。",
-          "words": [
-            "化石賞",
-            "受け取る",
-            "日本",
-            "は",
-            "を"
-          ],
-          "correctAnswer": "日本は化石賞を受け取りました。",
-          "explanation": "這句話的正確語序是「日本は化石賞を受け取りました」，意思是日本獲得了化石獎。",
-          "translation": "請將以下句子重組為正確的順序。"
-        }
-      ]
-    },
-    {
-      "title": "「民意」に背き日本のエンタメ排除、「ちいかわ」映画も中国本土で見られず…日中「理解の土台」損なう恐れ - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XSWthQlFmOWlXT2hXTXNuTDVWSjNhSmI2SS1zRUo4UGo4UHpRMGk0NHJ1MUJIRUNuS3dESmI2ekVSWlVWb0U3b2x1bENicDZl?oc=5",
-      "published": "Tue, 10 Nov 2026 23:01:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XSWthQlFmOWlXT2hXTXNuTDVWSjNhSmI2SS1zRUo4UGo4UHpRMGk0NHJ1MUJIRUNuS3dESmI2ekVSWlVWb0U3b2x1bENicDZl?oc=5\" target=\"_blank\">「民意」に背き日本のエンタメ排除、「ちいかわ」映画も中国本土で見られず…日中「理解の土台」損なう恐れ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "Yahoo!ニュース",
-      "fullContent": {
-        "beginner": "日本の映画は、中国では見られません。ちいかわの映画もそうです。これは残念です。",
-        "intermediate": "日本のエンターテインメントは、中国で排除されています。特に、ちいかわという映画が見られないことが問題です。これにより、日本と中国の理解が損なわれる恐れがあります。",
-        "advanced": "最近、日本のエンターテインメントが中国本土で排除されていることが報道されました。特に、人気のあるちいかわの映画が上映されないことで、民意に背く形となっています。この状況は、日中間の理解の土台を損なう恐れがあると懸念されています。文化交流が制限されることは、両国の関係に悪影響を及ぼす可能性があります。",
-        "original": "「民意」に背き日本のエンタメ排除、「ちいかわ」映画も中国本土で見られず…日中「理解の土台」損なう恐れ",
-        "titleTranslation": "違背民意的日本娛樂排除，「小可愛」電影也無法在中國本土上映…恐會損害日中「理解的基礎」",
-        "translations": {
-          "beginner": [
-            "日本的電影在中國無法觀看。",
-            "小可愛的電影也是如此。",
-            "這是很遺憾的。"
-          ],
-          "intermediate": [
-            "日本的娛樂在中國被排除。",
-            "特別是，小可愛的電影無法觀看是個問題。",
-            "這樣會損害日本和中國的理解。"
-          ],
-          "advanced": [
-            "最近，日本的娛樂在中國本土被排除的情況被報導出來。",
-            "尤其是，人氣的「小可愛」電影無法上映，這對民意造成了背離。",
-            "這種情況引發了對日中間理解基礎損害的擔憂。",
-            "文化交流的限制可能會對兩國關係造成負面影響。"
-          ]
-        }
-      },
-      "vocabulary": [
-        {
-          "word": "映画",
-          "reading": "eiga",
-          "meaning": "電影",
-          "example": "日本の映画が好きです。",
-          "exampleTranslation": "我喜歡日本的電影。",
-          "level": "N5"
-        },
-        {
-          "word": "排除",
-          "reading": "haijo",
-          "meaning": "排除",
-          "example": "エンタメの排除は問題です。",
-          "exampleTranslation": "排除娛樂是個問題。",
-          "level": "N1"
         },
         {
           "word": "文化",
           "reading": "bunka",
           "meaning": "文化",
-          "example": "文化交流が大切です。",
-          "exampleTranslation": "文化交流很重要。",
+          "example": "文化について考える必要があります。",
+          "exampleTranslation": "有必要思考文化。",
           "level": "N4"
-        },
-        {
-          "word": "理解",
-          "reading": "rikai",
-          "meaning": "理解",
-          "example": "互いの理解が必要です。",
-          "exampleTranslation": "彼此的理解是必要的。",
-          "level": "N3"
-        },
-        {
-          "word": "民意",
-          "reading": "min'i",
-          "meaning": "民意",
-          "example": "民意に耳を傾けることが重要です。",
-          "exampleTranslation": "傾聽民意很重要。"
-        },
-        {
-          "word": "恐れ",
-          "reading": "osore",
-          "meaning": "恐懼",
-          "example": "損なう恐れがあります。",
-          "exampleTranslation": "有損害的恐懼。",
-          "level": "N1"
-        },
-        {
-          "word": "人気",
-          "reading": "ninki",
-          "meaning": "人氣",
-          "example": "その映画は人気があります。",
-          "exampleTranslation": "那部電影很受歡迎。",
-          "level": "N3"
-        },
-        {
-          "word": "状況",
-          "reading": "joukyou",
-          "meaning": "狀況",
-          "example": "状況が悪化しています。",
-          "exampleTranslation": "情況正在惡化。",
-          "level": "N3"
-        },
-        {
-          "word": "交流",
-          "reading": "kouryuu",
-          "meaning": "交流",
-          "example": "文化の交流が必要です。",
-          "exampleTranslation": "需要文化交流。",
-          "level": "N2"
-        },
-        {
-          "word": "映画館",
-          "reading": "eigakan",
-          "meaning": "電影院",
-          "example": "映画館で映画を見ました。",
-          "exampleTranslation": "我在電影院看了電影。",
-          "level": "N5"
         }
       ],
       "grammar": [
         {
-          "pattern": "に背く",
-          "explanation": "表示背離或違背某種意見或信念。",
-          "example": "民意に背く行動は良くないです。",
-          "exampleTranslation": "違背民意的行為是不好的。",
+          "pattern": "〜がある",
+          "explanation": "表示存在某物或某事。",
+          "example": "日本のセクシー女優がある。",
+          "exampleTranslation": "有日本的性感女優。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜ことができる",
+          "explanation": "表示能力或可能性。",
+          "example": "入国することができない。",
+          "exampleTranslation": "無法入境。",
+          "level": "N4"
+        },
+        {
+          "pattern": "〜ために",
+          "explanation": "表示目的或原因。",
+          "example": "活動が中止になるために。",
+          "exampleTranslation": "活動被取消的原因。",
           "level": "N2"
         },
         {
-          "pattern": "ことがある",
-          "explanation": "表示某事有時會發生。",
-          "example": "エンタメが排除されることがあります。",
-          "exampleTranslation": "有時會排除娛樂。",
+          "pattern": "〜について",
+          "explanation": "表示有關某事物的主題。",
+          "example": "この問題について話しましょう。",
+          "exampleTranslation": "讓我們談談這個問題。",
           "level": "N3"
         },
         {
-          "pattern": "恐れがある",
-          "explanation": "表示擔心或有可能發生某種不利的情況。",
-          "example": "理解が損なう恐れがあります。",
-          "exampleTranslation": "有可能損害理解。",
-          "level": "N2"
-        },
-        {
-          "pattern": "特に",
-          "explanation": "表示特別地或尤其。",
-          "example": "特に人気のある映画です。",
-          "exampleTranslation": "這是特別受歡迎的電影。",
-          "level": "N3"
-        },
-        {
-          "pattern": "可能性がある",
-          "explanation": "表示某事有可能發生的情況。",
-          "example": "文化交流が必要な可能性があります。",
-          "exampleTranslation": "有可能需要文化交流。",
+          "pattern": "〜の影響で",
+          "explanation": "表示因某事而產生的影響。",
+          "example": "この事件の影響で。",
+          "exampleTranslation": "由於這個事件的影響。",
           "level": "N2"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "日本の映画はどこで見られませんか？",
+          "question": "日本のセクシー女優は何人ですか？",
           "options": [
-            "アメリカ",
-            "フランス",
-            "中国",
-            "韓国"
+            "20人",
+            "25人",
+            "30人",
+            "35人"
           ],
           "correctAnswer": 2,
           "optionsTranslation": [
-            "美國",
-            "法國",
-            "中國",
-            "韓國"
+            "20人",
+            "25人",
+            "30人",
+            "35人"
           ],
-          "explanation": "報導中提到日本的電影在中國無法觀看。",
-          "translation": "日本的電影在哪裡無法觀看？"
+          "explanation": "據報導，約有30名日本性感女優被拒入境。",
+          "translation": "日本的性感女優有多少人？"
         },
         {
           "type": "choice",
-          "question": "ちいかわの映画はどうなっていますか？",
+          "question": "イベントはどうなりましたか？",
           "options": [
-            "上映中",
-            "見られない",
-            "人気がない",
-            "新作"
+            "開催されました",
+            "中止されました",
+            "延期されました",
+            "変更されました"
           ],
           "correctAnswer": 1,
           "optionsTranslation": [
-            "正在上映",
-            "無法觀看",
-            "不受歡迎",
-            "新作"
+            "舉行了",
+            "被取消",
+            "延期",
+            "更改"
           ],
-          "explanation": "報導中指出小可愛的電影在中國無法觀看。",
-          "translation": "小可愛的電影現在怎麼樣？"
+          "explanation": "因為入境問題，活動被取消。",
+          "translation": "活動怎麼了？"
         },
         {
           "type": "choice",
-          "question": "理解の土台が損なわれる恐れはどのような影響がありますか？",
+          "question": "入国拒否の原因は何ですか？",
           "options": [
-            "良い影響",
-            "無影響",
-            "悪い影響",
-            "分からない"
+            "ビザの問題",
+            "健康問題",
+            "天候",
+            "交通事故"
           ],
-          "correctAnswer": 2,
+          "correctAnswer": 0,
           "optionsTranslation": [
-            "良好影響",
-            "無影響",
-            "不良影響",
-            "不知道"
+            "簽證問題",
+            "健康問題",
+            "天氣",
+            "交通事故"
           ],
-          "explanation": "如果理解的基礎受到損害，將對兩國的關係產生不良影響。",
-          "translation": "理解的基礎受到損害的恐懼會帶來什麼影響？"
+          "explanation": "入境拒絕的主要原因是簽證問題。",
+          "translation": "入境拒絕的原因是什麼？"
         },
         {
           "type": "reorder",
-          "question": "請重組以下句子",
+          "question": "次の文を並べ替えてください。",
           "words": [
-            "日本",
-            "映画",
-            "の",
-            "エンタメ",
-            "排除",
-            "中国",
-            "で",
-            "されている"
+            "入国",
+            "拒否",
+            "されました",
+            "彼女たちは"
           ],
-          "correctAnswer": "日本のエンタメは中国で排除されている。",
-          "explanation": "這句話表達了日本的娛樂在中國被排除的狀況。",
-          "translation": "日本的娛樂在中國被排除。"
+          "correctAnswer": "彼女たちは入国拒否されました。",
+          "explanation": "正確的順序是「彼女たちは入国拒否されました」。",
+          "translation": "請重組以下句子。"
         },
         {
           "type": "reorder",
-          "question": "請重組以下句子",
+          "question": "次の文を並べ替えてください。",
           "words": [
-            "ちいかわ",
-            "映画",
-            "人気",
-            "の",
-            "ある"
+            "イベント",
+            "中止",
+            "になりました",
+            "このために"
           ],
-          "correctAnswer": "人気のあるちいかわの映画。",
-          "explanation": "這句話表達了小可愛的電影頗受歡迎的情況。",
-          "translation": "小可愛的電影很受歡迎。"
+          "correctAnswer": "このためにイベントが中止になりました。",
+          "explanation": "正確的順序是「このためにイベントが中止になりました」。",
+          "translation": "請重組以下句子。"
         }
       ]
     }
