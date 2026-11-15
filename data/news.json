@@ -1,1198 +1,1188 @@
 {
-  "last_updated": "2026-11-13T23:30:02.458538",
-  "date": "2026-11-13",
+  "last_updated": "2026-11-15T02:18:54.303862",
+  "date": "2026-11-15",
   "korean": [
     {
-      "title": "대한민국 초격차로의 첫 삽 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXhKMnZZVXgtUVdUMVh4LUdsckIzei1CYXJYWFU3bmlsOGYtQjlTWGlhVWYyS2ZWVUVTY0VKdWFCSTN6RnRCSGwycjIzaFNkdDhUWWxpYjFEQmJ2bVd3VkpMeTVUUVhVVHJlWHR3Wnlnai04NzBlTWZIeXFPWHhWRUVfMjIySEt4aXhVNA?oc=5",
-      "published": "Fri, 13 Nov 2026 04:16:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXhKMnZZVXgtUVdUMVh4LUdsckIzei1CYXJYWFU3bmlsOGYtQjlTWGlhVWYyS2ZWVUVTY0VKdWFCSTN6RnRCSGwycjIzaFNkdDhUWWxpYjFEQmJ2bVd3VkpMeTVUUVhVVHJlWHR3Wnlnai04NzBlTWZIeXFPWHhWRUVfMjIySEt4aXhVNA?oc=5\" target=\"_blank\">대한민국 초격차로의 첫 삽 - 영상 | 멀티미디어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한민국 정책브리핑</font>",
-      "source": "대한민국 정책브리핑",
+      "title": "\"한국 IP 대역 유망\"…북한 라자루스, 국내 서버 30곳 노렸다 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmZ0k4UEhXa2RuVGZ1LXViLXVYQW1FWktpREp2WWREdHdhbFJMV0loWFYtVy1udnpLNjlTWUpzal9hUS1jSEhPN3REOGZtMlRmcEhuTDdENVAtYnfSAWBBVV95cUxPdVNFUEl6aGdrelh4V1dVYjBZWTNJcWd3YzUyWkJkVlZWdWE1M3pYOEstQnIzanhnNnpaT3JoSDJTVGZsY0ZiV1VPcVhhMWRHazJGZzVweXloTWFtX3JKWlI?oc=5",
+      "published": "Sat, 14 Nov 2026 22:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmZ0k4UEhXa2RuVGZ1LXViLXVYQW1FWktpREp2WWREdHdhbFJMV0loWFYtVy1udnpLNjlTWUpzal9hUS1jSEhPN3REOGZtMlRmcEhuTDdENVAtYnfSAWBBVV95cUxPdVNFUEl6aGdrelh4V1dVYjBZWTNJcWd3YzUyWkJkVlZWdWE1M3pYOEstQnIzanhnNnpaT3JoSDJTVGZsY0ZiV1VPcVhhMWRHazJGZzVweXloTWFtX3JKWlI?oc=5\" target=\"_blank\">\"한국 IP 대역 유망\"…북한 라자루스, 국내 서버 30곳 노렸다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+      "source": "연합뉴스",
       "fullContent": {
-        "beginner": "대한민국은 새로운 프로젝트를 시작했습니다. 이것은 초격차를 만드는 것입니다. 많은 사람들이 기대하고 있습니다.",
-        "intermediate": "대한민국은 초격차 프로젝트를 시작했습니다. 이 프로젝트는 기술 발전을 통해 경쟁력을 높이려는 목표가 있습니다. 많은 전문가들이 이 프로젝트에 참여하고 있으며, 기대가 큽니다. 정부는 이 프로젝트를 통해 경제 성장을 이루고자 합니다.",
-        "advanced": "대한민국은 '초격차' 프로젝트의 첫 삽을 떴습니다. 이 프로젝트는 기술 혁신과 산업 발전을 통해 글로벌 경쟁력을 강화하는 것을 목표로 하고 있습니다. 정부는 이 프로젝트를 통해 국가의 경제를 활성화하고 지속 가능한 발전을 이루고자 합니다. 전문가들은 이 프로젝트가 미래의 산업 지형을 변화시킬 것이라고 보고 있습니다. 따라서 많은 이들이 이 프로젝트의 성공을 기대하고 있습니다.",
-        "original": "대한민국 초격차로의 첫 삽 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-        "titleTranslation": "韓國超越差距的第一步 - 影片 | 多媒體 - 韓國政策簡報",
+        "beginner": "북한 해커가 한국의 서버를 공격했습니다. 라자루스라는 그룹이 있습니다. 이들은 30개의 서버를 노렸습니다.",
+        "intermediate": "최근 북한의 해커 그룹인 라자루스가 한국의 여러 서버를 공격한 사건이 발생했습니다. 이들은 한국 IP 대역을 유망하게 보고 30개 서버를 목표로 삼았습니다. 전문가들은 이 공격이 한국의 보안에 큰 위협이 될 것이라고 경고하고 있습니다.",
+        "advanced": "북한의 해커 그룹 라자루스가 한국의 30개 서버를 목표로 삼아 공격을 감행했습니다. 이들은 한국의 IP 대역을 유망하게 평가하며, 보안 전문가들은 이러한 공격이 한국의 정보 시스템에 심각한 위협이 될 수 있다고 경고하고 있습니다. 라자루스는 과거에도 여러 차례 사이버 공격을 감행한 바 있으며, 이번 공격은 그들의 활동이 계속되고 있음을 보여줍니다. 한국 정부는 이러한 공격에 대한 대응 방안을 마련해야 할 시점에 도달했습니다.",
+        "original": "한국 IP 대역 유망…북한 라자루스, 국내 서버 30곳 노렸다",
+        "titleTranslation": "「韓國 IP 大範圍有潛力」…北韓拉札魯斯，鎖定國內30個伺服器",
         "translations": {
           "beginner": [
-            "韓國啟動了一個新項目。",
-            "這是創造超越差距的項目。",
-            "很多人期待這個項目。"
+            "北韓黑客攻擊了韓國的伺服器。",
+            "有一個叫拉札魯斯的團體。",
+            "他們瞄準了30個伺服器。"
           ],
           "intermediate": [
-            "韓國啟動了超越差距的項目。",
-            "這個項目的目標是提高競爭力。",
-            "許多專家參與了這個項目，期待很高。",
-            "政府希望通過這個項目實現經濟增長。"
+            "最近北韓的黑客團體拉札魯斯攻擊了韓國的多個伺服器。",
+            "他們將韓國的IP範圍視為有潛力，並把30個伺服器作為目標。",
+            "專家們警告這次攻擊可能對韓國的安全造成重大威脅。"
           ],
           "advanced": [
-            "韓國開啟了超越差距項目的第一步。",
-            "該項目的目標是通過技術創新和產業發展來加強全球競爭力。",
-            "政府希望通過這個項目來促進國家的經濟發展。",
-            "專家們認為，這個項目將改變未來的產業格局。",
-            "因此，許多人期待這個項目的成功。"
+            "北韓的黑客團體拉札魯斯針對韓國的30個伺服器發起了攻擊。",
+            "他們評估韓國的IP範圍為有潛力，這引起了廣泛的關注。",
+            "安全專家警告這次攻擊可能會對韓國的資訊系統造成嚴重威脅。",
+            "拉札魯斯過去也曾多次進行網路攻擊，這次事件再次顯示他們的活動仍在繼續。",
+            "韓國政府現在需要制定應對這些攻擊的方案。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "프로젝트",
-          "reading": "peurojekteu",
-          "meaning": "項目",
-          "example": "이 프로젝트는 매우 중요합니다.",
-          "exampleTranslation": "這個項目非常重要。",
-          "level": "4"
-        },
-        {
-          "word": "기술",
-          "reading": "gisul",
-          "meaning": "技術",
-          "example": "기술 혁신이 필요합니다.",
-          "exampleTranslation": "需要技術創新。",
+          "word": "해커",
+          "reading": "haekeo",
+          "meaning": "黑客",
+          "example": "해커는 서버를 공격했습니다.",
+          "exampleTranslation": "黑客攻擊了伺服器。",
           "level": "3"
         },
         {
-          "word": "경제",
-          "reading": "gyeongje",
-          "meaning": "經濟",
-          "example": "경제 성장을 위해 노력해야 합니다.",
-          "exampleTranslation": "必須努力實現經濟增長。",
-          "level": "4"
+          "word": "그룹",
+          "reading": "geurup",
+          "meaning": "團體",
+          "example": "이 그룹은 위험합니다.",
+          "exampleTranslation": "這個團體很危險。",
+          "level": "3"
+        },
+        {
+          "word": "서버",
+          "reading": "seobeo",
+          "meaning": "伺服器",
+          "example": "서버가 다운되었습니다.",
+          "exampleTranslation": "伺服器當機了。",
+          "level": "6"
+        },
+        {
+          "word": "공격",
+          "reading": "gonggyeok",
+          "meaning": "攻擊",
+          "example": "그들은 공격을 시작했습니다.",
+          "exampleTranslation": "他們開始了攻擊。",
+          "level": "3"
         },
         {
           "word": "전문가",
-          "reading": "jeonmunga",
+          "reading": "jeonmun-ga",
           "meaning": "專家",
-          "example": "많은 전문가가 이 프로젝트에 참여하고 있습니다.",
-          "exampleTranslation": "許多專家參與了這個項目。",
+          "example": "전문가는 경고합니다.",
+          "exampleTranslation": "專家發出警告。",
           "level": "4"
         },
         {
-          "word": "성공",
-          "reading": "seonggong",
-          "meaning": "成功",
-          "example": "이 프로젝트는 성공할 것입니다.",
-          "exampleTranslation": "這個項目將會成功。",
+          "word": "위협",
+          "reading": "wiheop",
+          "meaning": "威脅",
+          "example": "이 공격은 큰 위협입니다.",
+          "exampleTranslation": "這次攻擊是個大威脅。",
+          "level": "4"
+        },
+        {
+          "word": "정보",
+          "reading": "jeongbo",
+          "meaning": "資訊",
+          "example": "정보 시스템이 중요합니다.",
+          "exampleTranslation": "資訊系統很重要。",
+          "level": "3"
+        },
+        {
+          "word": "시스템",
+          "reading": "siseutem",
+          "meaning": "系統",
+          "example": "이 시스템은 안전합니다.",
+          "exampleTranslation": "這個系統是安全的。",
+          "level": "4"
+        },
+        {
+          "word": "대응",
+          "reading": "daeung",
+          "meaning": "應對",
+          "example": "대응 방안을 마련해야 합니다.",
+          "exampleTranslation": "需要制定應對方案。",
+          "level": "4"
+        },
+        {
+          "word": "활동",
+          "reading": "hwaldong",
+          "meaning": "活動",
+          "example": "그들의 활동이 계속되고 있습니다.",
+          "exampleTranslation": "他們的活動仍在進行中。",
+          "level": "3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "V + 아/어야 하다",
+          "explanation": "表示必須做某事。",
+          "example": "대응 방안을 마련해야 합니다.",
+          "exampleTranslation": "必須制定應對方案。",
+          "level": "3"
+        },
+        {
+          "pattern": "V + 고 있다",
+          "explanation": "表示正在進行某個動作。",
+          "example": "그들의 활동이 계속되고 있습니다.",
+          "exampleTranslation": "他們的活動仍在進行中。",
+          "level": "2"
+        },
+        {
+          "pattern": "N + 을/를 노리다",
+          "explanation": "表示以某物作為目標。",
+          "example": "서버를 노렸다.",
+          "exampleTranslation": "以伺服器為目標。",
+          "level": "4"
+        },
+        {
+          "pattern": "N + 에 대해",
+          "explanation": "表示對某個主題進行討論或陳述。",
+          "example": "이 공격에 대해 전문가가 말했습니다.",
+          "exampleTranslation": "專家談到了這次攻擊。",
+          "level": "4"
+        },
+        {
+          "pattern": "V + 기 위해서",
+          "explanation": "表示為了某個目的而做某事。",
+          "example": "대응 방안을 마련하기 위해서 노력해야 합니다.",
+          "exampleTranslation": "為了制定應對方案，必須努力。",
+          "level": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "북한의 해커 그룹은 무엇입니까?",
+          "options": [
+            "라자루스",
+            "코드크래커",
+            "영화",
+            "서버"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "拉札魯斯",
+            "碼農",
+            "電影",
+            "伺服器"
+          ],
+          "explanation": "拉札魯斯是北韓的黑客團體。",
+          "translation": "北韓的黑客團體是什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "라자루스는 몇 개의 서버를 노렸습니까?",
+          "options": [
+            "10개",
+            "20개",
+            "30개",
+            "40개"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "10個",
+            "20個",
+            "30個",
+            "40個"
+          ],
+          "explanation": "根據新聞，他們瞄準了30個伺服器。",
+          "translation": "拉札魯斯鎖定了幾個伺服器？"
+        },
+        {
+          "type": "choice",
+          "question": "이 공격은 어떤 위협이 될 수 있습니까?",
+          "options": [
+            "소소한",
+            "일반적인",
+            "심각한",
+            "가벼운"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "微不足道的",
+            "一般的",
+            "嚴重的",
+            "輕微的"
+          ],
+          "explanation": "這次攻擊被警告為可能是嚴重的威脅。",
+          "translation": "這次攻擊可能會成為什麼樣的威脅？"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하세요.",
+          "words": [
+            "해커",
+            "서버를",
+            "공격했습니다",
+            "그들은"
+          ],
+          "correctAnswer": "그들은 서버를 공격했습니다.",
+          "explanation": "正確的順序應該是「他們攻擊了伺服器」。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하세요.",
+          "words": [
+            "위협",
+            "이",
+            "큰입니다",
+            "공격은"
+          ],
+          "correctAnswer": "이 공격은 큰 위협입니다.",
+          "explanation": "正確的順序應該是「這次攻擊是重大威脅」。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "에티오피아에 한국전쟁 참전 전사자 ’추모의 벽’ 건립 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53cE83NUxwa3RtMlNRNU9jaUt0alV2cTVSY2dUSndDRlRtYmJFUHFPYW0xMGFqWEdhZXFDLTh2eEt2Z0JiUk5tZXdmS3YzbWhLbjBMY2pTQTJlV0V0VFkyWHhDQ1NtNW8?oc=5",
+      "published": "Sun, 15 Nov 2026 00:13:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53cE83NUxwa3RtMlNRNU9jaUt0alV2cTVSY2dUSndDRlRtYmJFUHFPYW0xMGFqWEdhZXFDLTh2eEt2Z0JiUk5tZXdmS3YzbWhLbjBMY2pTQTJlV0V0VFkyWHhDQ1NtNW8?oc=5\" target=\"_blank\">에티오피아에 한국전쟁 참전 전사자 ’추모의 벽’ 건립</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
+      "source": "연합뉴스TV",
+      "fullContent": {
+        "beginner": "에티오피아에 한국전쟁 참전 전사자 '추모의 벽'이 세워졌습니다. 이 벽은 전사자들을 기리기 위해 만들어졌습니다. 많은 사람들이 이 벽을 방문할 것입니다.",
+        "intermediate": "에티오피아에서는 한국전쟁에 참전한 전사자들을 기리기 위해 '추모의 벽'을 건립했습니다. 이 벽은 전사자들의 희생을 기억하기 위한 상징적인 장소가 될 것입니다. 많은 사람들이 이 벽을 방문하여 전사자들에게 경의를 표할 계획입니다.",
+        "advanced": "에티오피아에 한국전쟁 참전 전사자들을 기리기 위한 '추모의 벽'이 세워졌습니다. 이 벽은 전사자들의 희생을 기념하고, 후세대에게 그들의 용기를 잊지 않도록 하는 중요한 역할을 할 것입니다. 많은 이들이 이 벽을 찾아 전사자들에게 경의를 표하고, 한국전쟁의 의미를 다시 한번 되새길 것입니다.",
+        "original": "에티오피아에 한국전쟁 참전 전사자 ’추모의 벽’ 건립",
+        "titleTranslation": "在埃塞俄比亞建立韓戰參戰者'紀念牆'",
+        "translations": {
+          "beginner": [
+            "在埃塞俄比亞建立了韓戰參戰者'紀念牆'.",
+            "這面牆是為了紀念戰士們而建立的.",
+            "很多人會來參觀這面牆."
+          ],
+          "intermediate": [
+            "在埃塞俄比亞建設了一面紀念韓戰參戰者的牆.",
+            "這面牆將成為紀念戰士們犧牲的象徵性場所.",
+            "許多人計劃前來參觀這面牆，向戰士們致敬."
+          ],
+          "advanced": [
+            "在埃塞俄比亞建立了一面紀念韓戰參戰者的'紀念牆'.",
+            "這面牆將會承擔紀念戰士們犧牲的使命，",
+            "並提醒後代不會忘記他們的勇氣.",
+            "許多人將前來這面牆，向戰士們表達敬意，",
+            "並再次思考韓戰的意義."
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "에티오피아",
+          "reading": "etio-pia",
+          "meaning": "埃塞俄比亞",
+          "example": "에티오피아는 아프리카에 있습니다.",
+          "exampleTranslation": "埃塞俄比亞在非洲。",
+          "level": "4"
+        },
+        {
+          "word": "한국전쟁",
+          "reading": "han-guk-jeon-jaeng",
+          "meaning": "韓戰",
+          "example": "한국전쟁은 1950년에 시작되었습니다.",
+          "exampleTranslation": "韓戰是在1950年開始的。",
+          "level": "3"
+        },
+        {
+          "word": "참전",
+          "reading": "cham-jeon",
+          "meaning": "參戰",
+          "example": "그는 6.25전쟁에 참전했습니다.",
+          "exampleTranslation": "他參加了6.25戰爭。",
+          "level": "4"
+        },
+        {
+          "word": "전사자",
+          "reading": "jeon-sa-ja",
+          "meaning": "戰士",
+          "example": "전사자를 기리기 위해 기념비를 세웠습니다.",
+          "exampleTranslation": "為了紀念戰士，建立了紀念碑。",
+          "level": "4"
+        },
+        {
+          "word": "추모",
+          "reading": "chu-mo",
+          "meaning": "追悼",
+          "example": "그들은 전사자를 추모했습니다.",
+          "exampleTranslation": "他們追悼了戰士。",
+          "level": "5"
+        },
+        {
+          "word": "벽",
+          "reading": "byeok",
+          "meaning": "牆",
+          "example": "그는 벽을 그렸습니다.",
+          "exampleTranslation": "他畫了牆。",
+          "level": "1"
+        },
+        {
+          "word": "건립",
+          "reading": "geon-rip",
+          "meaning": "建設",
+          "example": "그들은 기념비를 건립했습니다.",
+          "exampleTranslation": "他們建立了紀念碑。",
+          "level": "4"
+        },
+        {
+          "word": "희생",
+          "reading": "hui-saeng",
+          "meaning": "犧牲",
+          "example": "많은 이들이 희생되었습니다.",
+          "exampleTranslation": "許多人犧牲了。",
+          "level": "4"
+        },
+        {
+          "word": "기념",
+          "reading": "gi-nyeom",
+          "meaning": "紀念",
+          "example": "기념일에 특별한 행사가 열립니다.",
+          "exampleTranslation": "紀念日將舉行特別活動。",
+          "level": "3"
+        },
+        {
+          "word": "경의",
+          "reading": "gyeong-ui",
+          "meaning": "敬意",
+          "example": "그들은 전사자에게 경의를 표했습니다.",
+          "exampleTranslation": "他們向戰士表示敬意。",
+          "level": "3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "을/를 위해",
+          "explanation": "表示為了某個目的而做某事。",
+          "example": "전사자를 위해 기념비를 세웠습니다.",
+          "exampleTranslation": "為了紀念戰士而建立了紀念碑。",
+          "level": "4"
+        },
+        {
+          "pattern": "고 있다",
+          "explanation": "表示某個動作正在進行中。",
+          "example": "많은 사람들이 벽을 방문하고 있습니다.",
+          "exampleTranslation": "很多人正在參觀牆。",
+          "level": "2"
+        },
+        {
+          "pattern": "기 위해",
+          "explanation": "表示為了達到某個目的。",
+          "example": "희생을 잊지 않기 위해 이 벽을 세웠습니다.",
+          "exampleTranslation": "為了不忘記犧牲而建立這面牆。",
+          "level": "3"
+        },
+        {
+          "pattern": "게 되다",
+          "explanation": "表示變成某種狀態或情況。",
+          "example": "이 벽이 상징적인 장소가 되었습니다.",
+          "exampleTranslation": "這面牆成為了象徵性場所。",
+          "level": "4"
+        },
+        {
+          "pattern": "려고 하다",
+          "explanation": "表示打算或計劃做某事。",
+          "example": "사람들이 방문하려고 합니다.",
+          "exampleTranslation": "人們計劃來參觀。",
+          "level": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "한국전쟁은 언제 시작되었나요?",
+          "options": [
+            "1945년",
+            "1950년",
+            "1960년",
+            "1970년"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "1945年",
+            "1950年",
+            "1960年",
+            "1970年"
+          ],
+          "explanation": "韓戰是在1950年開始的。",
+          "translation": "韓戰是什麼時候開始的？"
+        },
+        {
+          "type": "choice",
+          "question": "추모의 벽은 무엇을 위해 세워졌나요?",
+          "options": [
+            "전사자를 기리기 위해",
+            "기념일을 위해",
+            "전쟁을 잊기 위해",
+            "사람들을 위해"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "為了紀念戰士",
+            "為了紀念日",
+            "為了忘記戰爭",
+            "為了人們"
+          ],
+          "explanation": "這面牆是為了紀念戰士而建立的。",
+          "translation": "紀念牆是為了什麼而建立的？"
+        },
+        {
+          "type": "choice",
+          "question": "에티오피아는 어디에 있나요?",
+          "options": [
+            "아시아",
+            "유럽",
+            "아프리카",
+            "북미"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "亞洲",
+            "歐洲",
+            "非洲",
+            "北美"
+          ],
+          "explanation": "埃塞俄比亞位於非洲。",
+          "translation": "埃塞俄比亞位於哪裡？"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하세요: '세워졌습니다 벽 추모의 에티오피아에'",
+          "words": [
+            "세워졌습니다",
+            "벽",
+            "추모의",
+            "에티오피아에"
+          ],
+          "correctAnswer": "에티오피아에 추모의 벽이 세워졌습니다.",
+          "explanation": "正確的順序是將地點放在前面，然後是名詞和動詞。",
+          "translation": "請重組以下句子：'在埃塞俄比亞建立紀念牆'"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하세요: '기리기 위해 세워진 벽입니다'",
+          "words": [
+            "기리기",
+            "위해",
+            "세워진",
+            "벽입니다"
+          ],
+          "correctAnswer": "기리기 위해 세워진 벽입니다.",
+          "explanation": "這句話的正確順序是主語在前，目的在後。",
+          "translation": "請重組以下句子：'這是為了紀念而建立的牆'"
+        }
+      ]
+    },
+    {
+      "title": "일본 딱 기다려! '김도영 결승포' 한국, 대만 잡고 3연속 결승진출 확정…KIA가 한국 야구 '대참사' 막았다 [APBC 리뷰] - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9lbFVod3Jyd3E4S0luYTFGbEl4bWZFRlFCdnZjeG4yWDJlT0ZkODVRS2pvcHJFNFhsLWl2RVo0NmxuUWZYdFdHWkxhUTJ1azhNRFpuUjRJYTFneUluY1pBT29BUnBqNWpsNXpxX2N1eWFlTEJUY2Jlb0pFeVlHR2NOQQ?oc=5",
+      "published": "Sat, 14 Nov 2026 14:26:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPbV9lbFVod3Jyd3E4S0luYTFGbEl4bWZFRlFCdnZjeG4yWDJlT0ZkODVRS2pvcHJFNFhsLWl2RVo0NmxuUWZYdFdHWkxhUTJ1azhNRFpuUjRJYTFneUluY1pBT29BUnBqNWpsNXpxX2N1eWFlTEJUY2Jlb0pFeVlHR2NOQQ?oc=5\" target=\"_blank\">일본 딱 기다려! '김도영 결승포' 한국, 대만 잡고 3연속 결승진출 확정…KIA가 한국 야구 '대참사' 막았다 [APBC 리뷰]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+      "source": "조선일보",
+      "fullContent": {
+        "beginner": "오늘 한국 야구팀이 대만을 이겼어요. 김도영 선수가 결승타를 쳤어요. 한국은 결승에 갔어요.",
+        "intermediate": "한국 야구팀이 대만을 꺾고 결승에 진출했습니다. 김도영 선수의 결승포가 중요한 역할을 했습니다. 이제 한국은 3연속 결승 진출을 확정했습니다.",
+        "advanced": "한국 야구팀이 대만을 상대로 승리하며 3연속 결승 진출을 확정했습니다. 김도영 선수의 결승타는 경기를 결정짓는 중요한 순간이었습니다. KIA팀은 한국 야구의 큰 위기를 막아냈습니다. 이제 일본과의 결승에서 승리하기를 기대하고 있습니다.",
+        "original": "일본 딱 기다려! '김도영 결승포' 한국, 대만 잡고 3연속 결승진출 확정…KIA가 한국 야구 '대참사' 막았다 [APBC 리뷰]",
+        "titleTranslation": "日本等著吧！'金道榮決勝打' 韓國擊敗台灣確定3連續進入決賽…KIA阻止韓國棒球的'大慘事' [APBC評論]",
+        "translations": {
+          "beginner": [
+            "今天韓國棒球隊贏了台灣。",
+            "金道榮選手打了決勝打。",
+            "韓國進入了決賽。"
+          ],
+          "intermediate": [
+            "韓國棒球隊擊敗了台灣，進入了決賽。",
+            "金道榮選手的決勝打扮演了重要角色。",
+            "現在韓國確定了三連續進入決賽。"
+          ],
+          "advanced": [
+            "韓國棒球隊在對陣台灣的比賽中獲勝，確定了三連續進入決賽。",
+            "金道榮選手的決勝打是決定比賽的關鍵時刻。",
+            "KIA隊阻止了韓國棒球的重大危機。",
+            "現在大家都期待與日本的決賽勝利。",
+            "這場比賽非常緊張，球迷們都非常激動。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "결승",
+          "reading": "gyeolsseung",
+          "meaning": "決賽",
+          "example": "결승에 진출하다.",
+          "exampleTranslation": "進入決賽。",
+          "level": "4"
+        },
+        {
+          "word": "선수",
+          "reading": "seonsu",
+          "meaning": "選手",
+          "example": "김도영 선수는 훌륭하다.",
+          "exampleTranslation": "金道榮選手非常出色。",
+          "level": "3"
+        },
+        {
+          "word": "결승타",
+          "reading": "gyeolsseungta",
+          "meaning": "決勝打",
+          "example": "결승타를 쳤다.",
+          "exampleTranslation": "打了決勝打。",
+          "level": "4"
+        },
+        {
+          "word": "승리",
+          "reading": "seungri",
+          "meaning": "勝利",
+          "example": "팀이 승리했다.",
+          "exampleTranslation": "隊伍獲勝了。",
+          "level": "3"
+        },
+        {
+          "word": "야구",
+          "reading": "yagu",
+          "meaning": "棒球",
+          "example": "한국 야구는 유명하다.",
+          "exampleTranslation": "韓國棒球很有名。",
+          "level": "1"
+        },
+        {
+          "word": "확정",
+          "reading": "hwakjeong",
+          "meaning": "確定",
+          "example": "진출이 확정되었다.",
+          "exampleTranslation": "進入確定了。",
+          "level": "4"
+        },
+        {
+          "word": "중요",
+          "reading": "jungyo",
+          "meaning": "重要",
+          "example": "이 순간은 중요하다.",
+          "exampleTranslation": "這一刻很重要。",
           "level": "3"
         },
         {
           "word": "기대",
           "reading": "gidae",
           "meaning": "期待",
-          "example": "모두가 이 프로젝트에 기대하고 있습니다.",
-          "exampleTranslation": "大家都期待這個項目。",
+          "example": "결승에서 승리를 기대한다.",
+          "exampleTranslation": "期待在決賽中獲勝。",
           "level": "2"
         },
         {
-          "word": "산업",
-          "reading": "san-eop",
-          "meaning": "產業",
-          "example": "산업 발전이 중요합니다.",
-          "exampleTranslation": "產業發展非常重要。",
-          "level": "4"
+          "word": "막다",
+          "reading": "makda",
+          "meaning": "阻止",
+          "example": "위기를 막았다.",
+          "exampleTranslation": "阻止了危機。",
+          "level": "3"
         },
         {
-          "word": "혁신",
-          "reading": "hyeoksin",
-          "meaning": "創新",
-          "example": "혁신적인 아이디어가 필요합니다.",
-          "exampleTranslation": "需要創新的想法。",
-          "level": "6"
-        },
-        {
-          "word": "경쟁력",
-          "reading": "gyeongjaengnyeok",
-          "meaning": "競爭力",
-          "example": "경쟁력을 높여야 합니다.",
-          "exampleTranslation": "必須提高競爭力。",
-          "level": "5"
-        },
-        {
-          "word": "발전",
-          "reading": "baljeon",
-          "meaning": "發展",
-          "example": "지속 가능한 발전을 이루어야 합니다.",
-          "exampleTranslation": "必須實現可持續發展。",
-          "level": "4"
+          "word": "경기",
+          "reading": "gyeonggi",
+          "meaning": "比賽",
+          "example": "경기가 시작되었다.",
+          "exampleTranslation": "比賽開始了。",
+          "level": "3"
         }
       ],
       "grammar": [
         {
-          "pattern": "을/를 통해",
-          "explanation": "表示通过某种方式或手段。",
-          "example": "기술을 통해 경쟁력을 높입니다.",
-          "exampleTranslation": "通過技術提高競爭力。",
+          "pattern": "으/느니",
+          "explanation": "用於表達某種情況或推測。",
+          "example": "그가 이길 가능성이 크다.",
+          "exampleTranslation": "他贏的可能性很大。",
           "level": "4"
         },
         {
-          "pattern": "고자 하다",
-          "explanation": "表示想要或打算做某事。",
-          "example": "경제 성장을 이루고자 합니다.",
-          "exampleTranslation": "希望實現經濟增長。",
-          "level": "4"
-        },
-        {
-          "pattern": "ㄹ/을 것이다",
-          "explanation": "表示未來的預測或計劃。",
-          "example": "이 프로젝트는 성공할 것이다.",
-          "exampleTranslation": "這個項目將會成功。",
+          "pattern": "ㄹ/을 수 있다",
+          "explanation": "表示能力或可能性。",
+          "example": "나는 야구를 할 수 있다.",
+          "exampleTranslation": "我能打棒球。",
           "level": "3"
         },
         {
-          "pattern": "기 위해",
-          "explanation": "表示目的或理由。",
-          "example": "산업 발전을 위해 노력해야 합니다.",
-          "exampleTranslation": "必須為產業發展而努力。",
+          "pattern": "지만",
+          "explanation": "表示轉折，意為「但是」。",
+          "example": "그는 잘하지만 연습이 필요하다.",
+          "exampleTranslation": "他很好，但需要練習。",
           "level": "3"
         },
         {
-          "pattern": "기대가 크다",
-          "explanation": "表示期待很高。",
-          "example": "모두가 이 프로젝트에 기대가 큽니다.",
-          "exampleTranslation": "大家對這個項目的期待很高。",
-          "level": "3"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "대한민국은 무엇을 시작했습니까?",
-          "options": [
-            "정치 개혁",
-            "초격차 프로젝트",
-            "문화 교류",
-            "환경 보호"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "政治改革",
-            "超越差距項目",
-            "文化交流",
-            "環境保護"
-          ],
-          "explanation": "新聞提到韓國啟動了超越差距的項目。",
-          "translation": "韓國開始了什麼？"
-        },
-        {
-          "type": "choice",
-          "question": "프로젝트의 목표는 무엇인가요?",
-          "options": [
-            "기술 발전",
-            "문화 발전",
-            "사회 안정",
-            "환경 개선"
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "技術發展",
-            "文化發展",
-            "社會穩定",
-            "環境改善"
-          ],
-          "explanation": "新聞提到這個項目的目的是提高競爭力，與技術發展有關。",
-          "translation": "項目的目標是什麼？"
-        },
-        {
-          "type": "choice",
-          "question": "이 프로젝트에 참여하는 사람들은 누구인가요?",
-          "options": [
-            "전문가들",
-            "일반 시민",
-            "학생들",
-            "정치인들"
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "專家們",
-            "一般市民",
-            "學生們",
-            "政治人物"
-          ],
-          "explanation": "新聞中提到許多專家參與了這個項目。",
-          "translation": "這個項目參與的人是誰？"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재조합하세요: 프로젝트/새로운/대한민국/시작했습니다.",
-          "words": [
-            "대한민국",
-            "시작했습니다",
-            "프로젝트",
-            "새로운"
-          ],
-          "correctAnswer": "대한민국은 새로운 프로젝트를 시작했습니다.",
-          "explanation": "正確的句子是‘韓國啟動了一個新項目’。",
-          "translation": "請重組以下句子：項目/新的/韓國/開始了。"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재조합하세요: 기술/경쟁력을/높이기/위한/필요합니다.",
-          "words": [
-            "필요합니다",
-            "경쟁력을",
-            "높이기",
-            "위한",
-            "기술"
-          ],
-          "correctAnswer": "기술을 높이기 위해 필요합니다.",
-          "explanation": "正確的句子是‘需要為提高競爭力的技術’。",
-          "translation": "請重組以下句子：技術/競爭力/提高/需要/的。"
-        }
-      ]
-    },
-    {
-      "title": "\"엔비디아, 한국에 GPU 26만 장 공급 재확인\" - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yZVpZTk05bDFDcTBGTTFURUJGSlhpZWRkM0NhN2F3NzRhbmNLbEdvMGpKSlItRjJicXU0Mm43WFFnNmZ4UnV5V1o0aXJyNGxmV0F0OVFLeHlQckNuR1dCbTNZenpHOTQ?oc=5",
-      "published": "Fri, 13 Nov 2026 11:35:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yZVpZTk05bDFDcTBGTTFURUJGSlhpZWRkM0NhN2F3NzRhbmNLbEdvMGpKSlItRjJicXU0Mm43WFFnNmZ4UnV5V1o0aXJyNGxmV0F0OVFLeHlQckNuR1dCbTNZenpHOTQ?oc=5\" target=\"_blank\">\"엔비디아, 한국에 GPU 26만 장 공급 재확인\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
-      "source": "연합뉴스TV",
-      "fullContent": {
-        "beginner": "엔비디아는 한국에 GPU를 공급합니다. 이번에 26만 장을 공급합니다. 이 소식은 아주 중요합니다.",
-        "intermediate": "엔비디아는 한국에 26만 장의 GPU를 공급한다고 재확인했습니다. 이 공급은 한국의 기술 산업에 큰 도움이 될 것입니다. 많은 기업들이 이 GPU를 사용할 계획입니다.",
-        "advanced": "엔비디아는 한국에 26만 장의 GPU를 공급한다고 공식적으로 재확인했습니다. 이 공급은 한국의 인공지능 및 데이터 처리 분야에 큰 영향을 미칠 것으로 예상됩니다. 한국의 여러 기업들은 이 GPU를 통해 성능을 향상시키고 경쟁력을 강화할 계획입니다. 또한, 엔비디아는 지속적인 기술 지원을 약속했습니다. 이로 인해 한국의 기술 발전이 더욱 가속화될 것으로 보입니다.",
-        "original": "엔비디아, 한국에 GPU 26만 장 공급 재확인",
-        "titleTranslation": "NVIDIA再次確認向韓國供應26萬個GPU",
-        "translations": {
-          "beginner": [
-            "NVIDIA會供應GPU給韓國。",
-            "這次供應26萬個。",
-            "這個消息非常重要。"
-          ],
-          "intermediate": [
-            "NVIDIA再次確認將供應26萬個GPU給韓國。",
-            "這次供應對韓國的科技產業將有很大幫助。",
-            "許多企業計畫使用這些GPU。"
-          ],
-          "advanced": [
-            "NVIDIA正式再次確認將向韓國供應26萬個GPU。",
-            "這次供應預計將對韓國的人工智慧和數據處理領域產生重大影響。",
-            "許多韓國企業計畫透過這些GPU提升性能和增強競爭力。",
-            "此外，NVIDIA還承諾提供持續的技術支援。",
-            "這將促進韓國科技的快速發展。"
-          ]
-        }
-      },
-      "vocabulary": [
-        {
-          "word": "엔비디아",
-          "reading": "enbidia",
-          "meaning": "NVIDIA（公司名）",
-          "example": "엔비디아는 그래픽 카드 회사입니다.",
-          "exampleTranslation": "NVIDIA是一家顯示卡公司。",
-          "level": "6"
-        },
-        {
-          "word": "GPU",
-          "reading": "GPU",
-          "meaning": "圖形處理單元",
-          "example": "GPU는 게임에 매우 중요합니다.",
-          "exampleTranslation": "GPU對於遊戲非常重要。",
-          "level": "6"
-        },
-        {
-          "word": "공급",
-          "reading": "gonggeup",
-          "meaning": "供應",
-          "example": "회사는 제품을 공급합니다.",
-          "exampleTranslation": "公司供應產品。",
-          "level": "4"
-        },
-        {
-          "word": "재확인",
-          "reading": "jaehwakin",
-          "meaning": "再次確認",
-          "example": "정보를 재확인해야 합니다.",
-          "exampleTranslation": "需要再次確認資訊。",
-          "level": "4"
-        },
-        {
-          "word": "한국",
-          "reading": "hanguk",
-          "meaning": "韓國",
-          "example": "한국은 기술 발전이 빠릅니다.",
-          "exampleTranslation": "韓國的技術發展非常快。",
+          "pattern": "에 가다/오다",
+          "explanation": "表示方向或目的地。",
+          "example": "결승에 가다.",
+          "exampleTranslation": "去決賽。",
           "level": "1"
-        },
-        {
-          "word": "기술",
-          "reading": "gisul",
-          "meaning": "技術",
-          "example": "새로운 기술이 필요합니다.",
-          "exampleTranslation": "需要新技術。",
-          "level": "4"
-        },
-        {
-          "word": "기업",
-          "reading": "gieop",
-          "meaning": "企業",
-          "example": "많은 기업이 이 제품을 사용합니다.",
-          "exampleTranslation": "許多企業使用這個產品。",
-          "level": "4"
-        },
-        {
-          "word": "영향",
-          "reading": "yeonghyang",
-          "meaning": "影響",
-          "example": "이 사건은 큰 영향을 미쳤습니다.",
-          "exampleTranslation": "這事件產生了很大的影響。",
-          "level": "4"
-        },
-        {
-          "word": "계획",
-          "reading": "gyehoek",
-          "meaning": "計畫",
-          "example": "우리는 새로운 계획을 세웠습니다.",
-          "exampleTranslation": "我們制定了新計畫。",
-          "level": "3"
-        },
-        {
-          "word": "지원",
-          "reading": "jiwon",
-          "meaning": "支援",
-          "example": "우리는 필요한 지원을 제공할 것입니다.",
-          "exampleTranslation": "我們會提供必要的支援。",
-          "level": "3"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "아/어야 하다",
-          "explanation": "表示必須、應該做的事情。通常用於建議或義務。",
-          "example": "이 일을 빨리 해야 합니다.",
-          "exampleTranslation": "這件事必須快速完成。",
-          "level": "3"
-        },
-        {
-          "pattern": "ㄴ/은 것 같다",
-          "explanation": "表示推測或看起來的情況。",
-          "example": "그 일이 어려운 것 같습니다.",
-          "exampleTranslation": "那件事看起來很困難。",
-          "level": "4"
-        },
-        {
-          "pattern": "때문에",
-          "explanation": "表示原因，通常使用於因果關係。",
-          "example": "비가 오기 때문에 집에 있습니다.",
-          "exampleTranslation": "因為下雨所以待在家裡。",
-          "level": "4"
-        },
-        {
-          "pattern": "기 위해서",
-          "explanation": "表示目的，通常用於表達做某事的原因。",
-          "example": "한국어를 배우기 위해서 학교에 다닙니다.",
-          "exampleTranslation": "為了學習韓語，我上學。",
-          "level": "3"
-        },
-        {
-          "pattern": "ㄹ/을 예정이다",
-          "explanation": "表示計畫或預定的事情。",
-          "example": "우리는 내일 회의를 할 예정이다.",
-          "exampleTranslation": "我們計畫明天開會。",
-          "level": "3"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "엔비디아는 몇 장의 GPU를 공급합니까?",
-          "options": [
-            "10만 장",
-            "20만 장",
-            "26만 장",
-            "30만 장"
-          ],
-          "correctAnswer": 2,
-          "optionsTranslation": [
-            "10萬張",
-            "20萬張",
-            "26萬張",
-            "30萬張"
-          ],
-          "explanation": "根據新聞，NVIDIA將供應26萬張GPU。",
-          "translation": "NVIDIA供應多少張GPU？"
-        },
-        {
-          "type": "choice",
-          "question": "이 공급이 한국에 어떤 영향을 미칠까요?",
-          "options": [
-            "부정적",
-            "중립적",
-            "긍정적",
-            "알 수 없음"
-          ],
-          "correctAnswer": 2,
-          "optionsTranslation": [
-            "負面",
-            "中立",
-            "正面",
-            "無法得知"
-          ],
-          "explanation": "根據文章，這次供應將對韓國科技產業有正面影響。",
-          "translation": "這次供應將對韓國產生什麼影響？"
-        },
-        {
-          "type": "choice",
-          "question": "엔비디아는 어떤 기술을 공급합니까?",
-          "options": [
-            "CPU",
-            "RAM",
-            "GPU",
-            "SSD"
-          ],
-          "correctAnswer": 2,
-          "optionsTranslation": [
-            "CPU",
-            "記憶體",
-            "GPU",
-            "固態硬碟"
-          ],
-          "explanation": "NVIDIA供應的是GPU。",
-          "translation": "NVIDIA供應什麼技術？"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재배열하세요.",
-          "words": [
-            "한국에",
-            "공급",
-            "26만 장의",
-            "엔비디아"
-          ],
-          "correctAnswer": "엔비디아는 한국에 26만 장의 GPU를 공급합니다.",
-          "explanation": "正確的句子結構是主語+賓語+動詞。",
-          "translation": "請重組以下句子。"
-        },
-        {
-          "type": "reorder",
-          "question": "다음 문장을 재배열하세요.",
-          "words": [
-            "큰",
-            "영향을",
-            "미칠",
-            "것입니다"
-          ],
-          "correctAnswer": "큰 영향을 미칠 것입니다.",
-          "explanation": "句子中的主語和謂語應該正確連接。",
-          "translation": "請重組以下句子。"
-        }
-      ]
-    },
-    {
-      "title": "강원도, '2026 대한민국 AI 브랜드 대상' 수상 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwdW1sVmRCRHRNMldDeHpFRGJ6dE90NGVaeXZtTWd6QkJfSFFCU3ltMXNJNEx5XzFpWmc0QTQtaGdDdG50MXE5V0JmTnJkcHpiY2EzWjVGU1VTMllvNUl6S9IBYEFVX3lxTFBwdW1sVmRCRHRNMldDeHpFRGJ6dE90NGVaeXZtTWd6QkJfSFFCU3ltMXNJNEx5XzFpWmc0QTQtaGdDdG50MXE5V0JmTnJkcHpiY2EzWjVGU1VTMllvNUl6Sw?oc=5",
-      "published": "Fri, 13 Nov 2026 08:06:09 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwdW1sVmRCRHRNMldDeHpFRGJ6dE90NGVaeXZtTWd6QkJfSFFCU3ltMXNJNEx5XzFpWmc0QTQtaGdDdG50MXE5V0JmTnJkcHpiY2EzWjVGU1VTMllvNUl6S9IBYEFVX3lxTFBwdW1sVmRCRHRNMldDeHpFRGJ6dE90NGVaeXZtTWd6QkJfSFFCU3ltMXNJNEx5XzFpWmc0QTQtaGdDdG50MXE5V0JmTnJkcHpiY2EzWjVGU1VTMllvNUl6Sw?oc=5\" target=\"_blank\">강원도, '2026 대한민국 AI 브랜드 대상' 수상</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-      "source": "연합뉴스",
-      "fullContent": {
-        "beginner": "강원도는 AI 브랜드 대상을 받았습니다. 이 상은 2026년에 수여됩니다. 강원도의 AI 기술이 인정받았습니다.",
-        "intermediate": "강원도가 '2026 대한민국 AI 브랜드 대상'에서 우수한 성과를 거두었습니다. 이 상은 인공지능 분야에서의 뛰어난 기여를 인정받는 것입니다. 강원도는 AI 기술 발전에 많은 노력을 기울이고 있습니다.",
-        "advanced": "강원도는 최근 '2026 대한민국 AI 브랜드 대상'에서 수상하여 주목받고 있습니다. 이 상은 AI 분야에서의 혁신과 우수성을 인정받는 것입니다. 강원도는 지역 경제의 발전과 더불어 AI 기술의 중요성을 깨닫고, 다양한 프로그램을 통해 AI 관련 산업을 지원하고 있습니다. 이러한 노력은 앞으로의 지속 가능한 발전에 기여할 것입니다.",
-        "original": "강원도, '2026 대한민국 AI 브랜드 대상' 수상",
-        "titleTranslation": "江原道獲得2026年韓國AI品牌大獎",
-        "translations": {
-          "beginner": [
-            "江原道獲得了AI品牌獎。",
-            "這個獎項在2026年頒發。",
-            "江原道的AI技術受到認可。"
-          ],
-          "intermediate": [
-            "江原道在'2026年韓國AI品牌獎'中取得了優異的成績。",
-            "這個獎項是對人工智慧領域中傑出貢獻的認可。",
-            "江原道在AI技術發展中投入了很多努力。"
-          ],
-          "advanced": [
-            "江原道最近在'2026年韓國AI品牌獎'中獲得獎項，受到關注。",
-            "這個獎項是對AI領域創新和卓越性的認可。",
-            "江原道意識到地區經濟的發展與AI技術的重要性，",
-            "並通過各種程序來支持AI相關產業。",
-            "這些努力將為未來的可持續發展作出貢獻。"
-          ]
-        }
-      },
-      "vocabulary": [
-        {
-          "word": "강원도",
-          "reading": "Gangwon-do",
-          "meaning": "江原道",
-          "example": "강원도는 아름다운 자연이 있습니다.",
-          "exampleTranslation": "江原道有著美麗的自然景觀。",
-          "level": "2"
-        },
-        {
-          "word": "AI",
-          "reading": "AI",
-          "meaning": "人工智慧",
-          "example": "AI 기술이 발전하고 있습니다.",
-          "exampleTranslation": "人工智慧技術正在發展。",
-          "level": "6"
-        },
-        {
-          "word": "브랜드",
-          "reading": "beuraendeu",
-          "meaning": "品牌",
-          "example": "이 브랜드는 유명합니다.",
-          "exampleTranslation": "這個品牌很有名。",
-          "level": "3"
-        },
-        {
-          "word": "대상",
-          "reading": "daesang",
-          "meaning": "獎項",
-          "example": "그는 대상을 받았습니다.",
-          "exampleTranslation": "他獲得了獎項。",
-          "level": "4"
-        },
-        {
-          "word": "수상",
-          "reading": "susang",
-          "meaning": "獲獎",
-          "example": "그는 어제 수상했습니다.",
-          "exampleTranslation": "他昨天獲獎了。",
-          "level": "3"
-        },
-        {
-          "word": "기술",
-          "reading": "gisul",
-          "meaning": "技術",
-          "example": "이 기술은 매우 중요합니다.",
-          "exampleTranslation": "這項技術非常重要。",
-          "level": "4"
-        },
-        {
-          "word": "혁신",
-          "reading": "hyeoksin",
-          "meaning": "創新",
-          "example": "혁신은 발전의 열쇠입니다.",
-          "exampleTranslation": "創新是發展的關鍵。",
-          "level": "5"
-        },
-        {
-          "word": "발전",
-          "reading": "baljeon",
-          "meaning": "發展",
-          "example": "지역 발전이 필요합니다.",
-          "exampleTranslation": "需要地區的發展。",
-          "level": "3"
-        },
-        {
-          "word": "산업",
-          "reading": "san-eop",
-          "meaning": "產業",
-          "example": " AI 산업이 성장하고 있습니다.",
-          "exampleTranslation": "人工智慧產業正在成長。",
-          "level": "4"
-        },
-        {
-          "word": "지원",
-          "reading": "jiwon",
-          "meaning": "支持",
-          "example": "정부의 지원이 필요합니다.",
-          "exampleTranslation": "需要政府的支持。",
-          "level": "3"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "는/은",
-          "explanation": "主格助詞，表示主語。",
-          "example": "강원도는 아름답습니다.",
-          "exampleTranslation": "江原道是美麗的。",
-          "level": "1"
-        },
-        {
-          "pattern": "에서",
-          "explanation": "表示動作發生的地點。",
-          "example": "강원도에서 수상했습니다.",
-          "exampleTranslation": "在江原道獲獎。",
-          "level": "2"
         },
         {
           "pattern": "고 있다",
-          "explanation": "表示正在進行的狀態。",
-          "example": "AI 기술이 발전하고 있습니다.",
-          "exampleTranslation": "人工智慧技術正在發展。",
+          "explanation": "表示正在進行的動作。",
+          "example": "경기가 진행되고 있다.",
+          "exampleTranslation": "比賽正在進行。",
           "level": "2"
-        },
-        {
-          "pattern": "에 대해",
-          "explanation": "表示關於某事物的內容。",
-          "example": "AI에 대해 연구하고 있습니다.",
-          "exampleTranslation": "正在研究有關人工智慧的內容。",
-          "level": "3"
-        },
-        {
-          "pattern": "기 위해",
-          "explanation": "表示目的，意為「為了...」。",
-          "example": "발전을 기 위해 노력합니다.",
-          "exampleTranslation": "為了發展而努力。",
-          "level": "3"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "강원도는 어떤 상을 받았습니까?",
+          "question": "한국 야구팀은 어떤 팀을 이겼나요?",
           "options": [
-            "AI 브랜드 대상",
-            "문화상",
-            "환경상",
-            "체육상"
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "AI品牌獎",
-            "文化獎",
-            "環境獎",
-            "體育獎"
-          ],
-          "explanation": "江原道獲得的是AI品牌獎。",
-          "translation": "江原道獲得了什麼獎項？"
-        },
-        {
-          "type": "choice",
-          "question": "이 상은 언제 수여됩니까?",
-          "options": [
-            "2025년",
-            "2026년",
-            "2027년",
-            "2028년"
+            "일본",
+            "대만",
+            "미국",
+            "중국"
           ],
           "correctAnswer": 1,
           "optionsTranslation": [
-            "2025年",
-            "2026年",
-            "2027年",
-            "2028年"
+            "日本",
+            "台灣",
+            "美國",
+            "中國"
           ],
-          "explanation": "這個獎項將在2026年頒發。",
-          "translation": "這個獎項什麼時候頒發？"
+          "explanation": "韓國棒球隊擊敗了台灣。",
+          "translation": "韓國棒球隊打敗了哪支隊伍？"
         },
         {
           "type": "choice",
-          "question": "강원도는 무엇을 발전시키고 있습니까?",
+          "question": "누가 결승타를 쳤나요?",
           "options": [
-            "AI 기술",
-            "농업",
-            "관광",
-            "건설"
+            "김도영",
+            "이정후",
+            "박병호",
+            "최정"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "人工智慧技術",
-            "農業",
-            "觀光",
-            "建設"
+            "金道榮",
+            "李政厚",
+            "朴炳鎬",
+            "崔正"
           ],
-          "explanation": "江原道正在發展人工智慧技術。",
-          "translation": "江原道正在發展什麼？"
+          "explanation": "金道榮選手打了決勝打。",
+          "translation": "誰打了決勝打？"
+        },
+        {
+          "type": "choice",
+          "question": "한국은 몇 연속 결승 진출을 확정했나요?",
+          "options": [
+            "1회",
+            "2회",
+            "3회",
+            "4회"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "1次",
+            "2次",
+            "3次",
+            "4次"
+          ],
+          "explanation": "韓國確定了三連續進入決賽。",
+          "translation": "韓國確定了多少次連續進入決賽？"
         },
         {
           "type": "reorder",
           "question": "다음 문장을 재배열하세요.",
           "words": [
-            "AI",
-            "발전하고",
-            "기술",
-            "있습니다",
-            "강원도에서"
+            "결승에",
+            "진출",
+            "확정",
+            "되었다"
           ],
-          "correctAnswer": "강원도에서 AI 기술이 발전하고 있습니다.",
-          "explanation": "正確的順序是將主語放在前面。",
+          "correctAnswer": "결승에 진출 확정되었다.",
+          "explanation": "正確的順序是「結算進入確定了」。",
           "translation": "請重組以下句子。"
         },
         {
           "type": "reorder",
           "question": "다음 문장을 재배열하세요.",
           "words": [
-            "상",
-            "대한민국",
-            "AI",
-            "브랜드",
-            "대상",
-            "2026",
-            "수상"
+            "한국",
+            "야구팀",
+            "이겼다",
+            "대만을"
           ],
-          "correctAnswer": "강원도는 2026 대한민국 AI 브랜드 대상을 수상했습니다.",
-          "explanation": "這句話的正確順序是主語、時間、名詞和動詞。",
+          "correctAnswer": "한국 야구팀 대만을 이겼다.",
+          "explanation": "正確的順序是「韓國棒球隊打敗了台灣」。",
           "translation": "請重組以下句子。"
         }
       ]
     },
     {
-      "title": "코리아넷뉴스 - [사진으로 보는 한국] 대한민국 우리술 대축제 - 문화체육관광부 한국문화원",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWGx0bDk1NTVucHJjT1h0VU1nVEl4aGNydWlTM2tDZUVXQkJKcXNiSWZTZXgyTnJmRG1hdlFGRlVxa1pLekFZYW5KeXY1VHc0bjRmdHRkTmxUQVo1d3U1a2NFVFNTZ3VoNmN1cThob2dfNVJUYV9mUTlVWm9sOXNqb0w4SzRmWEtDdGNXWE55UjJEV3FJZzNrN0N2TU04NDk3Ri1mZnNpcFJVV25aODdlX3JpamRxbEx0YlZTbWt3SGpVeHZ3SnJVWTlLbE43QlM3Skx6RFFrZmJ0R3N4alZqZ1U2a0duYWI1Q0VoU2RDMGpXLUlwX2c?oc=5",
-      "published": "Fri, 13 Nov 2026 07:12:52 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWGx0bDk1NTVucHJjT1h0VU1nVEl4aGNydWlTM2tDZUVXQkJKcXNiSWZTZXgyTnJmRG1hdlFGRlVxa1pLekFZYW5KeXY1VHc0bjRmdHRkTmxUQVo1d3U1a2NFVFNTZ3VoNmN1cThob2dfNVJUYV9mUTlVWm9sOXNqb0w4SzRmWEtDdGNXWE55UjJEV3FJZzNrN0N2TU04NDk3Ri1mZnNpcFJVV25aODdlX3JpamRxbEx0YlZTbWt3SGpVeHZ3SnJVWTlLbE43QlM3Skx6RFFrZmJ0R3N4alZqZ1U2a0duYWI1Q0VoU2RDMGpXLUlwX2c?oc=5\" target=\"_blank\">코리아넷뉴스 - [사진으로 보는 한국] 대한민국 우리술 대축제</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화체육관광부 한국문화원</font>",
-      "source": "문화체육관광부 한국문화원",
+      "title": "[수첩] 클리블랜드미술관의 ‘호렵도’, 한국 작품 맞을까? - 월드코리안뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4UjdUeHVNQldJZi0yenVXLWsxUXhEdEdLZkRiOTBzVWJYZGpwNjV5a2RDZG1iZjIyREg0Yk9jakMtSmxtcU4zWFZoSFNGOWhZTFIzWENiV0NFMU5KNVQwd0NpUWhHYUE1TXRvenBn?oc=5",
+      "published": "Sat, 14 Nov 2026 06:54:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB4UjdUeHVNQldJZi0yenVXLWsxUXhEdEdLZkRiOTBzVWJYZGpwNjV5a2RDZG1iZjIyREg0Yk9jakMtSmxtcU4zWFZoSFNGOWhZTFIzWENiV0NFMU5KNVQwd0NpUWhHYUE1TXRvenBn?oc=5\" target=\"_blank\">[수첩] 클리블랜드미술관의 ‘호렵도’, 한국 작품 맞을까?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">월드코리안뉴스</font>",
+      "source": "월드코리안뉴스",
       "fullContent": {
-        "beginner": "대한민국에는 우리술이 많습니다. 우리술은 한국 전통 술입니다. 대축제가 열립니다.",
-        "intermediate": "대한민국에서 우리술 대축제가 열립니다. 이 축제는 한국의 전통 술을 기념합니다. 많은 사람들이 참여하고 다양한 술을 맛볼 수 있습니다. 축제는 문화체육관광부가 주최합니다. 우리술의 다양성을 알리는 좋은 기회입니다.",
-        "advanced": "최근 대한민국에서는 우리술 대축제가 개최되었습니다. 이 축제는 한국의 전통 술을 기념하고, 한국 문화의 다양성을 보여주는 행사입니다. 문화체육관광부와 한국문화원이 협력하여 진행하며, 많은 사람들이 이 행사에 참여하였습니다. 다양한 우리술을 시음할 수 있는 기회가 제공되었고, 전통주에 대한 관심이 더욱 높아졌습니다. 축제를 통해 한국의 전통주 문화를 세계에 알리는 계기가 되기를 바랍니다.",
-        "original": "코리아넷뉴스 - [사진으로 보는 한국] 대한민국 우리술 대축제",
-        "titleTranslation": "韓國網新聞 - [透過照片看韓國] 韓國傳統酒大祭典",
+        "beginner": "클리블랜드미술관에 호렵도가 있습니다. 호렵도는 한국의 예술 작품입니다. 많은 사람들이 이 작품을 보고 있습니다.",
+        "intermediate": "클리블랜드미술관에서 호렵도가 전시되고 있습니다. 이 작품은 한국의 전통 예술을 대표합니다. 그러나 일부 전문가들은 이 작품의 출처에 대해 논의하고 있습니다. 과연 호렵도가 진정한 한국 작품일까요? 많은 사람들이 의견을 나누고 있습니다.",
+        "advanced": "최근 클리블랜드미술관에서 전시 중인 호렵도가 한국 작품인지에 대한 논란이 일고 있습니다. 호렵도는 조선시대의 전통적인 회화 양식을 가진 작품으로 알려져 있습니다. 그러나 이 작품의 기원에 대해서는 여러 가지 의견이 존재합니다. 일부 미술 전문가들은 이 작품이 외국의 영향을 받았다고 주장하기도 합니다. 이와 같은 논의는 한국 예술의 정체성을 다시 생각하게 만듭니다.",
+        "original": "[수첩] 클리블랜드미술관의 ‘호렵도’, 한국 작품 맞을까?",
+        "titleTranslation": "【筆記】克里夫蘭藝術館的‘狩獵圖’，是韓國作品嗎？",
         "translations": {
           "beginner": [
-            "韓國有很多我們的酒。",
-            "我們的酒是韓國傳統酒。",
-            "大祭典將舉行。"
+            "克里夫蘭藝術館有狩獵圖。",
+            "狩獵圖是韓國的藝術作品。",
+            "很多人正在觀看這件作品。"
           ],
           "intermediate": [
-            "在韓國舉行我們的酒大祭典。",
-            "這個祭典是為了紀念韓國傳統酒。",
-            "許多人參加並可以品嚐各種酒。",
-            "這個祭典是由文化體育觀光部主辦的。",
-            "這是了解我們酒多樣性的好機會。"
+            "克里夫蘭藝術館正在展出狩獵圖。",
+            "這件作品代表了韓國的傳統藝術。",
+            "但是一些專家正在討論這件作品的來源。",
+            "這件作品真的是韓國的作品嗎？",
+            "很多人正在分享意見。"
           ],
           "advanced": [
-            "最近在韓國舉行了我們的酒大祭典。",
-            "這個祭典是為了紀念韓國的傳統酒，展示韓國文化的多樣性。",
-            "文化體育觀光部和韓國文化院合作舉辦，許多人參加了這個活動。",
-            "提供了品嚐各種我們酒的機會，對傳統酒的興趣也提升了。",
-            "希望這個祭典能成為向世界介紹韓國傳統酒文化的契機。"
+            "最近克里夫蘭藝術館展出的狩獵圖引發了韓國作品的爭議。",
+            "狩獵圖被認為是朝鮮時代的傳統繪畫風格的作品。",
+            "然而，對於這件作品的起源存在多種意見。",
+            "一些藝術專家甚至主張這件作品受到外國影響。",
+            "這樣的討論讓人重新思考韓國藝術的認同感。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "대한민국",
-          "reading": "daehanminguk",
-          "meaning": "大韓民國 (韓國)",
-          "example": "대한민국은 아름다운 나라입니다.",
-          "exampleTranslation": "韓國是一個美麗的國家。",
-          "level": "2"
+          "word": "미술관",
+          "reading": "misul-gwan",
+          "meaning": "美術館",
+          "example": "클리블랜드미술관에 가고 싶습니다.",
+          "exampleTranslation": "我想去克里夫蘭美術館。",
+          "level": "3"
         },
         {
-          "word": "우리술",
-          "reading": "urisul",
-          "meaning": "我們的酒 (韓國傳統酒)",
-          "example": "우리술은 특별한 맛이 있습니다.",
-          "exampleTranslation": "我們的酒有特別的味道。",
-          "level": "2"
-        },
-        {
-          "word": "대축제",
-          "reading": "daechukje",
-          "meaning": "大祭典",
-          "example": "대축제가 열리는 날입니다.",
-          "exampleTranslation": "今天是大祭典舉行的日子。",
+          "word": "작품",
+          "reading": "jakpum",
+          "meaning": "作品",
+          "example": "이 작품은 매우 아름답습니다.",
+          "exampleTranslation": "這件作品非常美麗。",
           "level": "4"
+        },
+        {
+          "word": "전시",
+          "reading": "jeonsi",
+          "meaning": "展覽",
+          "example": "이번 전시는 특별합니다.",
+          "exampleTranslation": "這次展覽很特別。",
+          "level": "3"
         },
         {
           "word": "전통",
           "reading": "jeontong",
           "meaning": "傳統",
-          "example": "전통 음식이 맛있어요.",
-          "exampleTranslation": "傳統食物很好吃。",
+          "example": "한국의 전통 문화가 중요합니다.",
+          "exampleTranslation": "韓國的傳統文化很重要。",
           "level": "3"
         },
         {
-          "word": "문화",
-          "reading": "munhwa",
-          "meaning": "文化",
-          "example": "문화는 중요한 부분입니다.",
-          "exampleTranslation": "文化是重要的一部分。",
-          "level": "3"
-        },
-        {
-          "word": "기념하다",
-          "reading": "ginyeomhada",
-          "meaning": "紀念",
-          "example": "행사를 기념하기 위해 모였습니다.",
-          "exampleTranslation": "為了紀念這個活動而聚集。",
-          "level": "3"
-        },
-        {
-          "word": "참여하다",
-          "reading": "chamyeohada",
-          "meaning": "參加",
-          "example": "많은 사람들이 참여했습니다.",
-          "exampleTranslation": "很多人參加了。",
-          "level": "3"
-        },
-        {
-          "word": "다양성",
-          "reading": "dayangseong",
-          "meaning": "多樣性",
-          "example": "문화의 다양성을 존중합니다.",
-          "exampleTranslation": "尊重文化的多樣性。",
-          "level": "5"
-        },
-        {
-          "word": "계기",
-          "reading": "gyegi",
-          "meaning": "契機",
-          "example": "좋은 계기가 될 것입니다.",
-          "exampleTranslation": "將成為一個好的契機。",
+          "word": "논의",
+          "reading": "non-ui",
+          "meaning": "討論",
+          "example": "이 주제에 대해 논의합시다.",
+          "exampleTranslation": "讓我們討論這個主題。",
           "level": "4"
         },
         {
-          "word": "관심",
-          "reading": "gwansim",
-          "meaning": "關心",
-          "example": "전통주에 대한 관심이 높아졌습니다.",
-          "exampleTranslation": "對傳統酒的關心增加了。",
+          "word": "예술",
+          "reading": "yesul",
+          "meaning": "藝術",
+          "example": "예술은 사람의 감정을 표현합니다.",
+          "exampleTranslation": "藝術表達人的情感。",
+          "level": "4"
+        },
+        {
+          "word": "정체성",
+          "reading": "jeongche-seong",
+          "meaning": "身份認同",
+          "example": "문화의 정체성이 중요합니다.",
+          "exampleTranslation": "文化的身份認同很重要。",
+          "level": "5"
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "意見",
+          "example": "각자의 의견을 존중해야 합니다.",
+          "exampleTranslation": "我們應該尊重各自的意見。",
           "level": "3"
+        },
+        {
+          "word": "전문가",
+          "reading": "jeonmun-ga",
+          "meaning": "專家",
+          "example": "미술 전문가의 의견을 듣고 싶습니다.",
+          "exampleTranslation": "我想聽聽美術專家的意見。",
+          "level": "4"
+        },
+        {
+          "word": "사람들",
+          "reading": "saramdeul",
+          "meaning": "人們",
+          "example": "사람들이 모여서 이야기를 나눕니다.",
+          "exampleTranslation": "人們聚在一起聊天。",
+          "level": "2"
         }
       ],
       "grammar": [
         {
-          "pattern": "~(으)로 인하여",
-          "explanation": "表示因為某事而導致的結果。",
-          "example": "문화체육관광부로 인하여 축제가 열렸습니다.",
-          "exampleTranslation": "因為文化體育觀光部而舉行了祭典。",
-          "level": "4"
-        },
-        {
-          "pattern": "다/라서",
-          "explanation": "表示原因或理由，常用於口語。",
-          "example": "사람이 많아서 대축제가 재미있습니다.",
-          "exampleTranslation": "因為人很多，所以大祭典很有趣。",
-          "level": "3"
-        },
-        {
-          "pattern": "기회가 되다",
-          "explanation": "表示有機會做某事。",
-          "example": "전통주를 맛볼 기회가 되었습니다.",
-          "exampleTranslation": "成為了品嚐傳統酒的機會。",
-          "level": "4"
-        },
-        {
-          "pattern": "기념하기 위해",
-          "explanation": "為了紀念某事。",
-          "example": "이 행사는 전통 술을 기념하기 위해 열립니다.",
-          "exampleTranslation": "這個活動是為了紀念傳統酒而舉行的。",
-          "level": "3"
-        },
-        {
-          "pattern": "많은 사람들이 ~",
-          "explanation": "表達很多人做某事。",
-          "example": "많은 사람들이 참여했습니다.",
-          "exampleTranslation": "很多人參加了。",
+          "pattern": "V + 고 싶다",
+          "explanation": "表示想要做某事。",
+          "example": "미술관에 가고 싶습니다.",
+          "exampleTranslation": "我想去美術館。",
           "level": "2"
+        },
+        {
+          "pattern": "V + (으)ㄴ/는/ㄴ다",
+          "explanation": "用於描述動作或狀態。",
+          "example": "이 작품은 아름답다.",
+          "exampleTranslation": "這件作品是美麗的。",
+          "level": "3"
+        },
+        {
+          "pattern": "N + 에 대해",
+          "explanation": "表示關於某事物的內容。",
+          "example": "이 작품에 대해 논의합니다.",
+          "exampleTranslation": "我們討論這件作品。",
+          "level": "3"
+        },
+        {
+          "pattern": "N + 이다/다",
+          "explanation": "表示某事物的屬性或狀態。",
+          "example": "호렵도는 한국 작품이다.",
+          "exampleTranslation": "狩獵圖是韓國作品。",
+          "level": "1"
+        },
+        {
+          "pattern": "V + (으)니까",
+          "explanation": "表示因為某個原因。",
+          "example": "많은 사람들이 보고 있으니까 흥미롭습니다.",
+          "exampleTranslation": "因為很多人正在看，所以很有趣。",
+          "level": "3"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "대한민국의 전통 술은 무엇인가요?",
+          "question": "호렵도는 어떤 작품입니까?",
           "options": [
-            "맥주",
-            "우리술",
-            "소주",
-            "와인"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "啤酒",
-            "我們的酒",
-            "燒酒",
-            "葡萄酒"
-          ],
-          "explanation": "我們的酒是韓國的傳統酒。",
-          "translation": "韓國的傳統酒是什麼？"
-        },
-        {
-          "type": "choice",
-          "question": "대축제는 누구 주최인가요?",
-          "options": [
-            "문화체육관광부",
-            "교육부",
-            "농림부",
-            "환경부"
+            "한국 작품",
+            "일본 작품",
+            "중국 작품",
+            "미국 작품"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "文化體育觀光部",
-            "教育部",
-            "農林部",
-            "環境部"
+            "韓國作品",
+            "日本作品",
+            "中國作品",
+            "美國作品"
           ],
-          "explanation": "大祭典是由文化體育觀光部主辦的。",
-          "translation": "大祭典是由誰主辦的？"
+          "explanation": "根據文章，狩獵圖是韓國的作品。",
+          "translation": "狩獵圖是什麼作品？"
         },
         {
           "type": "choice",
-          "question": "축제에서 무엇을 할 수 있나요?",
+          "question": "클리블랜드미술관은 어디에 있습니까?",
           "options": [
-            "영화 보기",
-            "우리술 맛보기",
-            "쇼핑하기",
-            "운동하기"
+            "한국",
+            "일본",
+            "미국",
+            "중국"
           ],
-          "correctAnswer": 1,
+          "correctAnswer": 2,
           "optionsTranslation": [
-            "看電影",
-            "品嚐我們的酒",
-            "購物",
-            "運動"
+            "韓國",
+            "日本",
+            "美國",
+            "中國"
           ],
-          "explanation": "在祭典上可以品嚐我們的酒。",
-          "translation": "在祭典上可以做什麼？"
+          "explanation": "文章提到克里夫蘭藝術館位於美國。",
+          "translation": "克里夫蘭美術館在哪裡？"
+        },
+        {
+          "type": "choice",
+          "question": "어떤 전문가가 호렵도에 대해 논의하고 있습니까?",
+          "options": [
+            "미술 전문가",
+            "과학자",
+            "의사",
+            "정치인"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "美術專家",
+            "科學家",
+            "醫生",
+            "政治家"
+          ],
+          "explanation": "文章提到一些美術專家在討論狩獵圖。",
+          "translation": "哪位專家在討論狩獵圖？"
         },
         {
           "type": "reorder",
-          "question": "다음 문장을 재조합하세요.",
+          "question": "다음 문장을 재배열하세요.",
           "words": [
-            "열리다",
-            "축제",
-            "대축제",
-            "대한민국에서"
+            "호렵도",
+            "미술관",
+            "클리블랜드",
+            "전시되고",
+            "있습니다"
           ],
-          "correctAnswer": "대한민국에서 대축제가 열리다.",
-          "explanation": "正確的順序是「在韓國舉行大祭典」。",
+          "correctAnswer": "클리블랜드 미술관에 호렵도가 전시되고 있습니다.",
+          "explanation": "這句話的正確順序是描述克里夫蘭美術館展出狩獵圖。",
           "translation": "請重組以下句子。"
         },
         {
           "type": "reorder",
-          "question": "다음 문장을 재조합하세요.",
+          "question": "다음 문장을 재배열하세요.",
           "words": [
-            "우리술",
-            "많은",
-            "사람들",
-            "맛보다",
-            "축제에서"
+            "한국",
+            "작품",
+            "전통적인",
+            "예술"
           ],
-          "correctAnswer": "축제에서 많은 사람들이 우리술을 맛보다.",
-          "explanation": "正確的順序是「在祭典上很多人品嚐我們的酒」。",
+          "correctAnswer": "전통적인 한국 예술 작품.",
+          "explanation": "這句話的正確順序是描述傳統的韓國藝術作品。",
           "translation": "請重組以下句子。"
         }
       ]
     },
     {
-      "title": "[포토뉴스] KT, 대한민국 인터넷대상 국무총리상 받아 - CNB뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QSjFfZ1RHdkpLVFJBamxpUWFkLUZPeDZWRTZ2Ql94TTRxWENGeEQ5cERqZTRGMEV3NDg1dVJlSlBkN3V2U3dhTkJNWUlreUdPLVlnQ1RyRmdoQXBWNEExS1NuY3laTlczY0JF?oc=5",
-      "published": "Fri, 13 Nov 2026 08:30:07 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9QSjFfZ1RHdkpLVFJBamxpUWFkLUZPeDZWRTZ2Ql94TTRxWENGeEQ5cERqZTRGMEV3NDg1dVJlSlBkN3V2U3dhTkJNWUlreUdPLVlnQ1RyRmdoQXBWNEExS1NuY3laTlczY0JF?oc=5\" target=\"_blank\">[포토뉴스] KT, 대한민국 인터넷대상 국무총리상 받아</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNB뉴스</font>",
-      "source": "CNB뉴스",
+      "title": "산업통상부 정례브리핑 - 대한민국 정책브리핑",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNajRKaUZKRFg2bzZtdFVvTHlkb2dEZFBLU1VjOXZHVEZhdkotOXY1VlZBdFc0TkhleWpwNlNMLWlNT09za3R0UmE3Z0Roa3NjbHo1VDZsdnFtWVowclc3VjR3b1pGTVRRYnljc0R5ZHdPR0RzT2tSYzNQRFRoY2dsb0NfTm9KUFMwOEhWX0thVE1DVTNI?oc=5",
+      "published": "Sat, 14 Nov 2026 08:54:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNajRKaUZKRFg2bzZtdFVvTHlkb2dEZFBLU1VjOXZHVEZhdkotOXY1VlZBdFc0TkhleWpwNlNMLWlNT09za3R0UmE3Z0Roa3NjbHo1VDZsdnFtWVowclc3VjR3b1pGTVRRYnljc0R5ZHdPR0RzT2tSYzNQRFRoY2dsb0NfTm9KUFMwOEhWX0thVE1DVTNI?oc=5\" target=\"_blank\">산업통상부 정례브리핑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한민국 정책브리핑</font>",
+      "source": "대한민국 정책브리핑",
       "fullContent": {
-        "beginner": "KT는 대한민국의 인터넷 대상을 받았습니다. 국무총리상입니다. 이것은 매우 중요합니다.",
-        "intermediate": "KT는 최근 대한민국 인터넷대상에서 국무총리상을 수상했습니다. 이 상은 KT의 뛰어난 인터넷 서비스 품질을 인정받은 것입니다. 많은 사람들이 이 소식을 축하하고 있습니다.",
-        "advanced": "KT는 대한민국 인터넷대상에서 국무총리상을 수상하였습니다. 이 상은 KT의 지속적인 노력과 혁신적인 기술 개발을 통해 이루어진 성과로, 한국의 인터넷 서비스 품질을 한층 높였습니다. 이번 수상은 KT가 사용자에게 더 나은 경험을 제공하기 위한 끊임없는 도전의 결과입니다. 앞으로도 KT는 고객의 편의를 최우선으로 생각하며 서비스를 개선할 예정입니다.",
-        "original": "[포토뉴스] KT, 대한민국 인터넷대상 국무총리상 받아",
-        "titleTranslation": "KT獲得韓國互聯網大獎國務總理獎",
+        "beginner": "산업통상부는 중요한 부서입니다. 정례브리핑을 합니다. 많은 사람들이 참석합니다.",
+        "intermediate": "산업통상부는 경제와 산업을 담당하는 정부 부처입니다. 이번 정례브리핑에서는 최근 정책과 계획에 대해 발표했습니다. 많은 기자들이 참석하여 질문을 했습니다.",
+        "advanced": "산업통상부는 대한민국의 경제와 산업 정책을 책임지는 중요한 정부 기관입니다. 이번 정례브리핑에서는 최근의 경제 동향과 정부의 새로운 정책을 발표했습니다. 부처의 장관은 기자들의 질문에 성실히 답하며 정책의 중요성을 강조했습니다. 산업통상부의 정책은 기업에 큰 영향을 미칩니다.",
+        "original": "산업통상부 정례브리핑",
+        "titleTranslation": "產業通商部定期簡報",
         "translations": {
           "beginner": [
-            "KT是韓國的一家公司。",
-            "KT獲得了國務總理獎。",
-            "這非常重要。"
+            "產業通商部是一個重要的部門。",
+            "他們舉行定期簡報。",
+            "很多人參加。"
           ],
           "intermediate": [
-            "KT最近在韓國互聯網大獎中獲得了國務總理獎。",
-            "這個獎項是對KT卓越的互聯網服務質量的認可。",
-            "許多人都在慶祝這個消息。"
+            "產業通商部負責經濟和產業的政府部門。",
+            "在這次定期簡報中，宣布了最近的政策和計劃。",
+            "許多記者參加並提出了問題。"
           ],
           "advanced": [
-            "KT在韓國互聯網大獎中榮獲國務總理獎。",
-            "這個獎項是對KT持續努力和創新技術開發的成果。",
-            "它進一步提升了韓國的互聯網服務質量。",
-            "此次獲獎是KT為用戶提供更好體驗不斷挑戰的結果。",
-            "未來KT將繼續以客戶的便利為首要考量，改善服務。"
+            "產業通商部是負責韓國經濟和產業政策的重要政府機構。",
+            "在此次定期簡報中，發表了最近的經濟趨勢和政府的新政策。",
+            "部長誠實地回答了記者的問題，強調了政策的重要性。",
+            "產業通商部的政策對企業有很大影響。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "상",
-          "reading": "sang",
-          "meaning": "獎項",
-          "example": "그는 상을 받았습니다.",
-          "exampleTranslation": "他獲得了獎項。",
-          "level": "3"
+          "word": "산업통상부",
+          "reading": "san-eop-tong-sang-bu",
+          "meaning": "產業通商部",
+          "example": "산업통상부는 중요한 부서입니다.",
+          "exampleTranslation": "產業通商部是一個重要的部門。",
+          "level": "6"
         },
         {
-          "word": "인터넷",
-          "reading": "inteonet",
-          "meaning": "互聯網",
-          "example": "인터넷이 매우 중요합니다.",
-          "exampleTranslation": "互聯網非常重要。",
-          "level": "2"
+          "word": "정례브리핑",
+          "reading": "jeong-rye-beu-ri-ping",
+          "meaning": "定期簡報",
+          "example": "정례브리핑을 합니다.",
+          "exampleTranslation": "他們舉行定期簡報。",
+          "level": "5"
         },
         {
-          "word": "서비스",
-          "reading": "seobiseu",
-          "meaning": "服務",
-          "example": "이 서비스는 좋습니다.",
-          "exampleTranslation": "這項服務很好。",
-          "level": "3"
-        },
-        {
-          "word": "품질",
-          "reading": "pumjil",
-          "meaning": "質量",
-          "example": "품질이 높습니다.",
-          "exampleTranslation": "質量很高。",
+          "word": "정책",
+          "reading": "jeong-chaek",
+          "meaning": "政策",
+          "example": "정책에 대해 발표했습니다.",
+          "exampleTranslation": "我們發表了有關政策的內容。",
           "level": "4"
         },
         {
-          "word": "노력",
-          "reading": "noryeok",
-          "meaning": "努力",
-          "example": "그는 많은 노력을 했습니다.",
-          "exampleTranslation": "他付出了很多努力。",
-          "level": "3"
-        },
-        {
-          "word": "기술",
-          "reading": "gisul",
-          "meaning": "技術",
-          "example": "신기술이 개발되었습니다.",
-          "exampleTranslation": "新技術已經開發出來了。",
-          "level": "3"
-        },
-        {
-          "word": "축하하다",
-          "reading": "chukhahada",
-          "meaning": "祝賀",
-          "example": "그를 축하합니다.",
-          "exampleTranslation": "祝賀他。",
-          "level": "2"
-        },
-        {
-          "word": "결과",
-          "reading": "gyeolgwa",
-          "meaning": "結果",
-          "example": "좋은 결과가 나왔습니다.",
-          "exampleTranslation": "得到了好的結果。",
-          "level": "3"
-        },
-        {
-          "word": "경험",
-          "reading": "gyeongheom",
-          "meaning": "經驗",
-          "example": "많은 경험을 쌓았습니다.",
-          "exampleTranslation": "積累了很多經驗。",
+          "word": "경제",
+          "reading": "gyeong-je",
+          "meaning": "經濟",
+          "example": "경제 동향을 발표했습니다.",
+          "exampleTranslation": "我們發表了經濟動向。",
           "level": "4"
         },
         {
-          "word": "고객",
-          "reading": "gogaek",
-          "meaning": "客戶",
-          "example": "고객이 중요합니다.",
-          "exampleTranslation": "客戶很重要。",
+          "word": "기자",
+          "reading": "gi-ja",
+          "meaning": "記者",
+          "example": "많은 기자들이 참석했습니다.",
+          "exampleTranslation": "許多記者參加了。",
+          "level": "3"
+        },
+        {
+          "word": "질문",
+          "reading": "jil-mun",
+          "meaning": "問題",
+          "example": "기자들은 질문을 했습니다.",
+          "exampleTranslation": "記者們提出了問題。",
+          "level": "2"
+        },
+        {
+          "word": "기업",
+          "reading": "gi-eob",
+          "meaning": "企業",
+          "example": "정책은 기업에 영향을 미칩니다.",
+          "exampleTranslation": "政策對企業有影響。",
+          "level": "4"
+        },
+        {
+          "word": "부처",
+          "reading": "bu-cheo",
+          "meaning": "部門",
+          "example": "부처의 장관은 발표했습니다.",
+          "exampleTranslation": "部門的部長發表了。",
+          "level": "3"
+        },
+        {
+          "word": "중요성",
+          "reading": "jung-yo-seong",
+          "meaning": "重要性",
+          "example": "정책의 중요성을 강조했습니다.",
+          "exampleTranslation": "他強調了政策的重要性。",
+          "level": "4"
+        },
+        {
+          "word": "계획",
+          "reading": "gye-hoek",
+          "meaning": "計劃",
+          "example": "계획에 대해 이야기했습니다.",
+          "exampleTranslation": "我們談到了計劃。",
           "level": "3"
         }
       ],
       "grammar": [
         {
-          "pattern": "도 -도",
-          "explanation": "表示兩者都或都是的意思。",
-          "example": "KT와 SKT도 경쟁하고 있습니다.",
-          "exampleTranslation": "KT和SKT也在競爭。",
-          "level": "2"
-        },
-        {
-          "pattern": "-을/를 받다",
-          "explanation": "表示收到某物或獲得某種結果。",
-          "example": "KT는 상을 받았습니다.",
-          "exampleTranslation": "KT獲得了獎項。",
-          "level": "3"
-        },
-        {
-          "pattern": "때문에",
-          "explanation": "表示原因或理由。",
-          "example": "상 때문입니다.",
-          "exampleTranslation": "這是因為獎項。",
-          "level": "4"
-        },
-        {
-          "pattern": "건강하다",
-          "explanation": "表示健康的狀態。",
-          "example": "그는 건강합니다.",
-          "exampleTranslation": "他很健康。",
+          "pattern": "N1은/는 N2입니다.",
+          "explanation": "用於介紹主題或主語與名詞的關係。",
+          "example": "산업통상부는 정부 부처입니다.",
+          "exampleTranslation": "產業通商部是政府部門。",
           "level": "1"
         },
         {
-          "pattern": "위해",
-          "explanation": "表示為了某個目的或原因。",
-          "example": "고객을 위해 노력합니다.",
-          "exampleTranslation": "為了客戶而努力。",
+          "pattern": "N을/를 발표하다.",
+          "explanation": "用於表示發表某個事物。",
+          "example": "정책을 발표했습니다.",
+          "exampleTranslation": "發表了政策。",
+          "level": "2"
+        },
+        {
+          "pattern": "N에 대해 이야기하다.",
+          "explanation": "用於表示對某事物進行討論或談論。",
+          "example": "계획에 대해 이야기했습니다.",
+          "exampleTranslation": "我們談到了計劃。",
+          "level": "3"
+        },
+        {
+          "pattern": "N이/가 N에 영향을 미치다.",
+          "explanation": "用於表示某事物對另一事物的影響。",
+          "example": "정책은 기업에 영향을 미칩니다.",
+          "exampleTranslation": "政策對企業有影響。",
+          "level": "4"
+        },
+        {
+          "pattern": "N이/가 중요하다.",
+          "explanation": "用於描述某事物的重要性。",
+          "example": "정책의 중요성을 강조했습니다.",
+          "exampleTranslation": "強調了政策的重要性。",
           "level": "3"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "KT는 어떤 상을 받았습니까?",
+          "question": "산업통상부는 무엇을 담당하는 부서입니까?",
           "options": [
-            "국무총리상",
-            "대통령상",
-            "시민상",
-            "부총리상"
+            "정치",
+            "경제",
+            "교육",
+            "환경"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "optionsTranslation": [
-            "國務總理獎",
-            "總統獎",
-            "市民獎",
-            "副總理獎"
+            "政治",
+            "經濟",
+            "教育",
+            "環境"
           ],
-          "explanation": "KT獲得的是國務總理獎。",
-          "translation": "KT獲得了什麼獎項？"
+          "explanation": "產業通商部主要負責經濟和產業相關的事務。",
+          "translation": "產業通商部負責什麼？"
         },
         {
           "type": "choice",
-          "question": "KT의 서비스는 무엇으로 인정받았습니까?",
+          "question": "정례브리핑에서 무엇을 발표합니까?",
           "options": [
-            "품질",
-            "가격",
-            "속도",
-            "디자인"
+            "정책",
+            "여행",
+            "음식",
+            "영화"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "質量",
-            "價格",
-            "速度",
-            "設計"
+            "政策",
+            "旅行",
+            "食物",
+            "電影"
           ],
-          "explanation": "KT的服務因其質量而受到認可。",
-          "translation": "KT的服務因為什麼而受到認可？"
+          "explanation": "定期簡報中會發表最新的政策和計劃。",
+          "translation": "在定期簡報中發表什麼？"
         },
         {
           "type": "choice",
-          "question": "많은 사람들이 무엇을 하고 있습니까?",
+          "question": "부처의 장관은 누구입니까?",
           "options": [
-            "축하하고 있습니다",
-            "비판하고 있습니다",
-            "지켜보고 있습니다",
-            "무시하고 있습니다"
+            "기자",
+            "장관",
+            "국민",
+            "학생"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "optionsTranslation": [
-            "在慶祝",
-            "在批評",
-            "在觀察",
-            "在忽視"
+            "記者",
+            "部長",
+            "國民",
+            "學生"
           ],
-          "explanation": "許多人在慶祝這個消息。",
-          "translation": "很多人正在做什麼？"
+          "explanation": "部門的負責人是部長，他會在簡報中發言。",
+          "translation": "部門的部長是誰？"
         },
         {
           "type": "reorder",
-          "question": "請重組以下句子",
+          "question": "다음 문장을 재배열하세요.",
           "words": [
-            "인터넷",
-            "서비스",
-            "KT",
-            "좋습니다",
-            "이"
+            "정책",
+            "발표했습니다",
+            "그들은"
           ],
-          "correctAnswer": "KT의 인터넷 서비스는 좋습니다.",
-          "explanation": "正確的順序是KT的互聯網服務很好。",
+          "correctAnswer": "그들은 정책을 발표했습니다.",
+          "explanation": "正確的句子結構是將主語放在前面，然後是動詞和賓語。",
           "translation": "請重組以下句子。"
         },
         {
           "type": "reorder",
-          "question": "請重組以下句子",
+          "question": "다음 문장을 재배열하세요.",
           "words": [
-            "상",
-            "받았습니다",
-            "KT",
-            "국무총리"
+            "중요성",
+            "정책의",
+            "강조했습니다"
           ],
-          "correctAnswer": "KT는 국무총리상을 받았습니다.",
-          "explanation": "正確的順序是KT獲得了國務總理獎。",
+          "correctAnswer": "정책의 중요성을 강조했습니다.",
+          "explanation": "正確的句子結構是將主語和賓語放在一起，並最後加上動詞。",
           "translation": "請重組以下句子。"
         }
       ]
@@ -1200,927 +1190,1175 @@
   ],
   "japanese": [
     {
-      "title": "韓国は侍ジャパンに力負けでぼう然 日本戦は１７年から１２連敗、敵将も“力の差”を痛感「全体的なレベルでは日本が格上」…投手陣が計４被弾で撃沈、連敗で３大会連続の決勝進出へ崖っぷち（スポーツ報知） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSOFcyeTRUMnExM1dINlBGdE1ZVVdtY1pzS0lmN2NrN0Rqa20yQ2JkX1dPNUxKNnVpWS12Q1NyaFo5SFlnLU5GN2prYS1QNWhVM3JZTndzcm1qLXR2MzF2QllDc296YU14OF9NNm9kU2c4c0ZoYTdqWktPeVl6S3c?oc=5",
-      "published": "Fri, 13 Nov 2026 13:27:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBSOFcyeTRUMnExM1dINlBGdE1ZVVdtY1pzS0lmN2NrN0Rqa20yQ2JkX1dPNUxKNnVpWS12Q1NyaFo5SFlnLU5GN2prYS1QNWhVM3JZTndzcm1qLXR2MzF2QllDc296YU14OF9NNm9kU2c4c0ZoYTdqWktPeVl6S3c?oc=5\" target=\"_blank\">韓国は侍ジャパンに力負けでぼう然 日本戦は１７年から１２連敗、敵将も“力の差”を痛感「全体的なレベルでは日本が格上」…投手陣が計４被弾で撃沈、連敗で３大会連続の決勝進出へ崖っぷち（スポーツ報知）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "title": "「日本は強豪」ブラジル監督評価 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91TXpGVmNLVnpmeEl6cDNmZWs4cWU4LTJfcFJEVVpyLTRsT2tWRzF4SHlHZ0tNTENQc1E2NTV3M3ZsY01rYUExa3NFOUlEYjNE?oc=5",
+      "published": "Sun, 15 Nov 2026 01:02:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE91TXpGVmNLVnpmeEl6cDNmZWs4cWU4LTJfcFJEVVpyLTRsT2tWRzF4SHlHZ0tNTENQc1E2NTV3M3ZsY01rYUExa3NFOUlEYjNE?oc=5\" target=\"_blank\">「日本は強豪」ブラジル監督評価</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "source": "Yahoo!ニュース",
       "fullContent": {
-        "beginner": "韓国は日本の野球チームに負けました。日本は強いチームです。韓国は17年から日本に勝っていません。",
-        "intermediate": "韓国の野球チームは侍ジャパンに敗れました。これで日本戦では12連敗です。敵の監督も日本との力の差を感じています。日本の全体的なレベルは高いです。",
-        "advanced": "韓国は侍ジャパンとの試合で力負けし、驚きの表情を見せました。これで日本戦は17年から12連敗となります。敵将も試合後に力の差を痛感し、日本が全体的なレベルで格上であると認めました。投手陣は計4本の本塁打を打たれ、試合は壊滅的な結果となりました。韓国は3大会連続で決勝進出のために崖っぷちに立たされています。",
-        "original": "韓国は侍ジャパンに力負けでぼう然 日本戦は１７年から１２連敗、敵将も“力の差”を痛感「全体的なレベルでは日本が格上」…投手陣が計４被弾で撃沈、連敗で３大会連続の決勝進出へ崖っぷち（スポーツ報知）",
-        "titleTranslation": "韓國在與侍日本隊的比賽中慘遭力負，自2017年以來連敗12場，敵隊教練也深感“實力差距”，認為整體水準日本更高…投手群被打了4支全壘打，連敗面臨三連賽決賽進軍的懸崖",
+        "beginner": "日本のサッカーは強いです。ブラジルの監督は日本を評価しました。日本は良いチームです。",
+        "intermediate": "ブラジルのサッカー監督は、日本のサッカーチームを高く評価しています。彼は日本が強豪であると言いました。日本はサッカーが上手です。",
+        "advanced": "ブラジルの監督は、日本のサッカーチームについて非常に高い評価を示しました。彼は日本が国際的な舞台で競争力を持つ強豪であると認識しています。日本の選手たちは技術が高く、戦略的なプレーが印象的です。監督は特に日本のチームの団結力と精神力を称賛しました。これにより、今後の試合においても日本が注目される存在になるでしょう。",
+        "original": "「日本は強豪」ブラジル監督評価",
+        "titleTranslation": "「日本是強隊」巴西監督評價",
         "translations": {
           "beginner": [
-            "韓国は日本の野球チームに負けました。",
-            "日本は強いチームです。",
-            "韓国は17年から日本に勝っていません。"
+            "日本的足球很強。",
+            "巴西的監督評價日本。",
+            "日本是一支好隊伍。"
           ],
           "intermediate": [
-            "韓国の野球チームは侍ジャパンに敗れました。",
-            "これで日本戦では12連敗です。",
-            "敵の監督も日本との力の差を感じています。",
-            "日本の全体的なレベルは高いです。"
+            "巴西的足球監督高度評價日本的足球隊。",
+            "他說日本是強隊。",
+            "日本踢足球很厲害。"
           ],
           "advanced": [
-            "韓国は侍ジャパンとの試合で力負けし、驚きの表情を見せました。",
-            "これで日本戦は17年から12連敗となります。",
-            "敵将も試合後に力の差を痛感し、日本が全体的なレベルで格上であると認めました。",
-            "投手陣は計4本の本塁打を打たれ、試合は壊滅的な結果となりました。",
-            "韓国は3大会連続で決勝進出のために崖っぷちに立たされています。"
+            "巴西的監督對日本足球隊表現出了非常高的評價。",
+            "他認為日本在國際舞台上具有競爭力，是一支強隊。",
+            "日本的球員技術高超，戰術性強，給人留下深刻印象。",
+            "監督特別讚揚了日本隊的團隊精神和凝聚力。",
+            "這使得日本在未來的比賽中會成為備受關注的隊伍。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "力負け",
-          "reading": "rikamake",
-          "meaning": "實力不敵",
-          "example": "韓国は侍ジャパンに力負けしました。",
-          "exampleTranslation": "韓國在與侍日本隊的比賽中實力不敵。"
-        },
-        {
-          "word": "連敗",
-          "reading": "renpai",
-          "meaning": "連敗",
-          "example": "日本戦では12連敗です。",
-          "exampleTranslation": "在對日本的比賽中連敗12場。"
+          "word": "サッカー",
+          "reading": "sakkā",
+          "meaning": "足球",
+          "example": "サッカーが好きです。",
+          "exampleTranslation": "我喜歡足球。"
         },
         {
           "word": "監督",
           "reading": "kantoku",
-          "meaning": "教練",
-          "example": "敵の監督も力の差を感じています。",
-          "exampleTranslation": "敵隊的教練也感受到實力差距。",
+          "meaning": "監督",
+          "example": "サッカーの監督は重要です。",
+          "exampleTranslation": "足球監督很重要。",
           "level": "N3"
         },
         {
-          "word": "全体的",
-          "reading": "zentai-teki",
-          "meaning": "整體的",
-          "example": "日本が全体的なレベルで格上です。",
-          "exampleTranslation": "日本的整體水準更高。"
-        },
-        {
-          "word": "投手陣",
-          "reading": "toushu-jin",
-          "meaning": "投手群",
-          "example": "投手陣が計4被弾です。",
-          "exampleTranslation": "投手群被打了4支全壘打。"
-        },
-        {
-          "word": "本塁打",
-          "reading": "honruidai",
-          "meaning": "全壘打",
-          "example": "4本の本塁打を打たれました。",
-          "exampleTranslation": "被打了4支全壘打。"
-        },
-        {
-          "word": "決勝進出",
-          "reading": "kesshou-shinshutsu",
-          "meaning": "進入決賽",
-          "example": "決勝進出のために崖っぷちです。",
-          "exampleTranslation": "為了進入決賽正面臨懸崖。"
-        },
-        {
-          "word": "敗れる",
-          "reading": "yabureru",
-          "meaning": "失敗，敗北",
-          "example": "韓国は侍ジャパンに敗れました。",
-          "exampleTranslation": "韓國在與侍日本隊的比賽中敗北。"
-        },
-        {
-          "word": "水準",
-          "reading": "suijun",
-          "meaning": "水準",
-          "example": "全体の水準が高いです。",
-          "exampleTranslation": "整體水準很高。",
+          "word": "評価",
+          "reading": "hyouka",
+          "meaning": "評價",
+          "example": "彼は彼女を高く評価しています。",
+          "exampleTranslation": "他對她的評價很高。",
           "level": "N3"
         },
         {
-          "word": "試合",
-          "reading": "shiai",
-          "meaning": "比賽",
-          "example": "試合は壊滅的な結果です。",
-          "exampleTranslation": "比賽結果很糟糕。",
+          "word": "強豪",
+          "reading": "kyougou",
+          "meaning": "強隊",
+          "example": "日本は強豪チームです。",
+          "exampleTranslation": "日本是一支強隊。"
+        },
+        {
+          "word": "技術",
+          "reading": "gijutsu",
+          "meaning": "技術",
+          "example": "彼の技術は素晴らしいです。",
+          "exampleTranslation": "他的技術很棒。",
           "level": "N4"
+        },
+        {
+          "word": "戦略",
+          "reading": "senryaku",
+          "meaning": "戰略",
+          "example": "良い戦略が必要です。",
+          "exampleTranslation": "需要好的戰略。"
+        },
+        {
+          "word": "精神力",
+          "reading": "seishinryoku",
+          "meaning": "精神力",
+          "example": "彼は精神力が強いです。",
+          "exampleTranslation": "他的精神力很強。"
+        },
+        {
+          "word": "団結力",
+          "reading": "danketsuryoku",
+          "meaning": "團結力",
+          "example": "団結力が大事です。",
+          "exampleTranslation": "團結力很重要。"
+        },
+        {
+          "word": "競争力",
+          "reading": "kyousouryoku",
+          "meaning": "競爭力",
+          "example": "競争力を高める必要があります。",
+          "exampleTranslation": "需要提高競爭力。"
+        },
+        {
+          "word": "注目",
+          "reading": "chumoku",
+          "meaning": "注目",
+          "example": "彼女は注目を集めています。",
+          "exampleTranslation": "她正在吸引注意。",
+          "level": "N3"
         }
       ],
       "grammar": [
         {
-          "pattern": "〜に負ける",
-          "explanation": "表示在比賽或競爭中失敗。",
-          "example": "韓国は侍ジャパンに負けました。",
-          "exampleTranslation": "韓國在與侍日本隊的比賽中敗北。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜である",
-          "explanation": "表示狀態或性質，常用來強調。",
-          "example": "日本が格上である。",
-          "exampleTranslation": "日本的實力更高。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜を感じる",
-          "explanation": "表示感覺或意識到某事。",
-          "example": "力の差を感じています。",
-          "exampleTranslation": "感受到實力的差距。",
-          "level": "N3"
-        },
-        {
-          "pattern": "〜が高い",
-          "explanation": "表示水準或程度較高。",
-          "example": "日本の全体的なレベルは高いです。",
-          "exampleTranslation": "日本的整體水準很高。",
-          "level": "N4"
-        },
-        {
-          "pattern": "〜に立たされる",
-          "explanation": "表示處於某種情況或狀態之中。",
-          "example": "崖っぷちに立たされています。",
-          "exampleTranslation": "正面臨懸崖的情況。",
-          "level": "N2"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "韓国は誰に負けましたか？",
-          "options": [
-            "韓国",
-            "日本",
-            "アメリカ",
-            "侍ジャパン"
-          ],
-          "correctAnswer": 3,
-          "optionsTranslation": [
-            "韓國",
-            "日本",
-            "美國",
-            "侍日本隊"
-          ],
-          "explanation": "韓國在比賽中敗給了侍日本隊。",
-          "translation": "韓國是輸給誰了？"
-        },
-        {
-          "type": "choice",
-          "question": "韓国は何連敗していますか？",
-          "options": [
-            "10",
-            "11",
-            "12",
-            "13"
-          ],
-          "correctAnswer": 2,
-          "optionsTranslation": [
-            "10",
-            "11",
-            "12",
-            "13"
-          ],
-          "explanation": "韓國在與日本的比賽中連敗12場。",
-          "translation": "韓國的連敗次數是多少？"
-        },
-        {
-          "type": "choice",
-          "question": "敵の監督は何を感じましたか？",
-          "options": [
-            "喜び",
-            "悲しみ",
-            "力の差",
-            "勝利"
-          ],
-          "correctAnswer": 2,
-          "optionsTranslation": [
-            "喜悅",
-            "悲傷",
-            "實力差距",
-            "勝利"
-          ],
-          "explanation": "敵的監督感受到實力的差距。",
-          "translation": "敵隊的教練感受到什麼？"
-        },
-        {
-          "type": "reorder",
-          "question": "次の文を並べ替えてください：日本　高い　水準が　の　全体的な。",
-          "words": [
-            "日本",
-            "高い",
-            "水準が",
-            "の",
-            "全体的な"
-          ],
-          "correctAnswer": "日本の全体的な水準が高い。",
-          "explanation": "這句話表示日本的整體水準很高。",
-          "translation": "請重組以下句子："
-        },
-        {
-          "type": "reorder",
-          "question": "次の文を並べ替えてください：連敗　韓国は　12　しました。",
-          "words": [
-            "連敗",
-            "韓国は",
-            "12",
-            "しました"
-          ],
-          "correctAnswer": "韓国は12連敗しました。",
-          "explanation": "這句話表示韓國的連敗次數是12場。",
-          "translation": "請重組以下句子："
-        }
-      ]
-    },
-    {
-      "title": "マイクロソフトの接続障害「日本は比較的安定した状態続く」 - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aYW9kVEUxc2wxVF84MWN4b3Y5UUROdzRnRG1xajhwLU5kRXBtNnFGeFVoOVhTekI0RWlaV2ttRlRlbC05Z1g4eVpPWktpUkE4cGJsazNkakRhMVRXRm5v?oc=5",
-      "published": "Thu, 12 Nov 2026 20:42:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aYW9kVEUxc2wxVF84MWN4b3Y5UUROdzRnRG1xajhwLU5kRXBtNnFGeFVoOVhTekI0RWlaV2ttRlRlbC05Z1g4eVpPWktpUkE4cGJsazNkakRhMVRXRm5v?oc=5\" target=\"_blank\">マイクロソフトの接続障害「日本は比較的安定した状態続く」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-      "source": "NHKニュース",
-      "fullContent": {
-        "beginner": "マイクロソフトの接続が悪いです。日本では問題が少ないです。人々は安心しています。",
-        "intermediate": "最近、マイクロソフトの接続障害が発生しました。しかし、日本では比較的安定した状態が続いています。このため、多くの人が安心して仕事をしています。",
-        "advanced": "マイクロソフトは、最近発生した接続障害について報告しました。この問題は世界中で影響を及ぼしましたが、日本では比較的安定した状態が続いています。専門家によると、日本のインフラや通信網が強固であるため、影響が少ないとされています。多くの企業や個人ユーザーは、安心してサービスを利用できているようです。",
-        "original": "マイクロソフトの接続障害「日本は比較的安定した状態続く」",
-        "titleTranslation": "微軟的連接故障「日本相對穩定的狀態持續」",
-        "translations": {
-          "beginner": [
-            "微軟的連接很差。",
-            "日本的問題很少。",
-            "人們感到安心。"
-          ],
-          "intermediate": [
-            "最近，微軟的連接故障發生了。",
-            "但是，在日本相對穩定的狀態持續。",
-            "因此，很多人安心地工作。"
-          ],
-          "advanced": [
-            "微軟報告了最近發生的連接故障。",
-            "這個問題對世界各地造成了影響，但在日本相對穩定的狀態持續。",
-            "專家認為，由於日本的基礎設施和通信網絡強大，因此影響較小。",
-            "許多企業和個人用戶似乎能夠安心地使用服務。"
-          ]
-        }
-      },
-      "vocabulary": [
-        {
-          "word": "接続",
-          "reading": "setsuzoku",
-          "meaning": "連接",
-          "example": "インターネットの接続が悪いです。",
-          "exampleTranslation": "網路連接不良。",
-          "level": "N2"
-        },
-        {
-          "word": "障害",
-          "reading": "shougai",
-          "meaning": "故障",
-          "example": "システムに障害があります。",
-          "exampleTranslation": "系統出現故障。",
-          "level": "N3"
-        },
-        {
-          "word": "安定",
-          "reading": "antei",
-          "meaning": "穩定",
-          "example": "日本は安定した国です。",
-          "exampleTranslation": "日本是一個穩定的國家。",
-          "level": "N3"
-        },
-        {
-          "word": "状態",
-          "reading": "joutai",
-          "meaning": "狀態",
-          "example": "システムの状態を確認します。",
-          "exampleTranslation": "我會確認系統的狀態。",
-          "level": "N3"
-        },
-        {
-          "word": "影響",
-          "reading": "eikyou",
-          "meaning": "影響",
-          "example": "天候が影響を与えます。",
-          "exampleTranslation": "天氣會造成影響。",
-          "level": "N3"
-        },
-        {
-          "word": "安心",
-          "reading": "anshin",
-          "meaning": "安心",
-          "example": "彼は安心して寝ました。",
-          "exampleTranslation": "他安心地睡著了。",
-          "level": "N4"
-        },
-        {
-          "word": "利用",
-          "reading": "riyou",
-          "meaning": "利用",
-          "example": "このサービスを利用します。",
-          "exampleTranslation": "我會利用這項服務。",
-          "level": "N4"
-        },
-        {
-          "word": "専門家",
-          "reading": "senmonka",
-          "meaning": "專家",
-          "example": "専門家の意見を聞きます。",
-          "exampleTranslation": "我會聽取專家的意見。"
-        },
-        {
-          "word": "企業",
-          "reading": "kigyou",
-          "meaning": "企業",
-          "example": "多くの企業が参加します。",
-          "exampleTranslation": "很多企業會參加。",
-          "level": "N3"
-        },
-        {
-          "word": "通信網",
-          "reading": "tsuushinmou",
-          "meaning": "通信網",
-          "example": "通信網は強いです。",
-          "exampleTranslation": "通信網是強大的。"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "〜がある",
-          "explanation": "表示某事物的存在或存在的狀態。",
-          "example": "システムに障害があります。",
-          "exampleTranslation": "系統存在故障。",
+          "pattern": "〜は〜です",
+          "explanation": "用於陳述主題和描述狀態。",
+          "example": "日本は強いです。",
+          "exampleTranslation": "日本很強。",
           "level": "N5"
         },
         {
-          "pattern": "〜が続く",
-          "explanation": "表示某種狀態持續不變。",
-          "example": "安定した状態が続いています。",
-          "exampleTranslation": "穩定的狀態持續著。",
+          "pattern": "〜を評価する",
+          "explanation": "用於表示對某事或某人的評價。",
+          "example": "彼は日本を評価しました。",
+          "exampleTranslation": "他評價了日本。",
           "level": "N2"
         },
         {
-          "pattern": "〜によると",
-          "explanation": "表示根據某種來源或情報。",
-          "example": "専門家によると、この問題は深刻です。",
-          "exampleTranslation": "根據專家，這個問題是嚴重的。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜ため",
-          "explanation": "表示原因或理由。",
-          "example": "このため、仕事が遅れています。",
-          "exampleTranslation": "因此，工作延遲了。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜が少ない",
-          "explanation": "表示某事物的數量或程度不多。",
-          "example": "日本では問題が少ないです。",
-          "exampleTranslation": "在日本的問題不多。",
+          "pattern": "〜が必要です",
+          "explanation": "用於表示某事物是必要的。",
+          "example": "技術が必要です。",
+          "exampleTranslation": "技術是必要的。",
           "level": "N4"
+        },
+        {
+          "pattern": "〜と言う",
+          "explanation": "用於引用他人的說法或意見。",
+          "example": "彼は強豪と言いました。",
+          "exampleTranslation": "他說是強隊。",
+          "level": "N4"
+        },
+        {
+          "pattern": "〜がある/いる",
+          "explanation": "用於表示某物或某人存在。",
+          "example": "日本には強豪チームがあります。",
+          "exampleTranslation": "日本有強隊。",
+          "level": "N5"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "日本の接続状態はどうですか？",
+          "question": "ブラジルの監督は日本をどう評価しましたか？",
           "options": [
-            "安定している",
-            "悪い",
-            "不安定",
-            "問題が多い"
+            "強豪として評価しました",
+            "弱いと評価しました",
+            "無視しました",
+            "忘れました"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "穩定",
-            "不好",
-            "不穩定",
-            "問題多"
+            "作為強隊進行評價",
+            "評價為弱隊",
+            "忽視了",
+            "忘記了"
           ],
-          "explanation": "根據新聞，日本的接續狀態是穩定的。",
-          "translation": "日本的連接狀態怎麼樣？"
+          "explanation": "巴西的監督高評價了日本，認為日本是一支強隊。",
+          "translation": "巴西的監督對日本的評價如何？"
         },
         {
           "type": "choice",
-          "question": "マイクロソフトの何が発生しましたか？",
+          "question": "日本のサッカーの技術はどうですか？",
           "options": [
-            "接続障害",
-            "サービスアップデート",
-            "新製品",
-            "イベント"
+            "高いです",
+            "低いです",
+            "普通です",
+            "悪いです"
           ],
           "correctAnswer": 0,
           "optionsTranslation": [
-            "連接故障",
-            "服務更新",
-            "新產品",
-            "活動"
+            "很高",
+            "很低",
+            "一般",
+            "很差"
           ],
-          "explanation": "新聞中提到的主要問題是連接故障。",
-          "translation": "微軟發生了什麼？"
+          "explanation": "日本的足球技術被認為是很高的。",
+          "translation": "日本的足球技術如何？"
+        },
+        {
+          "type": "choice",
+          "question": "監督は日本の何を称賛しましたか？",
+          "options": [
+            "団結力",
+            "個人技",
+            "年齢",
+            "身長"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "團結力",
+            "個人技",
+            "年齡",
+            "身高"
+          ],
+          "explanation": "監督讚揚了日本隊的團結力。",
+          "translation": "監督讚揚了日本的什麼？"
         },
         {
           "type": "reorder",
-          "question": "次の文を正しく並べてください。",
+          "question": "請重組以下句子",
           "words": [
-            "の",
-            "安定",
+            "強豪",
             "日本",
-            "状態",
-            "続く",
-            "が"
+            "サッカー",
+            "チーム",
+            "です"
           ],
-          "correctAnswer": "日本の状態が安定続く。",
-          "explanation": "這句話的正確順序是「日本の状態が安定続く」。",
-          "translation": "請將以下句子正確排序。"
+          "correctAnswer": "日本は強豪サッカーチームです。",
+          "explanation": "正確的句子應該是「日本は強豪サッカーチームです。」",
+          "translation": "請重組為正確的句子。"
         },
         {
           "type": "reorder",
-          "question": "次の文を正しく並べてください。",
+          "question": "請重組以下句子",
           "words": [
-            "接続",
-            "障害",
-            "マイクロソフト",
-            "発生",
-            "した"
+            "監督",
+            "評価",
+            "日本",
+            "高く",
+            "しました"
           ],
-          "correctAnswer": "マイクロソフトの接続障害が発生した。",
-          "explanation": "這句話的正確順序是「マイクロソフトの接続障害が発生した」。",
-          "translation": "請將以下句子正確排序。"
+          "correctAnswer": "監督は日本を高く評価しました。",
+          "explanation": "正確的句子應該是「監督は日本を高く評価しました。」",
+          "translation": "請重組為正確的句子。"
         }
       ]
     },
     {
-      "title": "マイクロソフトの大規模障害、「広範な復旧と安定が見られている」 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
-      "published": "Fri, 13 Nov 2026 22:24:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5\" target=\"_blank\">マイクロソフトの大規模障害、「広範な復旧と安定が見られている」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-      "source": "朝日新聞",
+      "title": "サッカー日本代表 ブラジルに勝利 W杯の雪辱果たす 通算2勝目 - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LNjBaeUdQeGRVVC1RdUlwblRZcXVWeWdyNXNGYVltSWx5QlYwRWhHck9fOHFIWDRRa0g2UHUwRHBYSEItcThoTGJZTnBFUzE4QnlPZjFLUE1RaW1SRzVR?oc=5",
+      "published": "Sat, 14 Nov 2026 12:21:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LNjBaeUdQeGRVVC1RdUlwblRZcXVWeWdyNXNGYVltSWx5QlYwRWhHck9fOHFIWDRRa0g2UHUwRHBYSEItcThoTGJZTnBFUzE4QnlPZjFLUE1RaW1SRzVR?oc=5\" target=\"_blank\">サッカー日本代表 ブラジルに勝利 W杯の雪辱果たす 通算2勝目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+      "source": "NHKニュース",
       "fullContent": {
-        "beginner": "マイクロソフトは大きな問題がありました。多くの人が困りました。今、復旧しています。",
-        "intermediate": "最近、マイクロソフトに大規模な障害が発生しました。この障害により、多くのユーザーが影響を受けました。しかし、現在は復旧が進んでいます。技術チームは、安定したサービスを提供するために努力しています。今後の改善が期待されています。",
-        "advanced": "マイクロソフト社は、最近発生した大規模な障害について報告しました。この障害は広範囲にわたり、多くのユーザーに影響を及ぼしました。現在、技術チームは迅速に復旧作業を行っており、徐々に安定性が見られています。ユーザーの信頼を回復するため、さらなる対策を講じる必要があります。経済的な影響も考慮しながら、継続的な改善が求められています。",
-        "original": "マイクロソフトの大規模障害、「広範な復旧と安定が見られている」",
-        "titleTranslation": "微軟的大規模故障，「已見廣泛恢復與穩定」",
+        "beginner": "日本のサッカーチームがブラジルに勝ちました。この試合はワールドカップのための重要な試合でした。日本は2回目の勝利です。",
+        "intermediate": "日本のサッカーチームは、ブラジルに勝利しました。この試合はワールドカップでの雪辱を果たすものでした。日本代表は、これで通算2勝目を達成しました。選手たちは一生懸命にプレーしました。",
+        "advanced": "サッカー日本代表がついにブラジルに勝利し、ワールドカップの雪辱を果たしました。この勝利は通算2勝目となり、選手たちの努力が実を結んだ瞬間でした。試合は非常に緊張感があり、両チームともに素晴らしいプレーを見せました。特に日本のディフェンスが光り、ブラジルの攻撃を防ぎました。観客は興奮し、一体感を感じました。",
+        "original": "サッカー日本代表 ブラジルに勝利 W杯の雪辱果たす 通算2勝目 - NHKニュース",
+        "titleTranslation": "足球日本代表戰勝巴西，實現世界杯的雪恥，累積第二勝",
         "translations": {
           "beginner": [
-            "微軟發生了大問題。",
-            "很多人感到困擾。",
-            "現在正在恢復。"
+            "日本的足球隊贏了巴西。",
+            "這場比賽對於世界杯來說很重要。",
+            "日本贏得了第二場勝利。"
           ],
           "intermediate": [
-            "最近，微軟發生了大規模的故障。",
-            "這次故障影響了很多用戶。",
-            "不過，現在正在恢復中。",
-            "技術團隊正在努力提供穩定的服務。",
-            "未來的改善受到期待。"
+            "日本的足球隊勝利了巴西。",
+            "這場比賽是為了實現世界杯的雪恥。",
+            "日本代表達成了總共兩場勝利。",
+            "選手們努力比賽。"
           ],
           "advanced": [
-            "微軟公司最近報告了發生的大規模故障。",
-            "這次故障範圍廣泛，影響了許多用戶。",
-            "目前，技術團隊正在迅速進行恢復工作，",
-            "並且逐漸看到了穩定性。",
-            "為了恢復用戶的信任，",
-            "需要進一步的對策。",
-            "同時，還要考慮到經濟影響，",
-            "持續改善是必要的。"
+            "日本的足球代表隊最終戰勝了巴西，實現了世界杯的雪恥。",
+            "這次勝利是累積的第二場勝利，選手們的努力得到了回報。",
+            "比賽非常緊張，兩隊都展現了出色的表現。",
+            "特別是日本的防守表現卓越，成功阻止了巴西的攻擊。",
+            "觀眾們興奮不已，感受到了團結的氛圍。"
           ]
         }
       },
       "vocabulary": [
         {
-          "word": "障害",
-          "reading": "shougai",
-          "meaning": "故障，障礙",
-          "example": "システムに障害が発生しました。",
-          "exampleTranslation": "系統發生了故障。",
-          "level": "N3"
+          "word": "サッカー",
+          "reading": "sakkā",
+          "meaning": "足球",
+          "example": "サッカーは人気のスポーツです。",
+          "exampleTranslation": "足球是受歡迎的運動。"
         },
         {
-          "word": "復旧",
-          "reading": "fukkyuu",
-          "meaning": "恢復",
-          "example": "サービスが復旧しました。",
-          "exampleTranslation": "服務已經恢復。",
+          "word": "勝利",
+          "reading": "shōri",
+          "meaning": "勝利",
+          "example": "チームは勝利を目指します。",
+          "exampleTranslation": "隊伍以勝利為目標。",
           "level": "N1"
         },
         {
-          "word": "安定",
-          "reading": "antei",
-          "meaning": "穩定",
-          "example": "システムの安定が重要です。",
-          "exampleTranslation": "系統的穩定性很重要。",
-          "level": "N3"
+          "word": "ワールドカップ",
+          "reading": "wārudo kappu",
+          "meaning": "世界杯",
+          "example": "ワールドカップは4年に1回開催されます。",
+          "exampleTranslation": "世界杯每四年舉行一次。"
         },
         {
-          "word": "影響",
-          "reading": "eikyou",
-          "meaning": "影響",
-          "example": "多くの人に影響を与えました。",
-          "exampleTranslation": "對很多人造成了影響。",
-          "level": "N3"
+          "word": "雪辱",
+          "reading": "setsujoku",
+          "meaning": "雪恥",
+          "example": "雪辱を果たすために頑張ります。",
+          "exampleTranslation": "為了實現雪恥而努力。"
         },
-        {
-          "word": "問題",
-          "reading": "mondai",
-          "meaning": "問題",
-          "example": "この問題を解決しましょう。",
-          "exampleTranslation": "讓我們解決這個問題。",
-          "level": "N5"
-        },
-        {
-          "word": "報告",
-          "reading": "houkoku",
-          "meaning": "報告",
-          "example": "障害について報告があります。",
-          "exampleTranslation": "有關故障的報告。",
-          "level": "N3"
-        },
-        {
-          "word": "進む",
-          "reading": "susumu",
-          "meaning": "進展，推進",
-          "example": "復旧作業が進んでいます。",
-          "exampleTranslation": "恢復工作正在進行中。",
-          "level": "N4"
-        },
-        {
-          "word": "努力",
-          "reading": "doryoku",
-          "meaning": "努力",
-          "example": "チームは努力しています。",
-          "exampleTranslation": "團隊正在努力。",
-          "level": "N3"
-        },
-        {
-          "word": "期待",
-          "reading": "kitai",
-          "meaning": "期待",
-          "example": "改善が期待されています。",
-          "exampleTranslation": "期待有改善。",
-          "level": "N3"
-        },
-        {
-          "word": "必要",
-          "reading": "hitsuyou",
-          "meaning": "必要",
-          "example": "さらなる対策が必要です。",
-          "exampleTranslation": "需要進一步的對策。",
-          "level": "N4"
-        }
-      ],
-      "grammar": [
-        {
-          "pattern": "～がある",
-          "explanation": "表示存在某物或某事。",
-          "example": "問題があります。",
-          "exampleTranslation": "有問題。",
-          "level": "N5"
-        },
-        {
-          "pattern": "～ている",
-          "explanation": "表示持續的狀態或動作的進行。",
-          "example": "復旧しています。",
-          "exampleTranslation": "正在恢復中。",
-          "level": "N5"
-        },
-        {
-          "pattern": "～に影響を与える",
-          "explanation": "表示對某事造成影響。",
-          "example": "多くの人に影響を与えました。",
-          "exampleTranslation": "對很多人造成了影響。",
-          "level": "N2"
-        },
-        {
-          "pattern": "～が必要です",
-          "explanation": "表示需要某物或某事。",
-          "example": "改善が必要です。",
-          "exampleTranslation": "需要改善。",
-          "level": "N4"
-        },
-        {
-          "pattern": "～と報告する",
-          "explanation": "表示以某種方式報告某事。",
-          "example": "問題について報告します。",
-          "exampleTranslation": "報告有關問題的情況。",
-          "level": "N2"
-        }
-      ],
-      "quiz": [
-        {
-          "type": "choice",
-          "question": "マイクロソフトに何が発生しましたか？",
-          "options": [
-            "新しい製品が出ました",
-            "大規模な障害が発生しました",
-            "サービスが停止しました",
-            "ユーザーが増えました"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "出了一個新產品",
-            "發生了大規模故障",
-            "服務停止了",
-            "用戶增加了"
-          ],
-          "explanation": "這個問題考查對新聞內容的理解。",
-          "translation": "微軟發生了什麼？"
-        },
-        {
-          "type": "choice",
-          "question": "現在、復旧はどうなっていますか？",
-          "options": [
-            "進んでいない",
-            "進んでいる",
-            "完全に終わった",
-            "問題が増えた"
-          ],
-          "correctAnswer": 1,
-          "optionsTranslation": [
-            "沒有進展",
-            "正在進行",
-            "已經完全結束",
-            "問題增多"
-          ],
-          "explanation": "考查對恢復進展的理解。",
-          "translation": "現在恢復情況怎麼樣？"
-        },
-        {
-          "type": "choice",
-          "question": "この障害は何に影響を与えましたか？",
-          "options": [
-            "多くの人",
-            "新しい技術",
-            "製品の品質",
-            "会社の利益"
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "很多人",
-            "新技術",
-            "產品質量",
-            "公司的利潤"
-          ],
-          "explanation": "考查對影響範圍的理解。",
-          "translation": "這次故障影響了什麼？"
-        },
-        {
-          "type": "reorder",
-          "question": "以下の文章を重組してください。",
-          "words": [
-            "復旧",
-            "進んで",
-            "います"
-          ],
-          "correctAnswer": "復旧が進んでいます。",
-          "explanation": "正確的順序是主語加謂語。",
-          "translation": "請重組以下句子。"
-        },
-        {
-          "type": "reorder",
-          "question": "以下の文章を重組してください。",
-          "words": [
-            "大規模",
-            "障害",
-            "が",
-            "発生しました"
-          ],
-          "correctAnswer": "大規模な障害が発生しました。",
-          "explanation": "正確的順序是形容詞加名詞。",
-          "translation": "請重組以下句子。"
-        }
-      ]
-    },
-    {
-      "title": "侍ジャパン 宗山塁が「日本のショートは僕と言ってもらえるように」お立ち台での発言に東京Ｄがどよめく 汚名返上の決勝３ラン「追いつかれたのは僕のせい」（デイリースポーツ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rOHBuekRfWDFaRmU4b0hlQy1LUXRPUkpnZDJ6VV9Deks0bTlvd0ZtcS15Z1E0ZU9TenJKdGpjMjhKNzlVQzNhdkdMVjgxc1V2Tk56dWttVldmWmhOdnQ4XzdfeTdXRms4Y2NqVG9wa2dtaHRDN0sxMEdwa2p2OFk?oc=5",
-      "published": "Fri, 13 Nov 2026 13:39:43 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9rOHBuekRfWDFaRmU4b0hlQy1LUXRPUkpnZDJ6VV9Deks0bTlvd0ZtcS15Z1E0ZU9TenJKdGpjMjhKNzlVQzNhdkdMVjgxc1V2Tk56dWttVldmWmhOdnQ4XzdfeTdXRms4Y2NqVG9wa2dtaHRDN0sxMEdwa2p2OFk?oc=5\" target=\"_blank\">侍ジャパン 宗山塁が「日本のショートは僕と言ってもらえるように」お立ち台での発言に東京Ｄがどよめく 汚名返上の決勝３ラン「追いつかれたのは僕のせい」（デイリースポーツ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "source": "Yahoo!ニュース",
-      "fullContent": {
-        "beginner": "宗山塁選手は日本の野球選手です。彼は東京ドームで試合をしました。宗山選手は優勝のために頑張りました。",
-        "intermediate": "侍ジャパンの宗山塁選手が東京ドームでの試合で、決勝のホームランを打ちました。彼は試合後に「日本のショートは僕と言ってもらえるように」と話しました。この言葉に、観客は驚きました。",
-        "advanced": "侍ジャパンの宗山塁選手は、東京ドームでの試合において、決勝の3ランホームランを放ち、汚名返上を果たしました。試合後のインタビューで彼は、「日本のショートは僕と言ってもらえるように」と発言し、会場はどよめきました。また、彼は「追いつかれたのは僕のせい」とも語り、チームへの責任感を示しました。",
-        "original": "侍ジャパン 宗山塁が「日本のショートは僕と言ってもらえるように」お立ち台での発言に東京Ｄがどよめく 汚名返上の決勝３ラン「追いつかれたのは僕のせい」（デイリースポーツ）",
-        "titleTranslation": "武士日本隊 宗山塁表示「希望能被認為是日本的游擊手」東京D響起驚呼 汚名回復的決勝3分全壘打「追平是我的責任」",
-        "translations": {
-          "beginner": [
-            "宗山塁選手是日本的棒球選手。",
-            "他在東京巨蛋參加了比賽。",
-            "宗山選手努力爭取優勝。"
-          ],
-          "intermediate": [
-            "侍ジャパン的宗山塁選手在東京巨蛋的比賽中打出了決勝的全壘打。",
-            "比賽結束後，他說：「希望能被認為是日本的游擊手」。",
-            "這句話讓觀眾感到驚訝。"
-          ],
-          "advanced": [
-            "侍ジャパン的宗山塁選手在東京巨蛋的比賽中打出了決勝的3分全壘打，成功洗刷了之前的汙名。",
-            "在賽後的訪談中，他發表了「希望能被認為是日本的游擊手」的言論，令現場觀眾驚訝不已。",
-            "他還表示「追平是我的責任」，展現了他對團隊的責任感。"
-          ]
-        }
-      },
-      "vocabulary": [
         {
           "word": "選手",
           "reading": "senshu",
           "meaning": "選手",
-          "example": "宗山塁選手は素晴らしいです。",
-          "exampleTranslation": "宗山塁選手很棒。",
+          "example": "選手たちは練習しています。",
+          "exampleTranslation": "選手們正在練習。",
           "level": "N3"
         },
         {
           "word": "試合",
           "reading": "shiai",
           "meaning": "比賽",
-          "example": "今日の試合は楽しかった。",
-          "exampleTranslation": "今天的比賽很有趣。",
+          "example": "試合はとても面白かったです。",
+          "exampleTranslation": "比賽非常有趣。",
           "level": "N4"
         },
         {
-          "word": "優勝",
-          "reading": "yuushou",
-          "meaning": "優勝",
-          "example": "私たちは優勝を目指します。",
-          "exampleTranslation": "我們的目標是優勝。",
-          "level": "N3"
+          "word": "ブラジル",
+          "reading": "Burajiru",
+          "meaning": "巴西",
+          "example": "ブラジルは強いチームです。",
+          "exampleTranslation": "巴西是強隊。"
         },
         {
-          "word": "発言",
-          "reading": "hatsugen",
-          "meaning": "發言",
-          "example": "彼の発言は重要です。",
-          "exampleTranslation": "他的發言很重要。",
+          "word": "達成",
+          "reading": "tassei",
+          "meaning": "達成",
+          "example": "目標を達成しました。",
+          "exampleTranslation": "達成了目標。",
           "level": "N1"
         },
         {
-          "word": "驚く",
-          "reading": "odoroku",
-          "meaning": "驚訝",
-          "example": "観客は驚きました。",
-          "exampleTranslation": "觀眾感到驚訝。",
-          "level": "N4"
-        },
-        {
-          "word": "責任",
-          "reading": "sekinin",
-          "meaning": "責任",
-          "example": "彼は責任を持っていました。",
-          "exampleTranslation": "他擔負著責任。",
-          "level": "N3"
-        },
-        {
-          "word": "打つ",
-          "reading": "utsu",
-          "meaning": "打擊",
-          "example": "彼はホームランを打ちました。",
-          "exampleTranslation": "他打出了全壘打。",
-          "level": "N4"
-        },
-        {
-          "word": "チーム",
-          "reading": "chiimu",
-          "meaning": "團隊",
-          "example": "私たちはチームです。",
-          "exampleTranslation": "我們是一個團隊。",
+          "word": "緊張",
+          "reading": "kinchō",
+          "meaning": "緊張",
+          "example": "試合は緊張しました。",
+          "exampleTranslation": "比賽讓我緊張。",
           "level": "N3"
         },
         {
           "word": "観客",
           "reading": "kankyaku",
           "meaning": "觀眾",
-          "example": "観客は試合を見ています。",
-          "exampleTranslation": "觀眾在看比賽。",
+          "example": "観客は応援しています。",
+          "exampleTranslation": "觀眾在加油。",
           "level": "N3"
-        },
-        {
-          "word": "東京ドーム",
-          "reading": "Toukyou Doumu",
-          "meaning": "東京巨蛋",
-          "example": "東京ドームは大きいです。",
-          "exampleTranslation": "東京巨蛋很大。"
         }
       ],
       "grammar": [
         {
-          "pattern": "〜と言ってもらえる",
-          "explanation": "表示希望被他人這樣認可或稱讚。",
-          "example": "彼は日本のショートと言ってもらえるように頑張ります。",
-          "exampleTranslation": "他會努力，希望能被認為是日本的游擊手。",
+          "pattern": "〜に勝つ",
+          "explanation": "表示在比賽中獲得勝利。",
+          "example": "日本はブラジルに勝ちました。",
+          "exampleTranslation": "日本戰勝了巴西。",
           "level": "N2"
-        },
-        {
-          "pattern": "〜のせい",
-          "explanation": "表示某事的原因或責任。",
-          "example": "追いつかれたのは僕のせいです。",
-          "exampleTranslation": "追平是我的責任。",
-          "level": "N2"
-        },
-        {
-          "pattern": "〜たい",
-          "explanation": "表示願望，想要做某事。",
-          "example": "優勝したいです。",
-          "exampleTranslation": "我想要優勝。",
-          "level": "N5"
-        },
-        {
-          "pattern": "〜ました",
-          "explanation": "表示過去的行為或狀態。",
-          "example": "試合は楽しかったです。",
-          "exampleTranslation": "比賽很有趣。",
-          "level": "N5"
         },
         {
           "pattern": "〜を目指す",
-          "explanation": "表示目標或追求的對象。",
-          "example": "優勝を目指します。",
-          "exampleTranslation": "我們的目標是優勝。",
+          "explanation": "表示朝某個目標努力。",
+          "example": "選手たちは優勝を目指しています。",
+          "exampleTranslation": "選手們以奪冠為目標。",
           "level": "N2"
+        },
+        {
+          "pattern": "〜を果たす",
+          "explanation": "表示實現某個目標或願望。",
+          "example": "雪辱を果たすために頑張ります。",
+          "exampleTranslation": "為了實現雪恥而努力。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜において",
+          "explanation": "表示在某個範圍或場合內。",
+          "example": "この試合において、日本が勝ちました。",
+          "exampleTranslation": "在這場比賽中，日本獲勝。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜がある",
+          "explanation": "表示存在某種狀態或情況。",
+          "example": "緊張感がありました。",
+          "exampleTranslation": "有緊張感。",
+          "level": "N5"
         }
       ],
       "quiz": [
         {
           "type": "choice",
-          "question": "宗山選手はどこで試合をしましたか？",
+          "question": "試合はどこで行われましたか？",
           "options": [
-            "東京ドーム",
-            "大阪ドーム",
-            "名古屋ドーム",
-            "仙台ドーム"
-          ],
-          "correctAnswer": 0,
-          "optionsTranslation": [
-            "東京巨蛋",
-            "大阪巨蛋",
-            "名古屋巨蛋",
-            "仙台巨蛋"
-          ],
-          "explanation": "宗山選手的比賽是在東京巨蛋舉行的。",
-          "translation": "宗山選手在哪裡參加比賽？"
-        },
-        {
-          "type": "choice",
-          "question": "宗山選手は何を打ちましたか？",
-          "options": [
-            "三振",
-            "ヒット",
-            "ホームラン",
-            "エラー"
-          ],
-          "correctAnswer": 2,
-          "optionsTranslation": [
-            "三振",
-            "安打",
-            "全壘打",
-            "失誤"
-          ],
-          "explanation": "宗山選手打出了決勝的全壘打。",
-          "translation": "宗山選手打出了什麼？"
-        },
-        {
-          "type": "choice",
-          "question": "彼は何と言いましたか？",
-          "options": [
-            "僕は優勝したい",
-            "日本のショートは僕と言ってもらえるように",
-            "試合は楽しい",
-            "責任はありません"
+            "日本",
+            "ブラジル",
+            "アメリカ",
+            "フランス"
           ],
           "correctAnswer": 1,
           "optionsTranslation": [
-            "我想優勝",
-            "希望能被認為是日本的游擊手",
-            "比賽很有趣",
-            "沒有責任"
+            "日本",
+            "巴西",
+            "美國",
+            "法國"
           ],
-          "explanation": "他在賽後說希望能被認為是日本的游擊手。",
-          "translation": "他說了什麼？"
+          "explanation": "這場比賽在巴西進行。",
+          "translation": "比賽在哪裡進行？"
+        },
+        {
+          "type": "choice",
+          "question": "日本のサッカーチームは何勝目を達成しましたか？",
+          "options": [
+            "1勝目",
+            "2勝目",
+            "3勝目",
+            "4勝目"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "第一勝",
+            "第二勝",
+            "第三勝",
+            "第四勝"
+          ],
+          "explanation": "日本的足球隊達成了第二場勝利。",
+          "translation": "日本足球隊達成了第幾場勝利？"
+        },
+        {
+          "type": "choice",
+          "question": "この試合の結果は何ですか？",
+          "options": [
+            "負けた",
+            "勝った",
+            "引き分けた",
+            "中止"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "輸了",
+            "贏了",
+            "平手",
+            "取消"
+          ],
+          "explanation": "日本的足球隊贏得了比賽。",
+          "translation": "這場比賽的結果是什麼？"
         },
         {
           "type": "reorder",
           "question": "請重組以下句子",
+          "words": [
+            "サッカー",
+            "勝利",
+            "日本",
+            "チーム"
+          ],
+          "correctAnswer": "日本サッカーチーム勝利",
+          "explanation": "正確的順序是日本足球隊獲勝。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
+            "が",
+            "ブラジルに",
+            "日本",
+            "勝った"
+          ],
+          "correctAnswer": "日本がブラジルに勝った",
+          "explanation": "正確的順序是日本戰勝了巴西。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "日本兵の墓が無縁化 解消に法の壁 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfOWhac0NOc0M4X1ZSQ0s1eTVlbW00VUwyaGx6QUFYbVp3aDFLUUV5Z18xRTRmeHk1NnhsT3NpM1VuRkR2VC1SRjNqSkYxTUJq?oc=5",
+      "published": "Sat, 14 Nov 2026 12:32:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfOWhac0NOc0M4X1ZSQ0s1eTVlbW00VUwyaGx6QUFYbVp3aDFLUUV5Z18xRTRmeHk1NnhsT3NpM1VuRkR2VC1SRjNqSkYxTUJq?oc=5\" target=\"_blank\">日本兵の墓が無縁化 解消に法の壁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "日本兵の墓は無縁になっています。多くの人が忘れています。法律が問題です。",
+        "intermediate": "日本兵の墓が無縁化しています。これは、多くの人が日本兵のことを忘れているからです。しかし、法律がこの問題を解消するのを難しくしています。政府は、この問題に対処する必要があります。",
+        "advanced": "日本兵の墓が無縁化する現象が進行中です。この現象は、戦争の記憶が薄れ、多くの人々が日本兵の存在を忘れることによって引き起こされています。さらに、法律の壁がこの問題の解決を妨げています。関係者は、法律の見直しや改正を通じて、無縁化を解消するための方法を模索しています。戦争の記憶を次世代に伝えることが、重要な課題となっています。",
+        "original": "日本兵の墓が無縁化 解消に法の壁",
+        "titleTranslation": "日本兵的墓碑無緣化 法律障礙難以解決",
+        "translations": {
+          "beginner": [
+            "日本兵的墓碑無緣化。",
+            "很多人忘記了這些墓碑。",
+            "法律是一個問題。"
+          ],
+          "intermediate": [
+            "日本兵的墓碑正在無緣化。",
+            "這是因為很多人忘記了日本兵。",
+            "但是，法律使得解決這個問題變得困難。",
+            "政府需要處理這個問題。"
+          ],
+          "advanced": [
+            "日本兵的墓碑無緣化的現象正在進行中。",
+            "這一現象的發生是因為戰爭的記憶逐漸淡化。",
+            "許多人忘記了日本兵的存在。",
+            "而且，法律的障礙妨礙了這個問題的解決。",
+            "相關人士正試圖通過檢討和修改法律來解決無緣化的問題。",
+            "將戰爭的記憶傳遞給下一代是重要的課題。",
+            "這個問題需要社會各界共同關注。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "墓",
+          "reading": "haka",
+          "meaning": "墓碑",
+          "example": "日本兵の墓は多くあります。",
+          "exampleTranslation": "有許多日本兵的墓碑。",
+          "level": "N3"
+        },
+        {
+          "word": "無縁化",
+          "reading": "muenka",
+          "meaning": "無緣化",
+          "example": "無縁化が進んでいます。",
+          "exampleTranslation": "無緣化正在進行中。"
+        },
+        {
+          "word": "法律",
+          "reading": "houritsu",
+          "meaning": "法律",
+          "example": "法律が問題です。",
+          "exampleTranslation": "法律是一個問題。",
+          "level": "N4"
+        },
+        {
+          "word": "政府",
+          "reading": "seifu",
+          "meaning": "政府",
+          "example": "政府はこの問題を解決する必要があります。",
+          "exampleTranslation": "政府需要解決這個問題。",
+          "level": "N3"
+        },
+        {
+          "word": "記憶",
+          "reading": "kioku",
+          "meaning": "記憶",
+          "example": "戦争の記憶が薄れています。",
+          "exampleTranslation": "戰爭的記憶正在淡化。",
+          "level": "N3"
+        },
+        {
+          "word": "存在",
+          "reading": "sonzai",
+          "meaning": "存在",
+          "example": "多くの人がその存在を忘れています。",
+          "exampleTranslation": "很多人忘記了它的存在。",
+          "level": "N3"
+        },
+        {
+          "word": "課題",
+          "reading": "kadai",
+          "meaning": "課題",
+          "example": "これは重要な課題です。",
+          "exampleTranslation": "這是一個重要的課題。",
+          "level": "N1"
+        },
+        {
+          "word": "進行",
+          "reading": "shinkou",
+          "meaning": "進行",
+          "example": "無縁化が進行中です。",
+          "exampleTranslation": "無緣化正在進行中。",
+          "level": "N1"
+        },
+        {
+          "word": "関係者",
+          "reading": "kankeisha",
+          "meaning": "相關人士",
+          "example": "関係者は解決策を模索しています。",
+          "exampleTranslation": "相關人士正在尋找解決方案。"
+        },
+        {
+          "word": "伝える",
+          "reading": "tsutaeru",
+          "meaning": "傳遞",
+          "example": "記憶を次世代に伝えることが重要です。",
+          "exampleTranslation": "將記憶傳遞給下一代是很重要的。",
+          "level": "N4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜が進んでいます",
+          "explanation": "表示某個狀況正在持續進行中。",
+          "example": "無縁化が進んでいます。",
+          "exampleTranslation": "無緣化正在進行中。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜が必要です",
+          "explanation": "表示某事是必要的。",
+          "example": "政府はこの問題を解決する必要があります。",
+          "exampleTranslation": "政府需要解決這個問題。",
+          "level": "N4"
+        },
+        {
+          "pattern": "〜を忘れる",
+          "explanation": "表示忘記某事。",
+          "example": "多くの人がその存在を忘れています。",
+          "exampleTranslation": "很多人忘記了它的存在。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜を通じて",
+          "explanation": "表示通過某種方式或手段。",
+          "example": "法律の見直しを通じて解決します。",
+          "exampleTranslation": "通過法律的重新檢討來解決。",
+          "level": "N2"
+        },
+        {
+          "pattern": "重要な課題です",
+          "explanation": "表示某事是重要的問題。",
+          "example": "これは重要な課題です。",
+          "exampleTranslation": "這是一個重要的課題。",
+          "level": "N5"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "日本兵の墓は何になっていますか？",
+          "options": [
+            "無縁化",
+            "有縁化",
+            "忘れられた",
+            "守られている"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "無緣化",
+            "有縁化",
+            "被遺忘",
+            "被保護"
+          ],
+          "explanation": "新聞中提到日本兵的墓碑正在無緣化。",
+          "translation": "日本兵的墓碑變成了什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "政府は何をする必要がありますか？",
+          "options": [
+            "問題を解決する",
+            "墓を作る",
+            "人を忘れる",
+            "法律を作る"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "解決問題",
+            "建立墓碑",
+            "忘記人",
+            "制定法律"
+          ],
+          "explanation": "政府需要處理無縁化的問題。",
+          "translation": "政府需要做什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "無縁化の原因は何ですか？",
+          "options": [
+            "戦争の記憶が薄れた",
+            "法律が強化された",
+            "人々が集まる",
+            "墓が増えた"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "戰爭的記憶淡化",
+            "法律加強",
+            "人們聚集",
+            "墓碑增多"
+          ],
+          "explanation": "無縁化是因為戰爭的記憶逐漸淡化。",
+          "translation": "無緣化的原因是什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を並び替えてください。",
+          "words": [
+            "無縁化",
+            "進行中",
+            "が",
+            "無縁の墓"
+          ],
+          "correctAnswer": "無縁の墓が進行中。",
+          "explanation": "正確的順序是無縁的墓碑正在進行中。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を並び替えてください。",
+          "words": [
+            "問題",
+            "解決",
+            "必要",
+            "です",
+            "政府は"
+          ],
+          "correctAnswer": "政府は問題を解決する必要です。",
+          "explanation": "正確的順序是政府需要解決問題。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "【ラグビー日本代表】対イングランド戦ワースト78失点で大敗 過去15年でも最多失点 来年のW杯へ暗雲（スポニチアネックス） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54eE9tcjdkTTJpZGp4ODM3cV9Id3o0bEZvS29xWTBJYks1MFRwV2FZWWNpT1N6OUl4T3YyZXRCc0diby1ublpUMjNQZmVDVUNzT2FJZVNOa3ZfS1F2Snk2ZFhkWE9ZSm80Qk1MX0hYVkR6QkNXT0c5bTVfUXBVZkk?oc=5",
+      "published": "Sun, 15 Nov 2026 00:20:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE54eE9tcjdkTTJpZGp4ODM3cV9Id3o0bEZvS29xWTBJYks1MFRwV2FZWWNpT1N6OUl4T3YyZXRCc0diby1ublpUMjNQZmVDVUNzT2FJZVNOa3ZfS1F2Snk2ZFhkWE9ZSm80Qk1MX0hYVkR6QkNXT0c5bTVfUXBVZkk?oc=5\" target=\"_blank\">【ラグビー日本代表】対イングランド戦ワースト78失点で大敗 過去15年でも最多失点 来年のW杯へ暗雲（スポニチアネックス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "ラグビーの試合がありました。日本代表はイングランドに負けました。78点も取られました。",
+        "intermediate": "日本のラグビー代表チームは、イングランドとの試合で大きな敗北を喫しました。特に、78点という得点は過去15年で最も多い失点です。来年のワールドカップに向けて、チームにとって厳しい状況です。",
+        "advanced": "日本のラグビー代表は、先日行われたイングランドとの試合で、78失点という過去15年の中で最悪の成績を記録しました。この大敗は、来年のワールドカップに向けて暗雲を漂わせています。試合中、選手たちの連携や戦術に課題が見られ、ファンからの期待を裏切る結果となりました。今後のチームの改善が必要です。",
+        "original": "【ラグビー日本代表】対イングランド戦ワースト78失点で大敗 過去15年でも最多失点 来年のW杯へ暗雲（スポニチアネックス）",
+        "titleTranslation": "【橄欖球日本代表】對英格蘭戰慘敗78失分 過去15年最多失分 明年的世界杯前景堪憂",
+        "translations": {
+          "beginner": [
+            "有一場橄欖球比賽。",
+            "日本代表輸給了英格蘭。",
+            "被對方得了78分。"
+          ],
+          "intermediate": [
+            "日本的橄欖球代表隊在與英格蘭的比賽中遭遇了重大失利。",
+            "特別是，78分的失分是過去15年中最多的。",
+            "這場大敗對於明年的世界杯來說，對於球隊是一個艱難的情況。"
+          ],
+          "advanced": [
+            "日本的橄欖球代表隊在最近進行的與英格蘭的比賽中，創下了78失分的過去15年最差紀錄。",
+            "這場慘敗為明年的世界杯增添了陰霾。",
+            "比賽中，球員們的協作和戰術顯示出明顯的問題，",
+            "最終結果讓期待的球迷感到失望。",
+            "未來，球隊必須進行改善以提升表現。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "ラグビー",
+          "reading": "rugby",
+          "meaning": "橄欖球",
+          "example": "ラグビーの試合が面白いです。",
+          "exampleTranslation": "橄欖球比賽很有趣。"
+        },
+        {
+          "word": "敗北",
+          "reading": "haiboku",
+          "meaning": "失敗、敗北",
+          "example": "チームは敗北しました。",
+          "exampleTranslation": "球隊輸了。"
+        },
+        {
+          "word": "失点",
+          "reading": "shitten",
+          "meaning": "失分",
+          "example": "78失点は過去の記録です。",
+          "exampleTranslation": "78失分是過去的紀錄。"
+        },
+        {
+          "word": "過去",
+          "reading": "kako",
+          "meaning": "過去",
+          "example": "過去15年のデータです。",
+          "exampleTranslation": "這是過去15年的數據。",
+          "level": "N3"
+        },
+        {
+          "word": "ワールドカップ",
+          "reading": "warudo kappu",
+          "meaning": "世界杯",
+          "example": "来年のワールドカップを楽しみにしています。",
+          "exampleTranslation": "我期待明年的世界杯。"
+        },
+        {
+          "word": "状況",
+          "reading": "joukyou",
+          "meaning": "情況",
+          "example": "現在の状況は厳しいです。",
+          "exampleTranslation": "現在的情況很嚴峻。",
+          "level": "N3"
+        },
+        {
+          "word": "選手",
+          "reading": "senshu",
+          "meaning": "選手",
+          "example": "選手たちは頑張っています。",
+          "exampleTranslation": "選手們正在努力。",
+          "level": "N3"
+        },
+        {
+          "word": "連携",
+          "reading": "renkei",
+          "meaning": "協作",
+          "example": "チームの連携が重要です。",
+          "exampleTranslation": "團隊的協作很重要。"
+        },
+        {
+          "word": "期待",
+          "reading": "kitai",
+          "meaning": "期待",
+          "example": "ファンの期待に応えたいです。",
+          "exampleTranslation": "我想回應粉絲的期待。",
+          "level": "N3"
+        },
+        {
+          "word": "改善",
+          "reading": "kaizen",
+          "meaning": "改善",
+          "example": "パフォーマンスを改善する必要があります。",
+          "exampleTranslation": "需要改善表現。",
+          "level": "N3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜である",
+          "explanation": "名詞の後に使い、状態や事実を表す。",
+          "example": "これは日本のラグビーである。",
+          "exampleTranslation": "這是日本的橄欖球。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜に向けて",
+          "explanation": "目的や目標に向かって進むことを示す。",
+          "example": "来年に向けて準備をしています。",
+          "exampleTranslation": "我們正在為明年做準備。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜の中で",
+          "explanation": "範囲を示す表現。",
+          "example": "過去15年の中で一番の失点です。",
+          "exampleTranslation": "這是過去15年中最多的失分。",
+          "level": "N3"
+        },
+        {
+          "pattern": "〜ために",
+          "explanation": "目的を表す。",
+          "example": "成功するために努力します。",
+          "exampleTranslation": "為了成功而努力。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜が必要です",
+          "explanation": "必要性を表す。",
+          "example": "改善が必要です。",
+          "exampleTranslation": "需要改善。",
+          "level": "N4"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "日本代表はどの国と試合をしましたか？",
+          "options": [
+            "アメリカ",
+            "イギリス",
+            "イタリア",
+            "フランス"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "美國",
+            "英國",
+            "義大利",
+            "法國"
+          ],
+          "explanation": "日本代表はイングランドと試合をしました。",
+          "translation": "日本代表與哪個國家進行了比賽？"
+        },
+        {
+          "type": "choice",
+          "question": "何点失点しましたか？",
+          "options": [
+            "50点",
+            "60点",
+            "78点",
+            "80点"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "50分",
+            "60分",
+            "78分",
+            "80分"
+          ],
+          "explanation": "日本代表は78点失点しました。",
+          "translation": "失了多少分？"
+        },
+        {
+          "type": "choice",
+          "question": "来年何がありますか？",
+          "options": [
+            "オリンピック",
+            "ワールドカップ",
+            "夏祭り",
+            "冬季オリンピック"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "奧運會",
+            "世界杯",
+            "夏季祭典",
+            "冬季奧運會"
+          ],
+          "explanation": "来年はワールドカップがあります。",
+          "translation": "明年有什麼活動？"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を重組してください。",
           "words": [
             "選手",
-            "宗山塁",
-            "素晴らしい",
-            "です"
+            "頑張っています",
+            "たち",
+            "今"
           ],
-          "correctAnswer": "宗山塁選手は素晴らしいです。",
-          "explanation": "這句話是描述宗山塁選手的優秀。",
-          "translation": "請重新組合以下句子"
+          "correctAnswer": "今、選手たちは頑張っています。",
+          "explanation": "文の順番を正しく整えました。",
+          "translation": "請重組以下句子。"
         },
         {
           "type": "reorder",
-          "question": "請重組以下句子",
+          "question": "以下の文を重組してください。",
           "words": [
-            "東京ドーム",
-            "試合",
-            "で",
-            "楽しかった"
+            "状況",
+            "厳しい",
+            "の",
+            "今"
           ],
-          "correctAnswer": "東京ドームで試合は楽しかった。",
-          "explanation": "這句話描述了在東京巨蛋舉行的比賽很有趣。",
-          "translation": "請重新組合以下句子"
+          "correctAnswer": "今の状況は厳しいです。",
+          "explanation": "文の順番を正しく整えました。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
+    {
+      "title": "FIFAランキングが変動、ブラジル撃破の日本代表がポイント上積みでアジアトップを維持 世界上位3か国の順位が入れ替わる、モロッコが5位浮上（フットボールチャンネル） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCRGw3UHhWRkowVFBFOU1aNTBsRmdvN05VN1dLYWxEQ2I2eWs0TmZiYVg3NlBycFNGMHQ4dmZ5WnpSbmVlX3BiSXprS0UxSlo2MjIyRzdoci04Q2tDYWFseDRELWZSYkhwTzFJS254ZWR0Z1UtLUtobFo4NEhLTVk?oc=5",
+      "published": "Sat, 14 Nov 2026 22:00:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBCRGw3UHhWRkowVFBFOU1aNTBsRmdvN05VN1dLYWxEQ2I2eWs0TmZiYVg3NlBycFNGMHQ4dmZ5WnpSbmVlX3BiSXprS0UxSlo2MjIyRzdoci04Q2tDYWFseDRELWZSYkhwTzFJS254ZWR0Z1UtLUtobFo4NEhLTVk?oc=5\" target=\"_blank\">FIFAランキングが変動、ブラジル撃破の日本代表がポイント上積みでアジアトップを維持 世界上位3か国の順位が入れ替わる、モロッコが5位浮上（フットボールチャンネル）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "日本のサッカーチームはブラジルを倒しました。これで日本はアジアのトップです。FIFAランキングが変わりました。",
+        "intermediate": "日本代表はブラジルを倒して、FIFAランキングでポイントを上積みしました。これにより、日本はアジアのトップを維持しています。ランキングではモロッコが5位に浮上しました。",
+        "advanced": "最近のFIFAランキングが変動し、日本代表はブラジルを撃破したことでポイントを上積みし、アジアのトップを維持しています。この結果、世界上位3か国の順位も入れ替わり、特にモロッコが5位に浮上するという注目の結果となりました。日本のサッカーは今後も注目されるでしょう。",
+        "original": "FIFAランキングが変動、ブラジル撃破の日本代表がポイント上積みでアジアトップを維持 世界上位3か国の順位が入れ替わる、モロッコが5位浮上（フットボールチャンネル）",
+        "titleTranslation": "FIFA排名變動，日本隊擊敗巴西，積分增加穩居亞洲第一，世界前三名排名互換，摩洛哥上升至第五",
+        "translations": {
+          "beginner": [
+            "日本的足球隊打敗了巴西。",
+            "這樣日本成為亞洲第一。",
+            "FIFA排名改變了。"
+          ],
+          "intermediate": [
+            "日本代表隊擊敗了巴西，並且在FIFA排名中增加了分數。",
+            "因此，日本保持了亞洲的第一位。",
+            "排名中，摩洛哥上升到了第五位。"
+          ],
+          "advanced": [
+            "最近的FIFA排名發生了變動，日本代表隊擊敗了巴西，這使得他們在積分上有所增加，並保持了亞洲的第一位。",
+            "這一結果也導致世界前幾名國家的排名發生了變化，特別是摩洛哥上升至第五位，這是引人注目的結果。",
+            "日本的足球未來將繼續受到關注。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "ランキング",
+          "reading": "rankingu",
+          "meaning": "排名",
+          "example": "FIFAランキングが変わりました。",
+          "exampleTranslation": "FIFA排名發生了變化。"
+        },
+        {
+          "word": "ポイント",
+          "reading": "pointo",
+          "meaning": "積分",
+          "example": "日本はポイントを上積みしました。",
+          "exampleTranslation": "日本增加了積分。",
+          "level": "N1"
+        },
+        {
+          "word": "代表",
+          "reading": "daihyou",
+          "meaning": "代表隊",
+          "example": "日本代表が試合をしました。",
+          "exampleTranslation": "日本代表隊進行了一場比賽。",
+          "level": "N3"
+        },
+        {
+          "word": "維持",
+          "reading": "iji",
+          "meaning": "維持",
+          "example": "日本はトップを維持しています。",
+          "exampleTranslation": "日本保持著第一的地位。",
+          "level": "N3"
+        },
+        {
+          "word": "撃破",
+          "reading": "gekiha",
+          "meaning": "擊敗",
+          "example": "日本がブラジルを撃破しました。",
+          "exampleTranslation": "日本擊敗了巴西。"
+        },
+        {
+          "word": "上昇",
+          "reading": "joushou",
+          "meaning": "上升",
+          "example": "モロッコが順位を上昇させました。",
+          "exampleTranslation": "摩洛哥的排名上升了。",
+          "level": "N1"
+        },
+        {
+          "word": "注目",
+          "reading": "chumoku",
+          "meaning": "注目",
+          "example": "日本のサッカーは注目されています。",
+          "exampleTranslation": "日本的足球受到關注。",
+          "level": "N3"
+        },
+        {
+          "word": "変動",
+          "reading": "hendou",
+          "meaning": "變動",
+          "example": "ランキングが変動しました。",
+          "exampleTranslation": "排名發生了變動。",
+          "level": "N1"
+        },
+        {
+          "word": "試合",
+          "reading": "shiai",
+          "meaning": "比賽",
+          "example": "サッカーの試合が行われました。",
+          "exampleTranslation": "進行了一場足球比賽。",
+          "level": "N4"
+        },
+        {
+          "word": "世界",
+          "reading": "sekai",
+          "meaning": "世界",
+          "example": "世界のトップチームです。",
+          "exampleTranslation": "這是世界頂尖的隊伍。",
+          "level": "N4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "が",
+          "explanation": "主語を示す助詞。",
+          "example": "日本が勝ちました。",
+          "exampleTranslation": "日本贏了。",
+          "level": "N5"
+        },
+        {
+          "pattern": "ために",
+          "explanation": "目的を表すために使います。",
+          "example": "勝つために練習します。",
+          "exampleTranslation": "為了贏而練習。",
+          "level": "N3"
+        },
+        {
+          "pattern": "で",
+          "explanation": "手段や方法を示す助詞。",
+          "example": "試合でポイントを得ました。",
+          "exampleTranslation": "在比賽中獲得了積分。",
+          "level": "N5"
+        },
+        {
+          "pattern": "と",
+          "explanation": "引用や条件を示す助詞。",
+          "example": "日本とブラジルの試合。",
+          "exampleTranslation": "日本和巴西的比賽。",
+          "level": "N5"
+        },
+        {
+          "pattern": "も",
+          "explanation": "追加や比較を示す助詞。",
+          "example": "日本も勝ちました。",
+          "exampleTranslation": "日本也贏了。",
+          "level": "N5"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "日本代表はどの国を撃破しましたか？",
+          "options": [
+            "アメリカ",
+            "ブラジル",
+            "中国",
+            "韓国"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "美國",
+            "巴西",
+            "中國",
+            "韓國"
+          ],
+          "explanation": "日本代表隊擊敗了巴西。",
+          "translation": "日本代表隊擊敗了哪個國家？"
+        },
+        {
+          "type": "choice",
+          "question": "モロッコは何位に上昇しましたか？",
+          "options": [
+            "3位",
+            "4位",
+            "5位",
+            "6位"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "第3名",
+            "第4名",
+            "第5名",
+            "第6名"
+          ],
+          "explanation": "摩洛哥上升到了第五位。",
+          "translation": "摩洛哥上升到第幾名？"
+        },
+        {
+          "type": "choice",
+          "question": "日本はアジアのトップを何で維持していますか？",
+          "options": [
+            "ポイント",
+            "選手",
+            "試合",
+            "戦略"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "積分",
+            "選手",
+            "比賽",
+            "戰略"
+          ],
+          "explanation": "日本保持著第一的地位是因為積分。",
+          "translation": "日本是用什麼保持亞洲第一的？"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を正しく並べ替えてください：",
+          "words": [
+            "サッカー",
+            "日本",
+            "注目",
+            "の",
+            "受けている"
+          ],
+          "correctAnswer": "日本のサッカーは注目を受けている。",
+          "explanation": "正確な文は「日本のサッカーは注目を受けている」です。",
+          "translation": "請將以下句子正確排列：日本的足球受到關注。"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を正しく並べ替えてください：",
+          "words": [
+            "ブラジル",
+            "を",
+            "日本",
+            "撃破",
+            "した"
+          ],
+          "correctAnswer": "日本がブラジルを撃破した。",
+          "explanation": "正確な文は「日本がブラジルを撃破した」です。",
+          "translation": "請將以下句子正確排列：日本擊敗了巴西。"
         }
       ]
     }
