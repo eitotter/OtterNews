@@ -13,7 +13,9 @@ def fetch_google_news(query, lang='ko', max_results=5):
         articles = []
         cutoff_date = datetime.now() - timedelta(days=7)
         
-        for entry in feed.entries[:max_results]:
+        for entry in feed.entries:
+            if len(articles) >= max_results:
+                break
             pub_date = None
             if hasattr(entry, 'published'):
                 try:
@@ -37,14 +39,14 @@ def fetch_google_news(query, lang='ko', max_results=5):
 
 def main():
     print("🦦 Fetching Korean music news...")
-    korean_news = fetch_google_news('K-pop 콘서트 음악 공연', 'ko')
+    korean_news = fetch_google_news('K-pop 콘서트', 'ko')
     
     if len(korean_news) < 3:
         print("   ⚠️ 音樂新聞不足，改抓韓國熱門新聞...")
         korean_news = fetch_google_news('한국 뉴스', 'ko')
     
     print("🦦 Fetching Japanese music news...")
-    japanese_news = fetch_google_news('音楽 コンサート ライブ', 'ja')
+    japanese_news = fetch_google_news('ライブ 音楽', 'ja')
     
     if len(japanese_news) < 3:
         print("   ⚠️ 音樂新聞不足，改抓日本熱門新聞...")
@@ -57,7 +59,7 @@ def main():
         'japanese': japanese_news
     }
     
-    with open('data/news.json', 'w', encoding='utf-8') as f:
+    with open('data/news_raw.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
     print(f"✅ News fetched successfully!")

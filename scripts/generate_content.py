@@ -254,13 +254,90 @@ def process_news_data(news_data):
     
     return result
 
+KEEP_DAYS = 14
+MAX_ATTEMPTS = 3
+
+
+def parse_published(value):
+    # 解析 RSS 的發布時間，失敗回傳 None
+    from email.utils import parsedate_to_datetime
+    from datetime import timezone
+    try:
+        dt = parsedate_to_datetime(value)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except Exception:
+        return None
+
+
+def article_key(item):
+    return item.get("link") or item.get("title", "")
+
+
+def select_new(raw_items, existing_items, limit):
+    # 從候選中挑出 news.json 還沒有的文章
+    known = {article_key(i) for i in existing_items}
+    return [i for i in raw_items if article_key(i) not in known][:limit]
+
+
+def merge_and_prune(existing, new_result, keep_days=KEEP_DAYS):
+    # 新文章在前，依連結去重，刪除發布超過 keep_days 天的文章
+    from datetime import timedelta, timezone
+    cutoff = datetime.now(timezone.utc) - timedelta(days=keep_days)
+    merged = {
+        "last_updated": datetime.now().isoformat(),
+        "date": new_result.get("date", datetime.now().strftime("%Y-%m-%d")),
+        "korean": [],
+        "japanese": []
+    }
+    for language in ["korean", "japanese"]:
+        seen = set()
+        combined = list(new_result.get(language, [])) + list(existing.get(language, []))
+        for item in combined:
+            key = article_key(item)
+            if key in seen:
+                continue
+            dt = parse_published(item.get("published", ""))
+            if dt is not None and dt < cutoff:
+                continue
+            seen.add(key)
+            merged[language].append(item)
+    return merged
+
+
 if __name__ == "__main__":
-    with open("data/news.json", "r", encoding="utf-8") as f:
-        news_data = json.load(f)
-    
-    result = process_news_data(news_data)
-    
+    with open("data/news_raw.json", "r", encoding="utf-8") as f:
+        raw_data = json.load(f)
+
+    try:
+        with open("data/news.json", "r", encoding="utf-8") as f:
+            existing = json.load(f)
+    except FileNotFoundError:
+        existing = {}
+
+    today = raw_data.get("date", datetime.now().strftime("%Y-%m-%d"))
+    new_result = {"date": today, "korean": [], "japanese": []}
+
+    for language in ["korean", "japanese"]:
+        candidates = select_new(
+            raw_data.get(language, []),
+            existing.get(language, []),
+            MAX_ATTEMPTS
+        )
+        for candidate in candidates:
+            partial = process_news_data({"date": today, language: [candidate]})
+            if partial[language]:
+                new_result[language].append(partial[language][0])
+                break
+        else:
+            print(f"警告：{language} 今天沒有生成新文章，保留舊資料")
+
+    merged = merge_and_prune(existing, new_result)
+
     with open("data/news.json", "w", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False, indent=2)
-    
-    print("\n✓ 學習內容已更新到 data/news.json")
+        json.dump(merged, f, ensure_ascii=False, indent=2)
+
+    print("\n學習內容已合併到 data/news.json")
+    print(f"   Korean: {len(merged['korean'])} 篇")
+    print(f"   Japanese: {len(merged['japanese'])} 篇")

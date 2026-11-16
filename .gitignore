@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 .env
 data/archive/
+data/news_raw.json
