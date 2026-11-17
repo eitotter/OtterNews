@@ -1,7 +1,248 @@
 {
-  "last_updated": "2026-11-16T02:31:18.042203",
-  "date": "2026-11-16",
+  "last_updated": "2026-11-17T04:56:34.749438",
+  "date": "2026-11-17",
   "korean": [
+    {
+      "title": "혼자 쓰는 헤드셋으로 함께 보는 공연… K-팝 VR 콘서트, 해외 쇼핑몰 상영관으로 - K-EnterTech Hub",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91X2wtODZmQXJMODA2bkVNRGZBRHV3VWRteU8xN0NCblBhWkNveGZrVTBTbDZSWm1ySURsUUtBbG5YWDJ3VUFJT3VjNVl1emNuVDZ1ei1MV2wxUF9PY1k4?oc=5",
+      "published": "Mon, 16 Nov 2026 14:08:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE91X2wtODZmQXJMODA2bkVNRGZBRHV3VWRteU8xN0NCblBhWkNveGZrVTBTbDZSWm1ySURsUUtBbG5YWDJ3VUFJT3VjNVl1emNuVDZ1ei1MV2wxUF9PY1k4?oc=5\" target=\"_blank\">혼자 쓰는 헤드셋으로 함께 보는 공연… K-팝 VR 콘서트, 해외 쇼핑몰 상영관으로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">K-EnterTech Hub</font>",
+      "source": "K-EnterTech Hub",
+      "fullContent": {
+        "beginner": "K-팝 VR 콘서트는 새로운 공연입니다. 혼자 헤드셋을 쓰고 즐길 수 있습니다. 이 콘서트는 해외 쇼핑몰에서도 볼 수 있습니다.",
+        "intermediate": "K-팝 VR 콘서트는 혼자서 헤드셋을 쓰고 즐길 수 있는 새로운 형식의 공연입니다. 이 콘서트는 해외 쇼핑몰 상영관에서도 상영됩니다. 많은 사람들이 이 새로운 경험을 기대하고 있습니다. VR 기술 덕분에 팬들은 좋아하는 아티스트의 공연을 가까이서 볼 수 있습니다. 앞으로 더 많은 VR 콘서트가 열릴 예정입니다.",
+        "advanced": "최근 K-팝 VR 콘서트가 인기를 끌고 있습니다. 팬들은 혼자 헤드셋을 착용하고, 가상의 공연을 함께 즐길 수 있는 새로운 경험을 하고 있습니다. 이 콘서트는 해외 쇼핑몰의 상영관에서도 진행되어, 더 많은 사람들이 참여할 수 있게 되었습니다. VR 기술은 공연의 몰입감을 높여주며, 팬들에게 좋아하는 아티스트의 생생한 모습을 전달합니다. 앞으로 K-팝과 VR의 결합이 더욱 발전할 것으로 기대됩니다.",
+        "original": "혼자 쓰는 헤드셋으로 함께 보는 공연… K-팝 VR 콘서트, 해외 쇼핑몰 상영관으로",
+        "titleTranslation": "獨自佩戴耳機共同觀賞的表演… K-POP VR 演唱會，進入海外購物中心放映",
+        "translations": {
+          "beginner": [
+            "K-POP VR 演唱會是一場新的表演。",
+            "可以獨自使用耳機享受。",
+            "這場演唱會也可以在海外的購物中心觀看。"
+          ],
+          "intermediate": [
+            "K-POP VR 演唱會是獨自佩戴耳機享受的一種新型表演。",
+            "這場演唱會在海外的購物中心也有放映。",
+            "許多人期待這種新的體驗。",
+            "多虧了 VR 技術，粉絲們可以近距離觀看喜愛的藝人的表演。",
+            "未來將舉辦更多的 VR 演唱會。"
+          ],
+          "advanced": [
+            "最近 K-POP VR 演唱會受到了廣泛的關注。",
+            "粉絲們佩戴耳機，正在體驗一種全新的演出形式。",
+            "這場演唱會在海外的購物中心進行，讓更多人有機會參加。",
+            "VR 技術提高了演出的沉浸感，讓粉絲們能夠感受到藝人的真實風貌。",
+            "未來 K-POP 與 VR 的結合將會更加發展和普及。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "헤드셋",
+          "reading": "hedeuset",
+          "meaning": "耳機",
+          "example": "나는 헤드셋을 썼다.",
+          "exampleTranslation": "我戴上了耳機。",
+          "level": "3"
+        },
+        {
+          "word": "공연",
+          "reading": "gongyeon",
+          "meaning": "表演",
+          "example": "그 공연은 정말 재미있었다.",
+          "exampleTranslation": "那場表演真的很有趣。",
+          "level": "3"
+        },
+        {
+          "word": "K-팝",
+          "reading": "K-pop",
+          "meaning": "韓國流行音樂",
+          "example": "나는 K-팝을 좋아한다.",
+          "exampleTranslation": "我喜歡韓國流行音樂。",
+          "level": "1"
+        },
+        {
+          "word": "VR",
+          "reading": "VR",
+          "meaning": "虛擬實境",
+          "example": "VR 기술이 발전하고 있다.",
+          "exampleTranslation": "虛擬實境技術正在進步。",
+          "level": "6"
+        },
+        {
+          "word": "상영관",
+          "reading": "sangyeonggwan",
+          "meaning": "放映館",
+          "example": "그 영화는 상영관에서 볼 수 있다.",
+          "exampleTranslation": "那部電影可以在放映館觀看。",
+          "level": "3"
+        },
+        {
+          "word": "해외",
+          "reading": "haeoe",
+          "meaning": "海外",
+          "example": "나는 해외여행을 가고 싶다.",
+          "exampleTranslation": "我想去海外旅行。",
+          "level": "3"
+        },
+        {
+          "word": "기대하다",
+          "reading": "gidaehada",
+          "meaning": "期待",
+          "example": "많은 사람들이 이 행사를 기대하고 있다.",
+          "exampleTranslation": "許多人期待這個活動。",
+          "level": "3"
+        },
+        {
+          "word": "경험",
+          "reading": "gyeongheom",
+          "meaning": "經驗",
+          "example": "그것은 특별한 경험이었다.",
+          "exampleTranslation": "那是一個特別的經驗。",
+          "level": "4"
+        },
+        {
+          "word": "기술",
+          "reading": "gisul",
+          "meaning": "技術",
+          "example": "이 기술은 혁신적이다.",
+          "exampleTranslation": "這項技術具有創新性。",
+          "level": "3"
+        },
+        {
+          "word": "발전하다",
+          "reading": "baljeonhada",
+          "meaning": "發展",
+          "example": "기술은 계속 발전하고 있다.",
+          "exampleTranslation": "技術不斷在發展。",
+          "level": "4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "~을/를 쓰다",
+          "explanation": "表示使用某物。",
+          "example": "나는 헤드셋을 쓴다.",
+          "exampleTranslation": "我使用耳機。",
+          "level": "2"
+        },
+        {
+          "pattern": "때문에",
+          "explanation": "表示原因或理由。",
+          "example": "VR 기술 때문에 공연이 더 재미있다.",
+          "exampleTranslation": "因為虛擬實境技術，演出更加有趣。",
+          "level": "3"
+        },
+        {
+          "pattern": "가/이 가능하다",
+          "explanation": "表示可能性。",
+          "example": "혼자서도 공연을 즐길 수 있다.",
+          "exampleTranslation": "獨自也可以享受演出。",
+          "level": "4"
+        },
+        {
+          "pattern": "더욱",
+          "explanation": "表示「更加」的意思，強調程度。",
+          "example": "K-팝과 VR의 결합이 더욱 발전할 것이다.",
+          "exampleTranslation": "K-POP與VR的結合將會更加發展。",
+          "level": "3"
+        },
+        {
+          "pattern": "기대하고 있다",
+          "explanation": "表示期待某事。",
+          "example": "나는 이 콘서트를 기대하고 있다.",
+          "exampleTranslation": "我期待這場演唱會。",
+          "level": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "K-팝 VR 콘서트는 어떤 기술을 사용하나요?",
+          "options": [
+            "VR",
+            "AR",
+            "3D",
+            "2D"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "虛擬實境",
+            "擴增實境",
+            "三維",
+            "二維"
+          ],
+          "explanation": "K-팝 VR 콘서트는 VR 기술을 사용합니다.",
+          "translation": "K-POP VR 演唱會使用了什麼技術？"
+        },
+        {
+          "type": "choice",
+          "question": "이 콘서트는 어디에서 볼 수 있나요?",
+          "options": [
+            "해외 쇼핑몰",
+            "영화관",
+            "학교",
+            "공원"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "海外購物中心",
+            "電影院",
+            "學校",
+            "公園"
+          ],
+          "explanation": "K-팝 VR 콘서트는 해외 쇼핑몰에서 상영됩니다.",
+          "translation": "這場演唱會可以在哪裡觀看？"
+        },
+        {
+          "type": "choice",
+          "question": "팬들은 무엇을 쓰고 공연을 보나요?",
+          "options": [
+            "헤드셋",
+            "안경",
+            "모자",
+            "장갑"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "耳機",
+            "眼鏡",
+            "帽子",
+            "手套"
+          ],
+          "explanation": "팬들은 혼자 헤드셋을 쓰고 공연을 봅니다.",
+          "translation": "粉絲們在觀看演出時佩戴什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하십시오.",
+          "words": [
+            "K-팝",
+            "VR",
+            "콘서트",
+            "기대하고",
+            "팬들은",
+            "있다"
+          ],
+          "correctAnswer": "팬들은 K-팝 VR 콘서트를 기대하고 있다.",
+          "explanation": "문장의 주어와 동사를 올바른 순서로 배열해야 합니다.",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배열하십시오.",
+          "words": [
+            "해외",
+            "쇼핑몰",
+            "상영관에서",
+            "볼 수 있다"
+          ],
+          "correctAnswer": "해외 쇼핑몰 상영관에서 볼 수 있다.",
+          "explanation": "문장의 구성 요소를 올바른 순서로 배열해야 합니다.",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
     {
       "title": "수도권 신규택지 6곳 전망은? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc1RXOTRwZnMwbXZMQkN5cEFnWUlfVTl0OTRHblRvcXUyeHhhbzNFTHl1Xzk0d18ySS1XQXlCS21vYWl3MGhtMjdLS0JGd2JhcWR3clBjQkhSVl9rQ3kxcU92LUhVVDZGNC13cGRsODZhbEhyUFdxM3NLNEc3SGt2ZkJ1cFhuT2kySlE?oc=5",
@@ -1192,6 +1433,243 @@
     }
   ],
   "japanese": [
+    {
+      "title": "小室哲哉の新ビルボードライブツアー決定、3会場で全16公演 - ナタリー",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rR0RKZkZsME5MSV9jbHZheHFqTWpWWkRiS1RHMmNlLWpBaGJjUWpvVC1kU0VpYXliS2pXb3FGT1E4U3dHU25xZVdfclY?oc=5",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rR0RKZkZsME5MSV9jbHZheHFqTWpWWkRiS1RHMmNlLWpBaGJjUWpvVC1kU0VpYXliS2pXb3FGT1E4U3dHU25xZVdfclY?oc=5\" target=\"_blank\">小室哲哉の新ビルボードライブツアー決定、3会場で全16公演</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ナタリー</font>",
+      "source": "ナタリー",
+      "fullContent": {
+        "beginner": "小室哲哉は新しいコンサートをします。彼は3つの会場で演奏します。全部で16回の公演があります。",
+        "intermediate": "小室哲哉の新しいビルボードライブツアーが決まりました。彼は日本の3つの会場で全16公演を行います。多くのファンが楽しみにしています。",
+        "advanced": "小室哲哉は新たにビルボードライブツアーを発表しました。このツアーは東京、大阪、名古屋の3つの会場で開催され、全16公演が予定されています。彼の音楽は多くの人々に愛されており、多くのファンがこのツアーを心待ちにしています。チケットはすぐに売り切れると思われます。音楽業界において彼の影響力は非常に大きいです。",
+        "original": "小室哲哉の新ビルボードライブツアー決定、3会場で全16公演",
+        "titleTranslation": "小室哲哉的新比爾博音樂會巡演決定，3個會場共16場演出",
+        "translations": {
+          "beginner": [
+            "小室哲哉將舉行新的音樂會。",
+            "他會在三個會場演出。",
+            "總共有16場演出。"
+          ],
+          "intermediate": [
+            "小室哲哉的新比爾博音樂會巡演已經決定。",
+            "他將在日本的三個會場進行全16場公演。",
+            "許多粉絲都在期待這個活動。"
+          ],
+          "advanced": [
+            "小室哲哉宣布了他的新比爾博音樂會巡演。",
+            "這次巡演將在東京、大阪和名古屋的三個會場舉行，",
+            "預計將有16場公演。",
+            "他的音樂受到眾多人的喜愛，",
+            "許多粉絲都在期待這次巡演。",
+            "門票可能會很快售罄。",
+            "在音樂界，他的影響力是非常巨大的。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "新しい",
+          "reading": "atarashii",
+          "meaning": "新的",
+          "example": "新しいコンサートをします。",
+          "exampleTranslation": "將舉行新的音樂會。",
+          "level": "N5"
+        },
+        {
+          "word": "公演",
+          "reading": "kouen",
+          "meaning": "演出",
+          "example": "全16公演があります。",
+          "exampleTranslation": "總共有16場演出。",
+          "level": "N1"
+        },
+        {
+          "word": "会場",
+          "reading": "kaijou",
+          "meaning": "會場",
+          "example": "3つの会場で演奏します。",
+          "exampleTranslation": "在三個會場演出。",
+          "level": "N4"
+        },
+        {
+          "word": "発表",
+          "reading": "happyou",
+          "meaning": "宣布",
+          "example": "新たにビルボードライブツアーを発表しました。",
+          "exampleTranslation": "宣布了新比爾博音樂會巡演。",
+          "level": "N3"
+        },
+        {
+          "word": "音楽",
+          "reading": "ongaku",
+          "meaning": "音樂",
+          "example": "彼の音楽は多くの人々に愛されており。",
+          "exampleTranslation": "他的音樂受到眾多人的喜愛。",
+          "level": "N5"
+        },
+        {
+          "word": "ファン",
+          "reading": "fan",
+          "meaning": "粉絲",
+          "example": "多くのファンが楽しみにしています。",
+          "exampleTranslation": "許多粉絲都在期待。",
+          "level": "N1"
+        },
+        {
+          "word": "影響力",
+          "reading": "eikyouryoku",
+          "meaning": "影響力",
+          "example": "彼の影響力は非常に大きいです。",
+          "exampleTranslation": "他的影響力是非常巨大的。"
+        },
+        {
+          "word": "楽しみ",
+          "reading": "tanoshimi",
+          "meaning": "期待",
+          "example": "このツアーを心待ちにしています。",
+          "exampleTranslation": "期待這次巡演。",
+          "level": "N4"
+        },
+        {
+          "word": "売り切れ",
+          "reading": "urikire",
+          "meaning": "售罄",
+          "example": "チケットはすぐに売り切れると思われます。",
+          "exampleTranslation": "門票可能會很快售罄。",
+          "level": "N2"
+        },
+        {
+          "word": "音楽業界",
+          "reading": "ongaku gyoukai",
+          "meaning": "音樂業界",
+          "example": "音楽業界において彼の影響力は非常に大きいです。",
+          "exampleTranslation": "在音樂界，他的影響力是非常巨大的。"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜をします",
+          "explanation": "表示進行某項活動或行為。",
+          "example": "コンサートをします。",
+          "exampleTranslation": "將舉行音樂會。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜があります",
+          "explanation": "表示存在某物或某事物。",
+          "example": "全16公演があります。",
+          "exampleTranslation": "總共有16場演出。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜で",
+          "explanation": "表示動作發生的地點。",
+          "example": "会場で演奏します。",
+          "exampleTranslation": "在會場演出。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜を発表します",
+          "explanation": "表示宣布某事。",
+          "example": "新たにツアーを発表します。",
+          "exampleTranslation": "將宣布新的巡演。",
+          "level": "N4"
+        },
+        {
+          "pattern": "〜を楽しみにしています",
+          "explanation": "表示期待某事。",
+          "example": "このツアーを楽しみにしています。",
+          "exampleTranslation": "期待這次巡演。",
+          "level": "N3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "小室哲哉は何を発表しましたか？",
+          "options": [
+            "新しいアルバム",
+            "新しい映画",
+            "新しいビルボードライブツアー",
+            "新しい小説"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "新專輯",
+            "新電影",
+            "新比爾博音樂會巡演",
+            "新小說"
+          ],
+          "explanation": "小室哲哉宣布了他的新的音樂會巡演。",
+          "translation": "小室哲哉發表了什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "公演は全部で何回ありますか？",
+          "options": [
+            "10",
+            "12",
+            "14",
+            "16"
+          ],
+          "correctAnswer": 3,
+          "optionsTranslation": [
+            "10次",
+            "12次",
+            "14次",
+            "16次"
+          ],
+          "explanation": "這次巡演總共有16場公演。",
+          "translation": "這次演出總共有幾場？"
+        },
+        {
+          "type": "choice",
+          "question": "どこでツアーがありますか？",
+          "options": [
+            "大阪",
+            "名古屋",
+            "東京",
+            "全部"
+          ],
+          "correctAnswer": 3,
+          "optionsTranslation": [
+            "大阪",
+            "名古屋",
+            "東京",
+            "全部"
+          ],
+          "explanation": "這次巡演會在東京、大阪和名古屋舉行。",
+          "translation": "巡演在哪裡舉行？"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を重組してください。",
+          "words": [
+            "公演",
+            "全",
+            "16",
+            "あります"
+          ],
+          "correctAnswer": "全16公演があります。",
+          "explanation": "這是正確的文法順序。",
+          "translation": "請重組以下句子。"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を重組してください。",
+          "words": [
+            "新しい",
+            "ツアー",
+            "発表",
+            "しました"
+          ],
+          "correctAnswer": "新しいツアーを発表しました。",
+          "explanation": "這是正確的文法順序。",
+          "translation": "請重組以下句子。"
+        }
+      ]
+    },
     {
       "title": "元日本代表・闘莉王氏 日本に敗れたブラジル現地メディアの反応明かす「ブチ切れてます」（スポニチアネックス） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tZDBaUFY2Q0FVX1NxMTUyZTZGeGtMQnNvRXdIS2lGRGpqdDlJckJsTUpNUnZ2d3N5T2hfclZRM0g3cXF5bzNYQ1ZjcWRLTzFCQzdRZ3pXYmtWQmZCSFNGSzFCb0NuOFF0NjJ0bmpNNDlqaTFHSFk3b0p0eVhBbVE?oc=5",
