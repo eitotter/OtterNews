@@ -328,7 +328,10 @@ if __name__ == "__main__":
         for candidate in candidates:
             partial = process_news_data({"date": today, language: [candidate]})
             if partial[language]:
-                new_result[language].append(partial[language][0])
+                from datetime import timezone, timedelta
+                article = partial[language][0]
+                article["added_date"] = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
+                new_result[language].append(article)
                 break
         else:
             print(f"警告：{language} 今天沒有生成新文章，保留舊資料")

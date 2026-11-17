@@ -1147,9 +1147,13 @@
                 const option = document.createElement('option');
                 option.value = index;
                 
-                // 格式化日期（使用 published）
+                // 格式化日期（優先使用新增日 added_date，沒有時退回 published）
                 let dateStr = '無日期';
-                if (article.published) {
+                const addedMatch = /^\d{4}-(\d{2})-(\d{2})$/.exec(article.added_date || '');
+                if (addedMatch) {
+                    dateStr = `${parseInt(addedMatch[1], 10)}/${parseInt(addedMatch[2], 10)}`;
+                }
+                if (dateStr === '無日期' && article.published) {
                     const date = new Date(article.published);
                     if (!isNaN(date.getTime())) {
                         dateStr = `${date.getMonth() + 1}/${date.getDate()}`;
@@ -1160,7 +1164,7 @@
                 const title = article.title || article.fullContent?.original || '無標題';
                 const shortTitle = title.length > 40 ? title.substring(0, 40) + '...' : title;
                 
-                option.textContent = `📅 ${dateStr} - ${shortTitle}`;
+                option.textContent = `${dateStr} - ${shortTitle}`;
                 select.appendChild(option);
             });
             
