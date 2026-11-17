@@ -1509,6 +1509,16 @@
             `;
         }
         
+        function normalizeReorder(t) {
+            return String(t == null ? '' : t)
+                .replace(/\s+/g, '')
+                .replace(/[.。．!?！？,，、]+$/, '');
+        }
+
+        function sameReorder(a, b) {
+            return normalizeReorder(a) === normalizeReorder(b);
+        }
+
         function showWrongList() {
             const langQuestions = wrongQuestions.filter(wq => wq.language === currentLanguage);
             
@@ -1518,16 +1528,16 @@
                 let correctAnswer = '';
                 
                 if (q.type === 'choice') {
-                    correctAnswer = q.options[q.correct];
+                    correctAnswer = q.options[q.correctAnswer ?? q.correct];
                 } else if (q.type === 'reorder') {
-                    correctAnswer = q.answer;
+                    correctAnswer = q.correctAnswer;
                 }
                 
                 html += `
                     <div class="wrong-item">
                         <div class="wrong-item-question">${idx + 1}. ${q.question}</div>
-                        <div class="wrong-item-answer">❌ 你的答案：${wq.userAnswer || '(未作答)'}</div>
-                        <div class="wrong-item-correct">✓ 正確答案：${correctAnswer}</div>
+                        <div class="wrong-item-answer">你的答案：${wq.userAnswer || '(未作答)'}</div>
+                        <div class="wrong-item-correct">正確答案：${correctAnswer}</div>
                         <div class="wrong-item-meta">
                             答錯次數：${wq.correctCount === 0 ? '未答對' : '已答對 ' + wq.correctCount + ' 次'} | 
                             最後嘗試：${new Date(wq.lastAttempt).toLocaleDateString('zh-TW')}
@@ -1646,11 +1656,11 @@
                 } else if (q.words) {
                     // 重組題
                     if (userAnswer) {
-                        isCorrect = userAnswer === q.answer;
-                        correctAnswer = q.answer;
+                        isCorrect = sameReorder(userAnswer, q.correctAnswer);
+                        correctAnswer = q.correctAnswer;
                         userAnswerDisplay = userAnswer;
                     } else {
-                        correctAnswer = q.answer;
+                        correctAnswer = q.correctAnswer;
                     }
                 }
                 
@@ -1704,7 +1714,7 @@
             
             results.forEach((r, idx) => {
                 const resultClass = r.isCorrect ? 'correct' : 'incorrect';
-                const icon = r.isCorrect ? '✓' : '✗';
+                const icon = '';
                 const q = r.question;
                 
                 // 取得選項翻譯
@@ -1881,12 +1891,12 @@
                 
                 if (q.type === 'choice') {
                     const userIdx = parseInt(userAnswer);
-                    isCorrect = userIdx === q.correct;
-                    correctAnswer = q.options[q.correct];
+                    isCorrect = userIdx === (q.correctAnswer ?? q.correct);
+                    correctAnswer = q.options[q.correctAnswer ?? q.correct];
                     userAnswerDisplay = q.options[userIdx];
                 } else if (q.type === 'reorder') {
-                    isCorrect = userAnswer === q.answer;
-                    correctAnswer = q.answer;
+                    isCorrect = sameReorder(userAnswer, q.correctAnswer);
+                    correctAnswer = q.correctAnswer;
                     userAnswerDisplay = userAnswer;
                 }
                 
@@ -1945,7 +1955,7 @@
                 `;
                 
                 if (!r.isCorrect) {
-                    html += `<div class="result-answer">✓ 正確答案：${r.correctAnswer}</div>`;
+                    html += `<div class="result-answer">正確答案：${r.correctAnswer}</div>`;
                 }
                 
                 if (r.question.explanation) {
