@@ -1284,6 +1284,7 @@
                     ...(rawData.korean || []).map(article => ({...article, language: "ko"})),
                     ...(rawData.japanese || []).map(article => ({...article, language: "ja"}))
                 ];
+                refreshWrongQuestions();
                 initArticleNav();
                 renderContent();
             } catch (error) {
@@ -1682,9 +1683,37 @@
             displayQuizResult(correct, questions.length, results);
         }
 
+        function wrongKey(q) {
+            if (!q) return '';
+            if (q.type === 'reorder') return 'r:' + String(q.correctAnswer || '').replace(/\s+/g, '');
+            return 'c:' + String(q.question || '');
+        }
+
+        function refreshWrongQuestions() {
+            try {
+                const latest = {};
+                newsData.forEach(a => (a.quiz || []).forEach(q => {
+                    latest[a.language + '|' + wrongKey(q)] = q;
+                }));
+                let changed = false;
+                wrongQuestions.forEach(wq => {
+                    const f = latest[wq.language + '|' + wrongKey(wq.question)];
+                    if (f && f.type === wq.question.type && JSON.stringify(f) !== JSON.stringify(wq.question)) {
+                        wq.question = { ...f };
+                        changed = true;
+                    }
+                });
+                if (changed) {
+                    localStorage.setItem('otterNewsWrongQuestions', JSON.stringify(wrongQuestions));
+                }
+            } catch (e) {
+                console.error('更新錯題失敗:', e);
+            }
+        }
+
         function addToWrongQuestions(question, userAnswer) {
             const existing = wrongQuestions.find(wq => 
-                wq.question.question === question.question && wq.language === currentLanguage
+                wq.language === currentLanguage && wrongKey(wq.question) === wrongKey(question)
             );
             
             if (!existing) {
