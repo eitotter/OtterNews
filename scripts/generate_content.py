@@ -9,6 +9,53 @@ client = OpenAI(
     max_retries=2
 )
 
+def _reorder_strip(text):
+    """移除空白與標點，用於比對重組題"""
+    import re
+    return re.sub(r"[\s.。．!?！？,，、]+", "", text)
+
+
+def reorder_is_valid(words, answer):
+    """檢查詞塊是否能依某種順序串成正確答案"""
+    if not isinstance(words, list) or not words or not isinstance(answer, str):
+        return False
+    if not all(isinstance(w, str) for w in words):
+        return False
+    target = _reorder_strip(answer)
+    pieces = [_reorder_strip(w) for w in words]
+    if not target or any(p == "" for p in pieces):
+        return False
+
+    def solve(pos, remaining):
+        if pos == len(target):
+            return not remaining
+        for k, piece in enumerate(remaining):
+            if target.startswith(piece, pos):
+                if solve(pos + len(piece), remaining[:k] + remaining[k + 1:]):
+                    return True
+        return False
+
+    return solve(0, pieces)
+
+
+def clean_quiz(content):
+    """移除詞塊拼不出答案的重組題"""
+    if not isinstance(content, dict):
+        return content
+    quiz = content.get("quiz")
+    if not isinstance(quiz, list):
+        return content
+    kept = []
+    for q in quiz:
+        if isinstance(q, dict) and q.get("type") == "reorder":
+            if not reorder_is_valid(q.get("words"), q.get("correctAnswer")):
+                print(f"警告：移除無法重組的題目 {q.get('words')} -> {q.get('correctAnswer')}")
+                continue
+        kept.append(q)
+    content["quiz"] = kept
+    return content
+
+
 def generate_learning_content(title, summary, language):
     """使用 OpenAI 生成學習內容"""
     
@@ -74,6 +121,11 @@ def generate_learning_content(title, summary, language):
    - translation: 句子的中文翻譯
    
    請生成 3 道選擇題和 2 道重組題
+   重組題規則（必須遵守）：
+   - words 的詞塊依某種順序直接串接（忽略空白與句尾標點）後，必須與 correctAnswer 完全相同
+   - 助詞、語尾、動詞變化不可省略，不可遺漏任何成分
+   - 日文專有名詞使用日文寫法，例如 イタリア，不可用中文寫法
+   - correctAnswer 必須是自然正確的句子
 
 請確保：
 - 所有{lang_name}內容使用正確的語法和自然的表達
@@ -111,6 +163,7 @@ def generate_learning_content(title, summary, language):
         content_text = content_text.strip()
         
         content = json.loads(content_text)
+        content = clean_quiz(content)
         return content
         
     except Exception as e:
