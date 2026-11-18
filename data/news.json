@@ -1,7 +1,218 @@
 {
-  "last_updated": "2026-11-17T04:56:34.749438",
-  "date": "2026-11-17",
+  "last_updated": "2026-11-18T04:00:11.647772",
+  "date": "2026-11-18",
   "korean": [
+    {
+      "title": "소니움, 서은광 콘서트 수익 담보 K팝 채권 출시…연 12% 수익률에 9개월 만기 - 코인리더스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43dFVjWFlWOGpuQUZPMlJ2b2F2UktDbWRfdmd6ald3STZhbnJYZ1NHQ1Y5Ni0zdXg2dllwMV9MQ1RJaWVObzV3eUFB?oc=5",
+      "published": "Tue, 17 Nov 2026 15:51:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE43dFVjWFlWOGpuQUZPMlJ2b2F2UktDbWRfdmd6ald3STZhbnJYZ1NHQ1Y5Ni0zdXg2dllwMV9MQ1RJaWVObzV3eUFB?oc=5\" target=\"_blank\">소니움, 서은광 콘서트 수익 담보 K팝 채권 출시…연 12% 수익률에 9개월 만기</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">코인리더스</font>",
+      "source": "코인리더스",
+      "fullContent": {
+        "beginner": "소니움이 새로운 K팝 채권을 출시했습니다. 이 채권은 서은광 콘서트 수익을 담보로 합니다. 연 12% 수익률이 있습니다.",
+        "intermediate": "소니움은 서은광 콘서트 수익을 담보로 한 K팝 채권을 출시했습니다. 이 채권은 9개월 만기로, 투자자에게 연 12%의 수익률을 제공합니다. 많은 사람들이 이 채권에 관심을 가지고 있습니다.",
+        "advanced": "소니움은 최근 서은광 콘서트 수익을 담보로 하는 K팝 채권을 출시하였습니다. 이 채권은 9개월 만기로 설정되어 있으며, 연 12%의 높은 수익률을 제공합니다. 이러한 투자 기회는 K팝 팬들에게 매력적입니다. 소니움은 앞으로도 다양한 금융 상품을 선보일 계획입니다.",
+        "original": "소니움, 서은광 콘서트 수익 담보 K팝 채권 출시…연 12% 수익률에 9개월 만기",
+        "titleTranslation": "索尼姆推出以徐恩光音樂會收益為擔保的K-pop債券…年收益率12%，期限9個月",
+        "translations": {
+          "beginner": [
+            "索尼姆推出了新的K-pop債券。",
+            "這債券是以徐恩光音樂會的收益為擔保。",
+            "年收益率為12%。"
+          ],
+          "intermediate": [
+            "索尼姆推出了以徐恩光音樂會收益為擔保的K-pop債券。",
+            "這債券的期限為9個月，提供投資者年12%的收益率。",
+            "許多人對這個債券感興趣。"
+          ],
+          "advanced": [
+            "索尼姆最近推出了一種以徐恩光音樂會收益為擔保的K-pop債券。",
+            "這債券設定為9個月的期限，並提供年12%的高收益率。",
+            "這樣的投資機會對K-pop粉絲來說非常有吸引力。",
+            "索尼姆計劃未來推出各種金融產品。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "소니움",
+          "reading": "sonium",
+          "meaning": "索尼姆",
+          "example": "소니움은 새로운 채권을 출시했습니다.",
+          "exampleTranslation": "索尼姆推出了新的債券。",
+          "level": "6"
+        },
+        {
+          "word": "수익",
+          "reading": "suyik",
+          "meaning": "收益",
+          "example": "이번 수익이 중요합니다.",
+          "exampleTranslation": "這次的收益很重要。",
+          "level": "4"
+        },
+        {
+          "word": "채권",
+          "reading": "chaegwon",
+          "meaning": "債券",
+          "example": "채권 투자는 위험이 있습니다.",
+          "exampleTranslation": "債券投資有風險。",
+          "level": "6"
+        },
+        {
+          "word": "콘서트",
+          "reading": "konseoteu",
+          "meaning": "音樂會",
+          "example": "그의 콘서트는 매우 인기가 많습니다.",
+          "exampleTranslation": "他的音樂會非常受歡迎。",
+          "level": "3"
+        },
+        {
+          "word": "만기",
+          "reading": "mangi",
+          "meaning": "到期",
+          "example": "이 채권은 만기가 9개월입니다.",
+          "exampleTranslation": "這個債券的到期是9個月。",
+          "level": "3"
+        },
+        {
+          "word": "수익률",
+          "reading": "suyikryul",
+          "meaning": "收益率",
+          "example": "수익률이 높습니다.",
+          "exampleTranslation": "收益率很高。",
+          "level": "5"
+        },
+        {
+          "word": "투자자",
+          "reading": "tuja-ja",
+          "meaning": "投資者",
+          "example": "투자자는 정보를 잘 알아야 합니다.",
+          "exampleTranslation": "投資者需要了解信息。",
+          "level": "4"
+        },
+        {
+          "word": "관심",
+          "reading": "gwansim",
+          "meaning": "關注",
+          "example": "많은 사람들이 이 제품에 관심이 있습니다.",
+          "exampleTranslation": "很多人對這個產品感興趣。",
+          "level": "3"
+        },
+        {
+          "word": "계획",
+          "reading": "gyehoeg",
+          "meaning": "計劃",
+          "example": "회사는 새로운 계획을 세웁니다.",
+          "exampleTranslation": "公司制定了新的計劃。",
+          "level": "3"
+        },
+        {
+          "word": "팬",
+          "reading": "paen",
+          "meaning": "粉絲",
+          "example": "그는 유명한 K-pop 팬입니다.",
+          "exampleTranslation": "他是一位著名的K-pop粉絲。",
+          "level": "2"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "N은/는",
+          "explanation": "主題標記助詞，用於強調主題。",
+          "example": "소니움은 새로운 채권을 출시했습니다.",
+          "exampleTranslation": "索尼姆推出了新的債券。",
+          "level": "1"
+        },
+        {
+          "pattern": "N을/를",
+          "explanation": "賓語標記助詞，用於標記動作的賓語。",
+          "example": "투자자는 채권을 구매했습니다.",
+          "exampleTranslation": "投資者購買了債券。",
+          "level": "1"
+        },
+        {
+          "pattern": "N이/가",
+          "explanation": "主格標記助詞，用於標記主語。",
+          "example": "수익률이 높습니다.",
+          "exampleTranslation": "收益率很高。",
+          "level": "1"
+        },
+        {
+          "pattern": "N과/와",
+          "explanation": "聯接助詞，用於連接名詞。",
+          "example": "팬과 투자자가 관심을 가집니다.",
+          "exampleTranslation": "粉絲和投資者都感興趣。",
+          "level": "1"
+        },
+        {
+          "pattern": "N에",
+          "explanation": "方向助詞，用於表示方向或目的地。",
+          "example": "회사는 새로운 계획에 대해 이야기했습니다.",
+          "exampleTranslation": "公司談論了新的計劃。",
+          "level": "1"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "소니움은 무엇을 출시했습니까?",
+          "options": [
+            "K팝 채권",
+            "음악 앨범",
+            "영화",
+            "소설"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "K-pop債券",
+            "音樂專輯",
+            "電影",
+            "小說"
+          ],
+          "explanation": "根據新聞，索尼姆推出了K-pop債券。",
+          "translation": "索尼姆推出了什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "이 채권의 만기는 몇 개월입니까?",
+          "options": [
+            "6개월",
+            "9개월",
+            "12개월",
+            "3개월"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "6個月",
+            "9個月",
+            "12個月",
+            "3個月"
+          ],
+          "explanation": "根據摘要，這個債券的期限是9個月。",
+          "translation": "這個債券的期限是幾個月？"
+        },
+        {
+          "type": "choice",
+          "question": "해당 채권의 수익률은 얼마입니까?",
+          "options": [
+            "10%",
+            "11%",
+            "12%",
+            "13%"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "10%",
+            "11%",
+            "12%",
+            "13%"
+          ],
+          "explanation": "根據新聞，該債券的收益率為12%。",
+          "translation": "該債券的收益率是多少？"
+        }
+      ],
+      "added_date": "2026-11-18"
+    },
     {
       "title": "혼자 쓰는 헤드셋으로 함께 보는 공연… K-팝 VR 콘서트, 해외 쇼핑몰 상영관으로 - K-EnterTech Hub",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91X2wtODZmQXJMODA2bkVNRGZBRHV3VWRteU8xN0NCblBhWkNveGZrVTBTbDZSWm1ySURsUUtBbG5YWDJ3VUFJT3VjNVl1emNuVDZ1ei1MV2wxUF9PY1k4?oc=5",
@@ -1440,6 +1651,216 @@
     }
   ],
   "japanese": [
+    {
+      "title": "男闘呼組、1989年の東京ドーム公演から「DAYBREAK」「TIME ZONE」ライブ映像を公開（オリコン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZk8xNnFXQ3M5bkhUT283VUJUSU1RRDNmMzRhTEtVNTN4ZFQ4emhxN0lkcUlhazVJVXNndnFlQWpOSTUzWXRaRFFCY3dJc1lPdTRIQ2dzd0RNYTNvOXpYU0lqcEJKOExXT0lTS0FSTXo0MU5aMWFTMW9yUG1TVVU?oc=5",
+      "published": "Wed, 18 Nov 2026 03:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZk8xNnFXQ3M5bkhUT283VUJUSU1RRDNmMzRhTEtVNTN4ZFQ4emhxN0lkcUlhazVJVXNndnFlQWpOSTUzWXRaRFFCY3dJc1lPdTRIQ2dzd0RNYTNvOXpYU0lqcEJKOExXT0lTS0FSTXo0MU5aMWFTMW9yUG1TVVU?oc=5\" target=\"_blank\">男闘呼組、1989年の東京ドーム公演から「DAYBREAK」「TIME ZONE」ライブ映像を公開（オリコン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "男闘呼組は1989年に東京ドームでコンサートをしました。彼らは「DAYBREAK」と「TIME ZONE」を歌いました。今、ライブ映像を見られます。",
+        "intermediate": "男闘呼組は1989年に東京ドームで特別な公演を行いました。この公演では「DAYBREAK」と「TIME ZONE」の2曲を演奏しました。最近、彼らはそのライブ映像を公開しました。ファンはこの映像を楽しむことができます。",
+        "advanced": "男闘呼組は1989年に東京ドームで開催された記念すべき公演から、代表曲「DAYBREAK」と「TIME ZONE」のライブ映像を公開しました。この貴重な映像は、当時の熱気を感じさせるものであり、多くのファンにとって思い出深いものとなっています。彼らのパフォーマンスは、現在も多くの人々に影響を与えています。新たに公開された映像を通じて、ファンは再びその素晴らしい瞬間を体験することができるでしょう。",
+        "original": "男闘呼組、1989年の東京ドーム公演から「DAYBREAK」「TIME ZONE」ライブ映像を公開（オリコン）",
+        "titleTranslation": "男闘呼組，公開1989年東京巨蛋演唱會的《DAYBREAK》和《TIME ZONE》現場影像",
+        "translations": {
+          "beginner": [
+            "男闘呼組在1989年於東京巨蛋舉行了音樂會。",
+            "他們唱了《DAYBREAK》和《TIME ZONE》。",
+            "現在，可以觀看現場影像。"
+          ],
+          "intermediate": [
+            "男闘呼組在1989年於東京巨蛋舉行了特別的演出。",
+            "在這場演出中，他們演唱了《DAYBREAK》和《TIME ZONE》兩首歌曲。",
+            "最近，他們公開了這些現場影片。",
+            "粉絲們可以享受這些影片。"
+          ],
+          "advanced": [
+            "男闘呼組於1989年在東京巨蛋舉行了一場具有紀念意義的演出，",
+            "並公開了他們的代表作《DAYBREAK》和《TIME ZONE》的現場影片。",
+            "這段珍貴的影片讓人回味起當時的熱情，",
+            "對於許多粉絲來說意義深遠。",
+            "他們的表演至今仍然影響著許多人。",
+            "透過新公開的影片，粉絲能夠再次體驗那美好的瞬間。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "男闘呼組",
+          "reading": "Otoko Tōkō Gumi",
+          "meaning": "男闘呼組（日本音樂團體）",
+          "example": "男闘呼組は日本の人気グループです。",
+          "exampleTranslation": "男闘呼組是日本的熱門團體。"
+        },
+        {
+          "word": "東京ドーム",
+          "reading": "Tōkyō Dōmu",
+          "meaning": "東京巨蛋（日本的體育場）",
+          "example": "東京ドームでコンサートが行われます。",
+          "exampleTranslation": "在東京巨蛋舉行音樂會。"
+        },
+        {
+          "word": "公演",
+          "reading": "Kōen",
+          "meaning": "演出",
+          "example": "公演はとても成功しました。",
+          "exampleTranslation": "演出非常成功。",
+          "level": "N1"
+        },
+        {
+          "word": "ライブ映像",
+          "reading": "Raibu Eizō",
+          "meaning": "現場影像",
+          "example": "ライブ映像を楽しむことができます。",
+          "exampleTranslation": "可以享受現場影像。"
+        },
+        {
+          "word": "公開",
+          "reading": "Kōkai",
+          "meaning": "公開",
+          "example": "新しい映像が公開されました。",
+          "exampleTranslation": "新的影像已經公開。"
+        },
+        {
+          "word": "曲",
+          "reading": "Kyoku",
+          "meaning": "歌曲",
+          "example": "この曲はとても人気があります。",
+          "exampleTranslation": "這首歌非常受歡迎。",
+          "level": "N1"
+        },
+        {
+          "word": "ファン",
+          "reading": "Fan",
+          "meaning": "粉絲",
+          "example": "ファンが集まりました。",
+          "exampleTranslation": "粉絲們聚集在一起。",
+          "level": "N1"
+        },
+        {
+          "word": "演奏",
+          "reading": "Enzō",
+          "meaning": "演奏",
+          "example": "彼らは素晴らしい演奏をしました。",
+          "exampleTranslation": "他們的演奏非常棒。",
+          "level": "N3"
+        },
+        {
+          "word": "影響",
+          "reading": "Eikyō",
+          "meaning": "影響",
+          "example": "彼らの音楽は多くの人に影響を与えています。",
+          "exampleTranslation": "他們的音樂影響了很多人。",
+          "level": "N3"
+        },
+        {
+          "word": "瞬間",
+          "reading": "Shunkan",
+          "meaning": "瞬間",
+          "example": "あの瞬間は忘れられません。",
+          "exampleTranslation": "那一刻讓我無法忘懷。",
+          "level": "N3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "Vます + ことができます",
+          "explanation": "表示有能力或可能做某事。",
+          "example": "私は日本語を話すことができます。",
+          "exampleTranslation": "我能說日語。",
+          "level": "N2"
+        },
+        {
+          "pattern": "Nのために",
+          "explanation": "表示為了某個目的或原因。",
+          "example": "勉強のために本を読みます。",
+          "exampleTranslation": "為了學習，我讀書。",
+          "level": "N2"
+        },
+        {
+          "pattern": "Vて + います",
+          "explanation": "表示動作的持續狀態。",
+          "example": "今、音楽を聴いています。",
+          "exampleTranslation": "現在正在聽音樂。",
+          "level": "N5"
+        },
+        {
+          "pattern": "Vた + ことがある",
+          "explanation": "表示過去曾經做過某事。",
+          "example": "日本に行ったことがあります。",
+          "exampleTranslation": "我去過日本。",
+          "level": "N3"
+        },
+        {
+          "pattern": "Nについて",
+          "explanation": "表示關於某事。",
+          "example": "この映画について話しましょう。",
+          "exampleTranslation": "讓我們談談這部電影。",
+          "level": "N3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "男闘呼組は何の映像を公開しましたか？",
+          "options": [
+            "映画",
+            "ライブ映像",
+            "写真",
+            "アニメ"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "電影",
+            "現場影像",
+            "照片",
+            "動畫"
+          ],
+          "explanation": "男闘呼組公開的是現場影像。",
+          "translation": "男闘呼組公開了什麼影像？"
+        },
+        {
+          "type": "choice",
+          "question": "どこで公演が行われましたか？",
+          "options": [
+            "大阪",
+            "東京ドーム",
+            "名古屋",
+            "福岡"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "大阪",
+            "東京巨蛋",
+            "名古屋",
+            "福岡"
+          ],
+          "explanation": "公演是在東京巨蛋舉行的。",
+          "translation": "演出在哪裡舉行的？"
+        },
+        {
+          "type": "choice",
+          "question": "何年に男闘呼組は公演をしましたか？",
+          "options": [
+            "1985年",
+            "1990年",
+            "1989年",
+            "1988年"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "1985年",
+            "1990年",
+            "1989年",
+            "1988年"
+          ],
+          "explanation": "男闘呼組是在1989年舉行公演的。",
+          "translation": "男闘呼組是在何年舉行公演的？"
+        }
+      ],
+      "added_date": "2026-11-18"
+    },
     {
       "title": "小室哲哉の新ビルボードライブツアー決定、3会場で全16公演 - ナタリー",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rR0RKZkZsME5MSV9jbHZheHFqTWpWWkRiS1RHMmNlLWpBaGJjUWpvVC1kU0VpYXliS2pXb3FGT1E4U3dHU25xZVdfclY?oc=5",
