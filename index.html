@@ -1247,7 +1247,8 @@
             currentUtterance.rate = speechRate;
             currentUtterance.onend = () => {
                 if (isLooping) {
-                    speak(text);
+                    const next = getSpeechText();
+                    if (next) speak(next);
                 }
             };
             speechSynthesis.speak(currentUtterance);
@@ -1340,7 +1341,7 @@
                     </div>
                     
                     <div class="content-card">
-                        <div class="news-title">📰 ${newsItem.title}</div>
+                        <div class="news-title" onclick="speakTitle()" style="cursor: pointer;">📰 ${newsItem.title}</div>
                         <div class="news-title-translation ${showTranslation ? 'show' : ''}">${titleTranslation}</div>
                         <div class="news-meta">
                             <span>📅 ${newsItem.published}</span>
@@ -1453,14 +1454,40 @@
             document.getElementById('article-content').innerHTML = articleHTML;
         }
         
-        function playArticle() {
+        function getCurrentArticle() {
             const articles = newsData.filter(article => article.language === currentLanguage);
-            if (!articles || !Array.isArray(articles) || articles.length === 0) return;
-            
-            const data = articles[currentArticleIndex];
+            return articles[currentArticleIndex] || null;
+        }
+
+        function normalizeForTTS(text) {
+            const percentWord = currentLanguage === 'ko' ? ' 퍼센트' : 'パーセント';
+            return text.replace(/%/g, percentWord);
+        }
+
+        function getSpeechText() {
+            const data = getCurrentArticle();
+            if (!data) return '';
+            return normalizeForTTS(data.fullContent?.[currentLevel] || '');
+        }
+
+        function speakTitle() {
+            const data = getCurrentArticle();
+            if (!data) return;
             const title = data.fullContent?.original || '';
-            const article = data.fullContent?.[currentLevel] || '';
-            speak(title + '。' + article);
+            if (!title) return;
+            stopSpeaking();
+            const u = new SpeechSynthesisUtterance(title);
+            u.lang = currentLanguage === 'ko' ? 'ko-KR' : 'ja-JP';
+            u.rate = speechRate;
+            currentUtterance = u;
+            // cancel() 後立即 speak() 會被瀏覽器丟棄，需延遲
+            setTimeout(() => speechSynthesis.speak(u), 100);
+        }
+
+        function playArticle() {
+            const text = getSpeechText();
+            if (!text) return;
+            speak(text);
         }
         
         function renderReviewCompact() {
