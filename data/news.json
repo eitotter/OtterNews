@@ -1,7 +1,251 @@
 {
-  "last_updated": "2026-11-18T04:00:11.647772",
-  "date": "2026-11-18",
+  "last_updated": "2026-11-19T03:56:48.364435",
+  "date": "2026-11-19",
   "korean": [
+    {
+      "title": "하이브, 日 ‘뤼미에르 어워드’ 휩쓸어…K팝 VR 콘서트 극장가 강타 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95RWZxNldBYzhzaXE3dGgzNC1RcTBNYVRxb1h6VURjQTdKOW5HSUhLZ290dENjSDN0WE9HQy00UzJqbTBoSDlscFFFNEZaTl85Nnl4b0R5VU01YWFnT2d6bWdxbw?oc=5",
+      "published": "Wed, 18 Nov 2026 22:59:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE95RWZxNldBYzhzaXE3dGgzNC1RcTBNYVRxb1h6VURjQTdKOW5HSUhLZ290dENjSDN0WE9HQy00UzJqbTBoSDlscFFFNEZaTl85Nnl4b0R5VU01YWFnT2d6bWdxbw?oc=5\" target=\"_blank\">하이브, 日 ‘뤼미에르 어워드’ 휩쓸어…K팝 VR 콘서트 극장가 강타</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더구루</font>",
+      "source": "더구루",
+      "fullContent": {
+        "beginner": "하이브는 일본에서 큰 상을 받았습니다. 이 상은 '뤼미에르 어워드'입니다. K팝 VR 콘서트도 인기가 많습니다.",
+        "intermediate": "하이브가 일본에서 열린 ‘뤼미에르 어워드’에서 여러 상을 휩쓸었습니다. 이 상은 K팝 아티스트와 관련된 것입니다. K팝 VR 콘서트는 극장에서도 상영되고 있습니다. 많은 사람들이 이 콘서트를 즐깁니다. 이는 K팝의 인기를 보여줍니다.",
+        "advanced": "하이브는 최근 일본에서 개최된 ‘뤼미에르 어워드’에서 여러 부문에서 수상하며 큰 주목을 받았습니다. 이 어워드는 K팝 아티스트와 그들의 작품을 기념하는 행사로, 특히 K팝 VR 콘서트가 큰 인기를 끌고 있는 가운데 이루어졌습니다. VR 콘서트는 관객에게 새로운 경험을 제공하며, 많은 사람들이 극장에서 이 공연을 관람하고 있습니다. 이는 K팝의 글로벌한 인기를 다시 한번 확인시켜주는 사례입니다.",
+        "original": "하이브, 日 ‘뤼미에르 어워드’ 휩쓸어…K팝 VR 콘서트 극장가 강타",
+        "titleTranslation": "HYBE在日本的‘光影獎’中獲得多項大獎…K-Pop VR音樂會席捲劇院",
+        "translations": {
+          "beginner": [
+            "HYBE在日本獲得了大獎。",
+            "這個獎項是‘光影獎’。",
+            "K-Pop VR音樂會也很受歡迎。"
+          ],
+          "intermediate": [
+            "HYBE在日本舉行的‘光影獎’上獲得了多個獎項。",
+            "這些獎項與K-Pop藝術家有關。",
+            "K-Pop VR音樂會在劇院中也有放映。",
+            "許多人享受這場音樂會。",
+            "這顯示了K-Pop的受歡迎程度。"
+          ],
+          "advanced": [
+            "HYBE最近在日本舉辦的‘光影獎’中獲得了多個獎項，受到廣泛關注。",
+            "這個獎項是為了表彰K-Pop藝術家及其作品，",
+            "而尤其是在K-Pop VR音樂會受到了極大的關注的情況下進行的。",
+            "VR音樂會為觀眾提供了全新的體驗，",
+            "許多人選擇在劇院中觀看這場演出。",
+            "這再次證明了K-Pop的全球人氣。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "하이브",
+          "reading": "haibeu",
+          "meaning": "HYBE",
+          "example": "하이브는 K팝 회사입니다.",
+          "exampleTranslation": "HYBE是一家K-Pop公司。",
+          "level": "6"
+        },
+        {
+          "word": "뤼미에르 어워드",
+          "reading": "ryumieo eowodeu",
+          "meaning": "光影獎",
+          "example": "뤼미에르 어워드는 유명한 상입니다.",
+          "exampleTranslation": "光影獎是一個著名的獎項。",
+          "level": "6"
+        },
+        {
+          "word": "K팝",
+          "reading": "K-pop",
+          "meaning": "K-Pop",
+          "example": "K팝은 세계적으로 유명합니다.",
+          "exampleTranslation": "K-Pop在全球非常有名。",
+          "level": "1"
+        },
+        {
+          "word": "VR 콘서트",
+          "reading": "VR konseoteu",
+          "meaning": "VR音樂會",
+          "example": "VR 콘서트는 새로운 경험을 제공합니다.",
+          "exampleTranslation": "VR音樂會提供全新的體驗。",
+          "level": "5"
+        },
+        {
+          "word": "극장",
+          "reading": "geukjang",
+          "meaning": "劇院",
+          "example": "극장에서 영화를 봅니다.",
+          "exampleTranslation": "我在劇院看電影。",
+          "level": "3"
+        },
+        {
+          "word": "강타",
+          "reading": "gangta",
+          "meaning": "席捲",
+          "example": "이 음악은 시장을 강타했습니다.",
+          "exampleTranslation": "這首音樂席捲了市場。",
+          "level": "4"
+        },
+        {
+          "word": "상",
+          "reading": "sang",
+          "meaning": "獎項",
+          "example": "그는 상을 받았습니다.",
+          "exampleTranslation": "他獲得了獎項。",
+          "level": "3"
+        },
+        {
+          "word": "많은",
+          "reading": "manheun",
+          "meaning": "許多的",
+          "example": "많은 사람들이 참석했습니다.",
+          "exampleTranslation": "許多人參加了。",
+          "level": "2"
+        },
+        {
+          "word": "인기",
+          "reading": "ingi",
+          "meaning": "人氣",
+          "example": "그 영화는 인기 있습니다.",
+          "exampleTranslation": "那部電影很受歡迎。",
+          "level": "3"
+        },
+        {
+          "word": "행사",
+          "reading": "haengsa",
+          "meaning": "活動",
+          "example": "이번 행사는 매우 중요합니다.",
+          "exampleTranslation": "這次活動非常重要。",
+          "level": "3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A는 B이다",
+          "explanation": "這是用來表述A是B的一種句型。",
+          "example": "하이브는 K팝 회사이다.",
+          "exampleTranslation": "HYBE是一家K-Pop公司。",
+          "level": "1"
+        },
+        {
+          "pattern": "A에서 B를 하다",
+          "explanation": "這是用來表示在A地點進行B活動的句型。",
+          "example": "극장에서 영화를 본다.",
+          "exampleTranslation": "在劇院看電影。",
+          "level": "2"
+        },
+        {
+          "pattern": "A는 B와 관련이 있다",
+          "explanation": "這是用來表示A與B有關的句型。",
+          "example": "이 상은 K팝 아티스트와 관련이 있다.",
+          "exampleTranslation": "這個獎項與K-Pop藝術家有關。",
+          "level": "3"
+        },
+        {
+          "pattern": "A는 B를 통해 C를 제공하다",
+          "explanation": "這是用來表達A通過B來提供C的句型。",
+          "example": "VR 콘서트는 관객에게 새로운 경험을 제공한다.",
+          "exampleTranslation": "VR音樂會為觀眾提供全新的體驗。",
+          "level": "4"
+        },
+        {
+          "pattern": "A는 B로 인해 C가 되다",
+          "explanation": "這是用來表示A因為B而成為C的句型。",
+          "example": "K팝은 세계적으로 유명해졌다.",
+          "exampleTranslation": "K-Pop變得在全球非常有名。",
+          "level": "4"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "하이브는 어떤 상을 받았나요?",
+          "options": [
+            "영화상",
+            "스포츠상",
+            "뤼미에르 어워드",
+            "음악상"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "電影獎",
+            "體育獎",
+            "光影獎",
+            "音樂獎"
+          ],
+          "explanation": "하이브는 일본의 뤼미에르 어워드에서 여러 상을 받았습니다.",
+          "translation": "HYBE獲得了什麼獎項？"
+        },
+        {
+          "type": "choice",
+          "question": "K팝 VR 콘서트는 어디서 열리나요?",
+          "options": [
+            "극장",
+            "학교",
+            "공원",
+            "집"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "劇院",
+            "學校",
+            "公園",
+            "家"
+          ],
+          "explanation": "K팝 VR 콘서트는 극장에서 상영됩니다.",
+          "translation": "K-Pop VR音樂會在哪裡舉行？"
+        },
+        {
+          "type": "choice",
+          "question": "‘뤼미에르 어워드’는 어떤 분야의 상인가요?",
+          "options": [
+            "스포츠",
+            "음악",
+            "영화",
+            "문학"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "體育",
+            "音樂",
+            "電影",
+            "文學"
+          ],
+          "explanation": "‘뤼미에르 어워드’는 영화 관련 상입니다.",
+          "translation": "‘光影獎’是什麼領域的獎項？"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배치하세요: '하이브는 뤼미에르 어워드에서 여러 상을 받았다'",
+          "words": [
+            "여러",
+            "상을",
+            "받았다",
+            "하이브는",
+            "뤼미에르",
+            "어워드에서"
+          ],
+          "correctAnswer": "하이브는 뤼미에르 어워드에서 여러 상을 받았다.",
+          "explanation": "문장을 올바른 순서로 재배치해야 합니다.",
+          "translation": "請重組以下句子：'HYBE在光影獎中獲得了多個獎項'"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재배치하세요: 'K팝 VR 콘서트는 극장에서 상영된다'",
+          "words": [
+            "극장에서",
+            "상영된다",
+            "K팝",
+            "VR",
+            "콘서트는"
+          ],
+          "correctAnswer": "K팝 VR 콘서트는 극장에서 상영된다.",
+          "explanation": "문장을 올바른 순서로 재배치해야 합니다.",
+          "translation": "請重組以下句子：'K-Pop VR音樂會在劇院放映'"
+        }
+      ],
+      "added_date": "2026-11-19"
+    },
     {
       "title": "소니움, 서은광 콘서트 수익 담보 K팝 채권 출시…연 12% 수익률에 9개월 만기 - 코인리더스",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43dFVjWFlWOGpuQUZPMlJ2b2F2UktDbWRfdmd6ald3STZhbnJYZ1NHQ1Y5Ni0zdXg2dllwMV9MQ1RJaWVObzV3eUFB?oc=5",
@@ -1651,6 +1895,225 @@
     }
   ],
   "japanese": [
+    {
+      "title": "[ガールズバンドクライ Special LIVE \"赤色の響祭\"]のライヴ・レポート公開。トゲトゲ、ダイダス、Canna Lily、F-272、クズミミズクがそれぞれの個性を光らせ音楽を鳴らした\"響祭\"をレポート - Skream!",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lZFVmWVlER0xxZkxDcGFaSUMyeXV0eDlfUm9EdDVxdF8zT1dWdWNzbFBHRWFWbzNhX21LRWZmWmxsWGgtVHBvR0FiYllwbnNSWUxLa0o2TTcxWE5tbGZkVGtaeHVwckV4WlE?oc=5",
+      "published": "Tue, 17 Nov 2026 10:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9lZFVmWVlER0xxZkxDcGFaSUMyeXV0eDlfUm9EdDVxdF8zT1dWdWNzbFBHRWFWbzNhX21LRWZmWmxsWGgtVHBvR0FiYllwbnNSWUxLa0o2TTcxWE5tbGZkVGtaeHVwckV4WlE?oc=5\" target=\"_blank\">[ガールズバンドクライ Special LIVE \"赤色の響祭\"]のライヴ・レポート公開。トゲトゲ、ダイダス、Canna Lily、F-272、クズミミズクがそれぞれの個性を光らせ音楽を鳴らした\"響祭\"をレポート</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skream!</font>",
+      "source": "Skream!",
+      "fullContent": {
+        "beginner": "ガールズバンドクライの特別ライブがありました。赤色の響祭で多くのバンドが演奏しました。楽しい音楽がありました。",
+        "intermediate": "ガールズバンドクライの特別ライブ「赤色の響祭」が開催されました。このイベントには、トゲトゲ、ダイダス、Canna Lily、F-272、クズミミズクのバンドが参加しました。それぞれのバンドは独自のスタイルで音楽を楽しませてくれました。",
+        "advanced": "先日、ガールズバンドクライの特別ライブ「赤色の響祭」が行われました。このイベントには、トゲトゲ、ダイダス、Canna Lily、F-272、クズミミズクといった多彩なバンドが参加し、それぞれの個性を存分に発揮しました。観客は彼らの音楽に熱狂し、会場は一体感に包まれました。特に、Canna Lilyのパフォーマンスは非常に印象的で、多くのファンを魅了しました。",
+        "original": "[ガールズバンドクライ Special LIVE \"赤色の響祭\"]のライヴ・レポート公開。トゲトゲ、ダイダス、Canna Lily、F-272、クズミミズクがそれぞれの個性を光らせ音楽を鳴らした\"響祭\"をレポート - Skream!",
+        "titleTranslation": "少女樂隊 KRAI 特別演出 \"紅色響祭\" 的現場報導公開",
+        "translations": {
+          "beginner": [
+            "少女樂隊KRAI的特別演出舉行了。",
+            "在紅色響祭上有許多樂隊演出。",
+            "有很多有趣的音樂。"
+          ],
+          "intermediate": [
+            "少女樂隊KRAI的特別演出「紅色響祭」舉行了。",
+            "這個活動有多支樂隊參加，包括トゲトゲ、ダイダス、Canna Lily、F-272和クズミミズク。",
+            "每支樂隊都以獨特的風格帶來音樂的享受。"
+          ],
+          "advanced": [
+            "最近，少女樂隊KRAI的特別演出「紅色響祭」舉行了。",
+            "活動中，包括トゲトゲ、ダイダス、Canna Lily、F-272和クズミミズク等多元化的樂隊參加，展現了各自的個性。",
+            "觀眾們對他們的音樂熱情高漲，現場氣氛充滿了團結感。",
+            "特別是Canna Lily的演出非常出色，吸引了眾多粉絲。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "ガールズバンド",
+          "reading": "gāruzu bando",
+          "meaning": "少女樂隊",
+          "example": "ガールズバンドが好きです。",
+          "exampleTranslation": "我喜歡少女樂隊。"
+        },
+        {
+          "word": "特別",
+          "reading": "tokubetsu",
+          "meaning": "特別",
+          "example": "特別なイベントです。",
+          "exampleTranslation": "這是特別的活動。",
+          "level": "N4"
+        },
+        {
+          "word": "ライブ",
+          "reading": "raibu",
+          "meaning": "現場演出",
+          "example": "ライブに行きます。",
+          "exampleTranslation": "我會去現場演出。"
+        },
+        {
+          "word": "音楽",
+          "reading": "ongaku",
+          "meaning": "音樂",
+          "example": "音楽が好きです。",
+          "exampleTranslation": "我喜歡音樂。",
+          "level": "N5"
+        },
+        {
+          "word": "個性",
+          "reading": "kosei",
+          "meaning": "個性",
+          "example": "彼女の個性は素敵です。",
+          "exampleTranslation": "她的個性很棒。",
+          "level": "N1"
+        },
+        {
+          "word": "観客",
+          "reading": "kankyaku",
+          "meaning": "觀眾",
+          "example": "観客は楽しんでいます。",
+          "exampleTranslation": "觀眾們很享受。",
+          "level": "N3"
+        },
+        {
+          "word": "パフォーマンス",
+          "reading": "pafōmansu",
+          "meaning": "表演",
+          "example": "彼のパフォーマンスは素晴らしい。",
+          "exampleTranslation": "他的表演非常出色。"
+        },
+        {
+          "word": "印象的",
+          "reading": "inshōteki",
+          "meaning": "印象深刻",
+          "example": "その映画は印象的でした。",
+          "exampleTranslation": "那部電影很印象深刻。"
+        },
+        {
+          "word": "参加",
+          "reading": "sanka",
+          "meaning": "參加",
+          "example": "イベントに参加します。",
+          "exampleTranslation": "我會參加活動。",
+          "level": "N3"
+        },
+        {
+          "word": "熱狂",
+          "reading": "nekkyō",
+          "meaning": "熱情",
+          "example": "ファンは熱狂しています。",
+          "exampleTranslation": "粉絲們非常熱情。"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "の",
+          "explanation": "用於名詞之間的連接，表示所有或屬性。",
+          "example": "ガールズバンドのライブ。",
+          "exampleTranslation": "少女樂隊的現場演出。",
+          "level": "N5"
+        },
+        {
+          "pattern": "は",
+          "explanation": "主題標記助詞，用於強調主題。",
+          "example": "音楽は楽しいです。",
+          "exampleTranslation": "音樂很有趣。",
+          "level": "N5"
+        },
+        {
+          "pattern": "が",
+          "explanation": "主語標記助詞，表示主語。",
+          "example": "観客がいます。",
+          "exampleTranslation": "有觀眾。",
+          "level": "N5"
+        },
+        {
+          "pattern": "に",
+          "explanation": "表示目的地、方向或時間。",
+          "example": "ライブに行きます。",
+          "exampleTranslation": "我會去現場演出。",
+          "level": "N5"
+        },
+        {
+          "pattern": "と",
+          "explanation": "用於列舉或連接名詞。",
+          "example": "トゲトゲとダイダスが参加しました。",
+          "exampleTranslation": "トゲトゲ和ダイダス參加了。",
+          "level": "N5"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "ガールズバンドクライの特別ライブは何ですか？",
+          "options": [
+            "赤色の響祭",
+            "青色の響祭",
+            "緑色の響祭",
+            "黄色の響祭"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "紅色響祭",
+            "藍色響祭",
+            "綠色響祭",
+            "黃色響祭"
+          ],
+          "explanation": "ガールズバンドクライの特別ライブは「赤色の響祭」です。",
+          "translation": "少女樂隊 KRAI 的特別演出是什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "どのバンドが参加しましたか？",
+          "options": [
+            "トゲトゲ",
+            "アニメ",
+            "映画",
+            "本"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "トゲトゲ",
+            "動畫",
+            "電影",
+            "書籍"
+          ],
+          "explanation": "トゲトゲは参加したバンドの一つです。",
+          "translation": "哪個樂隊參加了？"
+        },
+        {
+          "type": "choice",
+          "question": "何が観客を魅了しましたか？",
+          "options": [
+            "音楽",
+            "サッカー",
+            "食べ物",
+            "映画"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "音樂",
+            "足球",
+            "食物",
+            "電影"
+          ],
+          "explanation": "音楽が観客を魅了しました。",
+          "translation": "什麼吸引了觀眾？"
+        },
+        {
+          "type": "reorder",
+          "question": "以下の文を並べ替えなさい。",
+          "words": [
+            "音楽",
+            "楽しい",
+            "は",
+            "です"
+          ],
+          "correctAnswer": "音楽は楽しいです。",
+          "explanation": "正しい順番は「音楽は楽しいです」です。",
+          "translation": "請重組以下句子。"
+        }
+      ],
+      "added_date": "2026-11-19"
+    },
     {
       "title": "男闘呼組、1989年の東京ドーム公演から「DAYBREAK」「TIME ZONE」ライブ映像を公開（オリコン） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZk8xNnFXQ3M5bkhUT283VUJUSU1RRDNmMzRhTEtVNTN4ZFQ4emhxN0lkcUlhazVJVXNndnFlQWpOSTUzWXRaRFFCY3dJc1lPdTRIQ2dzd0RNYTNvOXpYU0lqcEJKOExXT0lTS0FSTXo0MU5aMWFTMW9yUG1TVVU?oc=5",
