@@ -1,7 +1,200 @@
 {
-  "last_updated": "2026-11-19T03:56:48.364435",
-  "date": "2026-11-19",
+  "last_updated": "2026-11-20T03:50:31.917900",
+  "date": "2026-11-20",
   "korean": [
+    {
+      "title": "[수출 1조달러 시대]K팝 공연 빠진 한중 FTA…가요계는 '신중' - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YM290Y29vejByd29MRXVsT09iZlQwS0pObG01cTJZUHhKa01hT0pCSXE1eGNxRlFfU2ZxVmh6WjNPcmY5ME40OTRDNzFoc29KZy1Ea0hJYm05dUphaEFUQQ?oc=5",
+      "published": "Thu, 19 Nov 2026 06:07:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YM290Y29vejByd29MRXVsT09iZlQwS0pObG01cTJZUHhKa01hT0pCSXE1eGNxRlFfU2ZxVmh6WjNPcmY5ME40OTRDNzFoc29KZy1Ea0hJYm05dUphaEFUQQ?oc=5\" target=\"_blank\">[수출 1조달러 시대]K팝 공연 빠진 한중 FTA…가요계는 '신중'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+      "source": "아시아경제",
+      "fullContent": {
+        "beginner": "K팝은 한국의 음악입니다. K팝 공연이 중요합니다. 한중 FTA가 있습니다.",
+        "intermediate": "K팝 공연은 한중 자유무역협정(FTA)에서 빠져 있습니다. 가요계는 이에 대해 신중한 입장을 보이고 있습니다. 수출이 1조 달러에 도달한 시대에 K팝의 영향력이 커지고 있습니다.",
+        "advanced": "최근 한중 자유무역협정(FTA)에서 K팝 공연이 제외되었습니다. 이에 따라 가요계는 신중한 반응을 보이고 있습니다. 수출 1조 달러 시대에 접어든 한국에서 K팝은 경제적으로 중요한 역할을 하고 있습니다. 하지만 K팝 공연의 제외는 팬들과 아티스트들에게 우려를 낳고 있습니다. 가요계는 정부와의 협의를 통해 이 문제를 해결하려고 하고 있습니다.",
+        "original": "[수출 1조달러 시대]K팝 공연 빠진 한중 FTA…가요계는 '신중'",
+        "titleTranslation": "[出口1兆美元時代] K-pop表演缺席的中韓自貿協定…歌謠界持謹慎態度",
+        "translations": {
+          "beginner": [
+            "K-pop是韓國的音樂。",
+            "K-pop表演很重要。",
+            "中韓自由貿易協定存在。"
+          ],
+          "intermediate": [
+            "K-pop表演在中韓自由貿易協定(FTA)中被排除。",
+            "歌謠界對此持謹慎的態度。",
+            "出口達到1兆美元的時代，K-pop的影響力日益增強。"
+          ],
+          "advanced": [
+            "最近中韓自由貿易協定(FTA)中排除了K-pop表演。",
+            "因此，歌謠界表現出謹慎的反應。",
+            "在邁入出口1兆美元的時代，K-pop在經濟上扮演著重要角色。",
+            "然而，K-pop表演的排除引發了粉絲和藝術家的憂慮。",
+            "歌謠界正試圖通過與政府的協商來解決這個問題。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "K팝",
+          "reading": "케이팝",
+          "meaning": "K-pop",
+          "example": "K팝은 세계적으로 유명하다.",
+          "exampleTranslation": "K-pop在世界上非常有名。",
+          "level": "1"
+        },
+        {
+          "word": "공연",
+          "reading": "공연",
+          "meaning": "表演",
+          "example": "K팝 공연은 정말 멋있다.",
+          "exampleTranslation": "K-pop表演真的很棒。",
+          "level": "3"
+        },
+        {
+          "word": "FTA",
+          "reading": "자유무역협정",
+          "meaning": "自由貿易協定",
+          "example": "한중 FTA가 체결되었다.",
+          "exampleTranslation": "中韓自由貿易協定已經簽訂。",
+          "level": "4"
+        },
+        {
+          "word": "신중",
+          "reading": "신중",
+          "meaning": "謹慎",
+          "example": "가요계는 신중한 반응을 보이고 있다.",
+          "exampleTranslation": "歌謠界表現出謹慎的反應。",
+          "level": "4"
+        },
+        {
+          "word": "수출",
+          "reading": "수출",
+          "meaning": "出口",
+          "example": "한국의 수출이 증가하고 있다.",
+          "exampleTranslation": "韓國的出口正在增加。",
+          "level": "4"
+        },
+        {
+          "word": "경제",
+          "reading": "경제",
+          "meaning": "經濟",
+          "example": "K팝은 한국 경제에 기여하고 있다.",
+          "exampleTranslation": "K-pop對韓國經濟做出了貢獻。",
+          "level": "4"
+        },
+        {
+          "word": "영향력",
+          "reading": "영향력",
+          "meaning": "影響力",
+          "example": "K팝은 큰 영향력을 가지고 있다.",
+          "exampleTranslation": "K-pop擁有很大的影響力。",
+          "level": "4"
+        },
+        {
+          "word": "문제",
+          "reading": "문제",
+          "meaning": "問題",
+          "example": "이 문제를 해결해야 한다.",
+          "exampleTranslation": "必須解決這個問題。",
+          "level": "2"
+        },
+        {
+          "word": "협의",
+          "reading": "협의",
+          "meaning": "協商",
+          "example": "정부와 협의 중이다.",
+          "exampleTranslation": "正在與政府協商中。",
+          "level": "4"
+        },
+        {
+          "word": "우려",
+          "reading": "우려",
+          "meaning": "憂慮",
+          "example": "팬들의 우려가 크다.",
+          "exampleTranslation": "粉絲們的憂慮很大。",
+          "level": "4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "명사 + 에서",
+          "explanation": "表示某地點或來源，通常譯為「在…」或「從…」。",
+          "example": "K팝은 한국에서 유명하다.",
+          "exampleTranslation": "K-pop在韓國很有名。",
+          "level": "2"
+        },
+        {
+          "pattern": "동사 + 고 있다",
+          "explanation": "表示正在進行的動作，通常譯為「正在…」。",
+          "example": "가요계는 신중한 반응을 보이고 있다.",
+          "exampleTranslation": "歌謠界正在表現出謹慎的反應。",
+          "level": "2"
+        },
+        {
+          "pattern": "형용사 + 하다",
+          "explanation": "用於形容詞後，表示變成某種狀態，通常譯為「變得…」。",
+          "example": "K팝은 세계적으로 유명해졌다.",
+          "exampleTranslation": "K-pop變得在世界上非常有名。",
+          "level": "3"
+        },
+        {
+          "pattern": "명사 + 이다",
+          "explanation": "用於名詞後，表示同等關係，通常譯為「是…」。",
+          "example": "수출은 경제에 중요하다.",
+          "exampleTranslation": "出口對經濟很重要。",
+          "level": "1"
+        },
+        {
+          "pattern": "동사 + 려고 하다",
+          "explanation": "表示打算進行某動作，通常譯為「打算…」。",
+          "example": "협의를 하려고 한다.",
+          "exampleTranslation": "打算進行協商。",
+          "level": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "K팝 공연은 어디에서 빠졌나요?",
+          "options": [
+            "한중 FTA",
+            "일본",
+            "미국",
+            "유럽"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "中韓FTA",
+            "日本",
+            "美國",
+            "歐洲"
+          ],
+          "explanation": "K팝 공연은 한중 FTA에서 빠졌습니다.",
+          "translation": "K-pop表演是在哪裡被排除的？"
+        },
+        {
+          "type": "choice",
+          "question": "가요계는 어떤 반응을 보이고 있나요?",
+          "options": [
+            "신중한 반응",
+            "즐거운 반응",
+            "아무 반응",
+            "부정적인 반응"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "謹慎的反應",
+            "愉快的反應",
+            "沒有反應",
+            "負面的反應"
+          ],
+          "explanation": "가요계는 신중한 반응을 보이고 있습니다.",
+          "translation": "歌謠界表現出什麼反應？"
+        }
+      ],
+      "added_date": "2026-11-20"
+    },
     {
       "title": "하이브, 日 ‘뤼미에르 어워드’ 휩쓸어…K팝 VR 콘서트 극장가 강타 - 더구루",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95RWZxNldBYzhzaXE3dGgzNC1RcTBNYVRxb1h6VURjQTdKOW5HSUhLZ290dENjSDN0WE9HQy00UzJqbTBoSDlscFFFNEZaTl85Nnl4b0R5VU01YWFnT2d6bWdxbw?oc=5",
@@ -1895,6 +2088,228 @@
     }
   ],
   "japanese": [
+    {
+      "title": "考えるな、感じろ！宝塚歌劇団とLDHを融合！音楽ライブと芝居もマッシュアップ！『HiGH&LOW THE 戦国 LOVE&HATE』開幕 THE RAMPAGE 藤原樹は初歌唱も - TOKYO HEADLINE",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rZ281MllUbkpFZjNVNE11Y3ozbEd0clBfanEwQkdOZl9IZk5YeGc0T0JNV3NYVGgtYmg1RUtIRW54QV9pd2o3LUVCRjUwUQ?oc=5",
+      "published": "Wed, 18 Nov 2026 12:57:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rZ281MllUbkpFZjNVNE11Y3ozbEd0clBfanEwQkdOZl9IZk5YeGc0T0JNV3NYVGgtYmg1RUtIRW54QV9pd2o3LUVCRjUwUQ?oc=5\" target=\"_blank\">考えるな、感じろ！宝塚歌劇団とLDHを融合！音楽ライブと芝居もマッシュアップ！『HiGH&amp;LOW THE 戦国 LOVE&amp;HATE』開幕 THE RAMPAGE 藤原樹は初歌唱も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TOKYO HEADLINE</font>",
+      "source": "TOKYO HEADLINE",
+      "fullContent": {
+        "beginner": "宝塚歌劇団は人気があります。LDHとコラボしました。このイベントは楽しいです。",
+        "intermediate": "『HiGH&LOW THE 戦国 LOVE&HATE』が開幕しました。このイベントは宝塚歌劇団とLDHの融合です。音楽ライブと芝居が一緒になっています。THE RAMPAGEの藤原樹さんは初めて歌を歌います。",
+        "advanced": "『HiGH&LOW THE 戦国 LOVE&HATE』がついに開幕しました！この新たな作品では、宝塚歌劇団とLDHが見事に融合しています。音楽ライブと芝居の要素が絶妙にマッシュアップされており、観客を魅了すること間違いなしです。特に、THE RAMPAGEの藤原樹さんが初めて歌唱するということで、期待が高まっています。彼のパフォーマンスは多くのファンにとって特別な瞬間となるでしょう。",
+        "original": "考えるな、感じろ！宝塚歌劇団とLDHを融合！音楽ライブと芝居もマッシュアップ！『HiGH&LOW THE 戦国 LOVE&HATE』開幕 THE RAMPAGE 藤原樹は初歌唱も",
+        "titleTranslation": "不要思考，感受吧！寶塚歌劇團與LDH的融合！音樂直播與戲劇的混搭！《HiGH&LOW THE 戦国 LOVE&HATE》開幕 THE RAMPAGE 藤原樹首次演唱！",
+        "translations": {
+          "beginner": [
+            "寶塚歌劇團很受歡迎。",
+            "和LDH合作了。",
+            "這個活動很有趣。"
+          ],
+          "intermediate": [
+            "《HiGH&LOW THE 戦国 LOVE&HATE》開幕了。",
+            "這個活動是寶塚歌劇團和LDH的融合。",
+            "音樂直播和戲劇結合在一起。",
+            "THE RAMPAGE的藤原樹首次演唱。"
+          ],
+          "advanced": [
+            "《HiGH&LOW THE 戦国 LOVE&HATE》終於開幕了！",
+            "這部新作品中，寶塚歌劇團和LDH完美融合。",
+            "音樂直播和戲劇的元素精妙地混合在一起，",
+            "肯定會吸引觀眾的目光。",
+            "特別是，THE RAMPAGE的藤原樹首次演唱，",
+            "使得期待更加高漲。",
+            "他的表演對於許多粉絲來說將是一個特別的瞬間。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "宝塚歌劇団",
+          "reading": "Takarazuka Kagekidan",
+          "meaning": "寶塚歌劇團",
+          "example": "宝塚歌劇団の公演はいつも人気です。",
+          "exampleTranslation": "寶塚歌劇團的演出總是很受歡迎。"
+        },
+        {
+          "word": "融合",
+          "reading": "yūgō",
+          "meaning": "融合",
+          "example": "文化の融合は面白いです。",
+          "exampleTranslation": "文化的融合很有趣。"
+        },
+        {
+          "word": "マッシュアップ",
+          "reading": "masshu appu",
+          "meaning": "混搭",
+          "example": "音楽のマッシュアップが好きです。",
+          "exampleTranslation": "我喜歡音樂的混搭。"
+        },
+        {
+          "word": "開幕",
+          "reading": "kaimaku",
+          "meaning": "開幕",
+          "example": "新しい映画が開幕しました。",
+          "exampleTranslation": "新電影開幕了。"
+        },
+        {
+          "word": "初歌唱",
+          "reading": "hatsu kashou",
+          "meaning": "首次演唱",
+          "example": "彼は初歌唱の機会を得ました。",
+          "exampleTranslation": "他得到了首次演唱的機會。"
+        },
+        {
+          "word": "期待",
+          "reading": "kitai",
+          "meaning": "期待",
+          "example": "期待が高まっています。",
+          "exampleTranslation": "期待正在提高。",
+          "level": "N3"
+        },
+        {
+          "word": "パフォーマンス",
+          "reading": "pafōmansu",
+          "meaning": "表演",
+          "example": "彼のパフォーマンスは素晴らしいです。",
+          "exampleTranslation": "他的表演很精彩。"
+        },
+        {
+          "word": "観客",
+          "reading": "kankyaku",
+          "meaning": "觀眾",
+          "example": "観客は楽しんでいました。",
+          "exampleTranslation": "觀眾們很享受。",
+          "level": "N3"
+        },
+        {
+          "word": "要素",
+          "reading": "yōso",
+          "meaning": "要素",
+          "example": "このゲームの要素は面白いです。",
+          "exampleTranslation": "這個遊戲的要素很有趣。",
+          "level": "N3"
+        },
+        {
+          "word": "特別",
+          "reading": "tokubetsu",
+          "meaning": "特別",
+          "example": "今日は特別な日です。",
+          "exampleTranslation": "今天是特別的日子。",
+          "level": "N4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "～がある",
+          "explanation": "表示存在某物或某事",
+          "example": "宝塚歌劇団がある。",
+          "exampleTranslation": "有寶塚歌劇團。",
+          "level": "N5"
+        },
+        {
+          "pattern": "～と～が融合する",
+          "explanation": "表示兩者的結合或融合",
+          "example": "音楽と芝居が融合する。",
+          "exampleTranslation": "音樂和戲劇融合。",
+          "level": "N2"
+        },
+        {
+          "pattern": "～が開幕する",
+          "explanation": "表示事件或活動的開始",
+          "example": "イベントが開幕する。",
+          "exampleTranslation": "活動開幕。",
+          "level": "N2"
+        },
+        {
+          "pattern": "～が初めて～する",
+          "explanation": "表示某人首次進行某事",
+          "example": "彼は初めて歌を歌う。",
+          "exampleTranslation": "他首次演唱歌曲。",
+          "level": "N3"
+        },
+        {
+          "pattern": "～が高まる",
+          "explanation": "表示期待或興奮等情緒的增強",
+          "example": "期待が高まる。",
+          "exampleTranslation": "期待提高。",
+          "level": "N2"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "宝塚歌劇団は何ですか？",
+          "options": [
+            "映画",
+            "音楽バンド",
+            "歌劇団",
+            "スポーツチーム"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "電影",
+            "音樂團體",
+            "歌劇團",
+            "運動隊"
+          ],
+          "explanation": "寶塚歌劇團是一個著名的歌劇團。",
+          "translation": "寶塚歌劇團是什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "『HiGH&LOW THE 戦国 LOVE&HATE』は何のイベントですか？",
+          "options": [
+            "アニメ",
+            "音楽ライブ",
+            "スポーツイベント",
+            "料理大会"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "動畫",
+            "音樂直播",
+            "體育活動",
+            "料理比賽"
+          ],
+          "explanation": "這是一個音樂直播活動。",
+          "translation": "《HiGH&LOW THE 戦国 LOVE&HATE》是什麼活動？"
+        },
+        {
+          "type": "choice",
+          "question": "藤原樹さんは何をしますか？",
+          "options": [
+            "演技",
+            "初歌唱",
+            "ダンス",
+            "司会"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "演出",
+            "首次演唱",
+            "舞蹈",
+            "主持"
+          ],
+          "explanation": "藤原樹將首次演唱。",
+          "translation": "藤原樹要做什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
+            "が",
+            "開幕",
+            "イベント",
+            "した"
+          ],
+          "correctAnswer": "イベントが開幕した。",
+          "explanation": "正確的句子順序是『イベントが開幕した』。",
+          "translation": "請重組這句話。"
+        }
+      ],
+      "added_date": "2026-11-20"
+    },
     {
       "title": "[ガールズバンドクライ Special LIVE \"赤色の響祭\"]のライヴ・レポート公開。トゲトゲ、ダイダス、Canna Lily、F-272、クズミミズクがそれぞれの個性を光らせ音楽を鳴らした\"響祭\"をレポート - Skream!",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lZFVmWVlER0xxZkxDcGFaSUMyeXV0eDlfUm9EdDVxdF8zT1dWdWNzbFBHRWFWbzNhX21LRWZmWmxsWGgtVHBvR0FiYllwbnNSWUxLa0o2TTcxWE5tbGZkVGtaeHVwckV4WlE?oc=5",
