@@ -1,7 +1,221 @@
 {
-  "last_updated": "2026-11-20T03:50:31.917900",
-  "date": "2026-11-20",
+  "last_updated": "2026-11-21T03:42:34.693617",
+  "date": "2026-11-21",
   "korean": [
+    {
+      "title": "김재원 의원, 마이 케이팝 스타 시상식 '골든' 열창...콘서트급 열기 이끌어 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZRUJsMFFUYi05MllQX3lOSldkc0NBYlF3bzZrbndOYW1YOW1jRUprSi04QXlleDhTLWNhdTlyczF3UTRWTEtYY292MmdMNHlkeV9vdW9PbTR5SE9w?oc=5",
+      "published": "Sat, 21 Nov 2026 01:57:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZRUJsMFFUYi05MllQX3lOSldkc0NBYlF3bzZrbndOYW1YOW1jRUprSi04QXlleDhTLWNhdTlyczF3UTRWTEtYY292MmdMNHlkeV9vdW9PbTR5SE9w?oc=5\" target=\"_blank\">김재원 의원, 마이 케이팝 스타 시상식 '골든' 열창...콘서트급 열기 이끌어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+      "source": "뉴스핌",
+      "fullContent": {
+        "beginner": "김재원 의원은 마이 케이팝 스타 시상식에서 노래를 불렀습니다. 그의 노래는 정말 좋았습니다. 많은 사람들이 즐거워했습니다.",
+        "intermediate": "김재원 의원은 최근 마이 케이팝 스타 시상식에서 '골든'이라는 곡을 열창했습니다. 그의 공연은 콘서트 수준의 열기를 자아냈습니다. 많은 팬들이 그의 공연을 기다렸습니다. 이 날은 특별한 날이었습니다. 시상식은 성공적으로 마무리되었습니다.",
+        "advanced": "김재원 의원은 마이 케이팝 스타 시상식에서 '골든'이라는 곡을 열창하며 대단한 인기를 끌었습니다. 그의 공연은 콘서트급 열기를 불러일으켰고, 많은 팬들이 그를 응원했습니다. 이날 시상식은 팬들에게 잊지 못할 순간이 되었습니다. 김 의원은 무대에서 뛰어난 퍼포먼스를 보여주었고, 관객들은 그의 노래에 열광했습니다. 이로 인해 시상식은 성공적으로 마무리되었으며, 많은 언론에서도 그의 공연에 대해 긍정적으로 보도했습니다.",
+        "original": "김재원 의원, 마이 케이팝 스타 시상식 '골든' 열창...콘서트급 열기 이끌어",
+        "titleTranslation": "金在元議員在我的K-POP明星頒獎典禮中熱唱『Golden』...引領演唱會級熱度",
+        "translations": {
+          "beginner": [
+            "金在元議員在我的K-POP明星頒獎典禮中唱歌。",
+            "他的歌真好聽。",
+            "很多人都很開心。"
+          ],
+          "intermediate": [
+            "金在元議員最近在我的K-POP明星頒獎典禮上演唱了名為『Golden』的歌曲。",
+            "他的表演引起了演唱會級的熱度。",
+            "許多粉絲期待著他的表演。",
+            "這一天是特別的一天。",
+            "頒獎典禮成功地結束了。"
+          ],
+          "advanced": [
+            "金在元議員在我的K-POP明星頒獎典禮上熱唱了名為『Golden』的歌曲，並引起了極大的關注。",
+            "他的演出引發了演唱會級的熱度，吸引了大量粉絲的支持。",
+            "這一天對於粉絲們來說成為了難忘的時刻。",
+            "金議員在舞台上展現了出色的表演，觀眾對他的歌曲熱烈歡呼。",
+            "因此，頒獎典禮以圓滿成功的方式結束，許多媒體也對他的表演給予了正面的報導。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "의원",
+          "reading": "uiwon",
+          "meaning": "議員",
+          "example": "김재원 의원이 참석했습니다.",
+          "exampleTranslation": "金在元議員出席了。",
+          "level": "3"
+        },
+        {
+          "word": "시상식",
+          "reading": "sisangsik",
+          "meaning": "頒獎典禮",
+          "example": "시상식이 열립니다.",
+          "exampleTranslation": "頒獎典禮將舉行。",
+          "level": "4"
+        },
+        {
+          "word": "열창",
+          "reading": "yeolchyang",
+          "meaning": "熱唱",
+          "example": "그는 무대에서 열창했습니다.",
+          "exampleTranslation": "他在舞台上熱唱。",
+          "level": "4"
+        },
+        {
+          "word": "곡",
+          "reading": "gok",
+          "meaning": "歌曲",
+          "example": "이 곡은 정말 좋습니다.",
+          "exampleTranslation": "這首歌真的很好。",
+          "level": "2"
+        },
+        {
+          "word": "콘서트",
+          "reading": "konseoteu",
+          "meaning": "演唱會",
+          "example": "콘서트가 기대됩니다.",
+          "exampleTranslation": "期待演唱會。",
+          "level": "3"
+        },
+        {
+          "word": "팬",
+          "reading": "paen",
+          "meaning": "粉絲",
+          "example": "그는 많은 팬이 있습니다.",
+          "exampleTranslation": "他有很多粉絲。",
+          "level": "2"
+        },
+        {
+          "word": "퍼포먼스",
+          "reading": "peopeomeonseu",
+          "meaning": "表演",
+          "example": "그의 퍼포먼스는 훌륭했습니다.",
+          "exampleTranslation": "他的表演非常出色。",
+          "level": "6"
+        },
+        {
+          "word": "무대",
+          "reading": "mudae",
+          "meaning": "舞台",
+          "example": "무대 위에서 노래했습니다.",
+          "exampleTranslation": "在舞台上唱歌。",
+          "level": "2"
+        },
+        {
+          "word": "소식",
+          "reading": "sosik",
+          "meaning": "消息",
+          "example": "좋은 소식이 있습니다.",
+          "exampleTranslation": "有好消息。",
+          "level": "3"
+        },
+        {
+          "word": "언론",
+          "reading": "eonron",
+          "meaning": "媒體",
+          "example": "언론에서 보도했습니다.",
+          "exampleTranslation": "媒體報導了。",
+          "level": "4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "V + 고 있다",
+          "explanation": "表示正在進行的動作或狀態。",
+          "example": "그는 노래하고 있습니다.",
+          "exampleTranslation": "他正在唱歌。",
+          "level": "2"
+        },
+        {
+          "pattern": "N + 에서",
+          "explanation": "表示某個地方或時間的起點。",
+          "example": "시상식에서 만났습니다.",
+          "exampleTranslation": "在頒獎典禮上見面了。",
+          "level": "2"
+        },
+        {
+          "pattern": "V + 아/어/여요",
+          "explanation": "表示現在時或未來時的動作。",
+          "example": "노래해요.",
+          "exampleTranslation": "我唱歌。",
+          "level": "1"
+        },
+        {
+          "pattern": "A + ㄴ/은",
+          "explanation": "用來修飾名詞，表示形容詞的狀態。",
+          "example": "좋은 노래입니다.",
+          "exampleTranslation": "這是一首好歌。",
+          "level": "2"
+        },
+        {
+          "pattern": "V + (으)ㄹ 거예요",
+          "explanation": "表示未來的計畫或預測。",
+          "example": "내일 공연할 거예요.",
+          "exampleTranslation": "明天將演出。",
+          "level": "2"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "김재원 의원은 무엇을 열창했나요?",
+          "options": [
+            "사랑의 곡",
+            "골든",
+            "행복한 곡",
+            "슬픈 곡"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "愛的歌曲",
+            "金色",
+            "快樂的歌曲",
+            "悲傷的歌曲"
+          ],
+          "explanation": "金在元議員在頒獎典禮上演唱了《金色》。",
+          "translation": "金在元議員唱了什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "시상식의 열기는 어땠나요?",
+          "options": [
+            "차가웠다",
+            "정상적이었다",
+            "콘서트급이었다",
+            "조용했다"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "很冷",
+            "正常",
+            "演唱會級",
+            "安靜"
+          ],
+          "explanation": "頒獎典禮的熱度達到了演唱會的水平。",
+          "translation": "頒獎典禮的熱度如何？"
+        },
+        {
+          "type": "choice",
+          "question": "김 의원의 공연은 어떤 평가를 받았나요?",
+          "options": [
+            "부정적",
+            "긍정적",
+            "중립적",
+            "형편없었다"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "負面",
+            "正面",
+            "中立",
+            "糟糕"
+          ],
+          "explanation": "媒體對金議員的表演給予了正面的評價。",
+          "translation": "金議員的表演得到了什麼評價？"
+        }
+      ],
+      "added_date": "2026-11-21"
+    },
     {
       "title": "[수출 1조달러 시대]K팝 공연 빠진 한중 FTA…가요계는 '신중' - 아시아경제",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YM290Y29vejByd29MRXVsT09iZlQwS0pObG01cTJZUHhKa01hT0pCSXE1eGNxRlFfU2ZxVmh6WjNPcmY5ME40OTRDNzFoc29KZy1Ea0hJYm05dUphaEFUQQ?oc=5",
@@ -2088,6 +2302,230 @@
     }
   ],
   "japanese": [
+    {
+      "title": "【ライブレポート】Fire EX.主催フェス「FIREBALL Fest.」台湾で開催 Dragon Ash、サンボマスター、HANAら日本勢も熱狂生む - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05VUJOanBlMkFjZmNBTS1Heko1cXoxNDVHQU0wWUc1NFRBamQ5dFB2dkVQeHFJbkRtdGw1ZDlJNTJlSE85ZFhwN01RTTFsNURxNnF5X2RXMzk2S2RPZzJHeFZndTdEMHRCLUd3bFZzNmd0TnQyQ3dMVzBpUGxsODA?oc=5",
+      "published": "Sat, 21 Nov 2026 03:00:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE05VUJOanBlMkFjZmNBTS1Heko1cXoxNDVHQU0wWUc1NFRBamQ5dFB2dkVQeHFJbkRtdGw1ZDlJNTJlSE85ZFhwN01RTTFsNURxNnF5X2RXMzk2S2RPZzJHeFZndTdEMHRCLUd3bFZzNmd0TnQyQ3dMVzBpUGxsODA?oc=5\" target=\"_blank\">【ライブレポート】Fire EX.主催フェス「FIREBALL Fest.」台湾で開催 Dragon Ash、サンボマスター、HANAら日本勢も熱狂生む</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "FIREBALL Fest.は台湾で開催されました。Fire EX.が主催しました。多くの日本のバンドが参加しました。",
+        "intermediate": "台湾でFIREBALL Fest.が開催されました。Fire EX.がこのフェスティバルを主催しました。Dragon Ashやサンボマスターなどのバンドが出演しました。多くのファンが集まりました。日本の音楽が熱狂を生みました。",
+        "advanced": "台湾で開催されたFIREBALL Fest.は、Fire EX.が主催した音楽フェスティバルです。Dragon Ash、サンボマスター、HANAなど、数多くの日本のバンドが出演し、観客の熱狂を呼び起こしました。このイベントは、アジアにおける日本の音楽の影響力を再確認させるものとなりました。多くのファンが集まり、彼らのパフォーマンスに熱中しました。音楽の力が国境を越える瞬間を目撃しました。",
+        "original": "【ライブレポート】Fire EX.主催フェス「FIREBALL Fest.」台湾で開催 Dragon Ash、サンボマスター、HANAら日本勢も熱狂生む",
+        "titleTranslation": "【現場報導】Fire EX. 主辦的音樂節「FIREBALL Fest.」在台灣舉行，Dragon Ash、サンボマスター、HANA等日本團體也引發熱潮",
+        "translations": {
+          "beginner": [
+            "FIREBALL Fest.在台灣舉辦。",
+            "Fire EX.主辦了這個活動。",
+            "許多日本樂團參加了。"
+          ],
+          "intermediate": [
+            "FIREBALL Fest.在台灣舉行。",
+            "Fire EX.主辦了這個音樂節。",
+            "Dragon Ash和サンボマスター等樂團參加了。",
+            "許多粉絲聚集了。",
+            "日本音樂引起了熱潮。"
+          ],
+          "advanced": [
+            "在台灣舉行的FIREBALL Fest.是由Fire EX.主辦的音樂節。",
+            "Dragon Ash、サンボマスター、HANA等多個日本樂團參加，並引發了觀眾的熱情。",
+            "這個活動重新確認了日本音樂在亞洲的影響力。",
+            "大量粉絲聚集在一起，沉浸於他們的表演中。",
+            "音樂的力量超越了國界，讓人們見證了這一刻。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "フェス",
+          "reading": "fesu",
+          "meaning": "音樂節",
+          "example": "フェスは楽しいです。",
+          "exampleTranslation": "音樂節很有趣。"
+        },
+        {
+          "word": "主催",
+          "reading": "shusai",
+          "meaning": "主辦",
+          "example": "彼はイベントを主催します。",
+          "exampleTranslation": "他主辦活動。",
+          "level": "N1"
+        },
+        {
+          "word": "開催",
+          "reading": "kaisai",
+          "meaning": "舉行",
+          "example": "フェスは来月開催されます。",
+          "exampleTranslation": "音樂節將於下個月舉行。",
+          "level": "N1"
+        },
+        {
+          "word": "参加",
+          "reading": "sanka",
+          "meaning": "參加",
+          "example": "彼女は大会に参加します。",
+          "exampleTranslation": "她參加比賽。",
+          "level": "N3"
+        },
+        {
+          "word": "熱狂",
+          "reading": "nekkyou",
+          "meaning": "熱潮",
+          "example": "ファンは熱狂しています。",
+          "exampleTranslation": "粉絲們很熱情。"
+        },
+        {
+          "word": "バンド",
+          "reading": "bando",
+          "meaning": "樂團",
+          "example": "このバンドは有名です。",
+          "exampleTranslation": "這個樂團很有名。",
+          "level": "N2"
+        },
+        {
+          "word": "影響力",
+          "reading": "eikyouryoku",
+          "meaning": "影響力",
+          "example": "音楽は社会に影響力を持っています。",
+          "exampleTranslation": "音樂對社會有影響力。"
+        },
+        {
+          "word": "観客",
+          "reading": "kankyaku",
+          "meaning": "觀眾",
+          "example": "観客は楽しんでいます。",
+          "exampleTranslation": "觀眾很享受。",
+          "level": "N3"
+        },
+        {
+          "word": "パフォーマンス",
+          "reading": "pafōmansu",
+          "meaning": "表演",
+          "example": "彼は素晴らしいパフォーマンスをしました。",
+          "exampleTranslation": "他有精彩的表演。"
+        },
+        {
+          "word": "国境",
+          "reading": "kokkyou",
+          "meaning": "國界",
+          "example": "国境を越えることが大切です。",
+          "exampleTranslation": "跨越國界是很重要的。",
+          "level": "N3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "は",
+          "explanation": "主題標記，用於句子的主題。",
+          "example": "音楽は楽しいです。",
+          "exampleTranslation": "音樂很有趣。",
+          "level": "N5"
+        },
+        {
+          "pattern": "が",
+          "explanation": "主語標記，用於強調主語或在對比時使用。",
+          "example": "彼が行きます。",
+          "exampleTranslation": "是他去。",
+          "level": "N5"
+        },
+        {
+          "pattern": "を",
+          "explanation": "賓語標記，用於標記動詞的賓語。",
+          "example": "音楽を聞きます。",
+          "exampleTranslation": "聽音樂。",
+          "level": "N5"
+        },
+        {
+          "pattern": "と",
+          "explanation": "並列或引用的助詞，表示和、與或如同。",
+          "example": "友達と行きます。",
+          "exampleTranslation": "和朋友一起去。",
+          "level": "N5"
+        },
+        {
+          "pattern": "ので",
+          "explanation": "原因或理由的表現，表示因為。",
+          "example": "雨が降ったので、行きませんでした。",
+          "exampleTranslation": "因為下雨，所以我沒有去。",
+          "level": "N2"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "FIREBALL Fest.はどこで開催されましたか？",
+          "options": [
+            "日本",
+            "台湾",
+            "アメリカ",
+            "韓国"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "日本",
+            "台灣",
+            "美國",
+            "韓國"
+          ],
+          "explanation": "FIREBALL Fest.は台湾で開催されました。",
+          "translation": "FIREBALL Fest.在哪裡舉行？"
+        },
+        {
+          "type": "choice",
+          "question": "誰がフェスを主催しましたか？",
+          "options": [
+            "Dragon Ash",
+            "Fire EX.",
+            "HANA",
+            "サンボマスター"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "Dragon Ash",
+            "Fire EX.",
+            "HANA",
+            "サンボマスター"
+          ],
+          "explanation": "Fire EX.がこのフェスティバルを主催しました。",
+          "translation": "誰主辦了這個音樂節？"
+        },
+        {
+          "type": "choice",
+          "question": "どのバンドが参加しましたか？",
+          "options": [
+            "HANA",
+            "AKB48",
+            "EXILE",
+            "B'z"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "HANA",
+            "AKB48",
+            "EXILE",
+            "B'z"
+          ],
+          "explanation": "HANAはイベントに参加しました。",
+          "translation": "哪個樂團參加了？"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
+            "彼",
+            "行きます",
+            "が",
+            "イベント",
+            "に"
+          ],
+          "correctAnswer": "彼がイベントに行きます。",
+          "explanation": "這是正確的主語和賓語結構。",
+          "translation": "他要去活動。"
+        }
+      ],
+      "added_date": "2026-11-21"
+    },
     {
       "title": "考えるな、感じろ！宝塚歌劇団とLDHを融合！音楽ライブと芝居もマッシュアップ！『HiGH&LOW THE 戦国 LOVE&HATE』開幕 THE RAMPAGE 藤原樹は初歌唱も - TOKYO HEADLINE",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rZ281MllUbkpFZjNVNE11Y3ozbEd0clBfanEwQkdOZl9IZk5YeGc0T0JNV3NYVGgtYmg1RUtIRW54QV9pd2o3LUVCRjUwUQ?oc=5",
