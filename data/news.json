@@ -1,7 +1,219 @@
 {
-  "last_updated": "2026-11-23T03:26:51.256595",
-  "date": "2026-11-23",
+  "last_updated": "2026-11-24T06:40:36.598003",
+  "date": "2026-11-24",
   "korean": [
+    {
+      "title": "K-팝은 매진인데 공연장은 없다…베트남 콘서트 산업의 숙제 - 굿모닝베트남미디어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SR1FXSk9FaUNBN01IY2JYd09XLWNNOXVKdWZJajE2QlZPTENUS3l2OWY4YkdBcThDcWdKQlhOZ1BWdnM3UmdERmVnYkJxUnR4QllQZmtUdEs4Y21WM2tncWZsZzRoemluNjJPSUE3ZTI?oc=5",
+      "published": "Tue, 24 Nov 2026 02:24:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1SR1FXSk9FaUNBN01IY2JYd09XLWNNOXVKdWZJajE2QlZPTENUS3l2OWY4YkdBcThDcWdKQlhOZ1BWdnM3UmdERmVnYkJxUnR4QllQZmtUdEs4Y21WM2tncWZsZzRoemluNjJPSUE3ZTI?oc=5\" target=\"_blank\">K-팝은 매진인데 공연장은 없다…베트남 콘서트 산업의 숙제</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">굿모닝베트남미디어</font>",
+      "source": "굿모닝베트남미디어",
+      "fullContent": {
+        "beginner": "K-팝은 인기가 많아요. 베트남에서 공연이 없어요. 공연장이 필요해요.",
+        "intermediate": "K-팝은 전 세계적으로 큰 인기를 끌고 있습니다. 하지만 베트남에서는 K-팝 공연이 부족한 상황입니다. 많은 팬들이 공연을 보고 싶어하지만 공연장이 부족한 것이 문제입니다. 베트남 콘서트 산업은 이 문제를 해결해야 합니다.",
+        "advanced": "K-팝은 매진되는 경우가 많지만, 베트남에서는 공연장이 부족하여 팬들이 공연을 볼 수 없는 상황입니다. 많은 K-팝 아티스트들이 베트남에서 공연하고 싶어하지만, 적절한 공연장이 없어 어려움을 겪고 있습니다. 베트남의 콘서트 산업은 이러한 문제를 해결하기 위해 새로운 공연장 건설과 같은 대책을 마련해야 합니다. K-팝의 인기를 활용하여 베트남의 문화 산업을 발전시킬 수 있는 기회가 될 것입니다.",
+        "original": "K-팝은 매진인데 공연장은 없다…베트남 콘서트 산업의 숙제",
+        "titleTranslation": "K-POP票已售罄但沒有演出場地…越南音樂會產業的課題",
+        "translations": {
+          "beginner": [
+            "K-POP非常受歡迎。",
+            "在越南沒有演出。",
+            "需要演出場地。"
+          ],
+          "intermediate": [
+            "K-POP在全球引起了很大的關注。",
+            "但在越南K-POP演出很少。",
+            "許多粉絲想看演出，但缺乏演出場地。",
+            "越南的音樂會產業必須解決這個問題。"
+          ],
+          "advanced": [
+            "K-POP雖然經常售罄，但在越南卻缺少演出場地，粉絲無法觀看演出。",
+            "許多K-POP藝人希望在越南演出，但缺乏適合的演出場所。",
+            "越南的音樂會產業需要建立新演出場所等措施來解決這一問題。",
+            "利用K-POP的熱度，可以使越南的文化產業發展成為一個機會。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "K-팝",
+          "reading": "K-pop",
+          "meaning": "K-POP",
+          "example": "K-팝은 세계적으로 유명합니다.",
+          "exampleTranslation": "K-POP在世界上非常有名。",
+          "level": "1"
+        },
+        {
+          "word": "공연",
+          "reading": "gongyeon",
+          "meaning": "演出",
+          "example": "나는 K-팝 공연을 보고 싶어요.",
+          "exampleTranslation": "我想看K-POP演出。",
+          "level": "3"
+        },
+        {
+          "word": "매진",
+          "reading": "maejin",
+          "meaning": "售罄",
+          "example": "티켓이 매진되었습니다.",
+          "exampleTranslation": "票已售罄。",
+          "level": "4"
+        },
+        {
+          "word": "베트남",
+          "reading": "Beteunam",
+          "meaning": "越南",
+          "example": "베트남은 아름다운 나라입니다.",
+          "exampleTranslation": "越南是一個美麗的國家。",
+          "level": "1"
+        },
+        {
+          "word": "산업",
+          "reading": "saneob",
+          "meaning": "產業",
+          "example": "이 산업은 발전하고 있습니다.",
+          "exampleTranslation": "這個產業正在發展。",
+          "level": "4"
+        },
+        {
+          "word": "문제",
+          "reading": "munje",
+          "meaning": "問題",
+          "example": "이 문제를 해결해야 합니다.",
+          "exampleTranslation": "我們需要解決這個問題。",
+          "level": "2"
+        },
+        {
+          "word": "팬",
+          "reading": "paen",
+          "meaning": "粉絲",
+          "example": "팬들이 공연을 기다리고 있습니다.",
+          "exampleTranslation": "粉絲們在等待演出。",
+          "level": "1"
+        },
+        {
+          "word": "장소",
+          "reading": "jangso",
+          "meaning": "場所",
+          "example": "이 장소는 공연에 적합합니다.",
+          "exampleTranslation": "這個地方適合演出。",
+          "level": "2"
+        },
+        {
+          "word": "기회",
+          "reading": "gihoe",
+          "meaning": "機會",
+          "example": "이번은 좋은 기회입니다.",
+          "exampleTranslation": "這次是個好機會。",
+          "level": "3"
+        },
+        {
+          "word": "해결",
+          "reading": "haegyeol",
+          "meaning": "解決",
+          "example": "우리는 문제를 해결해야 합니다.",
+          "exampleTranslation": "我們必須解決問題。",
+          "level": "3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "~고 싶다",
+          "explanation": "表示想要做某事的願望。",
+          "example": "K-팝 공연을 보고 싶어요.",
+          "exampleTranslation": "我想看K-POP演出。",
+          "level": "2"
+        },
+        {
+          "pattern": "없다",
+          "explanation": "表示不存在或缺少。",
+          "example": "공연장이 없어요.",
+          "exampleTranslation": "沒有演出場地。",
+          "level": "1"
+        },
+        {
+          "pattern": "아/어야 하다",
+          "explanation": "表示必須或應該做某事。",
+          "example": "문제를 해결해야 합니다.",
+          "exampleTranslation": "必須解決問題。",
+          "level": "3"
+        },
+        {
+          "pattern": "때문에",
+          "explanation": "表示原因或理由。",
+          "example": "공연장이 부족하기 때문에 문제가 생겼습니다.",
+          "exampleTranslation": "因為缺少演出場地，所以出現了問題。",
+          "level": "4"
+        },
+        {
+          "pattern": "적합하다",
+          "explanation": "表示合適或適合的意思。",
+          "example": "이 장소는 공연에 적합합니다.",
+          "exampleTranslation": "這個地方適合演出。",
+          "level": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "K-팝은 ____________ 있다.",
+          "options": [
+            "팬",
+            "공연",
+            "장소",
+            "문제"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "粉絲",
+            "演出",
+            "場所",
+            "問題"
+          ],
+          "explanation": "根據文章，K-팝在越南有演出。選擇正確的詞填空。",
+          "translation": "K-POP有__________。"
+        },
+        {
+          "type": "choice",
+          "question": "베트남의 K-팝 공연이 ____________ 문제가 있습니다.",
+          "options": [
+            "매진",
+            "부족",
+            "해결",
+            "기회"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "售罄",
+            "不足",
+            "解決",
+            "機會"
+          ],
+          "explanation": "根據文章，越南K-POP演出存在不足的問題。",
+          "translation": "越南的K-POP演出有__________問題。"
+        },
+        {
+          "type": "choice",
+          "question": "팬들이 공연을 ____________.",
+          "options": [
+            "보고",
+            "보고 싶다",
+            "보고 싶어요",
+            "보여"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "看",
+            "想看",
+            "想看",
+            "展示"
+          ],
+          "explanation": "根據文章，粉絲們希望觀看演出，選擇正確的表達。",
+          "translation": "粉絲們想要__________演出。"
+        }
+      ],
+      "added_date": "2026-11-24"
+    },
     {
       "title": "삼성전자, K팝 이어 힙합 공연 생중계…FAST 콘텐츠 강화 - 뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nd1NlaktwN3FLSGt3aHdBM1U2TVlnRGMzdUhkZFVDTmVGRUNIR2dXeUZFbmtJeWZqTWJGa21SSHZ3dnJiSlRvdWJyaV95NjdVcW1oblpDYlA3UFdq?oc=5",
@@ -2740,6 +2952,227 @@
     }
   ],
   "japanese": [
+    {
+      "title": "Brian the Sunが6年ぶり復活、5月に東阪ライブ開催 - ナタリー",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IdHZ4WjhlWElUMlhPMDVOMmwtcDllY0xsYjM1YlRmWDY5aW1nOE5sbzYzUW1Xbzh0ZkR6YzBfUEF0eFlURmp2Znh5TDU?oc=5",
+      "published": "Mon, 23 Nov 2026 12:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IdHZ4WjhlWElUMlhPMDVOMmwtcDllY0xsYjM1YlRmWDY5aW1nOE5sbzYzUW1Xbzh0ZkR6YzBfUEF0eFlURmp2Znh5TDU?oc=5\" target=\"_blank\">Brian the Sunが6年ぶり復活、5月に東阪ライブ開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ナタリー</font>",
+      "source": "ナタリー",
+      "fullContent": {
+        "beginner": "Brian the Sunは6年ぶりに復活します。5月にライブがあります。みんな楽しみにしています。",
+        "intermediate": "Brian the Sunは、6年ぶりに活動を再開します。彼らは5月に東京と大阪でライブを行います。多くのファンが待っています。新しい音楽も期待されています。",
+        "advanced": "Brian the Sunが6年ぶりに復活することが発表されました。彼らは5月に東京と大阪でライブを開催します。この復活は、多くのファンにとって嬉しいニュースです。新しいアルバムも予定されており、さらなる活動が期待されています。音楽業界において、彼らの存在感は非常に大きいです。",
+        "original": "Brian the Sunが6年ぶり復活、5月に東阪ライブ開催",
+        "titleTranslation": "Brian the Sun 6年後復活，5月在東阪舉行演唱會",
+        "translations": {
+          "beginner": [
+            "Brian the Sun 6年來再次復活。",
+            "5月將舉行音樂會。",
+            "大家都很期待。"
+          ],
+          "intermediate": [
+            "Brian the Sun 將於6年後重新開始活動。",
+            "他們將在5月於東京和大阪舉行音樂會。",
+            "許多粉絲都在期待。",
+            "新音樂也受到期待。"
+          ],
+          "advanced": [
+            "Brian the Sun 宣布將於6年後復活。",
+            "他們計畫在5月於東京和大阪舉辦音樂會。",
+            "這個消息對許多粉絲來說是個好消息。",
+            "新專輯也在計畫中，期待他們未來的活動。",
+            "在音樂界，他們的影響力非常巨大。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "復活",
+          "reading": "fukkatsu",
+          "meaning": "復活",
+          "example": "彼は復活しました。",
+          "exampleTranslation": "他復活了。",
+          "level": "N1"
+        },
+        {
+          "word": "ライブ",
+          "reading": "raibu",
+          "meaning": "現場演出",
+          "example": "ライブに行きます。",
+          "exampleTranslation": "我要去看演唱會。"
+        },
+        {
+          "word": "活動",
+          "reading": "katsudou",
+          "meaning": "活動",
+          "example": "彼の活動は素晴らしいです。",
+          "exampleTranslation": "他的活動非常精彩。",
+          "level": "N3"
+        },
+        {
+          "word": "音楽",
+          "reading": "ongaku",
+          "meaning": "音樂",
+          "example": "音楽が好きです。",
+          "exampleTranslation": "我喜歡音樂。",
+          "level": "N5"
+        },
+        {
+          "word": "ファン",
+          "reading": "fan",
+          "meaning": "粉絲",
+          "example": "彼女はファンです。",
+          "exampleTranslation": "她是粉絲。",
+          "level": "N1"
+        },
+        {
+          "word": "期待",
+          "reading": "kitai",
+          "meaning": "期待",
+          "example": "新しいアルバムを期待しています。",
+          "exampleTranslation": "我期待新專輯。",
+          "level": "N3"
+        },
+        {
+          "word": "ニュース",
+          "reading": "nyuusu",
+          "meaning": "新聞",
+          "example": "これは良いニュースです。",
+          "exampleTranslation": "這是好消息。",
+          "level": "N5"
+        },
+        {
+          "word": "存在感",
+          "reading": "sonzaikan",
+          "meaning": "存在感",
+          "example": "彼の存在感は強いです。",
+          "exampleTranslation": "他的存在感很強。"
+        },
+        {
+          "word": "東京",
+          "reading": "Toukyou",
+          "meaning": "東京",
+          "example": "東京に行きました。",
+          "exampleTranslation": "我去了東京。"
+        },
+        {
+          "word": "大阪",
+          "reading": "Oosaka",
+          "meaning": "大阪",
+          "example": "大阪は大きな街です。",
+          "exampleTranslation": "大阪是個大城市。"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜します",
+          "explanation": "表示意向或行動的將來式。",
+          "example": "ライブをします。",
+          "exampleTranslation": "將舉行演唱會。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜があります",
+          "explanation": "表示存在或發生某事。",
+          "example": "イベントがあります。",
+          "exampleTranslation": "將有活動。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜に行きます",
+          "explanation": "表示前往某地。",
+          "example": "東京に行きます。",
+          "exampleTranslation": "我將去東京。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜が好きです",
+          "explanation": "表示喜好。",
+          "example": "音楽が好きです。",
+          "exampleTranslation": "我喜歡音樂。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜を期待しています",
+          "explanation": "表示期待某事。",
+          "example": "新しいアルバムを期待しています。",
+          "exampleTranslation": "我期待新專輯。",
+          "level": "N2"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "Brian the Sunは何年ぶりに復活しますか？",
+          "options": [
+            "1年",
+            "3年",
+            "5年",
+            "6年"
+          ],
+          "correctAnswer": 3,
+          "optionsTranslation": [
+            "1年",
+            "3年",
+            "5年",
+            "6年"
+          ],
+          "explanation": "新聞中提到他們是6年後復活。",
+          "translation": "Brian the Sun 是幾年後復活？"
+        },
+        {
+          "type": "choice",
+          "question": "ライブはどこで行われますか？",
+          "options": [
+            "東京と名古屋",
+            "東京と大阪",
+            "大阪と京都",
+            "東京と福岡"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "東京和名古屋",
+            "東京和大阪",
+            "大阪和京都",
+            "東京和福岡"
+          ],
+          "explanation": "新聞中提到他們會在東京和大阪舉行演唱會。",
+          "translation": "演唱會會在哪裡舉行？"
+        },
+        {
+          "type": "choice",
+          "question": "新しい音楽は何を期待されていますか？",
+          "options": [
+            "新しいアルバム",
+            "新しい映画",
+            "新しいゲーム",
+            "新しい本"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "新專輯",
+            "新電影",
+            "新遊戲",
+            "新書籍"
+          ],
+          "explanation": "文章中提到新專輯正在計畫中。",
+          "translation": "大家期待什麼新音樂？"
+        },
+        {
+          "type": "reorder",
+          "question": "次の文を並べ替えてください：復活、彼らは、します。",
+          "words": [
+            "復活",
+            "彼らは",
+            "します"
+          ],
+          "correctAnswer": "彼らは復活します。",
+          "explanation": "正確的句子應為「彼らは復活します」。",
+          "translation": "請將這句話重組：他們將復活。"
+        }
+      ],
+      "added_date": "2026-11-24"
+    },
     {
       "title": "藤井風ピアノリサイタルが同接78万人超え。ワールドツアーの真っ最中に見せた原点回帰の意義（徳力基彦） - エキスパート - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTNXcnFleWJhT3dVd09PVGVFLWhaVC1IQmM0eWxhRGZGVVo2SzRBa0VKZWM4SjZaXzEyQVVHdFk4b3Q1WXJEbGlsci1ONVVrcktVSFJUcG92UWlwRVdrTmx5RzBQcXFxMXVqZS1VbXR5UnlEV2xIQ1FDU1YzMFoxenQ3c2NZSWxB?oc=5",
