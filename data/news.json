@@ -1,7 +1,234 @@
 {
-  "last_updated": "2026-11-24T06:40:36.598003",
-  "date": "2026-11-24",
+  "last_updated": "2026-11-25T05:12:11.535247",
+  "date": "2026-11-25",
   "korean": [
+    {
+      "title": "[단독]이틀이면 야구장서 공연장 변신…도쿄돔은 327일 '쌩쌩' 풀가동[K팝 종주국의 빈 무대③] - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DWEdnWDdnZkJWdU9JQzhfaExMX3lsd2VhSWgyRS1uN005c3BDYldnVVd0eFROczBEcmZWM0JnZUR3RGQ3dnk2OTdHZTVPSFdsQU01eDRNSEs1REZhSEdUWQ?oc=5",
+      "published": "Wed, 25 Nov 2026 04:00:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DWEdnWDdnZkJWdU9JQzhfaExMX3lsd2VhSWgyRS1uN005c3BDYldnVVd0eFROczBEcmZWM0JnZUR3RGQ3dnk2OTdHZTVPSFdsQU01eDRNSEs1REZhSEdUWQ?oc=5\" target=\"_blank\">[단독]이틀이면 야구장서 공연장 변신…도쿄돔은 327일 '쌩쌩' 풀가동[K팝 종주국의 빈 무대③]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+      "source": "아시아경제",
+      "fullContent": {
+        "beginner": "도쿄돔은 야구장입니다. 그러나 공연장으로도 사용됩니다. 이틀이면 변신할 수 있습니다.",
+        "intermediate": "도쿄돔은 야구장으로 유명하지만, 공연장으로도 많이 사용됩니다. 이곳은 이틀 만에 야구장에서 공연장으로 변신할 수 있습니다. 도쿄돔은 1년 중 327일 동안 다양한 공연을 개최합니다.",
+        "advanced": "도쿄돔은 일본의 대표적인 야구장으로 잘 알려져 있지만, 최근에는 공연장으로서의 역할도 중요해지고 있습니다. 이곳은 단 이틀 만에 야구장에서 공연장으로 변신할 수 있는 놀라운 시설을 갖추고 있습니다. 도쿄돔은 1년 중 327일 동안 다양한 K-POP 공연과 이벤트를 개최하며, 이로 인해 많은 관광객이 찾는 명소로 자리 잡고 있습니다. 이러한 변화는 일본의 공연 문화에 큰 영향을 미치고 있습니다.",
+        "original": "[단독]이틀이면 야구장서 공연장 변신…도쿄돔은 327일 '쌩쌩' 풀가동[K팝 종주국의 빈 무대③]",
+        "titleTranslation": "[獨家]兩天即可從棒球場轉變為演唱會場地…東京巨蛋全年327天全力運轉[K-POP 之國的空舞台③]",
+        "translations": {
+          "beginner": [
+            "東京巨蛋是棒球場。",
+            "但是也用作演唱會場地。",
+            "只需兩天就能變身。"
+          ],
+          "intermediate": [
+            "東京巨蛋以棒球場而聞名，但也經常用作演唱會場地。",
+            "這裡可以在兩天內從棒球場變身為演唱會場地。",
+            "東京巨蛋一年中舉辦各種演出達327天。"
+          ],
+          "advanced": [
+            "東京巨蛋雖然是日本著名的棒球場，但最近在演唱會場地方面的角色也變得越來越重要。",
+            "這裡擁有在短短兩天內就能從棒球場轉變為演唱會場地的驚人設施。",
+            "東京巨蛋一年中舉辦各種K-POP演出和活動達327天，因而成為眾多遊客造訪的景點。",
+            "這一變化對日本的演出文化產生了深遠的影響。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "야구장",
+          "reading": "yagujang",
+          "meaning": "棒球場",
+          "example": "야구장에서 경기를 봤습니다.",
+          "exampleTranslation": "我在棒球場看了比賽。",
+          "level": "3"
+        },
+        {
+          "word": "공연장",
+          "reading": "gongyeonjang",
+          "meaning": "演唱會場地",
+          "example": "공연장에서 콘서트를 열었습니다.",
+          "exampleTranslation": "在演唱會場地舉辦了音樂會。",
+          "level": "3"
+        },
+        {
+          "word": "변신",
+          "reading": "byeonsin",
+          "meaning": "變身",
+          "example": "그 로봇은 사람으로 변신할 수 있습니다.",
+          "exampleTranslation": "那個機器人可以變身為人。",
+          "level": "3"
+        },
+        {
+          "word": "일년",
+          "reading": "ilnyeon",
+          "meaning": "一年",
+          "example": "일년 동안 여행을 계획하고 있습니다.",
+          "exampleTranslation": "我正在計劃一年的旅行。",
+          "level": "1"
+        },
+        {
+          "word": "행사",
+          "reading": "haengsa",
+          "meaning": "活動",
+          "example": "행사에 참석하기 위해 갔습니다.",
+          "exampleTranslation": "我去參加活動。",
+          "level": "3"
+        },
+        {
+          "word": "관광객",
+          "reading": "gwangwanggaek",
+          "meaning": "遊客",
+          "example": "관광객이 많이 방문합니다.",
+          "exampleTranslation": "有很多遊客來訪。",
+          "level": "3"
+        },
+        {
+          "word": "문화",
+          "reading": "munhwa",
+          "meaning": "文化",
+          "example": "한국 문화를 배우고 싶습니다.",
+          "exampleTranslation": "我想學習韓國文化。",
+          "level": "3"
+        },
+        {
+          "word": "영향",
+          "reading": "yeonghyang",
+          "meaning": "影響",
+          "example": "그 사건은 큰 영향을 미쳤습니다.",
+          "exampleTranslation": "那件事件產生了很大的影響。",
+          "level": "4"
+        },
+        {
+          "word": "시설",
+          "reading": "siseol",
+          "meaning": "設施",
+          "example": "이곳은 좋은 시설이 있습니다.",
+          "exampleTranslation": "這裡有很好的設施。",
+          "level": "3"
+        },
+        {
+          "word": "주요",
+          "reading": "juyo",
+          "meaning": "主要的",
+          "example": "그는 주요 인물입니다.",
+          "exampleTranslation": "他是主要人物。",
+          "level": "4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "V-(으)ㄹ 수 있다",
+          "explanation": "表示能力或可能性，可以翻譯為「能夠」或「可以」。",
+          "example": "그는 수영을 할 수 있습니다.",
+          "exampleTranslation": "他能游泳。",
+          "level": "3"
+        },
+        {
+          "pattern": "N(이)다",
+          "explanation": "用來表示主語的狀態或性質，翻譯為「是」。",
+          "example": "이것은 책이다.",
+          "exampleTranslation": "這是一本書。",
+          "level": "1"
+        },
+        {
+          "pattern": "V-(으)면서",
+          "explanation": "同時進行兩個動作，翻譯為「一邊...一邊...」。",
+          "example": "음악을 들으면서 공부합니다.",
+          "exampleTranslation": "我一邊聽音樂一邊學習。",
+          "level": "3"
+        },
+        {
+          "pattern": "V-(으)려고 하다",
+          "explanation": "表示意圖或計劃，翻譯為「打算...」。",
+          "example": "여행을 가려고 합니다.",
+          "exampleTranslation": "我打算去旅行。",
+          "level": "3"
+        },
+        {
+          "pattern": "N에 대해",
+          "explanation": "表示對某事物的主題或話題，翻譯為「關於...」。",
+          "example": "이 책은 역사에 대해 이야기합니다.",
+          "exampleTranslation": "這本書講的是歷史。",
+          "level": "3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "도쿄돔은 무엇으로 유명합니까?",
+          "options": [
+            "영화관",
+            "야구장",
+            "공원",
+            "학교"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "電影院",
+            "棒球場",
+            "公園",
+            "學校"
+          ],
+          "explanation": "東京巨蛋以棒球場而聞名。",
+          "translation": "東京巨蛋是因為什麼而出名？"
+        },
+        {
+          "type": "choice",
+          "question": "도쿄돔은 몇 일 동안 공연을 합니까?",
+          "options": [
+            "200일",
+            "300일",
+            "327일",
+            "365일"
+          ],
+          "correctAnswer": 2,
+          "optionsTranslation": [
+            "200天",
+            "300天",
+            "327天",
+            "365天"
+          ],
+          "explanation": "東京巨蛋一年中舉辦各種演出達327天。",
+          "translation": "東京巨蛋一年舉辦多少天的演出？"
+        },
+        {
+          "type": "choice",
+          "question": "야구장과 공연장을 무엇으로 변신할 수 있습니까?",
+          "options": [
+            "이틀",
+            "하루",
+            "일주일",
+            "한 달"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "兩天",
+            "一天",
+            "一週",
+            "一個月"
+          ],
+          "explanation": "東京巨蛋可以在兩天內變身為演唱會場地。",
+          "translation": "棒球場可以在多少天內變成演唱會場地？"
+        },
+        {
+          "type": "reorder",
+          "question": "다음 문장을 재조합하세요.",
+          "words": [
+            "공연",
+            "을",
+            "다양한",
+            "개최",
+            "한다",
+            "도쿄돔",
+            "에서"
+          ],
+          "correctAnswer": "도쿄돔에서 다양한 공연을 개최한다.",
+          "explanation": "正確的句子是「東京巨蛋舉辦各種演出。」",
+          "translation": "請重組以下句子。"
+        }
+      ],
+      "added_date": "2026-11-25"
+    },
     {
       "title": "K-팝은 매진인데 공연장은 없다…베트남 콘서트 산업의 숙제 - 굿모닝베트남미디어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SR1FXSk9FaUNBN01IY2JYd09XLWNNOXVKdWZJajE2QlZPTENUS3l2OWY4YkdBcThDcWdKQlhOZ1BWdnM3UmdERmVnYkJxUnR4QllQZmtUdEs4Y21WM2tncWZsZzRoemluNjJPSUE3ZTI?oc=5",
@@ -2952,6 +3179,215 @@
     }
   ],
   "japanese": [
+    {
+      "title": "【ライブレポート】観客が世界の命運を決める、未来古代楽団が描く音楽ライブの物語体験（BARKS） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14T3hFUUMzc25IbHBxSFZrRnJQZDZYVHVTMFNBSnB0N0d1dUx0S2VDMG5GclJpTmNyV1BuLVotNHJLbUtWSGwzOEgwRUJzNzlQRjhFNGE5eERSS2k0TnRqV0piaGN2aUtiMEdtX1o0cDNzUTB2Tm1qVE1uY1Rhd0E?oc=5",
+      "published": "Wed, 25 Nov 2026 00:46:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE14T3hFUUMzc25IbHBxSFZrRnJQZDZYVHVTMFNBSnB0N0d1dUx0S2VDMG5GclJpTmNyV1BuLVotNHJLbUtWSGwzOEgwRUJzNzlQRjhFNGE5eERSS2k0TnRqV0piaGN2aUtiMEdtX1o0cDNzUTB2Tm1qVE1uY1Rhd0E?oc=5\" target=\"_blank\">【ライブレポート】観客が世界の命運を決める、未来古代楽団が描く音楽ライブの物語体験（BARKS）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "未来古代楽団は音楽のグループです。観客はライブに来ます。彼らは楽しい時間を過ごします。",
+        "intermediate": "未来古代楽団は、観客が参加する音楽ライブを行います。このライブでは、観客の選択が世界の命運を決めることになります。音楽の力で、物語が進んでいきます。観客は様々なパフォーマンスを楽しむことができます。",
+        "advanced": "未来古代楽団の音楽ライブは、観客が物語の進行に影響を与えるユニークな体験を提供します。このライブイベントでは、観客の選択が直接的に世界の命運を左右するというコンセプトが採用されており、参加者は音楽を通じて一体感を感じることができます。新しい時代の音楽表現を通じて、未来と過去が交錯する瞬間を体感できる貴重な機会です。観客はその場での選択によって、さまざまなエンディングを楽しむことができ、まさにインタラクティブな演出が魅力となっています。",
+        "original": "【ライブレポート】観客が世界の命運を決める、未来古代楽団が描く音楽ライブの物語体験（BARKS）",
+        "titleTranslation": "【現場報告】觀眾決定世界的命運，未來古代樂團描繪的音樂現場故事體驗",
+        "translations": {
+          "beginner": [
+            "未來古代樂團是音樂的團體。",
+            "觀眾來到現場。",
+            "他們度過愉快的時光。"
+          ],
+          "intermediate": [
+            "未來古代樂團舉行觀眾參加的音樂現場表演。",
+            "在這次現場中，觀眾的選擇將決定世界的命運。",
+            "透過音樂的力量，故事將進展。",
+            "觀眾可以享受各種表演。"
+          ],
+          "advanced": [
+            "未來古代樂團的音樂現場提供了一種獨特的體驗，讓觀眾影響故事的進行。",
+            "此現場活動採用觀眾的選擇直接左右世界命運的概念，參加者能夠感受到音樂帶來的凝聚力。",
+            "透過新的時代音樂表達，觀眾能體驗到未來與過去交錯的瞬間。",
+            "觀眾可以通過當場選擇享受不同的結局，這正是互動演出的魅力所在。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "観客",
+          "reading": "kankyaku",
+          "meaning": "觀眾",
+          "example": "観客がたくさん来ました。",
+          "exampleTranslation": "很多觀眾來了。",
+          "level": "N3"
+        },
+        {
+          "word": "運命",
+          "reading": "unmei",
+          "meaning": "命運",
+          "example": "運命を変えることができます。",
+          "exampleTranslation": "可以改變命運。",
+          "level": "N1"
+        },
+        {
+          "word": "音楽",
+          "reading": "ongaku",
+          "meaning": "音樂",
+          "example": "音楽は私の好きなものです。",
+          "exampleTranslation": "音樂是我喜歡的東西。",
+          "level": "N5"
+        },
+        {
+          "word": "体験",
+          "reading": "taiken",
+          "meaning": "體驗",
+          "example": "新しい体験をしました。",
+          "exampleTranslation": "我有了一個新的體驗。",
+          "level": "N1"
+        },
+        {
+          "word": "物語",
+          "reading": "monogatari",
+          "meaning": "故事",
+          "example": "この物語は面白いです。",
+          "exampleTranslation": "這個故事很有趣。",
+          "level": "N3"
+        },
+        {
+          "word": "選択",
+          "reading": "sentaku",
+          "meaning": "選擇",
+          "example": "選択は重要です。",
+          "exampleTranslation": "選擇很重要。",
+          "level": "N3"
+        },
+        {
+          "word": "未来",
+          "reading": "mirai",
+          "meaning": "未來",
+          "example": "未来は明るいです。",
+          "exampleTranslation": "未來是光明的。",
+          "level": "N3"
+        },
+        {
+          "word": "パフォーマンス",
+          "reading": "pafōmansu",
+          "meaning": "表演",
+          "example": "彼のパフォーマンスは素晴らしかった。",
+          "exampleTranslation": "他的表演非常精彩。"
+        },
+        {
+          "word": "交錯",
+          "reading": "kōsaku",
+          "meaning": "交錯",
+          "example": "過去と未来が交錯します。",
+          "exampleTranslation": "過去和未來交錯。"
+        },
+        {
+          "word": "一体感",
+          "reading": "ittai kan",
+          "meaning": "一體感",
+          "example": "観客と一体感を感じました。",
+          "exampleTranslation": "感受到了與觀眾的共鳴。"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜ことができる",
+          "explanation": "表示能夠做某事。",
+          "example": "運命を変えることができます。",
+          "exampleTranslation": "可以改變命運。",
+          "level": "N3"
+        },
+        {
+          "pattern": "〜に参加する",
+          "explanation": "表示參加某活動或事件。",
+          "example": "観客が音楽ライブに参加します。",
+          "exampleTranslation": "觀眾參加音樂現場。",
+          "level": "N4"
+        },
+        {
+          "pattern": "〜を通じて",
+          "explanation": "表示通過某種方式或媒介。",
+          "example": "音楽を通じて物語が進みます。",
+          "exampleTranslation": "透過音樂故事將進展。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜によって",
+          "explanation": "表示因為某事而導致的結果。",
+          "example": "観客の選択によって結末が変わります。",
+          "exampleTranslation": "結局因觀眾的選擇而改變。",
+          "level": "N2"
+        },
+        {
+          "pattern": "〜のような",
+          "explanation": "表示像某事物一樣。",
+          "example": "未来のような音楽です。",
+          "exampleTranslation": "像未來的音樂。",
+          "level": "N3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "未来古代楽団は何を描く？",
+          "options": [
+            "物語",
+            "映画",
+            "絵",
+            "漫画"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "故事",
+            "電影",
+            "畫",
+            "漫畫"
+          ],
+          "explanation": "未來古代樂團描繪的是音樂直播中的故事。",
+          "translation": "未來古代樂團描繪的是什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "観客は何を決めますか？",
+          "options": [
+            "運命",
+            "未来",
+            "過去",
+            "音楽"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "命運",
+            "未來",
+            "過去",
+            "音樂"
+          ],
+          "explanation": "觀眾的選擇決定了世界的命運。",
+          "translation": "觀眾決定什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "このライブの体験は何ですか？",
+          "options": [
+            "静かな",
+            "インタラクティブ",
+            "楽しくない",
+            "普通"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "安靜的",
+            "互動式的",
+            "不有趣的",
+            "普通的"
+          ],
+          "explanation": "這場音樂直播是互動式的，觀眾能夠參與進來。",
+          "translation": "這場現場體驗是什麼？"
+        }
+      ],
+      "added_date": "2026-11-25"
+    },
     {
       "title": "Brian the Sunが6年ぶり復活、5月に東阪ライブ開催 - ナタリー",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IdHZ4WjhlWElUMlhPMDVOMmwtcDllY0xsYjM1YlRmWDY5aW1nOE5sbzYzUW1Xbzh0ZkR6YzBfUEF0eFlURmp2Znh5TDU?oc=5",
