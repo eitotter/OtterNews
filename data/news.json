@@ -1,7 +1,231 @@
 {
-  "last_updated": "2026-11-25T05:12:11.535247",
-  "date": "2026-11-25",
+  "last_updated": "2026-11-26T04:39:56.309296",
+  "date": "2026-11-26",
   "korean": [
+    {
+      "title": "한한령 10년, K팝 중국 공연 재개될까…공연업계 “사전심사 차별 없애야” - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sM3VwM3JOMUM2UHh0T0xMZ2JHSnBadElzbFdFQTlqOVR3b2tWR294VnJWMEkyamdMUU9lbnE5VUVhSURNa1Q4dWg2Wk5vVlhYWnl2NTdoeTk?oc=5",
+      "published": "Thu, 26 Nov 2026 02:28:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sM3VwM3JOMUM2UHh0T0xMZ2JHSnBadElzbFdFQTlqOVR3b2tWR294VnJWMEkyamdMUU9lbnE5VUVhSURNa1Q4dWg2Wk5vVlhYWnl2NTdoeTk?oc=5\" target=\"_blank\">한한령 10년, K팝 중국 공연 재개될까…공연업계 “사전심사 차별 없애야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+      "source": "매일경제",
+      "fullContent": {
+        "beginner": "한한령은 K팝의 중국 공연에 영향을 미쳤습니다. 이제 10년이 지났습니다. 공연업계는 차별을 없애야 한다고 말합니다.",
+        "intermediate": "한한령이 시행된 지 10년이 되었습니다. 이로 인해 K팝 아티스트들은 중국에서 공연을 하지 못했습니다. 공연업계는 사전심사를 없애고 평등한 기회를 가져야 한다고 주장하고 있습니다. 많은 팬들이 K팝 공연을 기다리고 있습니다.",
+        "advanced": "한한령이 발효된 지 10년이 됨에 따라 K팝 아티스트들의 중국 공연 재개 여부가 주목받고 있습니다. 공연업계에서는 사전심사 과정에서의 차별을 없애야 한다고 강조하고 있습니다. 많은 K팝 팬들은 중국에서의 공연을 기대하고 있지만, 여전히 불확실한 상황입니다. 전문가들은 정부의 정책 변화가 필요하다고 말하고 있습니다.",
+        "original": "한한령 10년, K팝 중국 공연 재개될까…공연업계 “사전심사 차별 없애야” - 매일경제",
+        "titleTranslation": "韓韓令10年，K-Pop中國演出會重新開始嗎…演出業界「必須消除事前審查的差別」",
+        "translations": {
+          "beginner": [
+            "韓韓令影響了K-Pop的中國演出。",
+            "現在已經10年了。",
+            "演出業界表示必須消除差別。"
+          ],
+          "intermediate": [
+            "韓韓令實施已經10年了。",
+            "因此K-Pop藝術家無法在中國演出。",
+            "演出業界主張必須消除事前審查，獲得平等的機會。",
+            "許多粉絲在等待K-Pop的演出。"
+          ],
+          "advanced": [
+            "韓韓令發效已經10年，引起了對K-Pop藝術家是否能重新在中國演出的關注。",
+            "演出業界強調必須消除事前審查過程中的差別。",
+            "許多K-Pop粉絲期待在中國的演出，但仍然處於不確定的狀態。",
+            "專家們表示需要政府的政策變化。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "한한령",
+          "reading": "hanhanryeong",
+          "meaning": "韓韓令",
+          "example": "한한령으로 K팝 공연이 중단되었습니다.",
+          "exampleTranslation": "因為韓韓令，K-Pop演出被中止。",
+          "level": "6"
+        },
+        {
+          "word": "공연",
+          "reading": "gongyeon",
+          "meaning": "演出",
+          "example": "K팝 공연은 매우 인기가 많습니다.",
+          "exampleTranslation": "K-Pop演出非常受歡迎。",
+          "level": "3"
+        },
+        {
+          "word": "중국",
+          "reading": "jungguk",
+          "meaning": "中國",
+          "example": "중국에서 많은 K팝 팬이 있습니다.",
+          "exampleTranslation": "在中國有很多K-Pop粉絲。",
+          "level": "2"
+        },
+        {
+          "word": "차별",
+          "reading": "chabyeol",
+          "meaning": "差別",
+          "example": "차별을 없애야 합니다.",
+          "exampleTranslation": "必須消除差別。",
+          "level": "4"
+        },
+        {
+          "word": "사전심사",
+          "reading": "sajeonsimsa",
+          "meaning": "事前審查",
+          "example": "사전심사가 필요합니다.",
+          "exampleTranslation": "需要事前審查。",
+          "level": "6"
+        },
+        {
+          "word": "재개",
+          "reading": "jaegae",
+          "meaning": "重新開始",
+          "example": "공연이 재개될 것입니다.",
+          "exampleTranslation": "演出將會重新開始。",
+          "level": "4"
+        },
+        {
+          "word": "업계",
+          "reading": "eobgye",
+          "meaning": "業界",
+          "example": "공연업계가 모였습니다.",
+          "exampleTranslation": "演出業界聚集在一起。",
+          "level": "4"
+        },
+        {
+          "word": "정책",
+          "reading": "jeongchaek",
+          "meaning": "政策",
+          "example": "정부 정책이 필요합니다.",
+          "exampleTranslation": "需要政府的政策。",
+          "level": "4"
+        },
+        {
+          "word": "기대",
+          "reading": "gidae",
+          "meaning": "期待",
+          "example": "팬들이 공연을 기대하고 있습니다.",
+          "exampleTranslation": "粉絲們期待演出。",
+          "level": "2"
+        },
+        {
+          "word": "전문가",
+          "reading": "jeonmunga",
+          "meaning": "專家",
+          "example": "전문가의 의견을 들어야 합니다.",
+          "exampleTranslation": "必須聽取專家的意見。",
+          "level": "4"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "~해야 하다",
+          "explanation": "表示必須或必要的意思。",
+          "example": "차별을 없애야 합니다.",
+          "exampleTranslation": "必須消除差別。",
+          "level": "3"
+        },
+        {
+          "pattern": "이/가 필요하다",
+          "explanation": "表示需要某事物。",
+          "example": "정책이 필요합니다.",
+          "exampleTranslation": "需要政策。",
+          "level": "3"
+        },
+        {
+          "pattern": "고 있다",
+          "explanation": "表示正在進行的狀態。",
+          "example": "팬들이 기다리고 있습니다.",
+          "exampleTranslation": "粉絲們正在等待。",
+          "level": "2"
+        },
+        {
+          "pattern": "때문에",
+          "explanation": "表示原因或理由。",
+          "example": "한한령 때문에 공연이 중단되었습니다.",
+          "exampleTranslation": "因為韓韓令，演出被中止。",
+          "level": "4"
+        },
+        {
+          "pattern": "~고 있다",
+          "explanation": "表示當前狀態或動作。",
+          "example": "K팝 아티스트가 공연을 준비하고 있습니다.",
+          "exampleTranslation": "K-Pop藝術家正在準備演出。",
+          "level": "2"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "K팝 공연이 재개될까요?",
+          "options": [
+            "네, 재개될 것입니다.",
+            "아니요, 불가능합니다.",
+            "모르겠습니다.",
+            "앞으로도 계속 중단됩니다."
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "是的，將會重新開始。",
+            "不，不可能。",
+            "我不知道。",
+            "將會持續中止。"
+          ],
+          "explanation": "根據文章，K-Pop演出有可能重新開始。",
+          "translation": "K-Pop演出會重新開始嗎？"
+        },
+        {
+          "type": "choice",
+          "question": "한한령은 무엇입니까?",
+          "options": [
+            "K팝 아티스트의 중국 공연을 금지하는 법",
+            "K팝의 새로운 앨범",
+            "중국의 새로운 정책",
+            "K팝 팬클럽"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "禁止K-Pop藝術家在中國演出的法律",
+            "K-Pop的新專輯",
+            "中國的新政策",
+            "K-Pop粉絲俱樂部"
+          ],
+          "explanation": "文章提到的韓韓令是禁止K-Pop藝術家在中國演出的法律。",
+          "translation": "韓韓令是什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "공연업계는 무엇을 주장하고 있습니까?",
+          "options": [
+            "차별을 없애야 한다",
+            "공연을 중단해야 한다",
+            "중국과의 관계를 단절해야 한다",
+            "K팝을 포기해야 한다"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "必須消除差別",
+            "必須停止演出",
+            "必須斷絕與中國的關係",
+            "必須放棄K-Pop"
+          ],
+          "explanation": "演出業界主張必須消除事前審查的差別。",
+          "translation": "演出業界主張什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
+            "차별을",
+            "없애야",
+            "합니다."
+          ],
+          "correctAnswer": "차별을 없애야 합니다.",
+          "explanation": "這是表示必須消除差別的正確句子。",
+          "translation": "必須消除差別。"
+        }
+      ],
+      "added_date": "2026-11-26"
+    },
     {
       "title": "[단독]이틀이면 야구장서 공연장 변신…도쿄돔은 327일 '쌩쌩' 풀가동[K팝 종주국의 빈 무대③] - 아시아경제",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DWEdnWDdnZkJWdU9JQzhfaExMX3lsd2VhSWgyRS1uN005c3BDYldnVVd0eFROczBEcmZWM0JnZUR3RGQ3dnk2OTdHZTVPSFdsQU01eDRNSEs1REZhSEdUWQ?oc=5",
@@ -3179,6 +3403,226 @@
     }
   ],
   "japanese": [
+    {
+      "title": "onefiveが“真の武道館アーティスト”目指してフリーライブ開催、本日は新宿でビラ配り（音楽ナタリー） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLeFhJMUtCelJFNklITnlka3NPTDRyWHFwczNyUXpQTDZ5MERUUHp5R0kwYmlRRTdfUlZsbWhXWC0yam1YeVpuZFp6UVFxZUpDakJvZmxISlN4WTZabzhJSlRMWFlnV1hJUVg1dzlUcDZsUkRTX09WY0FTOVFVTm8?oc=5",
+      "published": "Thu, 26 Nov 2026 02:24:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBLeFhJMUtCelJFNklITnlka3NPTDRyWHFwczNyUXpQTDZ5MERUUHp5R0kwYmlRRTdfUlZsbWhXWC0yam1YeVpuZFp6UVFxZUpDakJvZmxISlN4WTZabzhJSlRMWFlnV1hJUVg1dzlUcDZsUkRTX09WY0FTOVFVTm8?oc=5\" target=\"_blank\">onefiveが“真の武道館アーティスト”目指してフリーライブ開催、本日は新宿でビラ配り（音楽ナタリー）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "onefiveはフリーライブをします。今日、新宿でビラを配ります。たくさんの人に来てほしいです。",
+        "intermediate": "onefiveは「真の武道館アーティスト」を目指して、フリーライブを開催します。本日は新宿でビラ配りを行います。彼らは多くの人に自分たちの音楽を知ってもらいたいと思っています。",
+        "advanced": "onefiveは「真の武道館アーティスト」を目指し、フリーライブを開催しています。今日、新宿の繁華街でビラ配りを行い、多くの人々にその魅力を伝えようとしています。彼らは音楽活動を通じて、より多くのファンを獲得したいと考えています。このイベントは、彼らの音楽とパフォーマンスを直接体験できる貴重な機会です。",
+        "original": "onefiveが“真の武道館アーティスト”目指してフリーライブ開催、本日は新宿でビラ配り（音楽ナタリー）",
+        "titleTranslation": "onefive舉辦免費演唱會，目標成為真正的武道館藝人，今天在新宿派發傳單",
+        "translations": {
+          "beginner": [
+            "onefive將舉辦免費演唱會。",
+            "今天在新宿派發傳單。",
+            "希望很多人來。"
+          ],
+          "intermediate": [
+            "onefive目標是成為「真正的武道館藝人」，舉辦免費演唱會。",
+            "今天在新宿進行派發傳單。",
+            "他們希望讓更多人知道他們的音樂。"
+          ],
+          "advanced": [
+            "onefive正在舉辦免費演唱會，以尋求成為「真實的武道館藝人」。",
+            "今天，他們在新宿的繁華地帶派發傳單，",
+            "希望向眾多路人傳達他們的音樂魅力。",
+            "這次活動是他們音樂活動的一部分，",
+            "也是吸引新粉絲的好機會。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "フリーライブ",
+          "reading": "furī raibu",
+          "meaning": "免費演唱會",
+          "example": "フリーライブに行きました。",
+          "exampleTranslation": "我去了免費演唱會。"
+        },
+        {
+          "word": "新宿",
+          "reading": "Shinjuku",
+          "meaning": "新宿（地名）",
+          "example": "新宿はとても賑やかです。",
+          "exampleTranslation": "新宿非常熱鬧。"
+        },
+        {
+          "word": "ビラ",
+          "reading": "bira",
+          "meaning": "傳單",
+          "example": "ビラを配るのは大事です。",
+          "exampleTranslation": "派發傳單很重要。"
+        },
+        {
+          "word": "アーティスト",
+          "reading": "ātisuto",
+          "meaning": "藝人",
+          "example": "彼は有名なアーティストです。",
+          "exampleTranslation": "他是一位著名的藝人。"
+        },
+        {
+          "word": "目指す",
+          "reading": "mezasu",
+          "meaning": "目標是",
+          "example": "彼は医者を目指しています。",
+          "exampleTranslation": "他目標成為醫生。",
+          "level": "N2"
+        },
+        {
+          "word": "音楽",
+          "reading": "ongaku",
+          "meaning": "音樂",
+          "example": "私は音楽が好きです。",
+          "exampleTranslation": "我喜歡音樂。",
+          "level": "N5"
+        },
+        {
+          "word": "多く",
+          "reading": "ōku",
+          "meaning": "很多",
+          "example": "多くの人が来ました。",
+          "exampleTranslation": "來了很多人。"
+        },
+        {
+          "word": "活動",
+          "reading": "katsudō",
+          "meaning": "活動",
+          "example": "彼らは音楽活動をしています。",
+          "exampleTranslation": "他們正在進行音樂活動。",
+          "level": "N3"
+        },
+        {
+          "word": "魅力",
+          "reading": "miryoku",
+          "meaning": "魅力",
+          "example": "この場所の魅力は素晴らしいです。",
+          "exampleTranslation": "這個地方的魅力很棒。",
+          "level": "N3"
+        },
+        {
+          "word": "経験",
+          "reading": "keiken",
+          "meaning": "經驗",
+          "example": "良い経験ができました。",
+          "exampleTranslation": "我得到了很好的經驗。",
+          "level": "N3"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "〜たい",
+          "explanation": "表示想要做某事。",
+          "example": "彼は音楽を作りたいです。",
+          "exampleTranslation": "他想創作音樂。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜に行く",
+          "explanation": "表示去某個地方。",
+          "example": "新宿に行きます。",
+          "exampleTranslation": "我要去新宿。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜は〜です",
+          "explanation": "表示主語的狀態或性質。",
+          "example": "彼女はアーティストです。",
+          "exampleTranslation": "她是一位藝人。",
+          "level": "N5"
+        },
+        {
+          "pattern": "〜ことができる",
+          "explanation": "表示能夠做某事。",
+          "example": "音楽を楽しむことができます。",
+          "exampleTranslation": "我能享受音樂。",
+          "level": "N4"
+        },
+        {
+          "pattern": "〜のために",
+          "explanation": "表示為了某個目的。",
+          "example": "ファンのためにライブをします。",
+          "exampleTranslation": "為了粉絲舉辦演唱會。",
+          "level": "N2"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "onefiveは何を目指していますか？",
+          "options": [
+            "真の武道館アーティスト",
+            "映画監督",
+            "小説家",
+            "デザイナー"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "真正的武道館藝人",
+            "電影導演",
+            "小說家",
+            "設計師"
+          ],
+          "explanation": "onefive的目標是成為真正的武道館藝人。",
+          "translation": "onefive的目標是什麼？"
+        },
+        {
+          "type": "choice",
+          "question": "今日、onefiveはどこでビラを配りますか？",
+          "options": [
+            "渋谷",
+            "新宿",
+            "池袋",
+            "秋葉原"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "澀谷",
+            "新宿",
+            "池袋",
+            "秋葉原"
+          ],
+          "explanation": "onefive今天在新宿派發傳單。",
+          "translation": "今天，onefive在哪裡派發傳單？"
+        },
+        {
+          "type": "choice",
+          "question": "onefiveは何を開催していますか？",
+          "options": [
+            "フリーライブ",
+            "オークション",
+            "映画上映",
+            "展覧会"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "免費演唱會",
+            "拍賣",
+            "電影放映",
+            "展覽"
+          ],
+          "explanation": "onefive正在舉辦免費演唱會。",
+          "translation": "onefive正在舉辦什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "請重組以下句子",
+          "words": [
+            "ビラ",
+            "配ります",
+            "今日",
+            "新宿で"
+          ],
+          "correctAnswer": "今日新宿でビラ配ります。",
+          "explanation": "正確的順序是「今日新宿でビラ配ります」。",
+          "translation": "請重組以下句子"
+        }
+      ],
+      "added_date": "2026-11-26"
+    },
     {
       "title": "【ライブレポート】観客が世界の命運を決める、未来古代楽団が描く音楽ライブの物語体験（BARKS） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14T3hFUUMzc25IbHBxSFZrRnJQZDZYVHVTMFNBSnB0N0d1dUx0S2VDMG5GclJpTmNyV1BuLVotNHJLbUtWSGwzOEgwRUJzNzlQRjhFNGE5eERSS2k0TnRqV0piaGN2aUtiMEdtX1o0cDNzUTB2Tm1qVE1uY1Rhd0E?oc=5",
