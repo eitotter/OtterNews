@@ -1,7 +1,219 @@
 {
-  "last_updated": "2026-11-27T04:43:35.448033",
-  "date": "2026-11-27",
+  "last_updated": "2026-11-28T04:28:43.424653",
+  "date": "2026-11-28",
   "korean": [
+    {
+      "title": "리센느 콘서트 직접 연다...쿠팡플레이, K팝으로 찾은 새 영토 [엔터그알] - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aX1NoOV9fdWhyNmhmWG1WMWdLWngyaFdIZ1F5Y2lla0p0N1Q3ZVVvMkpFLUxpZEVnVmZ1TVA5T0x2ajRONEtPWndHTFVwNk9oN3RqblBRUUh6MnA4Sm5j?oc=5",
+      "published": "Sat, 28 Nov 2026 00:00:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aX1NoOV9fdWhyNmhmWG1WMWdLWngyaFdIZ1F5Y2lla0p0N1Q3ZVVvMkpFLUxpZEVnVmZ1TVA5T0x2ajRONEtPWndHTFVwNk9oN3RqblBRUUh6MnA4Sm5j?oc=5\" target=\"_blank\">리센느 콘서트 직접 연다...쿠팡플레이, K팝으로 찾은 새 영토 [엔터그알]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MTN 머니투데이방송</font>",
+      "source": "MTN 머니투데이방송",
+      "fullContent": {
+        "beginner": "리센느 콘서트가 열립니다. 쿠팡플레이는 K팝을 좋아합니다. 새로운 재미를 찾았습니다.",
+        "intermediate": "리센느는 이번에 직접 콘서트를 엽니다. 쿠팡플레이는 K팝을 통해 새로운 시장을 개척하고 있습니다. 많은 사람들이 이 콘서트를 기대하고 있습니다.",
+        "advanced": "리센느 콘서트는 쿠팡플레이에서 직접 개최됩니다. 이 플랫폼은 K팝을 활용하여 새로운 영토를 찾고 있습니다. 이번 콘서트는 많은 팬들에게 큰 기대를 모으고 있으며, K팝의 인기가 더욱 높아질 것으로 보입니다. 쿠팡플레이는 다양한 콘텐츠를 통해 K팝의 매력을 널리 알리려 합니다.",
+        "original": "리센느 콘서트 직접 연다...쿠팡플레이, K팝으로 찾은 새 영토 [엔터그알]",
+        "titleTranslation": "裡賽娜音樂會將直接舉行...Coupang Play透過K-pop尋找新領域 [娛樂G알]",
+        "translations": {
+          "beginner": [
+            "裡賽娜音樂會將舉行。",
+            "Coupang Play喜歡K-pop。",
+            "找到了新的樂趣。"
+          ],
+          "intermediate": [
+            "裡賽娜這次將直接舉辦音樂會。",
+            "Coupang Play正在通過K-pop開拓新市場。",
+            "許多人期待這場音樂會。"
+          ],
+          "advanced": [
+            "裡賽娜音樂會將由Coupang Play直接舉辦。",
+            "這個平台正在利用K-pop尋找新的領域。",
+            "這次音樂會受到許多粉絲的高度期待，",
+            "K-pop的受歡迎程度似乎會進一步上升。",
+            "Coupang Play希望通過多樣的內容廣泛宣傳K-pop的魅力。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "콘서트",
+          "reading": "konseoteu",
+          "meaning": "音樂會",
+          "example": "이번 콘서트는 정말 기대돼요.",
+          "exampleTranslation": "這次音樂會真的讓人期待。",
+          "level": "3"
+        },
+        {
+          "word": "쿠팡플레이",
+          "reading": "kupangpeulrei",
+          "meaning": "Coupang Play",
+          "example": "쿠팡플레이에서 다양한 콘텐츠를 즐길 수 있어요.",
+          "exampleTranslation": "在Coupang Play上可以享受各種內容。",
+          "level": "6"
+        },
+        {
+          "word": "K팝",
+          "reading": "K-pap",
+          "meaning": "K-pop",
+          "example": "K팝이 세계적으로 유명해요.",
+          "exampleTranslation": "K-pop在全球都非常有名。",
+          "level": "1"
+        },
+        {
+          "word": "새",
+          "reading": "sae",
+          "meaning": "新",
+          "example": "새로운 영토를 찾고 있어요.",
+          "exampleTranslation": "正在尋找新的領域。",
+          "level": "1"
+        },
+        {
+          "word": "기대",
+          "reading": "gidae",
+          "meaning": "期待",
+          "example": "모두 이 콘서트를 기대하고 있어요.",
+          "exampleTranslation": "大家都在期待這場音樂會。",
+          "level": "2"
+        },
+        {
+          "word": "팬",
+          "reading": "paen",
+          "meaning": "粉絲",
+          "example": "팬들이 많이 모여요.",
+          "exampleTranslation": "粉絲們聚集了很多。",
+          "level": "1"
+        },
+        {
+          "word": "인기",
+          "reading": "ingi",
+          "meaning": "人氣",
+          "example": "그 가수는 인기가 많아요.",
+          "exampleTranslation": "那位歌手非常受歡迎。",
+          "level": "3"
+        },
+        {
+          "word": "매력",
+          "reading": "maeryeok",
+          "meaning": "魅力",
+          "example": "K팝의 매력을 느껴보세요.",
+          "exampleTranslation": "感受一下K-pop的魅力吧。",
+          "level": "3"
+        },
+        {
+          "word": "직접",
+          "reading": "jikjeop",
+          "meaning": "直接",
+          "example": "그는 직접 콘서트를 열어요.",
+          "exampleTranslation": "他直接舉辦音樂會。",
+          "level": "3"
+        },
+        {
+          "word": "시장",
+          "reading": "sijang",
+          "meaning": "市場",
+          "example": "새로운 시장을 개척하고 있어요.",
+          "exampleTranslation": "正在開拓新的市場。",
+          "level": "2"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "V-고 있다",
+          "explanation": "表示持續進行的動作或狀態。",
+          "example": "그는 지금 음악을 듣고 있다.",
+          "exampleTranslation": "他正在聽音樂。",
+          "level": "2"
+        },
+        {
+          "pattern": "N을/를 통해",
+          "explanation": "表示通過某物來達成某目的。",
+          "example": "K팝을 통해 많은 사람들을 만났다.",
+          "exampleTranslation": "通過K-pop遇到了很多人。",
+          "level": "4"
+        },
+        {
+          "pattern": "V-려고 하다",
+          "explanation": "表示打算或想要做某事。",
+          "example": "콘서트를 열려고 해요.",
+          "exampleTranslation": "打算舉辦音樂會。",
+          "level": "3"
+        },
+        {
+          "pattern": "N에 대해",
+          "explanation": "表示對某事的主題或話題。",
+          "example": "K팝에 대해 이야기해요.",
+          "exampleTranslation": "談論K-pop。",
+          "level": "3"
+        },
+        {
+          "pattern": "A-(으)ㄴ 것 같다",
+          "explanation": "表示對過去狀態或動作的推測。",
+          "example": "그 가수가 인기가 많은 것 같아요.",
+          "exampleTranslation": "那位歌手似乎非常受歡迎。",
+          "level": "4"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "리센느 콘서트는 어디서 열리나요?",
+          "options": [
+            "쿠팡플레이",
+            "서울",
+            "부산",
+            "LA"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "Coupang Play",
+            "首爾",
+            "釜山",
+            "洛杉磯"
+          ],
+          "explanation": "根據新聞，音樂會是在Coupang Play舉辦的。",
+          "translation": "裡賽娜音樂會在哪裡舉行？"
+        },
+        {
+          "type": "choice",
+          "question": "쿠팡플레이는 무엇을 통해 새로운 시장을 찾고 있나요?",
+          "options": [
+            "K팝",
+            "영화",
+            "드라마",
+            "애니메이션"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "K-pop",
+            "電影",
+            "劇集",
+            "動畫"
+          ],
+          "explanation": "根據新聞，Coupang Play是透過K-pop來尋找新的市場。",
+          "translation": "Coupang Play通過什麼尋找新市場？"
+        },
+        {
+          "type": "choice",
+          "question": "리센느 콘서트에 대한 팬들의 반응은 어때요?",
+          "options": [
+            "기대하고 있다",
+            "싫어한다",
+            "모르겠다",
+            "지루하다"
+          ],
+          "correctAnswer": 0,
+          "optionsTranslation": [
+            "期待",
+            "不喜歡",
+            "不知道",
+            "無聊"
+          ],
+          "explanation": "許多人期待這場音樂會，顯示出粉絲的積極反應。",
+          "translation": "對於裡賽娜音樂會，粉絲們的反應如何？"
+        }
+      ],
+      "added_date": "2026-11-28"
+    },
     {
       "title": "FT아일랜드, 콘서트 'FT소드' 아시아 지역 개최 - 뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJdmhic3NMc2xJVXRQSUlESEJFYmU3YzdJU1lzQjhWUkJJT05IVUliYjlULWc5Z0VvRkp1TUhDUjl2eEZ0bWlnclVJY0xZNHBwVDNtMHZ0UFd1VG9D?oc=5",
@@ -3630,6 +3842,225 @@
     }
   ],
   "japanese": [
+    {
+      "title": "福山雅治のライブフィルム第2弾とドーム公演がBD/DVD化、稲葉浩志とのコラボパフォーマンスも収録（音楽ナタリー） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TNzlVNWQxa3FkcUlwbzRzUk1JUHNUZU9nRzktR29LeFltNURXbzhCbUhGaGpCZjdzbUw5T1lIRmVaX1VDRkxoR2V5S0RkM2M3NWZnWTJfZGQzX29fZ2I4N011Z1ZwMW5LOVFpV21qekI1UnJKQi1lbFgwaktNeEE?oc=5",
+      "published": "Sat, 28 Nov 2026 03:52:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1TNzlVNWQxa3FkcUlwbzRzUk1JUHNUZU9nRzktR29LeFltNURXbzhCbUhGaGpCZjdzbUw5T1lIRmVaX1VDRkxoR2V5S0RkM2M3NWZnWTJfZGQzX29fZ2I4N011Z1ZwMW5LOVFpV21qekI1UnJKQi1lbFgwaktNeEE?oc=5\" target=\"_blank\">福山雅治のライブフィルム第2弾とドーム公演がBD/DVD化、稲葉浩志とのコラボパフォーマンスも収録（音楽ナタリー）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "source": "Yahoo!ニュース",
+      "fullContent": {
+        "beginner": "福山雅治は有名な歌手です。ライブフィルムが出ます。ドーム公演もあります。",
+        "intermediate": "福山雅治の新しいライブフィルムがリリースされます。このフィルムには、ドーム公演と稲葉浩志とのコラボパフォーマンスが含まれています。ファンは楽しみにしています。",
+        "advanced": "福山雅治のライブフィルム第2弾が、BD/DVDとしてリリースされることが発表されました。今回の作品には、特に注目すべきは、稲葉浩志とのコラボパフォーマンスが収録されている点です。これにより、福山の魅力がさらに引き立つことでしょう。多くのファンがこの映像を心待ちにしており、彼の音楽活動の幅広さを再確認する機会となります。",
+        "original": "福山雅治のライブフィルム第2弾とドーム公演がBD/DVD化、稲葉浩志とのコラボパフォーマンスも収録（音楽ナタリー）",
+        "titleTranslation": "福山雅治的現場影片第二彈和巨蛋演出將推出藍光/DVD，還收錄了與稻葉浩志的合作表演",
+        "translations": {
+          "beginner": [
+            "福山雅治是一位著名的歌手。",
+            "現場影片將會發行。",
+            "還會有巨蛋演出。"
+          ],
+          "intermediate": [
+            "福山雅治的新現場影片將會發行。",
+            "這部影片包括巨蛋演出和與稻葉浩志的合作表演。",
+            "粉絲們都很期待。"
+          ],
+          "advanced": [
+            "福山雅治的現場影片第二彈將以藍光/DVD的形式發行。",
+            "此次作品中，特別值得關注的是收錄了與稻葉浩志的合作表演。",
+            "這將進一步突顯福山的魅力。",
+            "許多粉絲都在期待這段影像，",
+            "這將成為重新確認他音樂活動多樣性的機會。"
+          ]
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "ライブフィルム",
+          "reading": "raibu firumu",
+          "meaning": "現場影片",
+          "example": "ライブフィルムはファンに人気があります。",
+          "exampleTranslation": "現場影片在粉絲中很受歡迎。"
+        },
+        {
+          "word": "公演",
+          "reading": "kouen",
+          "meaning": "演出",
+          "example": "彼の公演はいつも素晴らしいです。",
+          "exampleTranslation": "他的演出總是很精彩。",
+          "level": "N1"
+        },
+        {
+          "word": "BD/DVD",
+          "reading": "BD/DVD",
+          "meaning": "藍光/DVD",
+          "example": "この映画はBD/DVDで発売されます。",
+          "exampleTranslation": "這部電影將以藍光/DVD發行。"
+        },
+        {
+          "word": "コラボ",
+          "reading": "korabo",
+          "meaning": "合作",
+          "example": "彼らのコラボはとても人気です。",
+          "exampleTranslation": "他們的合作非常受歡迎。"
+        },
+        {
+          "word": "パフォーマンス",
+          "reading": "pafōmansu",
+          "meaning": "表演",
+          "example": "彼のパフォーマンスは素晴らしいです。",
+          "exampleTranslation": "他的表演非常出色。"
+        },
+        {
+          "word": "収録",
+          "reading": "shūroku",
+          "meaning": "收錄",
+          "example": "このCDには特別な曲が収録されています。",
+          "exampleTranslation": "這張CD收錄了特別的歌曲。"
+        },
+        {
+          "word": "ファン",
+          "reading": "fan",
+          "meaning": "粉絲",
+          "example": "ファンが集まっています。",
+          "exampleTranslation": "粉絲們正在聚集。",
+          "level": "N1"
+        },
+        {
+          "word": "期待",
+          "reading": "kitai",
+          "meaning": "期待",
+          "example": "彼の新しいアルバムを期待しています。",
+          "exampleTranslation": "我期待他的最新專輯。",
+          "level": "N3"
+        },
+        {
+          "word": "魅力",
+          "reading": "miryoku",
+          "meaning": "魅力",
+          "example": "彼女の魅力は素晴らしいです。",
+          "exampleTranslation": "她的魅力是驚人的。",
+          "level": "N3"
+        },
+        {
+          "word": "音楽活動",
+          "reading": "ongaku katsudō",
+          "meaning": "音樂活動",
+          "example": "彼の音楽活動は多様です。",
+          "exampleTranslation": "他的音樂活動非常多樣化。"
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "～がある",
+          "explanation": "表示存在或擁有某物。",
+          "example": "この店には多くのCDがある。",
+          "exampleTranslation": "這家店有很多CD。",
+          "level": "N5"
+        },
+        {
+          "pattern": "～について",
+          "explanation": "表示「關於...」的意思。",
+          "example": "この本は音楽について書かれています。",
+          "exampleTranslation": "這本書是關於音樂的。",
+          "level": "N3"
+        },
+        {
+          "pattern": "～と一緒に",
+          "explanation": "表示和某人一起做某事。",
+          "example": "彼と一緒に映画を見ます。",
+          "exampleTranslation": "我和他一起看電影。",
+          "level": "N4"
+        },
+        {
+          "pattern": "～を待ち望む",
+          "explanation": "表示期待某事的意思。",
+          "example": "新しいアルバムを待ち望んでいます。",
+          "exampleTranslation": "我期待著新的專輯。",
+          "level": "N2"
+        },
+        {
+          "pattern": "～が含まれる",
+          "explanation": "表示某物包含了某些內容。",
+          "example": "このパッケージにはおまけが含まれています。",
+          "exampleTranslation": "這個包裝包含了附贈品。",
+          "level": "N3"
+        }
+      ],
+      "quiz": [
+        {
+          "type": "choice",
+          "question": "福山雅治はどのような作品を出しますか？",
+          "options": [
+            "映画",
+            "ライブフィルム",
+            "小説",
+            "アニメ"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "電影",
+            "現場影片",
+            "小說",
+            "動畫"
+          ],
+          "explanation": "福山雅治は新しいライブフィルムを発表します。",
+          "translation": "福山雅治將推出什麼樣的作品？"
+        },
+        {
+          "type": "choice",
+          "question": "稲葉浩志とのコラボは何に収録されていますか？",
+          "options": [
+            "CD",
+            "ライブフィルム",
+            "書籍",
+            "テレビ"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "CD",
+            "現場影片",
+            "書籍",
+            "電視"
+          ],
+          "explanation": "稲葉浩志とのコラボパフォーマンスはライブフィルムに収録されています。",
+          "translation": "與稻葉浩志的合作表演收錄在哪裡？"
+        },
+        {
+          "type": "choice",
+          "question": "ファンは何を期待していますか？",
+          "options": [
+            "新しいアルバム",
+            "ライブフィルム",
+            "映画",
+            "テレビ番組"
+          ],
+          "correctAnswer": 1,
+          "optionsTranslation": [
+            "新專輯",
+            "現場影片",
+            "電影",
+            "電視節目"
+          ],
+          "explanation": "ファンは福山雅治の新しいライブフィルムを期待しています。",
+          "translation": "粉絲期待什麼？"
+        },
+        {
+          "type": "reorder",
+          "question": "次の文を正しい順番に並べてください。",
+          "words": [
+            "新しい",
+            "が",
+            "ライブフィルム",
+            "出ます"
+          ],
+          "correctAnswer": "新しいライブフィルムが出ます。",
+          "explanation": "正しい順番は「新しいライブフィルムが出ます」です。",
+          "translation": "請重組以下句子。"
+        }
+      ],
+      "added_date": "2026-11-28"
+    },
     {
       "title": "go!go!vanillas「ラブシャ」より「THE WALL」ライブ映像公開（音楽ナタリー） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sTEZaUnVUX2g4Qk5ydTRzd3VwSXlmTHFnakltZ19XVzFldXpWNVNLX2dVVHNoNGxjZ1VLTHRuZE5PRTZpZGFpUm5BOXRTQ3RxOWVHZTFHejdqUTJwaXRNWnlqZ00wY1JNMl8xbEYyLURRU3o2Q2hXN3RqM0NidEk?oc=5",
